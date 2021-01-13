@@ -32,9 +32,6 @@ body {
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
     transition-property: all;
     transition-duration: 0.3s;
-    /* border-style: dashed;
-    border-width: 3px;
-    border-radius: 2px; */
     font-size: 1.1em;
     text-shadow: 2px 2px 3px rgb(187, 109, 7);
 }
