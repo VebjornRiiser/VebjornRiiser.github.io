@@ -16,7 +16,7 @@ void main() {
     float r = 0.1; // circle radius
     float width = 0.019; // border width
 
-    float x0 = (sin(time)*0.3)+0.5+((cos(u_time/1.0)*0.2));
+    float x0 = (sin(time)*0.3)+0.5+((cos(time/1.0)*0.2));
     float y0 = (cos(time)*0.3)+0.5+((sin(u_time/1.0)*0.2));
 
     float distance = sqrt(pow(normal_pixel_pos.x-x0,2.0)+pow(normal_pixel_pos.y-y0,2.0));
@@ -25,7 +25,7 @@ void main() {
 
     float outside = step(color,0.1); // gives the inverse of where the circle is
 
-    gl_FragColor = vec4(((sin(time)*0.5)+0.5)*color,((cos(time)*0.5)+0.5)*color,((tan(time)*0.5)+0.5)*color,1);
+    gl_FragColor = vec4(((sin(time)*0.5)+0.5)*color,((cos(time)*0.5)+0.5)*color+1.0*fadedborder,((tan(time)*0.5)+0.5)*color+1.0*fadedborder,1);
     // gl_FragColor = vec4(outside);
     
 }
