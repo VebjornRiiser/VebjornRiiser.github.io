@@ -24,6 +24,9 @@ void main() {
     float color = step(distance, r) *step(r-(width+0.001),distance); // defines when we draw colors
 
     float outside = step(color,0.1); // gives the inverse of where the circle is
+    
+    // need two smoothsteps so that the inside does not get colored in
+    float fadedborder = 1.0*smoothstep(r+0.1, r-0.2, distance)*smoothstep(r, r,distance);
 
     gl_FragColor = vec4(((sin(time)*0.5)+0.5)*color,((cos(time)*0.5)+0.5)*color+1.0*fadedborder,((tan(time)*0.5)+0.5)*color+1.0*fadedborder,1);
     // gl_FragColor = vec4(outside);
