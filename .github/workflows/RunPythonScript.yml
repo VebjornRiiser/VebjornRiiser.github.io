@@ -1,0 +1,30 @@
+name: On Push Run
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule: ## Runs every 2 hours
+    - cron: '0 */2 * * *'
+  
+env:
+  DEVOPS_DIR: UpdateNRKRssFeed
+
+jobs:
+  UpdateRssFeed:
+    name: Update Rss feed
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check-out script repository
+      uses: actions/checkout@v2
+      with:
+        repository: VebjornRiiser/UpdateNrkRssFeed
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ${{ env.DEVOPS_DIR }}
+
+    - name: Hello World
+      run: python ${{ env.DEVOPS_DIR }}/create_rss.py
+      shell: sh
+      
+    - uses: stefanzweifel/git-auto-commit-action@v4
