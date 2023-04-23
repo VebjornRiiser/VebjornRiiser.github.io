@@ -28,3 +28,6 @@ jobs:
       shell: sh
       
     - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        repository: ${{ env.DEVOPS_DIR }}
+        add_options: '-A'
