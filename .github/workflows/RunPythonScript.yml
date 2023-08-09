@@ -21,6 +21,8 @@ jobs:
 
     - name: CreateRssFiles
       run: |
+        mkdir rss
+        cd rss
         python scripts/CreateNrkRssFeed.py
       shell: sh
     
