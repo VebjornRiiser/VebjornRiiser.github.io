@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 import requests
 import json
-
+PODLISTFILENAME = "PodcastsToUpdate.txt"
 
 def create_footer(json_object: dict) -> str:
     return """</channel>
@@ -55,10 +55,12 @@ class EpisodeItem:
         self.datetime_string: str = format_date(itemjson.get("publishedAt"))
         self.content_url = replace_illegal_chars(
             itemjson.get("downloadables")[0].get("audio").get("url"))
-        # if content_length is not None:
-        #     self.content_length = content_length
-        # else:
-        #     self.content_length = get_content_length(self.content_url)
+        if content_length is not None:
+            self.content_length = content_length
+        else:
+            pass
+            # print("Did not get length from api")
+            # self.content_length = get_content_length(self.content_url)
         self.guid = get_guid(self.content_url)
         self.bitrate = 192_000 if "192" in self.content_url else 128_000
         # self.duration_str = f"{sec_to_hour_min_sec((self.content_length*8)//(self.bitrate))}"
@@ -67,14 +69,12 @@ class EpisodeItem:
     @classmethod
     def from_json(_class, json: dict):
         nrk_dict = {'titles': {'title': json["title"]}}
-        # return _class(json)
 
 
 def json_to_episodeitem(json_items_object: list[dict]) -> list[EpisodeItem]:
     print(f"Converting to EpisodeItem")
     episodeitems: list[EpisodeItem] = []
     for index, item in enumerate(json_items_object):
-        #print(f"Item {index+1} of {len(json_items_object)}")
         episodeitems.append(EpisodeItem(item))
     return episodeitems
 
@@ -86,8 +86,6 @@ def save_ep_items(epitems: list[EpisodeItem], show_title: str):
     jsonstring = jsonstring[:-2]
     jsonstring += ""
     return jsonstring
-    a = json.loads(jsonstring.split(',\n')[0])
-    # print(a["title"])
 
 
 def create_header(json_object: dict):
@@ -126,37 +124,42 @@ def create_feed(url: str) -> str:
 
 
 def create_episode_items(json_object: dict) -> str:
-    number_of_episodes = json_object.get(
-        "_embedded").get("podcast").get("episodeCount")
+    number_of_episodes = json_object.get("_embedded").get("podcast").get("episodeCount")
     if number_of_episodes != len(json_object.get("items")):
         print("Wrong length of items list!")
         exit(99)
     itemstring = ""
-    # if os.path.exists(f'{json_object.get("_embedded").get("podcast").get("titles").get("title").strip()}.epitems'):
-    #     epitems = load_ep_items(f'{json_object.get("_embedded").get("podcast").get("titles").get("title").strip()}.epitems')
     items = json_to_episodeitem(json_object.get("items"))
-    # load_ep_items(save_ep_items(items, json_object.get("_embedded").get("podcast").get("titles").get("title").strip()))
     for index, EpItem in enumerate(items):
-        print(f"\ritem: {index+1} of {number_of_episodes}")
+        if index % 5 == 0:
+            print(f"\rProgress {round(((index+1)/number_of_episodes)*100, 0)}%")
+            
         itemstring += f"""<item>
             <title>{EpItem.title}</title>
             <description>{EpItem.description}</description>
-            <pubDate>{EpItem.datetime_string} </pubDate> <!-- Tue, 11 Oct 2022 02:00:00 GMT -->
+            <pubDate>{EpItem.datetime_string} </pubDate>
             <enclosure url="{EpItem.content_url}" type="audio/mpeg"/>
             <itunes:duration>{EpItem.duration_str}</itunes:duration>
             <guid isPermaLink="false">{EpItem.guid}</guid>
         </item>
         """
-        # length="{EpItem.content_length}"
     return itemstring
 
-
 if __name__ == "__main__":
-    #os.chdir(os.path.dirname(os.path.abspath(__file__)))
-    podnames = ["berrum_beyer_snakker_om_greier", "abels_taarn",
-                "hele_historien", "trygdekontoret", "loerdagsraadet"]
-    # if len(sys.argv) > 1:
-    #     name = sys.argv[1]
+    podnames = ["berrum_beyer_snakker_om_greier",
+                "abels_taarn",
+                "hele_historien",
+                "trygdekontoret",
+                "loerdagsraadet",
+                "debatten",
+                "radio_moerch"]
+    
+    if (os.path.exists(PODLISTFILENAME)):
+        print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
+        with open(PODLISTFILENAME, 'r') as PodcastListFile:
+            podnames = PodcastListFile.readlines()
+
+
     for pod in podnames:
         url = f"https://psapi.nrk.no/podcasts/{pod}/episodes?cursor=2130-06-17T18%3A00%3A00Z&Direction=backwards&PageCount=1000"
         rss_feed = create_feed(url)
