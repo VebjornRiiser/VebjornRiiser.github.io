@@ -23,7 +23,7 @@ jobs:
       run: |
         mkdir rss
         cd rss
-        python scripts/CreateNrkRssFeed.py
+        python ../scripts/CreateNrkRssFeed.py
       shell: sh
     
     - name: ShowResults
