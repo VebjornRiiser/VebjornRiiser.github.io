@@ -18,15 +18,10 @@ jobs:
     steps:
     - name: Check-out script repository
       uses: actions/checkout@v3
-      with:
-        repository: VebjornRiiser/UpdateNrkRssFeed
-        token: ${{ secrets.GITHUB_TOKEN }}
-        path: ${{ env.DEVOPS_DIR }}
 
-    - name: CreateRSS
+    - name: CreateRssFiles
       run: |
-        cd ${{ env.DEVOPS_DIR }}
-        python create_rss.py
+        python CreateNrkRssFeed.py
       shell: sh
     
     - name: ShowResults
@@ -36,12 +31,9 @@ jobs:
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        repository: ${{ env.DEVOPS_DIR }}
-        add_options: '-A'
-      # with:
-        # if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        # run: |
-        #   echo "Got Changes!"
-        #   ls
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: |
+          echo "Got Changes!"
+          ls
 
 
