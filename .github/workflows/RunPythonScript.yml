@@ -24,10 +24,19 @@ jobs:
         path: ${{ env.DEVOPS_DIR }}
 
     - name: Hello World
-      run: python ${{ env.DEVOPS_DIR }}/create_rss.py
+      run: |
+        python ${{ env.DEVOPS_DIR }}/create_rss.py
+        ls
+
       shell: sh
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         repository: ${{ env.DEVOPS_DIR }}
         add_options: '-A'
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: |
+          echo "Got Changes!"
+          ls
+
+
