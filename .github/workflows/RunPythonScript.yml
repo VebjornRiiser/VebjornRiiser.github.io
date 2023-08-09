@@ -25,22 +25,20 @@ jobs:
 
     - name: CreateRSS
       run: |
-        python ${{ env.DEVOPS_DIR }}/create_rss.py
-        pwd
-        ls
+        cd ${{ env.DEVOPS_DIR }}
+        python create_rss.py
       shell: sh
     
     - name: ShowResults
       run: |
         pwd
         ls
-        cat abels_taarn.rss
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        repository: "/home/runner/work/VebjornRiiser.github.io/VebjornRiiser.github.io"
+        repository: ${{ env.DEVOPS_DIR }}
+        add_options: '-A'
       # with:
-      #   add_options: '-A'
         # if: steps.auto-commit-action.outputs.changes_detected == 'true'
         # run: |
         #   echo "Got Changes!"
