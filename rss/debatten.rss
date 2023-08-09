@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>CUSTOM: Debatten</title>
+        <link>https://psapi.nrk.no/podcasts/debatten</link>
+        <description>Norges største direktesendte debattprogram. Tirsdag og torsdag kan du se Debatten på NRK1 klokken 21.20 eller høre podkast-versjonen her. </description>
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Debatten</title>
+        <url>https://gfx.nrk.no/cWb-3y4tAvw4mPnZcvdhOAQxdD_oJDfq3N6BanH636xA</url>
+        <link>https://psapi.nrk.no/podcasts/debatten</link>
+        <width>144</width>
+        <height>144</height>
+        </image> 
+        <!-- <itunes:author>BB</itunes:author> -->
+        <!-- <description>Custom up to date Debatten feed</description> -->
+        <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Går norsk skole i riktig retning?</title>
+            <description>Elever vil ha fleksitid, og droppe fraværsgrense og eksamen. Hvor mye bør de få påvirke egen skolehverdag?</description>
+            <pubDate>Thu, 01 Jun 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d54317ef-4180-43c1-a8f4-27f82b0901a3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M54S</itunes:duration>
+            <guid isPermaLink="false">d54317ef-4180-43c1-a8f4-27f82b0901a3</guid>
+        </item>
+        <item>
+            <title>«USS Gerald R. Ford» skaper jubel og frykt</title>
+            <description>Forsvarseksperter uenige om hvordan russerne reagerer.</description>
+            <pubDate>Thu, 25 May 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/67191e63-3365-40a8-87d8-d60ff6339902_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M45S</itunes:duration>
+            <guid isPermaLink="false">67191e63-3365-40a8-87d8-d60ff6339902</guid>
+        </item>
+        <item>
+            <title>Gratis buss, båt og tog i Stavanger</title>
+            <description>Kommunen gjør kollektivtransporten kostnadsfri. Men hva annet kunne blitt gratis for 200 millioner kroner?</description>
+            <pubDate>Tue, 23 May 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6f9e6da1-ef80-4e24-930d-5499b8efdf23_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M42S</itunes:duration>
+            <guid isPermaLink="false">6f9e6da1-ef80-4e24-930d-5499b8efdf23</guid>
+        </item>
+        <item>
+            <title>Er det lov å pimpe opp bunaden?</title>
+            <description>Like sikkert som at pollen kommer for fullt i mai, kommer diskusjonen om bunad og festdrakt.</description>
+            <pubDate>Tue, 16 May 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/149c149e-8e70-4332-b9ea-ef830a20325f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M18S</itunes:duration>
+            <guid isPermaLink="false">149c149e-8e70-4332-b9ea-ef830a20325f</guid>
+        </item>
+        <item>
+            <title>Åpen strid om presidentvervet i Idrettsstyret</title>
+            <description>Flertallet i valgkomiteen vil ha Zaineb Al-Samarai, men Berit Kjøll nekter å gi seg.</description>
+            <pubDate>Thu, 04 May 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7a0f5a5a-5060-4566-9ca3-d4e0597084f5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M36S</itunes:duration>
+            <guid isPermaLink="false">7a0f5a5a-5060-4566-9ca3-d4e0597084f5</guid>
+        </item>
+        <item>
+            <title>Personstrid før Aps landsmøte</title>
+            <description>Sterke reaksjoner på at telefon fra Støre fikk Helga Pedersen til å trekke seg som kandidat som partisekretær.</description>
+            <pubDate>Tue, 02 May 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M1S</itunes:duration>
+            <guid isPermaLink="false">2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62</guid>
+        </item>
+        <item>
+            <title>Forskere: Spis så lite kjøtt som mulig</title>
+            <description>Spis mye mindre kjøtt, sier ny rapport. Men er det helse, miljø eller landbruket som skal styre nye kostråd?</description>
+            <pubDate>Thu, 27 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3ed9f392-0d05-4c2a-af23-10f639b4160f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M19S</itunes:duration>
+            <guid isPermaLink="false">3ed9f392-0d05-4c2a-af23-10f639b4160f</guid>
+        </item>
+        <item>
+            <title>Kokainbruk blant unge øker</title>
+            <description>De siste to årene har dobbelt så mange unge mellom 16 - 30 år sagt at de har brukt kokain.</description>
+            <pubDate>Tue, 25 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6bcf4113-2451-4680-b6aa-1ecacf8cc458_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M16S</itunes:duration>
+            <guid isPermaLink="false">6bcf4113-2451-4680-b6aa-1ecacf8cc458</guid>
+        </item>
+        <item>
+            <title>«Skatteflyktninger» utfordrer regjeringen</title>
+            <description>De flyttet til Sveits grunnet norsk skatt. Nå møter de regjeringen til debatt om skatt.</description>
+            <pubDate>Thu, 20 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a2bc603c-b386-4abd-bb19-4658802fe038_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M59S</itunes:duration>
+            <guid isPermaLink="false">a2bc603c-b386-4abd-bb19-4658802fe038</guid>
+        </item>
+        <item>
+            <title>LO vil streike lenge</title>
+            <description>NHO vil forhandle mer lokalt, men LO protesterer og varsler opptrapping.</description>
+            <pubDate>Tue, 18 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M47S</itunes:duration>
+            <guid isPermaLink="false">133ba6a9-fe7a-4480-b10e-2a0d18196b1b</guid>
+        </item>
+        <item>
+            <title>Slankemedisiner tar av</title>
+            <description>Fedmeeksperter kaller de nye medisinene en slankerevolusjon, men staten nekter å betale.</description>
+            <pubDate>Thu, 13 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4fcfd325-5da3-4d01-b187-ab8fbed7f597_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M26S</itunes:duration>
+            <guid isPermaLink="false">4fcfd325-5da3-4d01-b187-ab8fbed7f597</guid>
+        </item>
+        <item>
+            <title>Får vi nå dyrere melk?</title>
+            <description>Regjeringen trosser faglige råd og kutter støtten til Q-Meieriene.</description>
+            <pubDate>Tue, 11 Apr 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6e805fff-ddaf-4976-94b5-094e13901866_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M26S</itunes:duration>
+            <guid isPermaLink="false">6e805fff-ddaf-4976-94b5-094e13901866</guid>
+        </item>
+        <item>
+            <title>Nå skjer det noe i EU-debatten</title>
+            <description>Høyre vil ha utredning om norsk EU-medlemskap og MDG vil ha forhandlinger og folkeavstemning.</description>
+            <pubDate>Thu, 30 Mar 2023 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/00c2d68e-c219-46b0-a978-a10912d87b3d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M55S</itunes:duration>
+            <guid isPermaLink="false">00c2d68e-c219-46b0-a978-a10912d87b3d</guid>
+        </item>
+        <item>
+            <title>Laksemilliardærer møter Støre og Vedum</title>
+            <description>Krever at statsministeren lytter til dem som sier at skatten ødelegger næringen.</description>
+            <pubDate>Tue, 28 Mar 2023 19:59:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0b02fb79-c085-49e2-9793-24557fb056c8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M14S</itunes:duration>
+            <guid isPermaLink="false">0b02fb79-c085-49e2-9793-24557fb056c8</guid>
+        </item>
+        <item>
+            <title>Statkrafts millionbonuser hisser til debatt</title>
+            <description>Skal statseide selskap premiere ansatte med høye bonuser og være åpne om det?</description>
+            <pubDate>Thu, 23 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/78b6e8f1-103e-45f7-ad92-732017d6a32f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M55S</itunes:duration>
+            <guid isPermaLink="false">78b6e8f1-103e-45f7-ad92-732017d6a32f</guid>
+        </item>
+        <item>
+            <title>Hvorfor reiser «rikingene» til Sveits?</title>
+            <description>SVs Kirsti Bergstø sier ryk og reis og møter næringslivet til debatt.</description>
+            <pubDate>Tue, 21 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M9S</itunes:duration>
+            <guid isPermaLink="false">efd359b6-f3e1-4fe9-adad-e0e8652a483f</guid>
+        </item>
+        <item>
+            <title>Huitfeldts møte med Iran vekker harme</title>
+            <description>Norsk-iranere sterkt uenige i at regjeringen møtte iransk minister og feiret den islamske revolusjonen i Teheran.</description>
+            <pubDate>Thu, 16 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/098e2bab-191f-4c76-86e3-f476f2ce41c1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M36S</itunes:duration>
+            <guid isPermaLink="false">098e2bab-191f-4c76-86e3-f476f2ce41c1</guid>
+        </item>
+        <item>
+            <title>Thorbjørn Berntsen: &quot;Vi må se på hele partiledelsen&quot;</title>
+            <description>Ap-veteran Thorbjørn Berntsen peker på at i den tiden Støre har vært partileder, har meningsmålingene for Ap bare gått nedover.</description>
+            <pubDate>Tue, 14 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3c32debc-a460-4d19-81f2-8e8daed2d9f7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M57S</itunes:duration>
+            <guid isPermaLink="false">3c32debc-a460-4d19-81f2-8e8daed2d9f7</guid>
+        </item>
+        <item>
+            <title>Fødsel mindre verdt enn prostataoperasjon</title>
+            <description>Er det fornuftig at pasientens tilstand (og kjønn) avgjør hvor mye penger sykehuset skal få?</description>
+            <pubDate>Thu, 09 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M28S</itunes:duration>
+            <guid isPermaLink="false">eb4e40df-979d-4c41-91cc-a177c9eec0cb</guid>
+        </item>
+        <item>
+            <title>Norsk vindkraft kan ende i skatteparadis</title>
+            <description>Utenlandske vindselskap eies i så mange ledd at ingen vet hvor pengene blir av.</description>
+            <pubDate>Tue, 07 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5aa85c68-15c2-4c05-be1f-3e76d4660cef_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M36S</itunes:duration>
+            <guid isPermaLink="false">5aa85c68-15c2-4c05-be1f-3e76d4660cef</guid>
+        </item>
+        <item>
+            <title>Vil ha livsvarig forbud mot tobakk</title>
+            <description>Forslag om røyke-aldersgrense på 60, 70 og 80 år - og forbud mot smakstilsatt snus.</description>
+            <pubDate>Thu, 02 Mar 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/45b324ab-7f69-4d65-be05-011b3e34208d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M40S</itunes:duration>
+            <guid isPermaLink="false">45b324ab-7f69-4d65-be05-011b3e34208d</guid>
+        </item>
+        <item>
+            <title>Samer vil stenge staten</title>
+            <description>Vindkraften på Fosen bryter med samenes rettigheter, så hva bør skje med vindturbinene?</description>
+            <pubDate>Tue, 28 Feb 2023 21:05:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d4bd20ea-860f-4eff-adb7-5d769a3f3f34_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M18S</itunes:duration>
+            <guid isPermaLink="false">d4bd20ea-860f-4eff-adb7-5d769a3f3f34</guid>
+        </item>
+        <item>
+            <title>Vil fjerne Sophie Elise fra NRK</title>
+            <description>Hva er det med fenomenet Sophie Elise som hisser opp det norske folk?</description>
+            <pubDate>Thu, 23 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/565f7b29-cbc0-4f93-821c-f5b85051f97d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M10S</itunes:duration>
+            <guid isPermaLink="false">565f7b29-cbc0-4f93-821c-f5b85051f97d</guid>
+        </item>
+        <item>
+            <title>Varslere møter forsvarsledelsen</title>
+            <description>Jenter melder om voldtekt i Forsvaret: - Som om noen av gutta var på jakt.</description>
+            <pubDate>Tue, 21 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/60166a52-3105-4c9b-a888-712c59a486ff_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M15S</itunes:duration>
+            <guid isPermaLink="false">60166a52-3105-4c9b-a888-712c59a486ff</guid>
+        </item>
+        <item>
+            <title>NAV sender folk til matkø hos Frelsesarmeen</title>
+            <description>Er det andre enn det offentliges ansvar å sørge for at folk har mat på bordet?</description>
+            <pubDate>Thu, 16 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9637c6fa-1931-4356-a668-3be6e165d49c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M19S</itunes:duration>
+            <guid isPermaLink="false">9637c6fa-1931-4356-a668-3be6e165d49c</guid>
+        </item>
+        <item>
+            <title>Vil at bøtene skal svi enda mer</title>
+            <description>Regjeringen har doblet trafikkbøtene på ett år. Blir det færre dødsulykker av slikt?</description>
+            <pubDate>Tue, 14 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/feacc8dc-2796-4565-a59d-fa0011c56380_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M58S</itunes:duration>
+            <guid isPermaLink="false">feacc8dc-2796-4565-a59d-fa0011c56380</guid>
+        </item>
+        <item>
+            <title>Ap vil stoppe Giske</title>
+            <description>Sentralstyret i Ap vil begrense makten til Trond Giskes Ap-lag.</description>
+            <pubDate>Thu, 09 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/83121b44-bed4-4839-88bf-588efff16845_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M7S</itunes:duration>
+            <guid isPermaLink="false">83121b44-bed4-4839-88bf-588efff16845</guid>
+        </item>
+        <item>
+            <title>Hvorfor brennes ikke koranen i Norge nå?</title>
+            <description>Reagerer på at koranbrenning ble stoppet av politiet etter først å ha fått ja.</description>
+            <pubDate>Tue, 07 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/68270b7c-d580-4fcd-8993-da071cd224a0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M6S</itunes:duration>
+            <guid isPermaLink="false">68270b7c-d580-4fcd-8993-da071cd224a0</guid>
+        </item>
+        <item>
+            <title>Åpner for vindmøller nært folk</title>
+            <description>Forsker sier nye vindmøller ikke gir lavere strømpriser.</description>
+            <pubDate>Thu, 02 Feb 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/feb84f5d-e4fa-4521-9de7-2a62e2211b61_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M26S</itunes:duration>
+            <guid isPermaLink="false">feb84f5d-e4fa-4521-9de7-2a62e2211b61</guid>
+        </item>
+        <item>
+            <title>Unge bruker en hel arbeidsdag på mobilen</title>
+            <description>Nå krever politikere og foreldre mobilforbud og strengere regler.</description>
+            <pubDate>Tue, 31 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/1a06cc8b-61cd-48e4-a32b-5281d1d1712c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M35S</itunes:duration>
+            <guid isPermaLink="false">1a06cc8b-61cd-48e4-a32b-5281d1d1712c</guid>
+        </item>
+        <item>
+            <title>Hva er galt med eldreomsorgen?</title>
+            <description>De legges kl. 17 og får verken bleieskift eller tannpuss. Hvor er verdigheten i dette?</description>
+            <pubDate>Thu, 26 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/726a8b73-522e-4a14-bab3-3505bba31297_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M49S</itunes:duration>
+            <guid isPermaLink="false">726a8b73-522e-4a14-bab3-3505bba31297</guid>
+        </item>
+        <item>
+            <title>Vil satse på atomkraft i Norge</title>
+            <description>Fagfolk er uenige om atomkraft er en del av løsningen på klimaproblemet.</description>
+            <pubDate>Tue, 24 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/df2a896e-1340-4966-ae1d-0d28922601dc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M34S</itunes:duration>
+            <guid isPermaLink="false">df2a896e-1340-4966-ae1d-0d28922601dc</guid>
+        </item>
+        <item>
+            <title>Mener dyrtiden er unødvendig</title>
+            <description>Økonomer mener regjeringen kan bruke mer penger uten at det fører til økte priser og renter.</description>
+            <pubDate>Thu, 19 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/bcb38884-077d-423c-aecf-6697af7079d4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M3S</itunes:duration>
+            <guid isPermaLink="false">bcb38884-077d-423c-aecf-6697af7079d4</guid>
+        </item>
+        <item>
+            <title>Krigen splitter venstresiden</title>
+            <description>Gjør Norge vondt verre av å sende våpen til Ukraina? Det er en avgrunn mellom Ap og Rødt, sier Raymond Johansen.</description>
+            <pubDate>Wed, 18 Jan 2023 08:30:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9258fab7-2b5e-4c5b-9c03-6dcd3db32a6a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M1S</itunes:duration>
+            <guid isPermaLink="false">9258fab7-2b5e-4c5b-9c03-6dcd3db32a6a</guid>
+        </item>
+        <item>
+            <title>Vil forby influensere å bruke bilder av barn</title>
+            <description>Influenserne protesterer. For hvorfor er det galt å legge ut bilder av barn på some?</description>
+            <pubDate>Thu, 12 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c12ae521-e701-48dc-9364-1dc2f2fc63b6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M37S</itunes:duration>
+            <guid isPermaLink="false">c12ae521-e701-48dc-9364-1dc2f2fc63b6</guid>
+        </item>
+        <item>
+            <title>Billigere strøm i Tyskland enn i Norge</title>
+            <description>Næringslivet krever milliarder i ekstra strømstøtte og ber Regjeringen se til Tyskland.</description>
+            <pubDate>Tue, 10 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/19cc0ea5-fb95-44b0-8f77-0f2cce3921be_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M58S</itunes:duration>
+            <guid isPermaLink="false">19cc0ea5-fb95-44b0-8f77-0f2cce3921be</guid>
+        </item>
+        <item>
+            <title>Virusene herjer</title>
+            <description>Kraftig økning i sykehusinnleggelser og en ny smittsom koronavariant er på vei.</description>
+            <pubDate>Thu, 05 Jan 2023 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9f5842d0-541b-49c5-87d4-bbef3b70230c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M26S</itunes:duration>
+            <guid isPermaLink="false">9f5842d0-541b-49c5-87d4-bbef3b70230c</guid>
+        </item>
+        <item>
+            <title>Blir det virkelig et «klimahelvete» på jord?</title>
+            <description>FN-sjefen bruker sterke ord. Men hvor smart er egentlig det?</description>
+            <pubDate>Thu, 01 Dec 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8664df1e-40f4-4bd0-a07e-8656b8c903e8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M38S</itunes:duration>
+            <guid isPermaLink="false">8664df1e-40f4-4bd0-a07e-8656b8c903e8</guid>
+        </item>
+        <item>
+            <title>Kr 333,- mer til minstepensjonistene</title>
+            <description>Hvordan hjelpes de fattigste av statsbudsjettet regjeringen og SV har blitt enige om?</description>
+            <pubDate>Tue, 29 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/371ae3ec-7cd3-4109-98dc-443b314d750b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M44S</itunes:duration>
+            <guid isPermaLink="false">371ae3ec-7cd3-4109-98dc-443b314d750b</guid>
+        </item>
+        <item>
+            <title>Klimaaksjonist mener vold er nødvendig</title>
+            <description>Hvor langt kan og bør man gå i kampen for en sak man brenner for?</description>
+            <pubDate>Thu, 24 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cc84c2fe-890e-48ba-be13-c3971e8870ae_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M18S</itunes:duration>
+            <guid isPermaLink="false">cc84c2fe-890e-48ba-be13-c3971e8870ae</guid>
+        </item>
+        <item>
+            <title>Renate får omsider møte Ap</title>
+            <description>Først nektet Ap å stille i Debatten. Nå får Renate fortelle Marte Mjøs Persen om sin fattigdom.</description>
+            <pubDate>Tue, 22 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3162761e-07a7-40b2-bc06-e57a4b745dd1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M40S</itunes:duration>
+            <guid isPermaLink="false">3162761e-07a7-40b2-bc06-e57a4b745dd1</guid>
+        </item>
+        <item>
+            <title>Laksemilliardær Witzøe ut mot regjeringen</title>
+            <description>Havbruksnæringen møter regjeringen om lakseskatt og permitteringer av ansatte.</description>
+            <pubDate>Thu, 17 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5d3313c2-b14f-4ff0-a0af-869047214de1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M50S</itunes:duration>
+            <guid isPermaLink="false">5d3313c2-b14f-4ff0-a0af-869047214de1</guid>
+        </item>
+        <item>
+            <title>Levekostnadene øker og flere rammes</title>
+            <description>Hvorfor vil regjeringen ha dagpengekutt nå når folk sliter økonomisk?</description>
+            <pubDate>Tue, 15 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/dbe56982-f00b-4c05-a12a-f4970bca1b86_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M24S</itunes:duration>
+            <guid isPermaLink="false">dbe56982-f00b-4c05-a12a-f4970bca1b86</guid>
+        </item>
+        <item>
+            <title>Ap stuper på målingene</title>
+            <description>Hvorfor flyr «ørnen» i norsk politikk så lavt for tiden?</description>
+            <pubDate>Thu, 10 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6deca7de-1fbc-4955-9a23-988fd6da6ee4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M5S</itunes:duration>
+            <guid isPermaLink="false">6deca7de-1fbc-4955-9a23-988fd6da6ee4</guid>
+        </item>
+        <item>
+            <title>Valla &amp; co. vil gi deg strøm til kostpris</title>
+            <description>Alternativ energikommisjon vil ha full statlig kontroll over vannkraften.</description>
+            <pubDate>Tue, 08 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/853ba5dc-b549-4228-b917-32d73e60e8e6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M15S</itunes:duration>
+            <guid isPermaLink="false">853ba5dc-b549-4228-b917-32d73e60e8e6</guid>
+        </item>
+        <item>
+            <title>FFI-rapport satte fyr på EØS-debatten</title>
+            <description>Hvorfor ble det så mye støy da forskere brukte EØS-strid som eksempel på mulig russisk påvirkning?</description>
+            <pubDate>Thu, 03 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6e26be1d-d524-4e56-a16b-825f977c5dc6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M38S</itunes:duration>
+            <guid isPermaLink="false">6e26be1d-d524-4e56-a16b-825f977c5dc6</guid>
+        </item>
+        <item>
+            <title>Folkefesten splitter folk</title>
+            <description>Folkefesten splitter folk. Å se eller å ikke se. Det er spørsmålet før fotball-VM i Qatar.</description>
+            <pubDate>Tue, 01 Nov 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/bf68172a-659b-4d56-8e48-74f74497b76e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M23S</itunes:duration>
+            <guid isPermaLink="false">bf68172a-659b-4d56-8e48-74f74497b76e</guid>
+        </item>
+        <item>
+            <title>Viggo Kristiansen sonet 21 år i fengsel</title>
+            <description>Hvordan kan det skje at en mann får livet ødelagt av en feil dom?</description>
+            <pubDate>Thu, 27 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/085c5c3f-fb82-402d-b549-54555fa97b6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M52S</itunes:duration>
+            <guid isPermaLink="false">085c5c3f-fb82-402d-b549-54555fa97b6d</guid>
+        </item>
+        <item>
+            <title>Bedriftene krever mer i strømstøtte</title>
+            <description>Næringslivet vil ha mer penger for å betale strømregningen.</description>
+            <pubDate>Tue, 25 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/de59a0b8-a8b7-4a6c-83f4-2aa0a3f149e7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M58S</itunes:duration>
+            <guid isPermaLink="false">de59a0b8-a8b7-4a6c-83f4-2aa0a3f149e7</guid>
+        </item>
+        <item>
+            <title>Russlands ambassadør: Norge er uvennlig</title>
+            <description>Teimauraz Ramashvili sier det kun er Norges feil at forholdet til Russland er dårlig.</description>
+            <pubDate>Thu, 20 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b2f9fdee-de72-4763-a8d9-07d6aca85801_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M24S</itunes:duration>
+            <guid isPermaLink="false">b2f9fdee-de72-4763-a8d9-07d6aca85801</guid>
+        </item>
+        <item>
+            <title>Kraftig prishopp på mat</title>
+            <description>Maten krymper og prisen øker. Bransjen forklarer hvorfor.</description>
+            <pubDate>Tue, 18 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/385fb8d0-9392-406f-972c-9bc1e076072c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M36S</itunes:duration>
+            <guid isPermaLink="false">385fb8d0-9392-406f-972c-9bc1e076072c</guid>
+        </item>
+        <item>
+            <title>Fylkespolitikere ga seg selv dobbel lønn</title>
+            <description>Da fylkene ble slått sammen, skjøt lønna til mange politkere i været. De fikk betalt fra både nytt og gammelt fylke – samtidig.</description>
+            <pubDate>Thu, 13 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/44e30702-5842-45d2-85b8-57fee40c5221_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M2S</itunes:duration>
+            <guid isPermaLink="false">44e30702-5842-45d2-85b8-57fee40c5221</guid>
+        </item>
+        <item>
+            <title>Regjeringen dropper Noah</title>
+            <description>Noen ryker helt ut, mens andre må nå søke penger fra statsbudsjettet.</description>
+            <pubDate>Tue, 11 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/70c22cf8-19fb-4e9c-af96-6c4e1d25e984_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M13S</itunes:duration>
+            <guid isPermaLink="false">70c22cf8-19fb-4e9c-af96-6c4e1d25e984</guid>
+        </item>
+        <item>
+            <title>Regjeringens budsjett skuffer mange</title>
+            <description>Støre sa budsjettet ville skuffe mange. Han fikk rett.</description>
+            <pubDate>Thu, 06 Oct 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/27a15a85-3ee6-4260-9291-10ca0d9104c7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H12M19S</itunes:duration>
+            <guid isPermaLink="false">27a15a85-3ee6-4260-9291-10ca0d9104c7</guid>
+        </item>
+        <item>
+            <title>- Norsk gassforsyning sannsynligvis Europas største sabotasjemål</title>
+            <description>Oberstløytnant Geir Hågen Karlsen advarer om en svært alvorlig opptrapping av krigen, som involverer Norge og Nato.</description>
+            <pubDate>Tue, 27 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/887ace64-edc0-4f0d-9650-728aeec71361_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M5S</itunes:duration>
+            <guid isPermaLink="false">887ace64-edc0-4f0d-9650-728aeec71361</guid>
+        </item>
+        <item>
+            <title>Gir fillers god helse?</title>
+            <description>Kjendistrio beklager, men satte fyr på debatten om kvinnehelse.</description>
+            <pubDate>Thu, 22 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/66356c24-7599-44f3-984a-4c2831e90c47_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M2S</itunes:duration>
+            <guid isPermaLink="false">66356c24-7599-44f3-984a-4c2831e90c47</guid>
+        </item>
+        <item>
+            <title>Lærerne trapper opp streiken</title>
+            <description>Under ett år etter pandemien rammer streik elever over hele landet.</description>
+            <pubDate>Tue, 20 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/545fa3fc-d9b2-4b81-b126-3410723f8eb5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M22S</itunes:duration>
+            <guid isPermaLink="false">545fa3fc-d9b2-4b81-b126-3410723f8eb5</guid>
+        </item>
+        <item>
+            <title>Bryter med Märtha Louise</title>
+            <description>Bør prinsesse Märtha og kongehuset avklare hva de mener om uttalelsene til Durek Verrett før bryllupet?</description>
+            <pubDate>Thu, 15 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/50ba1d09-a23a-4a3e-a8b5-045dce978039_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M59S</itunes:duration>
+            <guid isPermaLink="false">50ba1d09-a23a-4a3e-a8b5-045dce978039</guid>
+        </item>
+        <item>
+            <title>Skal Norge sponse strømkunder i Europa?</title>
+            <description>Kravet om at Norge må selge gassen billigere til Europa vokser både her hjemme og utenlands.</description>
+            <pubDate>Tue, 13 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5c9e7086-5f3a-46a8-8250-1f2a10f0ca12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M57S</itunes:duration>
+            <guid isPermaLink="false">5c9e7086-5f3a-46a8-8250-1f2a10f0ca12</guid>
+        </item>
+        <item>
+            <title>Spetalen: - Norske politikere gjør oss til energislaver</title>
+            <description>I 2014 advarte investor Øystein Stray Spetalen om at to nye strømkabler vil gi oss like dyr strøm som i Europa, og at det vil rasere norsk industri og vår velferd. I Debatten møter han olje- og energiminister Terje Aasland (Ap).</description>
+            <pubDate>Wed, 07 Sep 2022 08:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/61707239-5063-4d70-a8c2-c1952986dd13_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M24S</itunes:duration>
+            <guid isPermaLink="false">61707239-5063-4d70-a8c2-c1952986dd13</guid>
+        </item>
+        <item>
+            <title>- Mellommåltid kan gi dårlig helse</title>
+            <description>Får vi bedre helse av å droppe mellommåltidet slik en ernæringsbiolog hevder?</description>
+            <pubDate>Thu, 01 Sep 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4f290c50-5960-40ed-a64a-edce42561371_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M43S</itunes:duration>
+            <guid isPermaLink="false">4f290c50-5960-40ed-a64a-edce42561371</guid>
+        </item>
+        <item>
+            <title>Galopperende strømpriser tynger bedriftene</title>
+            <description>Skal bakeren og fabrikkeieren få strømlån eller tilskudd? Eller ingenting?</description>
+            <pubDate>Tue, 30 Aug 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e6480857-3376-4115-847e-26a290ae5397_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M15S</itunes:duration>
+            <guid isPermaLink="false">e6480857-3376-4115-847e-26a290ae5397</guid>
+        </item>
+        <item>
+            <title>Ville du betalt husleia med sex?</title>
+            <description>Igjen kommer de grelleste historier fra leiemarkedet.</description>
+            <pubDate>Thu, 25 Aug 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/49c59628-34bc-43bf-8dca-828e7aad3767_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M47S</itunes:duration>
+            <guid isPermaLink="false">49c59628-34bc-43bf-8dca-828e7aad3767</guid>
+        </item>
+        <item>
+            <title>Halvt år siden Russland angrep Ukraina</title>
+            <description>Lekkede videoer, dataangrep og titusenvis av drepte. Hvor lenge kan krigen vare?</description>
+            <pubDate>Tue, 23 Aug 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6ea7c0c5-c50a-4c22-b869-6c1052472aab_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M29S</itunes:duration>
+            <guid isPermaLink="false">6ea7c0c5-c50a-4c22-b869-6c1052472aab</guid>
+        </item>
+        <item>
+            <title>Passkrise</title>
+            <description>Klarer myndighetene å rydde opp slik at nordmenn kan reise til utlandet?</description>
+            <pubDate>Tue, 31 May 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3de0043f-e503-43b9-b642-87e608a3efe7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M32S</itunes:duration>
+            <guid isPermaLink="false">3de0043f-e503-43b9-b642-87e608a3efe7</guid>
+        </item>
+        <item>
+            <title>- Vi ranes for 2 milliarder</title>
+            <description>Minstepensjonistene får mellom 400 og 600 kroner mer i måneden etter trygdeoppgjøret. Hvorfor mener norske politikere at man kan klare seg på kr 230 000 i året?</description>
+            <pubDate>Tue, 24 May 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ff359566-a114-4bed-b51a-7deedccebc42_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M7S</itunes:duration>
+            <guid isPermaLink="false">ff359566-a114-4bed-b51a-7deedccebc42</guid>
+        </item>
+        <item>
+            <title>Nato gir venstresiden hodepine</title>
+            <description>Rødt nekter å slippe Sverige og Finland inn i Nato. SV vil slippe Sverige og Finland inn, men vil ta Norge ut. Hvorfor omfavner ikke venstresiden at Norden endelig samles i samme forsvarsallianse?</description>
+            <pubDate>Thu, 19 May 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b5206373-2c13-4425-a9d6-4af9126b41e0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M1S</itunes:duration>
+            <guid isPermaLink="false">b5206373-2c13-4425-a9d6-4af9126b41e0</guid>
+        </item>
+        <item>
+            <title>Enda dyrere i bomringen</title>
+            <description>Idet alt blir dyrere går politikerne hen og øker bompengene.</description>
+            <pubDate>Thu, 05 May 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e987f422-1de8-4e8b-bcf5-ce59ff0e884f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M55S</itunes:duration>
+            <guid isPermaLink="false">e987f422-1de8-4e8b-bcf5-ce59ff0e884f</guid>
+        </item>
+        <item>
+            <title>Vedums tall</title>
+            <description>Ifølge Trygve Slagsvold Vedums kalkulator får en vanlig norsk familie nesten 15 000 kroner mer å rutte med i år. Det får han til hvis familien bruker ca halvparten så mye på mat som NAV mener familien trenger.</description>
+            <pubDate>Tue, 03 May 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/eb8eea2f-f582-499d-af24-70ebef66c83a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M51S</itunes:duration>
+            <guid isPermaLink="false">eb8eea2f-f582-499d-af24-70ebef66c83a</guid>
+        </item>
+        <item>
+            <title>Pasienter kan dø mens de venter på medisiner</title>
+            <description>Bør flere pasienter få dyre medisiner raskere?</description>
+            <pubDate>Thu, 28 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4eb92732-43a7-4298-b8d8-c23c9b3f356c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M59S</itunes:duration>
+            <guid isPermaLink="false">4eb92732-43a7-4298-b8d8-c23c9b3f356c</guid>
+        </item>
+        <item>
+            <title>Får far for mye tid med barnet?</title>
+            <description>Mor tar ulønnet perm for å være med babyen. Er fars ordning for raus?</description>
+            <pubDate>Tue, 26 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5292b38f-86f4-4b58-b4e8-775b1daa3f3b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M32S</itunes:duration>
+            <guid isPermaLink="false">5292b38f-86f4-4b58-b4e8-775b1daa3f3b</guid>
+        </item>
+        <item>
+            <title>Er russetiden for alle?</title>
+            <description>Audtions, prøvefester og utstemming. Bør russetiden styres av regler?</description>
+            <pubDate>Thu, 21 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/224bd617-007e-4601-8fb6-49206ef81dbf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M52S</itunes:duration>
+            <guid isPermaLink="false">224bd617-007e-4601-8fb6-49206ef81dbf</guid>
+        </item>
+        <item>
+            <title>Norge har igjen Europas dyreste strøm</title>
+            <description>I tre påskedager skjedde det igjen. Hvordan kan nesten gratis vannkraft bli så dyr? Og hvorfor er det så stor prisforskjell mellom Sør- og Nord-Norge?</description>
+            <pubDate>Tue, 19 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9e90a038-0af6-43f1-af8d-db6981945ef1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M43S</itunes:duration>
+            <guid isPermaLink="false">9e90a038-0af6-43f1-af8d-db6981945ef1</guid>
+        </item>
+        <item>
+            <title>Tvinger krisene frem ny EU-debatt?</title>
+            <description>Gjør krig og pandemi at Norge igjen bør diskutere EU? Vel, vi venter ikke på svaret. Her har du en EU-debatt!</description>
+            <pubDate>Thu, 07 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/501007b6-c39b-4fc5-8395-e1c623aadb5b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M36S</itunes:duration>
+            <guid isPermaLink="false">501007b6-c39b-4fc5-8395-e1c623aadb5b</guid>
+        </item>
+        <item>
+            <title>Hva skjedde, Vedum?</title>
+            <description>Sp var større enn Ap, men er nå mindre enn SV og Frp. Trygve Slagsvold Vedum er gjest i Debatten.</description>
+            <pubDate>Tue, 05 Apr 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/eef89c67-2441-47dd-86ee-261b314b351a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M38S</itunes:duration>
+            <guid isPermaLink="false">eef89c67-2441-47dd-86ee-261b314b351a</guid>
+        </item>
+        <item>
+            <title>Hvor lenge står vi imot om russerne kommer?</title>
+            <description>Hvor invadert kan Norge bli før Nato kommer oss til unnsetning?</description>
+            <pubDate>Thu, 31 Mar 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cc73bf98-f44f-4dfd-92e5-4ad0132c907f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M13S</itunes:duration>
+            <guid isPermaLink="false">cc73bf98-f44f-4dfd-92e5-4ad0132c907f</guid>
+        </item>
+        <item>
+            <title>Alt blir dyrere</title>
+            <description>En av fem nordmenn klarer allerede ikke en uforutsett utgift. I år får en vanlig norsk familie ekstrautgifter til renter, strøm, drivstoff og mat på 45 000 kroner etter strømstøtte. Hva vil politikerne gjøre?</description>
+            <pubDate>Tue, 29 Mar 2022 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b4bd8df3-27df-45aa-8c91-08f90ac7714a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M44S</itunes:duration>
+            <guid isPermaLink="false">b4bd8df3-27df-45aa-8c91-08f90ac7714a</guid>
+        </item>
+        <item>
+            <title>Vil kaste ut alle private fra velferdstjenestene</title>
+            <description>&quot;Tusen takk til dere private som har stilt opp i pandemien med testing og vaksinering, tusen takk for at dere private nå åpner asylmottak for ukrainere. Tusen takk og forsvinn!&quot;, hilsen Regjeringen, SV og Rødt, som vil finne ut hvordan de kan kvitte seg med &quot;velferdsprofitørene&quot;.</description>
+            <pubDate>Thu, 24 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0e47369a-bbde-41b3-b29f-02bc3a57785a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M57S</itunes:duration>
+            <guid isPermaLink="false">0e47369a-bbde-41b3-b29f-02bc3a57785a</guid>
+        </item>
+        <item>
+            <title>Vil bremse farten på norske veier</title>
+            <description>Veiene i Norge har blitt bedre, bredere og tryggere og fartsgrensen har økt til 110 km/t. Men nå vil NAF, Norges Bondelag, Naturvernforbundet, MDG og Senterpartiet ha smalere vei i Norge og mer vei med maks 90 km/t.</description>
+            <pubDate>Tue, 22 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6df623d0-0396-4e06-9795-4f30a9490618_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M42S</itunes:duration>
+            <guid isPermaLink="false">6df623d0-0396-4e06-9795-4f30a9490618</guid>
+        </item>
+        <item>
+            <title>Hva er Støres plan?</title>
+            <description>Vår nærmeste nabo styres av en aggressiv diktator, vi sender våpen som skal drepe hans soldater. Norge gjør klar for en enorm flyktningestrøm og et folkeopprør mot drivstoffprisene er i emning. Det er mye nå. Jonas Gahr Støre er eneste gjest i Debatten.</description>
+            <pubDate>Thu, 17 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/301cbdd6-abd9-42cd-a32b-b64a249d53f5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M33S</itunes:duration>
+            <guid isPermaLink="false">301cbdd6-abd9-42cd-a32b-b64a249d53f5</guid>
+        </item>
+        <item>
+            <title>Hva gjør politikerne med bensin til over 30 kr literen?</title>
+            <description>Den svenske regjeringen innfører strakstiltak mot de skyhøye diesel- og bensinprisene, men i Norge har Støre og Vedum ennå ikke kommet med konkrete tiltak mot drivstoffprisen som nærmer seg 30 kroner literen. Hva venter politikerne på?</description>
+            <pubDate>Tue, 15 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4720a3a0-1229-4fea-a85d-4812c79175e5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M40S</itunes:duration>
+            <guid isPermaLink="false">4720a3a0-1229-4fea-a85d-4812c79175e5</guid>
+        </item>
+        <item>
+            <title>Ukrainere tas imot med åpne armer</title>
+            <description>Norge og Europa gir ukrainske flyktninger kollektiv beskyttelse, de får gratis buss og togreiser i Norge og kommunene kribler etter å integrere dem. Dobbeltmoralsk, sier de som ser lidelsen til tusener av mennesker i Moria-leiren.</description>
+            <pubDate>Thu, 10 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/bd4423ef-a41d-4925-a279-2e6e5561a2a8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M3S</itunes:duration>
+            <guid isPermaLink="false">bd4423ef-a41d-4925-a279-2e6e5561a2a8</guid>
+        </item>
+        <item>
+            <title>Skal Norge hjelpe Europa ut av Putins gassgrep?</title>
+            <description>Det er energikrise i Europa. Nå koster det over 2000 kroner i måneden i Norge å ha på en panelovn og en liter bensin koster snart 25 kroner. Hvordan skal Norge bidra til å gjøre Europa uavhengig av russisk gass - uten at norske familier blir flådd?</description>
+            <pubDate>Tue, 08 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/98c000a4-2f9c-4b66-9c9e-d86b4d28e619_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M31S</itunes:duration>
+            <guid isPermaLink="false">98c000a4-2f9c-4b66-9c9e-d86b4d28e619</guid>
+        </item>
+        <item>
+            <title>Krever at Tajik trekker seg som nestleder</title>
+            <description>Hadia Tajik sier hun har gjort så mange feil at hun må gå av som arbeidsminister. Men hun sier også at hun ikke gjort så mange feil at hun må gå av som nestleder i Arbeiderpartiet. Hva er feilene som er så store at hun må gå, men så små at hun kan bli sittende?</description>
+            <pubDate>Thu, 03 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/713fa9de-055a-4813-a70c-551626dc4c83_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M26S</itunes:duration>
+            <guid isPermaLink="false">713fa9de-055a-4813-a70c-551626dc4c83</guid>
+        </item>
+        <item>
+            <title>Norske våpen til Ukraina - hva skjedde?</title>
+            <description>Norge sender 2000 av dette panservernvåpenet til Ukraina. I løpet av noen få dager har Stortinget brutt et over 60 år gammelt prinsipp om at Norge ikke sender våpen til parter i krig. Så skaper vi med det mer fred? Hvordan vil Putin reagere?</description>
+            <pubDate>Tue, 01 Mar 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/fc3faa16-4686-410c-936d-8b6d667b2f2b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M8S</itunes:duration>
+            <guid isPermaLink="false">fc3faa16-4686-410c-936d-8b6d667b2f2b</guid>
+        </item>
+        <item>
+            <title>Putin til krig mot Ukraina</title>
+            <description>Europa står igjen overfor en diktator styrt av ideologi, som sier at nabolandet egentlig ikke er et land, at nabofolket egentlig tilhører dem, og at han må gå til krig for å redde sine egne brødre. Ja, det har skjedd før og endt grusomt. Det er igjen krig i Europa.</description>
+            <pubDate>Thu, 24 Feb 2022 23:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d19eeb62-d361-453c-bb38-96bada2f282b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M26S</itunes:duration>
+            <guid isPermaLink="false">d19eeb62-d361-453c-bb38-96bada2f282b</guid>
+        </item>
+        <item>
+            <title>Hadia Tajiks pendlerboliger</title>
+            <description>I fire år fikk Hadia Tajik skattefri pendlerbolig fordi Statsministerens kontor trodde hun leide en leilighet i Sandnes. Men Tajik bodde i realiteten på pikerommet hos foreldrene de gangene hun var hjemme. Hvorfor gjorde hun det?</description>
+            <pubDate>Tue, 22 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8baf6182-1aa5-48a1-934b-8f0060551f2e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M15S</itunes:duration>
+            <guid isPermaLink="false">8baf6182-1aa5-48a1-934b-8f0060551f2e</guid>
+        </item>
+        <item>
+            <title>Vil ha strømstøtte også på hytta</title>
+            <description>Nesten halvparten av oss har tilgang til hytte og i pandemien har vi gått mann av huse og kjøpt hytter. Men hyttelandsbyene ødelegger naturen hyttefolket drar for å nyte. Og nå vil de ha strømstøtte.</description>
+            <pubDate>Thu, 17 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/29972a81-7841-434b-aaf2-bc3204748932_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M27S</itunes:duration>
+            <guid isPermaLink="false">29972a81-7841-434b-aaf2-bc3204748932</guid>
+        </item>
+        <item>
+            <title>Hvem bør takke mest for maten?</title>
+            <description>Matvareprisene skyter i været, men bøndene får stadig mindre. Av et brød som koster 35 kroner i butikk får bonden 2 kroner. Ett kilo kålrot gir bonden 12 kroner, men etter å ha kjørt lastebil og blitt flyttet et par ganger koster den 25 kroner i butikk.</description>
+            <pubDate>Tue, 15 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7d9d5191-9a02-4e77-9f81-87edb43f7b16_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M36S</itunes:duration>
+            <guid isPermaLink="false">7d9d5191-9a02-4e77-9f81-87edb43f7b16</guid>
+        </item>
+        <item>
+            <title>Kraftmangel = høyere strømpriser</title>
+            <description>Høye nok strømpriser allerede, sa du? Om noen få år har vi kraftunderskudd i Norge blant annet fordi vi skal elektrifisere plattformene for å nå klimamålene. Havvind, da? Havvind er dyrt og gir i begynnelsen mye dyrere strøm enn vi er vant til.</description>
+            <pubDate>Thu, 10 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ab914201-2673-40b1-b6b8-c3a594e5cb39_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M12S</itunes:duration>
+            <guid isPermaLink="false">ab914201-2673-40b1-b6b8-c3a594e5cb39</guid>
+        </item>
+        <item>
+            <title>Nekter å være norsk</title>
+            <description>Mange nordmenn vil ikke være norske. Barn av innvandrere gir opp å bevise at de er norske, de slutter å spenne på seg ski og spise vafler for å tekkes nordmenn. Er det greit at de ikke vil være norske, eller gjør de integreringen vanskeligere?</description>
+            <pubDate>Tue, 08 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f01a2d72-a326-4887-96bc-0ccc9ad2420c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M26S</itunes:duration>
+            <guid isPermaLink="false">f01a2d72-a326-4887-96bc-0ccc9ad2420c</guid>
+        </item>
+        <item>
+            <title>Den røde fare?</title>
+            <description>Ingen andre velgere er mer misfornøyde med livet enn Rødt-velgerne, de er redde for jobben, mange av dem er uten jobb, de er blakke på slutten av måneden. Men er de marxister som vil ha en sosialistisk revolusjon, slik det står i Rødts program?</description>
+            <pubDate>Thu, 03 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/51f48cf3-cdf0-4dc3-996c-2ffde37c2ad9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M32S</itunes:duration>
+            <guid isPermaLink="false">51f48cf3-cdf0-4dc3-996c-2ffde37c2ad9</guid>
+        </item>
+        <item>
+            <title>Fortsatt meter, danse&quot;forbud&quot; og isolasjon</title>
+            <description>Mange jubler i dag, men gang på gang har FHI bommet, de har skremt oss med at 300.000 kunne bli smittet daglig, selv de mest forsiktige scenariene fra FHI har skutt langt over mål. Og hver gang har politikerne lagd tiltak for en utvikling som aldri skjedde. Nå skal vi fortsatt ha tiltak, men treffer de denne gangen?</description>
+            <pubDate>Tue, 01 Feb 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/49bfdd02-b5ec-4f4d-872d-cc75e49a330c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M34S</itunes:duration>
+            <guid isPermaLink="false">49bfdd02-b5ec-4f4d-872d-cc75e49a330c</guid>
+        </item>
+        <item>
+            <title>Kan vi ha flere enn to kjønn?</title>
+            <description>Det finnes en bitteliten gruppe som er utsatt for flere seksuelle overgrep, mer hets, mer hat og mer selvforakt enn kanskje noen annen gruppe. Transpersonene ønsker selv bare å bli forstått, få hjelp og få rettigheter. En av rettighetene er at de selv kan bestemme hvilket kjønn det skal stå i passet. Men når de får de rettighetene, blir det bråk når juridiske menn kan føde og kvinner kan bli fedre.</description>
+            <pubDate>Thu, 27 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/70796317-2f62-4cb5-8234-8e56e7991148_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M53S</itunes:duration>
+            <guid isPermaLink="false">70796317-2f62-4cb5-8234-8e56e7991148</guid>
+        </item>
+        <item>
+            <title>Taliban i privatfly til Soria Moria</title>
+            <description>Å komme til Norge er en seier i seg selv. Vi kan bare gå med på krav som ivaretar islamske verdier, melder Taliban fra Soria Moria. Sist de styrte Afghanistan betød islamske verdier steining, håndkutting og burkatvang. Hva betyr det nå?</description>
+            <pubDate>Tue, 25 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/73474f4d-baf3-4008-9a46-bee7bcd1f251_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M1S</itunes:duration>
+            <guid isPermaLink="false">73474f4d-baf3-4008-9a46-bee7bcd1f251</guid>
+        </item>
+        <item>
+            <title>Strømstøtten dekker ca 25% av regningen</title>
+            <description>Vi kutter elvagiften med 47%, sa regjeringen. Det viste seg å være 8 øre. Staten tar 55% av strømregningen over 70 øre i desember, sa regjeringen. Det viser seg å bare gi et kutt på ca 25%. Var det det du trodde du skulle få i strømstøtte?</description>
+            <pubDate>Thu, 20 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/17bb6463-7537-4a62-908d-acb4d9835133_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M8S</itunes:duration>
+            <guid isPermaLink="false">17bb6463-7537-4a62-908d-acb4d9835133</guid>
+        </item>
+        <item>
+            <title>Storkrig truer. Hva gjør Norge?</title>
+            <description>Hvis Ukraina er fritt vilt for Russland, hva gjør lille Norge? Bidrar vi til mindre spenning når vi lar USA ha bombefly, soldater og atomubåter på norsk jord, når vi har gigantiske Nato-øvelser rett ved russergrensa og når vi påstår Russland bryter menneskerettighetene og hacker Stortinget?</description>
+            <pubDate>Tue, 18 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c9c23f04-1df1-4428-9eb9-e1e42e7ebbad_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M48S</itunes:duration>
+            <guid isPermaLink="false">c9c23f04-1df1-4428-9eb9-e1e42e7ebbad</guid>
+        </item>
+        <item>
+            <title>Lettelser i tiltak, men fy søren så leie vi er!</title>
+            <description>En-meteren består, maks 10 gjester hjemme og fortsatt mange tiltak, anbefaler helsemyndighetene. Fordi vi må bremse smitten. Men sa ikke FHI i går at et er bra å bli smittet av omikron, at flest mulig bør bli smittet og at tiltak vil bare forsinke bølgen?</description>
+            <pubDate>Thu, 13 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ca5ad8c2-bb70-4236-8c87-6ce325013b26_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M57S</itunes:duration>
+            <guid isPermaLink="false">ca5ad8c2-bb70-4236-8c87-6ce325013b26</guid>
+        </item>
+        <item>
+            <title>Strid om Stoltenberg som sentralbanksjef</title>
+            <description>Tenk om eks-presidenten i Langtvekkistan var på middager med sin nære venn og etterfølger hos deres nære venn, sønnen av enda en eks-president, og at de diskuterte om presidenten kunne ansette eks-presidenten som sentralbanksjef før stillingen var ledig. Hva hadde vi tenkt da?</description>
+            <pubDate>Tue, 11 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6505ce2b-b679-4a80-a289-3835a33cb189_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M48S</itunes:duration>
+            <guid isPermaLink="false">6505ce2b-b679-4a80-a289-3835a33cb189</guid>
+        </item>
+        <item>
+            <title>Norge har Europas høyeste strømpriser når vi importerer</title>
+            <description>Hvorfor har Norge tidvis etter nyttår Europas dyreste strøm? Hvorfor får vi ikke billig strøm når det endelig har begynt å blåse i Tyskland og gassprisene synker? Jo, fordi vannkraftprodusentene har skrudd av turbinene og låst oss til rekordpriser.</description>
+            <pubDate>Thu, 06 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e4b566de-4346-41aa-a47e-18e5aab388ba_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M22S</itunes:duration>
+            <guid isPermaLink="false">e4b566de-4346-41aa-a47e-18e5aab388ba</guid>
+        </item>
+        <item>
+            <title>Raser mot skjenkestopp</title>
+            <description>Forrige gang vi var i denne situasjonen, omtrent for nøyaktig ett år siden, sa de at vi skulle ha mest mulig lokale tiltak og at kommunene vet best. Så kom det et nytt virus på et julebord på Aker brygge, og da forsvant det prinsippet og vi fikk likevel nasjonale tiltak. Og de kom uten at myndighetene aner om full skjenkestopp fungerer.</description>
+            <pubDate>Tue, 04 Jan 2022 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/bc695adf-1fa0-45cf-b48b-24623251d88b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M22S</itunes:duration>
+            <guid isPermaLink="false">bc695adf-1fa0-45cf-b48b-24623251d88b</guid>
+        </item>
+        <item>
+            <title>Ingen løsning for strømkundene og ny nettleie</title>
+            <description>Som om ikke strømprisene var høye nok, fra nyttår skal vi straffes hvis vi bruker strøm på dagtid. Men hva hvis man MÅ bruke strøm på dagtid? Og når politikerne har bestemt at vi skal kjøre elbil og lage mye mer vindkraft til det grønne skiftet, gjett om nettleien blir dyrere eller billigere når nettet må bygges ut?</description>
+            <pubDate>Thu, 09 Dec 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c9cc7211-fa21-4400-94f3-17fda8f36804_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M8S</itunes:duration>
+            <guid isPermaLink="false">c9cc7211-fa21-4400-94f3-17fda8f36804</guid>
+        </item>
+        <item>
+            <title>Nye koronatiltak - hva er planen?</title>
+            <description>Hvor mange ganger har vi ikke fått den samme beskjeden som vi fikk i dag? Vi må bremse og forsinke viruset, og så har vi gjort som vi fikk beskjed om, og det kommer vi sikkert til å gjøre denne gangen også. Hver gang sier de at situasjonen er mer alvorlig enn før, og det sier de også i dag, tre prosent av de innlagte på sykehusene har covid-19 nå. Men hvis korona aldri forsvinner. Når skal dette ende og hvordan skal det ende ?</description>
+            <pubDate>Tue, 07 Dec 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e7ac8d5c-2d07-445e-a034-e60e86405313_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M38S</itunes:duration>
+            <guid isPermaLink="false">e7ac8d5c-2d07-445e-a034-e60e86405313</guid>
+        </item>
+        <item>
+            <title>Q &amp; A om omicron og nye tiltak</title>
+            <description>Hvis fullvaksinerte smittes av omikron, hvor ender dette? Kan man danse eller må man sitte? Kan jeg ringe og be om en 3. dose? Må jeg avbestille reisen? Hvorfor har ikke sykehusene økt kapasiteten på to år? Seerne stiller spørsmål, helsetoppene svarer.</description>
+            <pubDate>Thu, 02 Dec 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7d3f9b2c-10da-4b7d-940c-3effea6c51f5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M17S</itunes:duration>
+            <guid isPermaLink="false">7d3f9b2c-10da-4b7d-940c-3effea6c51f5</guid>
+        </item>
+        <item>
+            <title>Det koster 10 øre å lage en kWh av vannkraft</title>
+            <description>Regjeringen og SV planlegger at strømmen skal være rådyr også neste år. Ekstramilliardene vi betaler inn fordi strømmen koster nesten 6 kroner går til å finansiere statsbudsjettet for &quot;vanlige folk&quot;. Det koster mellom 3 og 15 øre å lage en kWh strøm på norsk vannkraft.</description>
+            <pubDate>Tue, 30 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7f78f92b-175d-42e6-8baa-8257c3c33bd9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M40S</itunes:duration>
+            <guid isPermaLink="false">7f78f92b-175d-42e6-8baa-8257c3c33bd9</guid>
+        </item>
+        <item>
+            <title>Black Friday, baby!</title>
+            <description>Parfyme som stiger i pris. Turjakker med førpriser som aldri fantes. Høytrykksspylere til kampanjepris uten at vi får vite hvor stor rabatten er. Juks og bløff. Kredittkortgjeld og ny omsetningsrekord under Black Week og Black Friday. Vil du vite hva fellene er? Hør Debatten på podkast.</description>
+            <pubDate>Thu, 25 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2b2259db-b715-4dad-9941-14e5ba47380a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M16S</itunes:duration>
+            <guid isPermaLink="false">2b2259db-b715-4dad-9941-14e5ba47380a</guid>
+        </item>
+        <item>
+            <title>Kutt i feriepenger og uføretrygd, doble feriepenger på Stortinget</title>
+            <description>Nå er det vanlige folks tur: Uføre får lønnskutt og arbeidsledige får ikke feriepenger. Men det samme Stortinget som har vedtatt kuttene har gitt seg selv doble feriepenger og feriepenger på etterlønn. Hvordan forklarer de det?</description>
+            <pubDate>Tue, 23 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/31ca055b-a989-4302-b17b-213b79bf4714_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M47S</itunes:duration>
+            <guid isPermaLink="false">31ca055b-a989-4302-b17b-213b79bf4714</guid>
+        </item>
+        <item>
+            <title>Eva Kristin Hansen trekker seg som stortingspresident</title>
+            <description>Eva Kristin Hansen antar at hun er en av stortingsrepresentantene politiet har bestemt seg for å etterforske for lovbrudd i forbindelse med pendlerleiligheter. Dermed slapp Ap å si om de fremdeles har tillit til henne.</description>
+            <pubDate>Thu, 18 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c8eb83ac-7e87-4bbb-bb35-f1eebd72b146_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M11S</itunes:duration>
+            <guid isPermaLink="false">c8eb83ac-7e87-4bbb-bb35-f1eebd72b146</guid>
+        </item>
+        <item>
+            <title>Psykologene til singel kvinne (49): Din markedsverdi har sunket</title>
+            <description>To mannlige psykologer rådet 49-år gamle Monica til å senke krav og forventninger om hun vil ha seg en mann, de sa hun må innse at markedsverdien hennes har sunket. Det går ikke an å måle menneskers markedsverdi, sier motstanderne.</description>
+            <pubDate>Tue, 16 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/106cb79d-3067-4a59-9daf-d0a16a61b43c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M48S</itunes:duration>
+            <guid isPermaLink="false">106cb79d-3067-4a59-9daf-d0a16a61b43c</guid>
+        </item>
+        <item>
+            <title>Engelsk all over the place!</title>
+            <description>Engelsk spiser seg inn i norsk språk, er det en issue eller er det chill? Er det cringe når rotnorske institusjoner kaller seg Big Insight? Og hvorfor hater så mange på hun som sa at norske studenter må ha norske forelesere? Boomers og kids og alle andre, det er klart for språkbattle i Debatten!</description>
+            <pubDate>Thu, 11 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8eca6492-47e9-4fb0-b745-c6cc90acb529_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M33S</itunes:duration>
+            <guid isPermaLink="false">8eca6492-47e9-4fb0-b745-c6cc90acb529</guid>
+        </item>
+        <item>
+            <title>Uvaksinerte og ny smittebølge</title>
+            <description>Eldre dør fordi det jobber uvaksinert helsepersonell på sykehjemmene, men kommunene kan ikke ta dem ut av helsetjenesten for da blir det ikke mange nok folk på jobb. Og snart kan det komme nye koronatiltak fordi for mange nekter å vaksinere seg.</description>
+            <pubDate>Tue, 09 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a4d3ab05-eb20-49ed-af89-3fb7b4cbe051_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M1S</itunes:duration>
+            <guid isPermaLink="false">a4d3ab05-eb20-49ed-af89-3fb7b4cbe051</guid>
+        </item>
+        <item>
+            <title>Norge betaler, Kina åpner nye kullkraftverk</title>
+            <description>Verten for klimatoppmøtet Boris Johnson sa at klokka er ett minutt på midnatt for verdens klima, så fløy han i privatfly til en vennemiddag. Støre dobler klimabistanden til fattige land, så øker han Norges oljeproduksjon med 50 prosent på seks år.</description>
+            <pubDate>Thu, 04 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e6ffcc52-761c-48e5-b0e3-98bdd8c77c18_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M10S</itunes:duration>
+            <guid isPermaLink="false">e6ffcc52-761c-48e5-b0e3-98bdd8c77c18</guid>
+        </item>
+        <item>
+            <title>Hva kan man kle seg ut som på Halloween?</title>
+            <description>Vi har nettopp lagt bak oss Halloween, da det ikke var OK å kle seg ut som verken same eller indianer, men er sjeik eller Aladdin greit? Er det bra at trusler om boikott kan føre til at Diplom-is fjerner Eskimonika? Og mister vi noe av kulturarven når barnehagebarn ikke lenger skal synge om Egners &quot;Vesle Hoa, som var en hottentott&quot;?</description>
+            <pubDate>Tue, 02 Nov 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/074bab3e-c548-4a0e-b12a-69b3b3f2a615_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M27S</itunes:duration>
+            <guid isPermaLink="false">074bab3e-c548-4a0e-b12a-69b3b3f2a615</guid>
+        </item>
+        <item>
+            <title>Spiseforstyrrelser i idretten</title>
+            <description>Noen spiser ett eple om dagen, andre er ikke friske fra anoreksi før etter 40 år, langrennshelter kan sitte og pirke i maten. Idrettsheltene slanker og sulter seg og får startnekt. Og idolene til norske barn skal snart ut i løypene igjen.</description>
+            <pubDate>Thu, 28 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0350af47-d850-4f4f-bf1e-c0b7ba77f9a4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M52S</itunes:duration>
+            <guid isPermaLink="false">0350af47-d850-4f4f-bf1e-c0b7ba77f9a4</guid>
+        </item>
+        <item>
+            <title>Lønnsfest for ledere i det offentlige</title>
+            <description>45 000 ledere i det offentlige har økt lønna med 64% på 20 år. I dag koster det 1,6 mill å ansette en kommunedirektør i en norsk kommune.</description>
+            <pubDate>Tue, 26 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/562b79b4-cce9-462c-b0d8-112158b1d50c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M10S</itunes:duration>
+            <guid isPermaLink="false">562b79b4-cce9-462c-b0d8-112158b1d50c</guid>
+        </item>
+        <item>
+            <title>Kunne mer tvang i psykiatrien hindret drap?</title>
+            <description>Hvorfor later vi som at det er helt sjokkerende at drapene Kongsvinger kan skje? Politikerne vil ha mindre tvang, de har bygd ned psykiatrien. Samtidig må helsevesenet ha hjelp fra politiet 145 ganger daglig og psykisk syke utøver mer grov vold og trusler.</description>
+            <pubDate>Thu, 21 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b6a035d7-7fb0-47c6-a14b-9c9bc4897495_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M12S</itunes:duration>
+            <guid isPermaLink="false">b6a035d7-7fb0-47c6-a14b-9c9bc4897495</guid>
+        </item>
+        <item>
+            <title>IS-kvinnene vil hjem til Norge</title>
+            <description>De svek Norge, de meldte seg for fienden, de kjempet for den Islamske staten. Nå sier IS-kvinnene at de angrer seg, og nå ber de Jonas Gahr Støre om å hente dem hente dem hjem leiren i Syria. Hva gjør Norge - for barna?</description>
+            <pubDate>Tue, 19 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d3708cb8-d0de-462a-9566-42ff602094e6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M17S</itunes:duration>
+            <guid isPermaLink="false">d3708cb8-d0de-462a-9566-42ff602094e6</guid>
+        </item>
+        <item>
+            <title>Vi blir litt kjent med regjeringen Støre</title>
+            <description>Debatten inviterer så mange av de nye statsrådene vi får plass i studio, og spør dem om hvem de er og hva de vil. Nå er det jo vanlige folks tur i dette landet vi er så glade i, så er det en vanlig eller usedvanlig gjeng som skal styre Norge?</description>
+            <pubDate>Thu, 14 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/25e878aa-b589-45cc-81f5-5a42141f2368_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M29S</itunes:duration>
+            <guid isPermaLink="false">25e878aa-b589-45cc-81f5-5a42141f2368</guid>
+        </item>
+        <item>
+            <title>Nakstad: - Gunhild Nyborg hadde rett</title>
+            <description>Husker du hun som skremte vettet av oss alle, hun som sa at viruset var som Blücher på vei inn Oslofjorden? Espen Rostrup Nakstad sier nå hun hadde helt rett i advarslene hun kom med helt i starten av pandemien. Du møter dem begge i denne utgaven av Debatten.</description>
+            <pubDate>Tue, 12 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/391f1ad7-06fc-4c72-9ef3-c7f691ead391_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M58S</itunes:duration>
+            <guid isPermaLink="false">391f1ad7-06fc-4c72-9ef3-c7f691ead391</guid>
+        </item>
+        <item>
+            <title>Vil ha tvungen p-avgift på kjøpesentre og arbeidsplasser</title>
+            <description>Det kan bli flertall på Stortinget for å gi kommunene mulighet til å tvinge arbeidsgivere og kjøpesentre til å ta betalt for parkering. Selv parkerer stortingspolitikerne gratis i stortingsgarasjen.</description>
+            <pubDate>Thu, 07 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/dc63b8b0-7a6c-45ff-a589-a623fb3ab2c1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M10S</itunes:duration>
+            <guid isPermaLink="false">dc63b8b0-7a6c-45ff-a589-a623fb3ab2c1</guid>
+        </item>
+        <item>
+            <title>- Bedre nytte i Norge av å sende vaksiner til Afrika</title>
+            <description>TRAILER:
+Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene formerer seg i syke afrikanske kropper? Hva hjelper det da at vi har gitt friske nordmenn en tredje dose når mutantene kommer hit og angriper våre risikogrupper?</description>
+            <pubDate>Tue, 05 Oct 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0ee82f7c-4c11-4001-a6e6-76ae4682cf6c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M53S</itunes:duration>
+            <guid isPermaLink="false">0ee82f7c-4c11-4001-a6e6-76ae4682cf6c</guid>
+        </item>
+        <item>
+            <title>Utenlandskabler gir dyrere strøm</title>
+            <description>Mange frykter at den nye strømkabelen til Storbritannia skal føre til dyrere strøm i Norge fordi Norge har de nest billigste strømprisene i Europa, mens situasjonen i Storbritannia er stikk motsatt. Vi selger deler av arvesølvet vårt til høystbydende i Europa, AS Norge blir rikere, men regningen havner hos oss forbrukere og bedriftene. Er dette virkelig en god deal?</description>
+            <pubDate>Thu, 30 Sep 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d0518899-e1d3-4b2b-a6ba-d8708921eca9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M28S</itunes:duration>
+            <guid isPermaLink="false">d0518899-e1d3-4b2b-a6ba-d8708921eca9</guid>
+        </item>
+        <item>
+            <title>EKSTRA: SV ut av regjeringssonderingene</title>
+            <description>For fire dager siden sa Audun Lysbakken at SV er i en strålende posisjon for å ha avgjørende makt og innflytelse de neste fire årene. I dag sa han at de i SV ikke er så opptatt av å kjøre svarte biler. Hva skjedde egentlig? Hva fikk han som i valgkampen slo ut armene, sa han kunne samarbeide med alle på rødgrønn side, hva fikk ham til å bli så skuffet?</description>
+            <pubDate>Wed, 29 Sep 2021 18:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/630be182-73a1-48ca-9a57-ad69719a5f87_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M36S</itunes:duration>
+            <guid isPermaLink="false">630be182-73a1-48ca-9a57-ad69719a5f87</guid>
+        </item>
+        <item>
+            <title>Stadig flere eldre på sykehjem underernært</title>
+            <description>Det døde flere på norske sykehjem i fjor av underernæring enn av korona. Det blir ikke færre underernærte på norske sykehjem, det blir flere. Hvordan kan det skje når vi i årevis har visst at vi gir de eldre feil, for lite eller for dårlig mat?</description>
+            <pubDate>Tue, 28 Sep 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8708603a-f44a-4f77-87b2-6b03158ec606_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M50S</itunes:duration>
+            <guid isPermaLink="false">8708603a-f44a-4f77-87b2-6b03158ec606</guid>
+        </item>
+        <item>
+            <title>Rekorddyr strøm</title>
+            <description>Det blåser for lite i Tyskland, derfor har vi så dyr strøm, sies det. Vel, kraftselskapene har nesten tømt vannmagasinene. En tredel av strømregningen din er avgifter og du betaler moms på elavgiften. Ja, det er avgift på avgift.</description>
+            <pubDate>Thu, 23 Sep 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d9eb0d2f-a657-4574-8893-04b5a679288c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M54S</itunes:duration>
+            <guid isPermaLink="false">d9eb0d2f-a657-4574-8893-04b5a679288c</guid>
+        </item>
+        <item>
+            <title>- Stortingets vaktbikkje ble stoppet av Stortinget</title>
+            <description>En rekke stortingspolitikere gjennom 18 år kan vært skattesnytere fordi de har fått gratis pendlerleilighet uten å skatte av fordelen. Hvilken straff får de for det? Samme straff som vanlige folk får som får skatteetaten etter seg og blir tatt for å betale for lite skatt?</description>
+            <pubDate>Tue, 21 Sep 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f144c372-a7bd-44c0-88e7-5083be7c85d1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35M43S</itunes:duration>
+            <guid isPermaLink="false">f144c372-a7bd-44c0-88e7-5083be7c85d1</guid>
+        </item>
+        <item>
+            <title>OnlyFans og pupper og lår på Instagram</title>
+            <description>På nettsiden Onlyfans tjener norske jenter og gutter raske penger ved å kle av seg i egen stue. Men reklamen for pornoen og sexsalget kommer opp i feeden på Facebook, Instagram, Youtube og Snapchat - til norske barn under 18 år.</description>
+            <pubDate>Thu, 16 Sep 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a5f51e7a-b8e3-4927-bd0a-df5c5870dc8e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M2S</itunes:duration>
+            <guid isPermaLink="false">a5f51e7a-b8e3-4927-bd0a-df5c5870dc8e</guid>
+        </item>
+        <item>
+            <title>Ungdomspartiene dagen derpå</title>
+            <description>Valget er over, og ungdomspartiene oppsummerer. Ble det et klimavalg likevel?</description>
+            <pubDate>Tue, 14 Sep 2021 19:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3d9b5678-6e27-482f-9350-b18eeb5919bc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H50S</itunes:duration>
+            <guid isPermaLink="false">3d9b5678-6e27-482f-9350-b18eeb5919bc</guid>
+        </item>
+        <item>
+            <title>Lærere og helsearbeidere i streik</title>
+            <description>Lærerne og sykepleierne sa de ville ha mer enn applaus fra balkongene, nå har de gjort alvor av trusselen og streiker. De kommuneansatte streiker, de som aldri sto i fare for å miste jobben eller tape en krone under pandemien - sånt blir det Debatten av.</description>
+            <pubDate>Thu, 27 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c66d1cda-ec32-4438-9639-2847011af80f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M41S</itunes:duration>
+            <guid isPermaLink="false">c66d1cda-ec32-4438-9639-2847011af80f</guid>
+        </item>
+        <item>
+            <title>Stortingspolitikere tilbys vaksiner</title>
+            <description>Regjeringen tilbyr 500 &quot;samfunnskritisk nøkkelpersonell&quot;, inkludert stortingspolitikerne, å snike i vaksinekøen. Flere statsråder og politikere takker nei.</description>
+            <pubDate>Tue, 25 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/97950373-7b67-4375-8b28-3fbb10d81ebd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M4S</itunes:duration>
+            <guid isPermaLink="false">97950373-7b67-4375-8b28-3fbb10d81ebd</guid>
+        </item>
+        <item>
+            <title>Unge norsk-palestinere møter unge norsk-israelere</title>
+            <description>Vi løser nok ikke Midtøsten-konflikten, men vi får høre nye og unge stemmer i Debatten.</description>
+            <pubDate>Wed, 19 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/78747db4-1449-497f-9b8d-1e3a6f4e3e1a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M10S</itunes:duration>
+            <guid isPermaLink="false">78747db4-1449-497f-9b8d-1e3a6f4e3e1a</guid>
+        </item>
+        <item>
+            <title>Bondeopprørerne møter Bollestad</title>
+            <description>Bonden som stilte i Debatten forrige tirsdag og sa han er utsatt for sosial dumping møter landbruksminister Olaug Bollestad. Nå truer han og kollegene i bondeopprøret Bollestad med at de kan få KrF under sperregrensa.</description>
+            <pubDate>Tue, 11 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/46d5b276-3402-4e0d-b49a-0e6374f21bbe_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M14S</itunes:duration>
+            <guid isPermaLink="false">46d5b276-3402-4e0d-b49a-0e6374f21bbe</guid>
+        </item>
+        <item>
+            <title>Folk spør Solberg, Nakstad og Vold om korona</title>
+            <description>Hvordan er det ikke vaksinepress å innføre et sertifikat? Hva er en nødvendig reise nå for å unngå karantene? Må man tilbake til studiestedet på andre siden av landet å ta vaksine midt i fellesferien? Erna Solberg, Espen Nakstad og Line Vold svarer på spørsmål i Debatten.</description>
+            <pubDate>Thu, 06 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/16780bda-8d5b-4990-b52e-9544a32f3350_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M55S</itunes:duration>
+            <guid isPermaLink="false">16780bda-8d5b-4990-b52e-9544a32f3350</guid>
+        </item>
+        <item>
+            <title>Bønder på sultegrensa og overproduksjon av mat</title>
+            <description>Stortinget har vedtatt et landbruk som ikke finnes. Bøndene får mindre og mindre igjen for å lage mer og billigere mat. Vi kaster mye mat og dumper svin i Ukraina. Dyrene spiser stadig mer soya fra Brasil, og der bare utenlandske arbeidere vil stå i åkeren. Er det på tide å tenke nytt?</description>
+            <pubDate>Tue, 04 May 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/481a0ce1-65cb-4f8e-b020-fb272bfc944a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M9S</itunes:duration>
+            <guid isPermaLink="false">481a0ce1-65cb-4f8e-b020-fb272bfc944a</guid>
+        </item>
+        <item>
+            <title>Flertall for å endre abortloven</title>
+            <description>SV har vedtatt selvbestemt abort inntil fosteret er levedyktig. I dag vil det si uke 22. Det er flertall på Stortinget for å avvikle abortnemndene inntil uke 18.</description>
+            <pubDate>Thu, 29 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a65bf1df-fae8-4ae4-9f4c-8ccb6b6f0b37_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M49S</itunes:duration>
+            <guid isPermaLink="false">a65bf1df-fae8-4ae4-9f4c-8ccb6b6f0b37</guid>
+        </item>
+        <item>
+            <title>Charter-Svein v Lothepus, men egentlig ikke</title>
+            <description>Demonstranter brenner munnbind, tilliten til myndighetene synker, og PCR-testene beskyldes for å fange opp virus som ikke finnes. Hva er riktig, hva er galt?</description>
+            <pubDate>Tue, 27 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9e2eb6b2-f579-4933-ad9c-ad14641f3b71_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M2S</itunes:duration>
+            <guid isPermaLink="false">9e2eb6b2-f579-4933-ad9c-ad14641f3b71</guid>
+        </item>
+        <item>
+            <title>Bygdene eldes, men er det mulig å få de unge tilbake?</title>
+            <description>De unge har flyttet, og de som er igjen er ikke mange nok til å ta seg av de eldre, som lever lengre. Når skal vi få en distriktspolitikk som fungerer?</description>
+            <pubDate>Thu, 22 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/58a2e05e-539e-4769-8dff-8e002c37d8ea_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M49S</itunes:duration>
+            <guid isPermaLink="false">58a2e05e-539e-4769-8dff-8e002c37d8ea</guid>
+        </item>
+        <item>
+            <title>Forskerne er enige: Slanking fungerer ikke!</title>
+            <description>Slanking fungerer ikke, og ideal-BMI hvis man vil leve lenge er lett overvekt. Unge sliter med økende kroppspress og utseendefokusering.</description>
+            <pubDate>Tue, 20 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a3b5ac95-c803-4f06-9793-83059e1b31ac_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M32S</itunes:duration>
+            <guid isPermaLink="false">a3b5ac95-c803-4f06-9793-83059e1b31ac</guid>
+        </item>
+        <item>
+            <title>Vi risikerer sju ukers vaksineforsinkelse</title>
+            <description>FHi vil fjerne AstraZeneca-vaksinen helt fra vaksinasjonsprogrammet, men regjeringen vil vente og se. Hvor farlig er AZ-vaksinen sammenlignet med p-piller egentlig?</description>
+            <pubDate>Thu, 15 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/83bf19d1-f1a1-44fb-95a9-4029467d4284_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M30S</itunes:duration>
+            <guid isPermaLink="false">83bf19d1-f1a1-44fb-95a9-4029467d4284</guid>
+        </item>
+        <item>
+            <title>Historikere føler seg lurt i TV-serien &quot;Frontkjempere&quot;</title>
+            <description>Halvparten av historikerne som selv medvirker i NRK-serien mener serien lider av store feil og mangler. Hvem var egentlig frontkjemperne?</description>
+            <pubDate>Tue, 13 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c922b06b-1092-4ad0-9720-00f029b7cb2f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M18S</itunes:duration>
+            <guid isPermaLink="false">c922b06b-1092-4ad0-9720-00f029b7cb2f</guid>
+        </item>
+        <item>
+            <title>Taxfree - et gode eller idioti?</title>
+            <description>Et offentlig utvalg mener pandemien er et godt tidspunkt å skrote taxfree-ordningen på, mener staten kan spare to mrd. kr. Men handler taxfree bare om fornuft?</description>
+            <pubDate>Thu, 08 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/da5386d9-8613-4c21-9eed-24c1587cb579_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M5S</itunes:duration>
+            <guid isPermaLink="false">da5386d9-8613-4c21-9eed-24c1587cb579</guid>
+        </item>
+        <item>
+            <title>Barn og unge under pandemien</title>
+            <description>Barn og unge sliter under pandemien. NB! Det blir sagt feil i Debatten, det blir redegjort for i introduksjonen.</description>
+            <pubDate>Tue, 06 Apr 2021 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5edc5f36-1dd7-4630-a02f-5b2d365f7fae_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M53S</itunes:duration>
+            <guid isPermaLink="false">5edc5f36-1dd7-4630-a02f-5b2d365f7fae</guid>
+        </item>
+        <item>
+            <title>Koronatiltakene fungerer ikke - smitten øker</title>
+            <description>Tiltakene fungerer ikke, smitten har bitt seg fast flere steder. Hvorfor bruker ikke myndighetene den sterkeste slegga de har for å bli kvitt viruset? Og hvorfor kommer 30 000 personer tilbake fra utenlandsreise i løpet av 12 dager?</description>
+            <pubDate>Thu, 25 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2f85c5f8-e76f-45c4-8390-a4b4c36ec59c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M48S</itunes:duration>
+            <guid isPermaLink="false">2f85c5f8-e76f-45c4-8390-a4b4c36ec59c</guid>
+        </item>
+        <item>
+            <title>- Norge ga bort 700 000 vaksinedoser</title>
+            <description>Sp og Ap mener Norge burde sikret seg 700 000 vaksinedoser selv i stedet for å gi dem til fattige land. Bent Høie hevder EU vil straffe Norge om vi også forsøker å skaffe oss de samme vaksinene vi får gjennom EU på andre måter.</description>
+            <pubDate>Tue, 23 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/00f9137c-dd2f-4cf6-a1a4-efefa7d9bd2a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M24S</itunes:duration>
+            <guid isPermaLink="false">00f9137c-dd2f-4cf6-a1a4-efefa7d9bd2a</guid>
+        </item>
+        <item>
+            <title>Erna Solberg brøt sine egne forvirrende koronaregler</title>
+            <description>Erna Solberg brøt smittevernreglene da hun var på Geilo for å feire 60-årsdagen sin. Hvordan skal vi andre greie å følge reglene når statsministeren selv ikke klarer det?</description>
+            <pubDate>Thu, 18 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/910b8373-6c99-4afd-aad8-a8c2bf6944f4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M16S</itunes:duration>
+            <guid isPermaLink="false">910b8373-6c99-4afd-aad8-a8c2bf6944f4</guid>
+        </item>
+        <item>
+            <title>Sjefen i Coop Midt-Norge har 11,3 mill i lønn og pensjon</title>
+            <description>Lærere og sykepleiere må få reallønnsnedgang på grunn av koronaen, sier NHO-sjefen. Samtidig får DNB-direktøren 14 millioner i lønn og under slagordet &quot;Litt ditt&quot; tjener sjefen i Coop Midt-Norge 50 millioner på fem år.</description>
+            <pubDate>Tue, 16 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2daaedc2-3c39-4703-9a8e-203838edce35_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M52S</itunes:duration>
+            <guid isPermaLink="false">2daaedc2-3c39-4703-9a8e-203838edce35</guid>
+        </item>
+        <item>
+            <title>Frislipp av narkotika eller hjelp til rusavhengige</title>
+            <description>Regjeringen kjemper for å få flertall for rusreformen, som innebærer å avkriminalisere brukerdoser av narkotika. Motstanderne spår økt bruk og misbruk.</description>
+            <pubDate>Thu, 11 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6cd18a6b-665c-4b04-ad4e-e29e138c30cf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M18S</itunes:duration>
+            <guid isPermaLink="false">6cd18a6b-665c-4b04-ad4e-e29e138c30cf</guid>
+        </item>
+        <item>
+            <title>Hva er målet med korona-tiltakene?</title>
+            <description>Det går mot et nytt &quot;krafttak&quot; mot korona-smitten, men hva er egentlig målet? Hvorfor vektlegges det at smitten øker når barn og unge ikke blir syke? Og hvorfor står intensivkapasiteten på stedet hvil?</description>
+            <pubDate>Tue, 09 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7f18157b-2a76-4a77-9acb-c0bd3982aafe_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M24S</itunes:duration>
+            <guid isPermaLink="false">7f18157b-2a76-4a77-9acb-c0bd3982aafe</guid>
+        </item>
+        <item>
+            <title>Kan gå mot norsk boikott av Fotball-VM</title>
+            <description>Et gryende grasrotopprør mot norsk deltakelse i Fotball-VM i Qatar førte torsdag til at også RBK går inn for boikott. 6500 fremmedarbeidere har dødd på jobb i Qatar siden 2010, melder The Guardian.</description>
+            <pubDate>Thu, 04 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6781ef2a-e5d1-42c2-b07c-0529e65182f0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M20S</itunes:duration>
+            <guid isPermaLink="false">6781ef2a-e5d1-42c2-b07c-0529e65182f0</guid>
+        </item>
+        <item>
+            <title>Vil prioritere vaksiner til Oslo og omegn</title>
+            <description>Erna Solberg beklager at SMK hjalp Molde-ordfører med kritikk av Oslo-byrådet. Regjeringen og FHI vil ta vaksiner fra kommuner med minst smitte og gi til bydeler i Oslo og kommuner med mest smitte.</description>
+            <pubDate>Tue, 02 Mar 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/240b7d02-8cad-4ef8-b194-993b642eb15a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M19S</itunes:duration>
+            <guid isPermaLink="false">240b7d02-8cad-4ef8-b194-993b642eb15a</guid>
+        </item>
+        <item>
+            <title>Strøm fra land til plattformer gir oss dyrere strøm</title>
+            <description>Planen er: Føre strøm fra land til plattformene, bygge monstermaster og kabler, kutte utslipp fra olje og gass, sende gassen til Europa, øke strømprisene våre og importere dyrere utenlandsk strøm. Høres det ut som en god ide?</description>
+            <pubDate>Thu, 25 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3a030708-af28-4377-802a-02ca54ba30a7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M5S</itunes:duration>
+            <guid isPermaLink="false">3a030708-af28-4377-802a-02ca54ba30a7</guid>
+        </item>
+        <item>
+            <title>Battle: TIX vs Dagbladet</title>
+            <description>Selv om en million fluer liker dritt, betyr ikke det at dritt er bra - jeg skal spise TIX-pannebåndet dersom han vinner MGP-finalen, skrev Dagbladets anmelder Anders Grønneberg. Det gjør han på direkten i Debatten.</description>
+            <pubDate>Tue, 23 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e4d4e0aa-3a9f-4755-b98e-15eed920c529_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M56S</itunes:duration>
+            <guid isPermaLink="false">e4d4e0aa-3a9f-4755-b98e-15eed920c529</guid>
+        </item>
+        <item>
+            <title>Koronaen gjør oss inaktive og tjukke</title>
+            <description>En av tre sier de har lagt på seg under koronaen. Nå krever idrettstoppene at reglene endres slik at toppidrettsutøvere, barn og unge igjen kan konkurrere.</description>
+            <pubDate>Thu, 18 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/612d9d76-7571-462c-96a9-4aeed9fd4df6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M22S</itunes:duration>
+            <guid isPermaLink="false">612d9d76-7571-462c-96a9-4aeed9fd4df6</guid>
+        </item>
+        <item>
+            <title>Og hva tror du at du får i pensjon igjen?</title>
+            <description>Frp og SV har foreslått å heve minstepensjonene, men vil bare det skal gjelde dagens pensjonister. Da vil en som er født i 1963 få 100 000 mindre i minstepensjon enn en som er født i 1953.</description>
+            <pubDate>Tue, 16 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/949f10b5-9a2e-4be3-bb21-7e7c89ea71b2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M29S</itunes:duration>
+            <guid isPermaLink="false">949f10b5-9a2e-4be3-bb21-7e7c89ea71b2</guid>
+        </item>
+        <item>
+            <title>Hva skal vi med strømleverandørene?</title>
+            <description>Strømleverandørene selger videre rekorddyr strøm og tilbyr kundene superkompliserte avtaler og uforståelige strømregninger. Trenger vi strømleverandørene?</description>
+            <pubDate>Thu, 11 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4b65aa5e-41cc-42ca-9ae4-ee154e076e32_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M51S</itunes:duration>
+            <guid isPermaLink="false">4b65aa5e-41cc-42ca-9ae4-ee154e076e32</guid>
+        </item>
+        <item>
+            <title>Vil skyte all ulv i Norge</title>
+            <description>Hvilken framtid har ulven i Norge? Senterungdommen vil utrydde den, mens regjeringen får kritikk for å skyte færre ulv enn Stortinget har vedtatt.</description>
+            <pubDate>Tue, 09 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3d504a56-1eaa-43da-92ec-1e75147493c7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M39S</itunes:duration>
+            <guid isPermaLink="false">3d504a56-1eaa-43da-92ec-1e75147493c7</guid>
+        </item>
+        <item>
+            <title>50 % av koronastøtten til fem bedrifter</title>
+            <description>Halvparten av kompensasjonsordningen går til noen av landets største bedrifter. Samtidig krever Skatteetaten pengene tilbake fra små kulturaktører.</description>
+            <pubDate>Thu, 04 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2aff3a36-9772-45b3-a204-4c6246296249_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M31S</itunes:duration>
+            <guid isPermaLink="false">2aff3a36-9772-45b3-a204-4c6246296249</guid>
+        </item>
+        <item>
+            <title>Barn og unge under korona</title>
+            <description>Hjelpetelefonene klarer ikke å svare alle unge som tar kontakt, ventetidene vokser i innen psykisk helsevern, og barn og unge slår alarm om situasjonen de er i under pandemien.</description>
+            <pubDate>Tue, 02 Feb 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8b91bbe8-8b4e-475e-9b89-7a73b31a41a6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M3S</itunes:duration>
+            <guid isPermaLink="false">8b91bbe8-8b4e-475e-9b89-7a73b31a41a6</guid>
+        </item>
+        <item>
+            <title>Uten arbeidsinnvandrere stopper Norge</title>
+            <description>Stengningen av Norge har vist at vi er fullstendig avhengig av utenlandsk arbeidskraft. En kvart million arbeidsinnvandrere sørger for at hjulene går rundt i nær sagt alle næringer. Sa noen Kuwait?</description>
+            <pubDate>Thu, 28 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0034f547-8d8f-418c-be89-5d1cfcf1b3c7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M26S</itunes:duration>
+            <guid isPermaLink="false">0034f547-8d8f-418c-be89-5d1cfcf1b3c7</guid>
+        </item>
+        <item>
+            <title>Vaksinetrøbbel og krav om å bli vaksinert først</title>
+            <description>Vi får langt færre vaksiner enn vi hadde håpet, vi vet ikke om den vaksinen Norge og EU har satset mest på fungerer på eldre, vi vet ikke en gang om vaksinene hindrer smitte. Vi vet ikke hvor lenge de varer, og en mutert variant av viruset herjer mens vi er stengt inne i hjemmene våre. Så hva nå, Norge?</description>
+            <pubDate>Tue, 26 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b0ef04a3-776c-4999-b83c-2580024368a2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M19S</itunes:duration>
+            <guid isPermaLink="false">b0ef04a3-776c-4999-b83c-2580024368a2</guid>
+        </item>
+        <item>
+            <title>Skål! Alkoholserveringen i gang fra fredag</title>
+            <description>Fra fredag kan de kommunene som vil, åpne ølkranene igjen. Regjeringen advarer om at vedtaket fra stortingsflertallet kan føre til at andre lettelser i koronatiltakene må vente. Men var det riktig å starte med alkohol?</description>
+            <pubDate>Thu, 21 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9f4391e3-72d0-41cd-b74c-14b05b749b3c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M26S</itunes:duration>
+            <guid isPermaLink="false">9f4391e3-72d0-41cd-b74c-14b05b749b3c</guid>
+        </item>
+        <item>
+            <title>Stortinget overkjører regjeringen på koronatiltak</title>
+            <description>Opposisjonen forlenger permitteringsordningen til oktober, men hvem tjener mest på det? Og regjeringen sparer tre mrd på feriepenger til de arbeidsledige. Hvorfor?</description>
+            <pubDate>Tue, 19 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/fec560c2-7da8-409b-83c2-776b30a64706_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M38S</itunes:duration>
+            <guid isPermaLink="false">fec560c2-7da8-409b-83c2-776b30a64706</guid>
+        </item>
+        <item>
+            <title>Åpner for forbud mot fossilbiler i byene</title>
+            <description>Regjeringen gir Oslo og Bergen tillatelse til å forby fossilbiler og vil tredoble klimaavgiftene på bensin og diesel. Samtidig ønsker politikerne å innføre moms på elbiler. Hvordan skal vi da nå målet om null nye fossilbiler i 2025?</description>
+            <pubDate>Thu, 14 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0ce8de9c-085a-4016-8b09-ba011af29d42_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M9S</itunes:duration>
+            <guid isPermaLink="false">0ce8de9c-085a-4016-8b09-ba011af29d42</guid>
+        </item>
+        <item>
+            <title>Frykt for økt importsmitte</title>
+            <description>Mens du sitter hjemme og ikke kan ha besøk, er grensene åpne og halvparten av de som lander på Gardermoen tester seg ikke. Hvorfor kommer det akkurat nå tusenvis av gjestearbeidere og soldater som skal på øvelse fra blodrøde land?</description>
+            <pubDate>Tue, 12 Jan 2021 22:51:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b6406817-1f3f-4d4d-8974-a0dc7d84898e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M47S</itunes:duration>
+            <guid isPermaLink="false">b6406817-1f3f-4d4d-8974-a0dc7d84898e</guid>
+        </item>
+        <item>
+            <title>Kongressen i USA stormet</title>
+            <description>Reaksjonene blant norske politikere på stormingen av den amerikanske kongressen er sterke, men likevel er mange i Norge Trump-tilhengere.</description>
+            <pubDate>Thu, 07 Jan 2021 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/18192a8f-fa96-42d9-8178-705e2b310767_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M51S</itunes:duration>
+            <guid isPermaLink="false">18192a8f-fa96-42d9-8178-705e2b310767</guid>
+        </item>
+        <item>
+            <title>Kan tiltakene lettes når eldre og syke er vaksinert? .</title>
+            <description>Hva skjer dersom koronatiltakene lettes på når risikogruppene er vaksinert?</description>
+            <pubDate>Wed, 06 Jan 2021 16:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0593bd88-d882-4d16-8850-6affdff9ab67_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M18S</itunes:duration>
+            <guid isPermaLink="false">0593bd88-d882-4d16-8850-6affdff9ab67</guid>
+        </item>
+        <item>
+            <title>Kvoteflytninger, snop, øl, vin og snus</title>
+            <description>Regjeringen har blitt enig med FrP om statsbudsjett for neste år, og resultatet er at flere kvoteflyktninger er vekslet inn med kutt i avgiftene på vin, øl, snus og godteri.</description>
+            <pubDate>Thu, 03 Dec 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/32161547-9f17-457c-9f25-4d74dbbbb46c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M23S</itunes:duration>
+            <guid isPermaLink="false">32161547-9f17-457c-9f25-4d74dbbbb46c</guid>
+        </item>
+        <item>
+            <title>Fiksjon eller fakta: Atlantic Crossing og The Crown</title>
+            <description>Atlantic Crossing beskyldes for historieforfalskning, og i Storbritannia raser debatten om The Crown gir et riktig bilde av Charles&apos; og Dianas ekteskap samt Margaret Thatcher.</description>
+            <pubDate>Tue, 01 Dec 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/71c6596d-3c64-4145-8610-7481a20806d2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M55S</itunes:duration>
+            <guid isPermaLink="false">71c6596d-3c64-4145-8610-7481a20806d2</guid>
+        </item>
+        <item>
+            <title>I disse landene lever de omtrent som normalt</title>
+            <description>Noen land har nesten helt greid å bli kvitt koronaviruset. Hva har New Zealand, Sør-Korea, Kina, Taiwan, Vietnam og Island til felles?</description>
+            <pubDate>Thu, 26 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/90d90a68-917e-4337-91a0-4154fbb2a1ce_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M40S</itunes:duration>
+            <guid isPermaLink="false">90d90a68-917e-4337-91a0-4154fbb2a1ce</guid>
+        </item>
+        <item>
+            <title>- Karantenehotell skal være avskrekkende</title>
+            <description>Myndighetene har ikke lov til å tvinge folk til å betale 5000 kr for å bo på et hotell i 10 dager. Likevel sitter nær 1000 personer mot sin vilje på karantenekotell. Hvorfor?</description>
+            <pubDate>Tue, 24 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/92505a24-f04e-41f8-a388-a394a5916a67_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M35S</itunes:duration>
+            <guid isPermaLink="false">92505a24-f04e-41f8-a388-a394a5916a67</guid>
+        </item>
+        <item>
+            <title>Mangemillionærer flytter til Bø i Vesterålen</title>
+            <description>Lille Bø i Vesterålen har greid å lokke til seg et knippe mangemillionærer med halvert formuesskatt. Du møter flere av dem, og en redermilliardær fra Sandefjord, i Debatten.</description>
+            <pubDate>Thu, 19 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6e966462-6ccc-4de8-8f6f-cc4e36993538_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M47S</itunes:duration>
+            <guid isPermaLink="false">6e966462-6ccc-4de8-8f6f-cc4e36993538</guid>
+        </item>
+        <item>
+            <title>Prioritering av vaksine og stenging av treningssentre</title>
+            <description>FHIs ekspertutvalg foreslår å prioritere eldre og syke i røde områder først når vaksinen kommer. Og forsker mener få smittes av korona på treningssentre.</description>
+            <pubDate>Tue, 17 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9982f172-2a25-4e76-bb66-33c62ac7e6e4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M14S</itunes:duration>
+            <guid isPermaLink="false">9982f172-2a25-4e76-bb66-33c62ac7e6e4</guid>
+        </item>
+        <item>
+            <title>Skepsis til koronavaksinen</title>
+            <description>Pfizer tok verden på senga med nyheten om at deres vaksine er 90 % effektiv. I Norge svarer inntil 4 av 10 at de ikke vil ta en vaksine nå.</description>
+            <pubDate>Thu, 12 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2b1da4df-28a8-4ddf-ba3d-a239a62aff8c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M23S</itunes:duration>
+            <guid isPermaLink="false">2b1da4df-28a8-4ddf-ba3d-a239a62aff8c</guid>
+        </item>
+        <item>
+            <title>Norwegian nærmer seg konkurs</title>
+            <description>Regjeringen vil ikke støtte Norwegian med flere milliarder og selskapet står på kanten av stupet. Inn kommer ungarske Wizz Air - som ikke har fagforeninger.</description>
+            <pubDate>Tue, 10 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a78a00b3-6cff-48aa-b509-503782bdc443_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M52S</itunes:duration>
+            <guid isPermaLink="false">a78a00b3-6cff-48aa-b509-503782bdc443</guid>
+        </item>
+        <item>
+            <title>Norsk USA-dekning og nye korona-innstramminger</title>
+            <description>Hvorfor blir nordmenn fremdeles like overrasket når halvparten av amerikanerne liker Trump? Har det noe med mediedekningen å gjøre? + Korona-tiltakene strammes inn, vi har noen uker på oss til å unngå overfylte sykehus, hevder myndighetene.</description>
+            <pubDate>Thu, 05 Nov 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c52a437e-3c04-4f6d-968b-eb12595d4ba9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H12M3S</itunes:duration>
+            <guid isPermaLink="false">c52a437e-3c04-4f6d-968b-eb12595d4ba9</guid>
+        </item>
+        <item>
+            <title>Vil frata Erna korona-makt</title>
+            <description>Deler av opposisjonen på Stortinget mener grensen er nådd for Erna Solbergs muligheter til å vedta korona-tiltak alene.</description>
+            <pubDate>Thu, 29 Oct 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/82f8d04f-27ff-4067-b3a6-cf1c92c6675e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M44S</itunes:duration>
+            <guid isPermaLink="false">82f8d04f-27ff-4067-b3a6-cf1c92c6675e</guid>
+        </item>
+        <item>
+            <title>Er korona-tiltakene for strenge?</title>
+            <description>Regjeringen innfører nye koronaregler samtidig som motstanden mot tiltakene og strategien vokser.</description>
+            <pubDate>Tue, 27 Oct 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/99ef074e-d343-4c3d-b9be-42cd6a060f0a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M12S</itunes:duration>
+            <guid isPermaLink="false">99ef074e-d343-4c3d-b9be-42cd6a060f0a</guid>
+        </item>
+        <item>
+            <title>Muhammed-karikaturer i norske klasserom</title>
+            <description>Regjeringen lar det være opp til hver enkelt lærer å avgjøre om det er riktig å vise fram Muhammed-karikaturene i undervisningen. Hvorfor stiller ikke staten seg bak lærerne hvis karikaturene er viktige for ytringsfriheten?</description>
+            <pubDate>Thu, 22 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d47cc09d-93dd-4be8-a9af-c52630e79a98_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M32S</itunes:duration>
+            <guid isPermaLink="false">d47cc09d-93dd-4be8-a9af-c52630e79a98</guid>
+        </item>
+        <item>
+            <title>Spørsmål og svar om Covid-19</title>
+            <description>Smittebølge nr. 2 ser ut til å skylle over Europa og koronaviruset muterer. Publikum stiller spørsmål om korona og Covid-19 og får svar fra fagfolk og myndigheter.</description>
+            <pubDate>Tue, 20 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/dfc5d5c4-fe4f-48bd-a4e9-8d12135ec6a8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M53S</itunes:duration>
+            <guid isPermaLink="false">dfc5d5c4-fe4f-48bd-a4e9-8d12135ec6a8</guid>
+        </item>
+        <item>
+            <title>Dette vil politikerne gjøre for unge på boligmarkedet</title>
+            <description>Vi fortsetter der vi slapp på tirsdag, og inviterer politikerne til å forklare hva de vil gjøre for at spriket mellom de som er innenfor og utenfor boligmarkedet ikke skal øke enda mer.</description>
+            <pubDate>Thu, 15 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/edf6c7c1-e7a5-4049-99c8-b7ba677d27a0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M33S</itunes:duration>
+            <guid isPermaLink="false">edf6c7c1-e7a5-4049-99c8-b7ba677d27a0</guid>
+        </item>
+        <item>
+            <title>Boligprisveksten forklart</title>
+            <description>Boligprisene skyter i været midt under pandemien. Mens politikerne diskuterer enkelttiltak som endring av leilighetsnorm og underregulering av tomter, slår global økonomi rett inn i det norske boligmarkedet. Pluss skattegaven på 60 mrd til boligeierne selvsagt.</description>
+            <pubDate>Tue, 13 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c9093fec-d5cc-4055-b799-be09b6df2a2e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M32S</itunes:duration>
+            <guid isPermaLink="false">c9093fec-d5cc-4055-b799-be09b6df2a2e</guid>
+        </item>
+        <item>
+            <title>Toppduell The American Way</title>
+            <description>Erna Solberg og Jonas Gahr Støre underlegger seg de samme debattreglene som Donald Trump og Joe Biden. Denne debatten bør nesten ses - i NRK TV.</description>
+            <pubDate>Thu, 08 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/bfc13478-1576-4143-99c6-dbdc617f7e97_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M40S</itunes:duration>
+            <guid isPermaLink="false">bfc13478-1576-4143-99c6-dbdc617f7e97</guid>
+        </item>
+        <item>
+            <title>Aktiv dødshjelp</title>
+            <description>Torgeir Djønne Lians (24) valg om å avslutte livet i Sveits har ført til en ny debatt om aktiv dødshjelp.</description>
+            <pubDate>Tue, 06 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2e053a38-88ff-4767-84e0-f854228a7203_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M14S</itunes:duration>
+            <guid isPermaLink="false">2e053a38-88ff-4767-84e0-f854228a7203</guid>
+        </item>
+        <item>
+            <title>Bøhler går til Sp og KrF får en ny konkurrent</title>
+            <description>Jan Bøhler utdyper hva som er galt med Ap og hvorfor han går til Sp. Geir Lippestad forklarer hvorfor det er behov for et nytt kristendemokratisk parti.</description>
+            <pubDate>Thu, 01 Oct 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/28f6a5fd-b769-4d7c-9083-aea7c33a6f57_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M31S</itunes:duration>
+            <guid isPermaLink="false">28f6a5fd-b769-4d7c-9083-aea7c33a6f57</guid>
+        </item>
+        <item>
+            <title>Hvor står Bertheussen-saken?</title>
+            <description>Straffesaken mot Laila Anita Bertheussen er inne i sin fjerde uke. I dag kom nye beviser på at hun har vært i Sverige og handlet og på ferie i Spania under koronaen, uten å gå i karantene. Hvor står saken nå?</description>
+            <pubDate>Wed, 30 Sep 2020 08:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f09baa68-7117-443b-a5be-3614ce41f822_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M35S</itunes:duration>
+            <guid isPermaLink="false">f09baa68-7117-443b-a5be-3614ce41f822</guid>
+        </item>
+        <item>
+            <title>Samtykkelov mot voldtekter</title>
+            <description>Danmark har fått en samtykkelov for å forhindre og straffe voldtekter, Sverige og Island har en allerede. Skal også Norge vedta en lov som sier at all ufrivillig sex er voldtekt?</description>
+            <pubDate>Thu, 24 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4258b425-942b-4a35-86c4-df184be3abd8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M8S</itunes:duration>
+            <guid isPermaLink="false">4258b425-942b-4a35-86c4-df184be3abd8</guid>
+        </item>
+        <item>
+            <title>Busstreik og millionlønninger til bussjefer</title>
+            <description>Busstreiken lammer store deler av kollektivtransporten, mens topplederne i busselskapene i snitt tjener 3 millioner kroner i året.</description>
+            <pubDate>Tue, 22 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4a370a27-7260-4198-84d0-55b54ac44b46_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M58S</itunes:duration>
+            <guid isPermaLink="false">4a370a27-7260-4198-84d0-55b54ac44b46</guid>
+        </item>
+        <item>
+            <title>Er 50 Moria-flyktninger passe, for mange eller for få?</title>
+            <description>NUPI-forsker refser de som vil hente flyktninger fra Moria-leiren. Han mener det er urettferdig overfor alle andre flyktninger i verden som har det verre.</description>
+            <pubDate>Thu, 17 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0fe8419f-595f-4eec-add9-3d5991c1ad6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M57S</itunes:duration>
+            <guid isPermaLink="false">0fe8419f-595f-4eec-add9-3d5991c1ad6d</guid>
+        </item>
+        <item>
+            <title>7 av 10 nordmenn har overvekt eller fedme</title>
+            <description>Fedme-epidemien har rammet Norge med full styrke, vi er tjukkest i Norden. Forskere anbefaler en differensiert sukkeravgift som det viktigste tiltaket.</description>
+            <pubDate>Tue, 15 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d4b19587-c73e-4996-8102-696119ee6bce_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M</itunes:duration>
+            <guid isPermaLink="false">d4b19587-c73e-4996-8102-696119ee6bce</guid>
+        </item>
+        <item>
+            <title>Norge sikret 3 millioner doser koronavaksine</title>
+            <description>Kappløpet mot en koronavaksine er storpolitikk, men Norge har gjennom Sverige allerede sikret seg 3 millioner vaksiner - dersom den blir godkjent.</description>
+            <pubDate>Thu, 10 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9a090acb-5082-4987-8011-753080365a6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M27S</itunes:duration>
+            <guid isPermaLink="false">9a090acb-5082-4987-8011-753080365a6d</guid>
+        </item>
+        <item>
+            <title>Pensjonistene taper kjøpekraft - igjen</title>
+            <description>For femte gang på seks år får pensjonistene negativ kjøpekraftutvikling og minstepensjonistene får bare 200.000 kroner.</description>
+            <pubDate>Tue, 08 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/543f6aaf-7a4c-4862-9cb5-5d42e05144e6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M56S</itunes:duration>
+            <guid isPermaLink="false">543f6aaf-7a4c-4862-9cb5-5d42e05144e6</guid>
+        </item>
+        <item>
+            <title>Sian vil deportere norske muslimer</title>
+            <description>Sian-leder Lars Thorsen forklarer hvilke muslimer han mener bør interneres og deporteres.</description>
+            <pubDate>Thu, 03 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/86e4c57a-6f9e-48cb-acf4-2d0559da2517_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M55S</itunes:duration>
+            <guid isPermaLink="false">86e4c57a-6f9e-48cb-acf4-2d0559da2517</guid>
+        </item>
+        <item>
+            <title>Deltakere på grottefest forteller</title>
+            <description>Grottefesten i Oslo kunne endt mye verre, men deltakerne mener de ikke ville ha gått på festen om utestedene hadde fått holde åpent til kl 3 på natten.</description>
+            <pubDate>Tue, 01 Sep 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d9158c5b-664c-4550-9391-ce77ea1ef17b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M27S</itunes:duration>
+            <guid isPermaLink="false">d9158c5b-664c-4550-9391-ce77ea1ef17b</guid>
+        </item>
+        <item>
+            <title>Nytt varsel og nye anklager mot Trond Giske</title>
+            <description>Ti minutter før Debatten går på lufta kommer beskjeden om at Trond Giske åpner for at Trøndelag Ap likevel ikke kan velge ham som ny leder. Alle deltakerne blir tatt på senga, men har fortsatt klare meninger om Giske.</description>
+            <pubDate>Thu, 27 Aug 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/69e04308-c418-4943-bf79-e44cf1fd0b74_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M29S</itunes:duration>
+            <guid isPermaLink="false">69e04308-c418-4943-bf79-e44cf1fd0b74</guid>
+        </item>
+        <item>
+            <title>Halvparten av plasten vi sorterer brennes</title>
+            <description>Vi nordmenn kildesorterer. Vi vasker rømme- og joghurtbegere og legger det i plastavfallet. Men hvorfor gjør vi det - når omlag halvparten uansett blir brent som vanlig restavfall? Hva slags system har politikerne laget når halvparten av innsatsen vår er helt fåfengt?</description>
+            <pubDate>Tue, 25 Aug 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d632aa9b-f688-4b2d-8b0a-d0c3f058915b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35M54S</itunes:duration>
+            <guid isPermaLink="false">d632aa9b-f688-4b2d-8b0a-d0c3f058915b</guid>
+        </item>
+        <item>
+            <title>Klimaks i Tangen-konflikten</title>
+            <description>Stortinget vedtar fredag trolig enstemmig kritikk av hovedstyret i Norges Bank for ansettelsesavtalen med Nicolai Tangen. Sentralbanksjef Øystein Olsen har ikke ville vike og mener avtalen er god nok.</description>
+            <pubDate>Thu, 20 Aug 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c40b0efd-38fd-4d25-9e6a-f8490277f40a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M1S</itunes:duration>
+            <guid isPermaLink="false">c40b0efd-38fd-4d25-9e6a-f8490277f40a</guid>
+        </item>
+        <item>
+            <title>Krever vetorett for kommunene om vindkraft</title>
+            <description>Vindkraft-motstanden når nye høyder over hele landet. Kravet om at kommunene skal få vetorett mot nye prosjekter vokser.</description>
+            <pubDate>Thu, 04 Jun 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2286f456-1d11-4c96-a399-64bc76916de5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M40S</itunes:duration>
+            <guid isPermaLink="false">2286f456-1d11-4c96-a399-64bc76916de5</guid>
+        </item>
+        <item>
+            <title>Tangen nekter å selge seg ut av eget fond</title>
+            <description>Nicolai Tangens ansettelsesavtale godkjent av hovedstyret i Norges Bank. Tangen forsvarer at han fremdeles vil være største eier i eget fond, AKO Capital.</description>
+            <pubDate>Thu, 28 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/33f79d62-18e7-478b-960b-ef5a468f811b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M58S</itunes:duration>
+            <guid isPermaLink="false">33f79d62-18e7-478b-960b-ef5a468f811b</guid>
+        </item>
+        <item>
+            <title>Eggdonasjon og ass. befruktning for enslige</title>
+            <description>FrP slo seg sammen med Ap, SV, R og MGD og påførte KrF et stort nederlag da de vedtok eggdonasjon, assistert befruktning for enslige, tidlig ultralyd og NIPT-blodprøve.</description>
+            <pubDate>Tue, 26 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/189f7621-1141-4ca5-aacf-40a12d4c5f58_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35M11S</itunes:duration>
+            <guid isPermaLink="false">189f7621-1141-4ca5-aacf-40a12d4c5f58</guid>
+        </item>
+        <item>
+            <title>To måneder uten utbetalinger fra NAV</title>
+            <description>400.000 venter på lønnskompensasjon og 300.000 venter på dagpenger. Frelsesarmeen har rekordpågang i Velferds-Norge.</description>
+            <pubDate>Tue, 19 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/20431d30-4f14-40e5-bc83-166d359b4d04_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M44S</itunes:duration>
+            <guid isPermaLink="false">20431d30-4f14-40e5-bc83-166d359b4d04</guid>
+        </item>
+        <item>
+            <title>Kan vi håpe på Europa-ferie i år?</title>
+            <description>Flyselskaper og reiseselskaper holder igjen millioner av kroner fra kunder som ikke har råd til å legge ut for en ny ferie i sommer.</description>
+            <pubDate>Thu, 14 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/37afcd69-2c1d-4dd0-ab41-2fc6f25cccbb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M27S</itunes:duration>
+            <guid isPermaLink="false">37afcd69-2c1d-4dd0-ab41-2fc6f25cccbb</guid>
+        </item>
+        <item>
+            <title>Equinor tapte 200 mrd i USA</title>
+            <description>Kalkuner til 700.000 kr, sportsbiler, millionlønninger, fest og moro. Internrapporter avslører Equinors pengebruk i USA.</description>
+            <pubDate>Tue, 12 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/0a6b01a4-8166-421f-87d7-0c67b9ead93d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M3S</itunes:duration>
+            <guid isPermaLink="false">0a6b01a4-8166-421f-87d7-0c67b9ead93d</guid>
+        </item>
+        <item>
+            <title>FHI: Stengte skoler kan gi mer smitte</title>
+            <description>Norge skal tilbake til start, vi skal tilbake til situasjonen før 12. mars. Hva var poenget? Hva har vi oppnådd etter to måneders stengning av Norge?</description>
+            <pubDate>Thu, 07 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2401f495-90a1-440e-8051-ad175a238c8c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M57S</itunes:duration>
+            <guid isPermaLink="false">2401f495-90a1-440e-8051-ad175a238c8c</guid>
+        </item>
+        <item>
+            <title>Y-blokka for fall</title>
+            <description>Rivingen av Y-blokka er i gang før vi får vite hva det koster å rive og bygge nytt regjeringskvartal.</description>
+            <pubDate>Tue, 05 May 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/476d200d-dfab-45a8-9dc8-a4331c6dc38e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M4S</itunes:duration>
+            <guid isPermaLink="false">476d200d-dfab-45a8-9dc8-a4331c6dc38e</guid>
+        </item>
+        <item>
+            <title>Hvordan blir sommeren i korona-Norge?</title>
+            <description>Gjør deg klar for lunsj på papptallerken på Fisketorget i Bergen 600 kroner, 20-minutters busstur til foten av Romsdalseggen til 250 kroner og dagsbesøk i Bjørneparken i Flå for en familie på fire til 1656 kroner.</description>
+            <pubDate>Thu, 30 Apr 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9dcce13d-9b03-4f0e-9829-f43280936c2d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M50S</itunes:duration>
+            <guid isPermaLink="false">9dcce13d-9b03-4f0e-9829-f43280936c2d</guid>
+        </item>
+        <item>
+            <title>Pågrepet for Hagen-drap og krisepakker som bommer</title>
+            <description>1. Nestoren blant avhørseksperter i Norge, Asbjørn Rachlew forklarer hvordan politiet bør gå fram overfor Tom Hagen. 2. Tre eksempler på at korona-krisepakkene angivelig bommer.</description>
+            <pubDate>Tue, 28 Apr 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4dc1cc39-0858-4825-ac77-3d9233008331_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M32S</itunes:duration>
+            <guid isPermaLink="false">4dc1cc39-0858-4825-ac77-3d9233008331</guid>
+        </item>
+        <item>
+            <title>Yngve Slyngstad: - Jeg utviste dårlig dømmekraft</title>
+            <description>1. Oljefond-sjef Yngve Slyngstad beklager at han satt på med innleid privatfly fra Nicolai Tangens USA-seminar. 2. Klimagassutslippene synker historisk mye og Regjeringen har bestemt hvor &quot;iskanten&quot; skal gå.</description>
+            <pubDate>Thu, 23 Apr 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8a6aaaef-5801-45a6-bf68-b63ca6da8921_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M46S</itunes:duration>
+            <guid isPermaLink="false">8a6aaaef-5801-45a6-bf68-b63ca6da8921</guid>
+        </item>
+        <item>
+            <title>Nicolai Tangen forklarer seg om luksusseminar</title>
+            <description>Nicolai Tangen mener han inviterte &quot;ressurspersoner&quot; til USA, mens de offentlig ansatte gjestene hans vil betale tilbake turen.</description>
+            <pubDate>Tue, 21 Apr 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ed4d356e-4378-4914-afca-838a1aca6ed9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M22S</itunes:duration>
+            <guid isPermaLink="false">ed4d356e-4378-4914-afca-838a1aca6ed9</guid>
+        </item>
+        <item>
+            <title>- Sverige nærmer seg flokkimmunitet</title>
+            <description>Intervju med statsepidemiolog Anders Tegnell som forteller at strategien i Sverige fungerer. Betyr det at korona-tiltakene til nær 400 mrd kr i Norge har vært forgjeves? Sendingen er fra 16. april 2020.</description>
+            <pubDate>Thu, 16 Apr 2020 20:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/691a219e-204a-47c1-9a53-76f86e86a130_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M47S</itunes:duration>
+            <guid isPermaLink="false">691a219e-204a-47c1-9a53-76f86e86a130</guid>
+        </item>
+        <item>
+            <title>Bør Norge hente barn fra Moria-leiren?</title>
+            <description>Den ene siden mener Norge har en moralsk plikt til å hente barn ut av den korona-truede leiren, den andre mener Norge vil oppmuntre til menneskehandel. Sendingen er fra 14. april 2020.</description>
+            <pubDate>Tue, 14 Apr 2020 21:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cf9b5530-b74c-4f43-b4b8-7d5f1b0d4d3a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M7S</itunes:duration>
+            <guid isPermaLink="false">cf9b5530-b74c-4f43-b4b8-7d5f1b0d4d3a</guid>
+        </item>
+        <item>
+            <title>Er det riktig å åpne Norge igjen delvis nå?</title>
+            <description>Statsministeren og helsetoppene begrunner hvorfor det er forsvarlig å lette på enkelte smitteverntiltak fra uken etter påske. Sendingen er fra 7. april.</description>
+            <pubDate>Fri, 10 Apr 2020 16:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cf818c85-fc3d-4541-9dc8-37e71217c1f8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M37S</itunes:duration>
+            <guid isPermaLink="false">cf818c85-fc3d-4541-9dc8-37e71217c1f8</guid>
+        </item>
+        </channel>
+</rss>
