@@ -29,10 +29,15 @@ jobs:
         pwd
         ls
       shell: sh
+    
+    - name: ShowResults
+      run: |
+        pwd
+        ls
+        cat abels_taarn.rss
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        repository: ${{ env.DEVOPS_DIR }}
         add_options: '-A'
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         run: |
