@@ -21,7 +21,7 @@ jobs:
 
     - name: CreateRssFiles
       run: |
-        python CreateNrkRssFeed.py
+        python scripts/CreateNrkRssFeed.py
       shell: sh
     
     - name: ShowResults
