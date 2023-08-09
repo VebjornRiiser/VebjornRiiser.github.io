@@ -13,10 +13,6 @@ env:
 
 jobs:
   UpdateRssFeed:
-    
-    permissions:
-      contents: write
-
     name: Update Rss feed
     runs-on: ubuntu-latest
     steps:
