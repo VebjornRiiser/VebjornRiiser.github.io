@@ -19,6 +19,14 @@
         <!-- <itunes:author>BB</itunes:author> -->
         <!-- <description>Custom up to date Lørdagsrådet feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Vi er tilbake! (pluss 5 tilbakemeldinger)</title>
+            <description>Endelig tilbake. Obligatorisk ferieprat, tull, tilbakemeldinger og fyllemal!</description>
+            <pubDate>Wed, 09 Aug 2023 13:20:00 GMT </pubDate> <!-- Tue, 11 Oct 2022 02:00:00 GMT -->
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d3617de1-b321-4ea8-848d-11475420b0ca_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M19S</itunes:duration>
+            <guid isPermaLink="false">d3617de1-b321-4ea8-848d-11475420b0ca</guid>
+        </item>
+        <item>
             <title>Jenny Skavlan / Vegard Ylvisåker / Silje Nordnes - 2</title>
             <description>Vi løser problemene til folk i salen på Forum Scene i Bergen!</description>
             <pubDate>Sat, 05 Aug 2023 07:00:00 GMT </pubDate> <!-- Tue, 11 Oct 2022 02:00:00 GMT -->
