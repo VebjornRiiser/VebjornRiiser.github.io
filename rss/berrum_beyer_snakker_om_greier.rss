@@ -19,6 +19,14 @@
         <!-- <itunes:author>BB</itunes:author> -->
         <!-- <description>Custom up to date Berrum & Beyer snakker om greier feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Snorre Monsson: Kløfta, Solstad og humordebatt</title>
+            <description>Komiker Snorre Monsson er dagens gjest. Det blir preik om å vokse opp på Kløfta, ung humor i dag, og Dag Solstad-parodi.</description>
+            <pubDate>Fri, 11 Aug 2023 04:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f4bc4b22-0678-45a7-b361-4346ed7c3490_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M31S</itunes:duration>
+            <guid isPermaLink="false">f4bc4b22-0678-45a7-b361-4346ed7c3490</guid>
+        </item>
+        <item>
             <title>Dommedag, langrunk og Einstein</title>
             <description>Lars skal bli religiøs, Einstein har overraska i Oppenheimer, og Martin har skjønt hvor sykt Tyrkisk peber er.</description>
             <pubDate>Tue, 08 Aug 2023 04:00:00 GMT </pubDate>
