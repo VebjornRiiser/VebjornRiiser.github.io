@@ -27,6 +27,7 @@ jobs:
     
     - name: ShowResults
       run: |
+        cd rss
         pwd
         ls
       
