@@ -19,6 +19,14 @@
         <!-- <itunes:author>BB</itunes:author> -->
         <!-- <description>Custom up to date Lørdagsrådet feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Martin Lepperød / Annika Momrak / Harald Eia</title>
+            <description>Kom Nora seg opp på hesten igjen? PROBLEMER: Hjertesorg / Ostehøvel i kjøleskapet? / Sexbrev gjenglemt i hus av tidligere huseier / Kollektivhygiene / Mer lønn... igjen? / Nyutdannet i livskrise / Kattetyv i nabolaget / Går vi glipp av 20-årene?</description>
+            <pubDate>Sat, 12 Aug 2023 11:25:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a685500d-1e9c-4ecb-a1c1-d6d7c7b03944_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M37S</itunes:duration>
+            <guid isPermaLink="false">a685500d-1e9c-4ecb-a1c1-d6d7c7b03944</guid>
+        </item>
+        <item>
             <title>Vi er tilbake! (pluss 5 tilbakemeldinger)</title>
             <description>Endelig tilbake. Obligatorisk ferieprat, tull, tilbakemeldinger og fyllemal!</description>
             <pubDate>Wed, 09 Aug 2023 13:20:00 GMT </pubDate>
