@@ -19,6 +19,14 @@
         <!-- <itunes:author>BB</itunes:author> -->
         <!-- <description>Custom up to date Hele historien feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Hvalrossen Freya</title>
+            <description>Mange synes hun er søt. Men det store rovdyret gnager på båter, dreper svaner og er farlig for badegjester.</description>
+            <pubDate>Mon, 14 Aug 2023 04:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/313a9222-e0ca-410a-bb05-0bc58ab92cf3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M12S</itunes:duration>
+            <guid isPermaLink="false">313a9222-e0ca-410a-bb05-0bc58ab92cf3</guid>
+        </item>
+        <item>
             <title>Trango - triumf og tragedie (3:3)</title>
             <description>Selv om det verste har skjedd, går livet videre. Klatrekompisene setter seg nye mål. En av dem prøver å bli første norske på Mount Everest.</description>
             <pubDate>Thu, 01 Jun 2023 04:02:00 GMT </pubDate>
