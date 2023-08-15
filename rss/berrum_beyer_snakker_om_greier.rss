@@ -19,6 +19,14 @@
         <!-- <itunes:author>BB</itunes:author> -->
         <!-- <description>Custom up to date Berrum & Beyer snakker om greier feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+            <title>Dassen før bassen, halv halt, så du ræven?</title>
+            <description>Lars har halta etter fotball-kamp. Martin har vært på barneteater med Ole Soo. Sammen debriefer de Øya-festivalen</description>
+            <pubDate>Tue, 15 Aug 2023 04:00:00 GMT </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/200278a2-cd3b-4b21-b05a-68794c24131e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M</itunes:duration>
+            <guid isPermaLink="false">200278a2-cd3b-4b21-b05a-68794c24131e</guid>
+        </item>
+        <item>
             <title>Snorre Monsson: Kløfta, Solstad og humordebatt</title>
             <description>Komiker Snorre Monsson er dagens gjest. Det blir preik om å vokse opp på Kløfta, ung humor i dag, og Dag Solstad-parodi.</description>
             <pubDate>Fri, 11 Aug 2023 04:00:00 GMT </pubDate>
