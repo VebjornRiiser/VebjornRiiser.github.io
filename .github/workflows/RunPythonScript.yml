@@ -32,10 +32,5 @@ jobs:
         ls
       
     - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        run: |
-          echo "Got Changes!"
-          ls
 
 
