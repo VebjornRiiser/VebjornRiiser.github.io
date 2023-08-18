@@ -113,6 +113,7 @@ def create_header(json_object: dict):
 
 
 def create_feed(url: str) -> str:
+    full_rss_feed = ""
     response = requests.get(url)
     if response.ok:
         full_rss_feed = ""
@@ -120,6 +121,8 @@ def create_feed(url: str) -> str:
         full_rss_feed += create_header(json_object)
         full_rss_feed += create_episode_items(json_object)
         full_rss_feed += create_footer(json_object)
+    else:
+        print(f"Bad response from {url}. Got {response.status_code}"
     return full_rss_feed
 
 
@@ -163,5 +166,7 @@ if __name__ == "__main__":
     for pod in podnames:
         url = f"https://psapi.nrk.no/podcasts/{pod}/episodes?cursor=2130-06-17T18%3A00%3A00Z&Direction=backwards&PageCount=1000"
         rss_feed = create_feed(url)
+        if rss_feed == "":
+            continue
         with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
             feedfile.write(rss_feed)
