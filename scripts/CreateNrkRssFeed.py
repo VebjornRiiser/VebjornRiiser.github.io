@@ -122,7 +122,7 @@ def create_feed(url: str) -> str:
         full_rss_feed += create_episode_items(json_object)
         full_rss_feed += create_footer(json_object)
     else:
-        print(f"Bad response from {url}. Got {response.status_code}"
+        print(f"Bad response from {url}. Got {response.status_code}")
     return full_rss_feed
 
 
