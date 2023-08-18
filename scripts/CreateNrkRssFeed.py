@@ -74,7 +74,7 @@ class EpisodeItem:
 def json_to_episodeitem(json_items_object: list[dict]) -> list[EpisodeItem]:
     print(f"Converting to EpisodeItem")
     episodeitems: list[EpisodeItem] = []
-    for index, item in enumerate(json_items_object):
+    for index, item in enumerate(get_episodes_list(json_items_object)):
         episodeitems.append(EpisodeItem(item))
     return episodeitems
 
@@ -96,37 +96,43 @@ def create_header(json_object: dict):
     <channel>
         <title>CUSTOM: {get_show_title(json_object)}</title>
         <link>{get_show_link(json_object)}</link>
-        <!--<description>{json_object.get("_embedded").get("podcast").get("titles").get("subtitle")}</description>-->
+        <!--<description>{get_description(json_object)}</description>-->
         <language>no</language>
         <copyright>NRK © 2022</copyright>
         <category>Comedy</category>
         <image>
-        <title>{json_object.get("_embedded").get("podcast").get("titles").get("title").strip().replace("&", "&amp;")}</title>
-        <url>{json_object.get("_embedded").get("podcast").get("imageUrl")}</url>
-        <link>{json_object.get("_embedded").get("podcast").get("_links").get("podcast").get("href")}</link>
+        <title>{get_show_title(json_object)}</title>
+        <url>{get_show_image(json_object)}</url>
+        <link>{get_show_link(json_object)}</link>
         <width>144</width>
         <height>144</height>
-        </image> 
-        <!-- <itunes:author>BB</itunes:author> -->
-        <!-- <description>Custom up to date {json_object.get("_embedded").get("podcast").get("titles").get("title").strip()} feed</description> -->
-        <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>-->"""
+        </image>
+        """
+
+def get_episodes_list(json_object):
+    return json_object.get("_embedded").get("episodes")
 
 def get_show_title(json_object):
-    return json_object.get("_embedded").get("episodes")[0].get("originalTitle").strip().replace("&","&amp;")
+    return get_episodes_list(json_object)[0].get("originalTitle").strip().replace("&","&amp;")
 
 def get_show_link(json_object):
-    link = json_object.get("_embedded").get("episodes")[0].get("_links").get("share").get("href")
+    link = get_episodes_list(json_object)[0].get("_links").get("share").get("href")
     return "/".join(link.split("/")[0:-1])
+
+def get_description(json_object):
+    return "" # need to get separate file https://psapi.nrk.no/playback/metadata/podcast/berrum_beyer_snakker_om_greier/l_911b3bdf-2979-40df-9b3b-df297950dfef
+
+def get_show_image(json_object):
+    get_episodes_list(json_object)[0].get("image")[-1].get("url")
 
 def create_feed(url: str) -> str:
     # response = requests.get(url)
     # if response.ok:
     full_rss_feed = ""
     json_object = None
-    with open("episodes.json", 'r') as episode_json_file:
+    with open("./scripts/episodes.json", 'r') as episode_json_file:
         json_object = json.loads(episode_json_file.read())
     # json_object = json.loads(response.text)
-    a = json_object.get("_embedded").get("episodes")[0].get("originalTitle")
     full_rss_feed += create_header(json_object)
     full_rss_feed += create_episode_items(json_object)
     full_rss_feed += create_footer(json_object)
@@ -134,13 +140,14 @@ def create_feed(url: str) -> str:
     #     print(f"Bad response from {url}. Got {response.status_code}")
     return full_rss_feed
 
+def get_json_from_url(url: str):
+    pass
 
 def create_episode_items(json_object: dict) -> str:
-    number_of_episodes = json_object.get("_embedded").get("podcast").get("episodeCount")
-    if number_of_episodes != len(json_object.get("items")):
-        print("Wrong length of items list!")
-        exit(99)
+    number_of_episodes = len(get_episodes_list(json_object))
     itemstring = ""
+    # Get all items until number of episodes == 0
+    # combine them into a master episode item and then get all of them (could just replace _embedded.episodes)
     items = json_to_episodeitem(json_object.get("items"))
     for index, EpItem in enumerate(items):
         if index % 5 == 0:
@@ -173,11 +180,12 @@ if __name__ == "__main__":
 
 
     for pod in podnames:
-        for page_index in range(1,10):
+        page_index = 1
+        # for page_index in range(1,2):
             # må hente ut alle før man skriver
-            url = f"https://psapi.nrk.no/radio/catalog/podcast/{pod}/episodes?page={page_index}&pageSize=50&sort=desc"
-            rss_feed = create_feed(url)
-            if rss_feed == "":
-                continue
-            with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
-                feedfile.write(rss_feed)
+        url = f"https://psapi.nrk.no/radio/catalog/podcast/{pod}/episodes?page={page_index}&pageSize=50&sort=desc"
+        rss_feed = create_feed(url)
+        if rss_feed == "":
+            continue
+        with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
+            feedfile.write(rss_feed)
