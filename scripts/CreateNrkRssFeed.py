@@ -94,9 +94,9 @@ def create_header(json_object: dict):
         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
         xmlns:android="http://schemas.android.com/apk/res/android">
     <channel>
-        <title>CUSTOM: {json_object.get("_embedded").get("podcast").get("titles").get("title").strip().replace("&","&amp;")}</title>
-        <link>{json_object.get("_embedded").get("podcast").get("_links").get("podcast").get("href")}</link>
-        <description>{json_object.get("_embedded").get("podcast").get("titles").get("subtitle")}</description>
+        <title>CUSTOM: {get_show_title(json_object)}</title>
+        <link>{get_show_link(json_object)}</link>
+        <!--<description>{json_object.get("_embedded").get("podcast").get("titles").get("subtitle")}</description>-->
         <language>no</language>
         <copyright>NRK © 2022</copyright>
         <category>Comedy</category>
@@ -111,18 +111,27 @@ def create_header(json_object: dict):
         <!-- <description>Custom up to date {json_object.get("_embedded").get("podcast").get("titles").get("title").strip()} feed</description> -->
         <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>-->"""
 
+def get_show_title(json_object):
+    return json_object.get("_embedded").get("episodes")[0].get("originalTitle").strip().replace("&","&amp;")
+
+def get_show_link(json_object):
+    link = json_object.get("_embedded").get("episodes")[0].get("_links").get("share").get("href")
+    return "/".join(link.split("/")[0:-1])
 
 def create_feed(url: str) -> str:
+    # response = requests.get(url)
+    # if response.ok:
     full_rss_feed = ""
-    response = requests.get(url)
-    if response.ok:
-        full_rss_feed = ""
-        json_object = json.loads(response.text)
-        full_rss_feed += create_header(json_object)
-        full_rss_feed += create_episode_items(json_object)
-        full_rss_feed += create_footer(json_object)
-    else:
-        print(f"Bad response from {url}. Got {response.status_code}")
+    json_object = None
+    with open("episodes.json", 'r') as episode_json_file:
+        json_object = json.loads(episode_json_file.read())
+    # json_object = json.loads(response.text)
+    a = json_object.get("_embedded").get("episodes")[0].get("originalTitle")
+    full_rss_feed += create_header(json_object)
+    full_rss_feed += create_episode_items(json_object)
+    full_rss_feed += create_footer(json_object)
+    # else:
+    #     print(f"Bad response from {url}. Got {response.status_code}")
     return full_rss_feed
 
 
@@ -156,7 +165,7 @@ if __name__ == "__main__":
                 "loerdagsraadet",
                 "debatten",
                 "radio_moerch"]
-    
+    #example url https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/berrum_beyer_snakker_om_greier/9aff0403-327c-4e0b-bf04-03327cce0b37.mp3
     if (os.path.exists(PODLISTFILENAME)):
         print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
         with open(PODLISTFILENAME, 'r') as PodcastListFile:
@@ -164,9 +173,11 @@ if __name__ == "__main__":
 
 
     for pod in podnames:
-        url = f"https://psapi.nrk.no/podcasts/{pod}/episodes?cursor=2130-06-17T18%3A00%3A00Z&Direction=backwards&PageCount=1000"
-        rss_feed = create_feed(url)
-        if rss_feed == "":
-            continue
-        with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
-            feedfile.write(rss_feed)
+        for page_index in range(1,10):
+            # må hente ut alle før man skriver
+            url = f"https://psapi.nrk.no/radio/catalog/podcast/{pod}/episodes?page={page_index}&pageSize=50&sort=desc"
+            rss_feed = create_feed(url)
+            if rss_feed == "":
+                continue
+            with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
+                feedfile.write(rss_feed)
