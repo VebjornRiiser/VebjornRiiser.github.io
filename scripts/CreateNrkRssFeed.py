@@ -88,7 +88,6 @@ class EpisodeItem:
 
 
 def json_to_episodeitem(episodes, playback_list) -> list[EpisodeItem]:
-    print(f"Converting to EpisodeItem")
     episodeitems: list[EpisodeItem] = []
     try:
         for item, playback_url in zip(episodes, playback_list):
