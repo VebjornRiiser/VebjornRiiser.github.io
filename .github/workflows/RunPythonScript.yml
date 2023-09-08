@@ -22,7 +22,6 @@ jobs:
     - name: CreateRssFiles
       run: |
         cd rss
-        pip3 install -r ../scripts/requirements.txt
         python ../scripts/CreateNrkRssFeed.py
       shell: sh
     
