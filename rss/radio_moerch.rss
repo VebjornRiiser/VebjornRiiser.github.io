@@ -4,158 +4,192 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <channel>
         <title>CUSTOM: Radio Mørch</title>
-        <link>https://psapi.nrk.no/podcasts/radio_moerch</link>
-        <description>Podkast av og med Erlend Mørch, og folk han gjerne vil snakke med.</description>
+        <link>https://radio.nrk.no/podkast/radio_moerch</link>
+        <!--<description></description>-->
         <language>no</language>
         <copyright>NRK © 2022</copyright>
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/RRgAK3VmgRAH9raDR-lkvwG4l3UYoampC_4W9juA9g6g</url>
-        <link>https://psapi.nrk.no/podcasts/radio_moerch</link>
+        <url>https://gfx.nrk.no/FspjPV6XSyQNjx2Uj0gxHwGDMyJBO4SoMHMXudW0kxfQ</url>
+        <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
-        </image> 
-        <!-- <itunes:author>BB</itunes:author> -->
-        <!-- <description>Custom up to date Radio Mørch feed</description> -->
-        <!--<itunes:image href="https://gfx.nrk.no/1J1itjoQOpBLfHDw3Y7FUQyhLJqIrokksb5LOB4IgvDw.png"/>--><item>
+        </image>
+        
+        <item>
+            <title>Fetisha Williams</title>
+            <description>Fetisha og jeg ble kjent da vi var med på TV-programmet Gym. Jeg vil vite mer om henne, og har invitert henne til podkasten.</description>
+            <pubDate>2023-09-07T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/44421ad7-6e2e-449e-a84b-b1710f133823_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M33S</itunes:duration>
+            <guid isPermaLink="false">44421ad7-6e2e-449e-a84b-b1710f133823</guid>
+        </item>
+        
+        <item>
+            <title>Vebjørn Selbekk</title>
+            <description>Podkasten er endelig tilbake! Dagens gjest: Vebjørn Selbekk. Det er han som publiserte karikaturtegningene og var med på Farmen! God fornøyelse!</description>
+            <pubDate>2023-08-31T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b0dd0e62-d9f1-4fc6-bcd2-019754272ea6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H11M21S</itunes:duration>
+            <guid isPermaLink="false">b0dd0e62-d9f1-4fc6-bcd2-019754272ea6</guid>
+        </item>
+        
+        <item>
             <title>Gucci Gaute</title>
             <description>Gucci Gaute og jeg snakker om edgelords og grønn hverdag.</description>
-            <pubDate>Mon, 03 Jul 2023 04:00:00 GMT </pubDate>
+            <pubDate>2023-07-03T06:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/02f28f5b-d966-4f9b-8fe4-d9d7dfb241b2_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H17M15S</itunes:duration>
             <guid isPermaLink="false">02f28f5b-d966-4f9b-8fe4-d9d7dfb241b2</guid>
         </item>
+        
         <item>
             <title>Berrum, Stuve, Lia, Mamma&amp;Pappa, Joachim Førsund</title>
             <description>Berrum, Stuve, Lia, mamma og pappa, Joachim Førsund. Jeg knoter det til og bruker telefonen min til å lage kul nødløsning!</description>
-            <pubDate>Mon, 26 Jun 2023 04:00:10 GMT </pubDate>
+            <pubDate>2023-06-26T06:00:10+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ae0ceebf-991d-4858-bb02-62b392f04ac2_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M26S</itunes:duration>
             <guid isPermaLink="false">ae0ceebf-991d-4858-bb02-62b392f04ac2</guid>
         </item>
+        
         <item>
             <title>Tellef Raabe</title>
             <description>Han er medieviter og broren til Sigrid! Vi snakker om media, norsk journalistikk og livet som middelklassemann, litt Nord Stream så klart. Og litt USA.</description>
-            <pubDate>Mon, 19 Jun 2023 00:21:55 GMT </pubDate>
+            <pubDate>2023-06-19T02:21:55+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/f945e764-8097-49bf-b1fa-de5d24dec0d8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H19M37S</itunes:duration>
             <guid isPermaLink="false">f945e764-8097-49bf-b1fa-de5d24dec0d8</guid>
         </item>
+        
         <item>
             <title>Linnéa Myhre</title>
             <description>Om soving, festing og humor.</description>
-            <pubDate>Mon, 12 Jun 2023 03:00:54 GMT </pubDate>
+            <pubDate>2023-06-12T05:00:54+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/5e196daf-18e7-445b-835c-536a4e3bb571_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H44M27S</itunes:duration>
             <guid isPermaLink="false">5e196daf-18e7-445b-835c-536a4e3bb571</guid>
         </item>
+        
         <item>
             <title>Mímir Kristjánsson er tilbake!</title>
             <description>Noen gjester blir man aldri lei av. Mímir er tilbake!</description>
-            <pubDate>Mon, 05 Jun 2023 08:18:49 GMT </pubDate>
+            <pubDate>2023-06-05T10:18:49+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/2e792fbb-520c-4850-8c94-328d4348d671_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H31M37S</itunes:duration>
             <guid isPermaLink="false">2e792fbb-520c-4850-8c94-328d4348d671</guid>
         </item>
+        
         <item>
             <title>Vegar Tryggeseid</title>
             <description>To (u)populære komikere møtes hos Radio Mørch; Meg selv og Vegar Tryggeseid.</description>
-            <pubDate>Sun, 21 May 2023 04:00:58 GMT </pubDate>
+            <pubDate>2023-05-21T06:00:58+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/28194514-ecb5-45f3-a9e6-7de41d77c612_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M47S</itunes:duration>
             <guid isPermaLink="false">28194514-ecb5-45f3-a9e6-7de41d77c612</guid>
         </item>
+        
         <item>
             <title>Meg selv! AI, Ananas og Tesla</title>
             <description>Var opptatt denne uka, så her er en liten indre monolog.</description>
-            <pubDate>Mon, 15 May 2023 04:00:40 GMT </pubDate>
+            <pubDate>2023-05-15T06:00:40+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d26bab23-1ec8-443e-9078-982ae9cea957_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M10S</itunes:duration>
             <guid isPermaLink="false">d26bab23-1ec8-443e-9078-982ae9cea957</guid>
         </item>
+        
         <item>
             <title>Bjørn Asgeirsson</title>
             <description>Min venn Bjørn Asgeirsson aka «Hva er det?» aka «@pappahjerne» aka «Znorky».</description>
-            <pubDate>Mon, 08 May 2023 04:00:11 GMT </pubDate>
+            <pubDate>2023-05-08T06:00:11+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/8703dfe0-a922-4d05-ae2d-73b08d1a5221_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M16S</itunes:duration>
             <guid isPermaLink="false">8703dfe0-a922-4d05-ae2d-73b08d1a5221</guid>
         </item>
+        
         <item>
             <title>Lars Berrum</title>
             <description>Lars kom på besøk. Vi snakka om fantasier, dagdrømming, hytte og framtida.</description>
-            <pubDate>Mon, 01 May 2023 04:00:10 GMT </pubDate>
+            <pubDate>2023-05-01T06:00:10+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/9eba1d3f-1911-4586-9af5-1d88d9f1efe8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H30M42S</itunes:duration>
             <guid isPermaLink="false">9eba1d3f-1911-4586-9af5-1d88d9f1efe8</guid>
         </item>
+        
         <item>
             <title>Anine Kierulf</title>
             <description>Anine Kierulf er jurist, førsteamanuensis og spesialrådgiver. Hun kan masse om konstitusjonelle spørsmål, menneskerettigheter og ytringsfrihet.</description>
-            <pubDate>Mon, 24 Apr 2023 03:00:34 GMT </pubDate>
+            <pubDate>2023-04-24T05:00:34+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/6e3fd3af-31a8-4a61-9311-d3a7da73a7f7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M37S</itunes:duration>
             <guid isPermaLink="false">6e3fd3af-31a8-4a61-9311-d3a7da73a7f7</guid>
         </item>
+        
         <item>
             <title>Nikolai Melamed Kleivan</title>
             <description>Nikolai Melamed Kleivan er journalist i Morgenbladet. I denne episoden forteller han om Jura, en ukrainsk soldat som forsvant.</description>
-            <pubDate>Mon, 17 Apr 2023 04:00:44 GMT </pubDate>
+            <pubDate>2023-04-17T06:00:44+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/69d3dd7c-e2f4-4326-aca8-5134b790d1ec_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H38M57S</itunes:duration>
             <guid isPermaLink="false">69d3dd7c-e2f4-4326-aca8-5134b790d1ec</guid>
         </item>
+        
         <item>
             <title>Harald Eia</title>
             <description>Hva er det morsomste Harald Eia mener han har laga?</description>
-            <pubDate>Mon, 10 Apr 2023 04:00:25 GMT </pubDate>
+            <pubDate>2023-04-10T06:00:25+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ad4426fa-37cf-4365-8eac-d5c38d301d53_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H57S</itunes:duration>
             <guid isPermaLink="false">ad4426fa-37cf-4365-8eac-d5c38d301d53</guid>
         </item>
+        
         <item>
             <title>@Utlending.memes aka Javad El Bakali</title>
             <description>Meme-kongen er faktisk min kompis fra videregående!</description>
-            <pubDate>Mon, 03 Apr 2023 03:00:19 GMT </pubDate>
+            <pubDate>2023-04-03T05:00:19+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c2623472-0161-476f-bd97-6b883e0d3666_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H12M14S</itunes:duration>
             <guid isPermaLink="false">c2623472-0161-476f-bd97-6b883e0d3666</guid>
         </item>
+        
         <item>
             <title>Amalie Stuve</title>
             <description>Komiker Amalie Stuve elsker å stille spørsmål. I dag stiller hun dem til meg.</description>
-            <pubDate>Mon, 27 Mar 2023 04:00:33 GMT </pubDate>
+            <pubDate>2023-03-27T06:00:33+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/6fe27389-86fd-40ca-8bbd-ec93dd67be8d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H12M33S</itunes:duration>
             <guid isPermaLink="false">6fe27389-86fd-40ca-8bbd-ec93dd67be8d</guid>
         </item>
+        
         <item>
             <title>Steinar Klouman Hallert</title>
             <description>Rare scenarioer og Steinar ringer HBO.
 
 UPDATE: FIKK IKKE TILBAKE BILLIG HBO.</description>
-            <pubDate>Sun, 19 Mar 2023 05:00:07 GMT </pubDate>
+            <pubDate>2023-03-19T06:00:07+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b65904b6-867f-4b5b-b736-90af19dca3aa_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H26M51S</itunes:duration>
             <guid isPermaLink="false">b65904b6-867f-4b5b-b736-90af19dca3aa</guid>
         </item>
+        
         <item>
             <title>Fanny Vaager</title>
             <description>Humor er in igjen! Og tilhører fedme fortiden?</description>
-            <pubDate>Sun, 12 Mar 2023 07:00:28 GMT </pubDate>
+            <pubDate>2023-03-12T08:00:28+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b048fd5c-3c56-43e0-bd7d-d6ebf322ec41_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H9M45S</itunes:duration>
             <guid isPermaLink="false">b048fd5c-3c56-43e0-bd7d-d6ebf322ec41</guid>
         </item>
+        
         <item>
             <title>Christer Falck</title>
             <description>Christer deler historier som kan tyde på at han er ond.</description>
-            <pubDate>Sun, 05 Mar 2023 20:01:21 GMT </pubDate>
+            <pubDate>2023-03-05T21:01:21+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b1df44b4-cc7f-4bfa-a37c-f7f3cffa63ee_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H34M24S</itunes:duration>
             <guid isPermaLink="false">b1df44b4-cc7f-4bfa-a37c-f7f3cffa63ee</guid>
         </item>
+        
         <item>
             <title>Lasse Gjertsen</title>
             <description>&quot;Lassegg&quot; er en norsk Youtube-legende. Men hva skjedde med ham? 
@@ -164,15 +198,16 @@ Advarsel: selvmords-preik. Trenger du noen å snakke med? Kontakt: Mental helses
 
 Se andre hjelpetjenester her: 
 https://www.helsenorge.no/psykisk-helse/trenger-du-noen-a-snakke-med/#hjelpetelefoner-og-chat</description>
-            <pubDate>Sun, 26 Feb 2023 23:04:48 GMT </pubDate>
+            <pubDate>2023-02-27T00:04:48+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/88cb9c39-da41-4c30-a2fc-e89b337ead5e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H34M39S</itunes:duration>
             <guid isPermaLink="false">88cb9c39-da41-4c30-a2fc-e89b337ead5e</guid>
         </item>
+        
         <item>
             <title>Mímir Kristjánsson</title>
             <description>Mímir. Frittalende populær politiker for Rødt.</description>
-            <pubDate>Sun, 26 Feb 2023 13:30:00 GMT </pubDate>
+            <pubDate>2023-02-26T14:30:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radio_moerch/a787d7ff-978e-4d4c-ba09-6b8263eda415_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H14M42S</itunes:duration>
             <guid isPermaLink="false">a787d7ff-978e-4d4c-ba09-6b8263eda415</guid>
