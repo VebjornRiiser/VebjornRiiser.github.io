@@ -208,13 +208,15 @@ def get_number_of_episodes_from_episode_json(json_str: str) -> int:
     return len(eps)
 
 
-def get_all_playback_urls(episode_list: list[str]) -> list[str]:
-
-    urls_to_fetch = [
-        f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
-    loop = asyncio.get_event_loop()
-    EpisodeResults: list[httpx.Response] = loop.run_until_complete(
-        fetch_urls(urls_to_fetch))
+def get_all_playback_urls(episode_list: list[str], requests_per_sec = 10) -> list[str]:
+    EpisodeResults: list[requests.Response] = []
+    urls_to_fetch = [f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
+    with requests.session() as sess:
+        for url in urls_to_fetch:
+            response : requests.Response = sess.get(url)
+            response.raise_for_status()
+            EpisodeResults.append(response)
+            time.sleep(1/requests_per_sec)
 
     playback_urls: list[str] = []
     for response in EpisodeResults:
