@@ -4,10 +4,9 @@ import os
 import time
 import requests
 import json
+# 'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
 PODLISTFILENAME = "PodcastsToUpdate.txt"
-RequestHeaders = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
-                  "Accept": "*/*",
-                  "Accept-Encoding": "gzip, deflate, br",
+RequestHeaders = {"Accept": "*/*",
                   "Accept-Language": "en-US,en;q=0.5", }
 
 
@@ -216,12 +215,13 @@ def get_number_of_episodes_from_episode_json(json_str: str) -> int:
     return len(eps)
 
 
-def get_all_playback_urls(episode_list: list[str], requests_per_sec = 10) -> list[str]:
+def get_all_playback_urls(episode_list: list[str], requests_per_sec=10) -> list[str]:
     EpisodeResults: list[requests.Response] = []
-    urls_to_fetch = [f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
+    urls_to_fetch = [
+        f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
     with requests.session() as sess:
         for url in urls_to_fetch:
-            response : requests.Response = sess.get(url)
+            response: requests.Response = sess.get(url)
             response.raise_for_status()
             EpisodeResults.append(response)
             time.sleep(1/requests_per_sec)
@@ -261,6 +261,7 @@ def generate_episode_rss(items):
         </item>
         """
     return itemstring
+
 
 if __name__ == "__main__":
     podnames = [
