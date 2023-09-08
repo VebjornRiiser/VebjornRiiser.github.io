@@ -6,9 +6,9 @@ import requests
 import json
 PODLISTFILENAME = "PodcastsToUpdate.txt"
 RequestHeaders = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
-                  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                  "Accept": "*/*",
                   "Accept-Encoding": "gzip, deflate, br",
-                  "Accept-Language": "en-US,en;q=0.5"}
+                  "Accept-Language": "en-US,en;q=0.5", }
 
 
 def create_footer(json_object: dict) -> str:
@@ -193,6 +193,7 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
         try:
             _json = json.loads(response.text)
         except Exception as ex:
+            print(response.headers["content-type"])
             print(ex, response.text)
 
         episode_json_list.extend(get_episodes_list(_json))
