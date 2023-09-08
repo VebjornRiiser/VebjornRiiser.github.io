@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-import asyncio
 from datetime import datetime
 import os
 import time
-import httpx
 import requests
 import json
 PODLISTFILENAME = "PodcastsToUpdate.txt"
@@ -168,7 +166,6 @@ def create_feed(url: str) -> str:
 
     episode_json_list = get_all_episode_items(url)
     # Need to get all the episodes.json until there is no more and then get all the playback pages
-    # json_object = json.loads(response.text)
     full_rss_feed += create_header(episode_json_list[0])
     full_rss_feed += create_episode_items(episode_json_list)
     full_rss_feed += create_footer(episode_json_list[0])
@@ -191,8 +188,14 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
         response = requests.get(url, headers=RequestHeaders)
 
         response.raise_for_status()
+        print("At page index ", page_index)
+        _json = ""
+        try:
+            _json = json.loads(response.text)
+        except Exception as ex:
+            print(ex, response.text)
 
-        episode_json_list.extend(get_episodes_list(json.loads(response.text)))
+        episode_json_list.extend(get_episodes_list(_json))
 
         if get_number_of_episodes_from_episode_json(response.text) != 50:
             break
@@ -253,26 +256,6 @@ def generate_episode_rss(items):
         </item>
         """
     return itemstring
-
-
-async def fetch_urls(urls, requests_per_second=25):
-    async with httpx.AsyncClient(headers=RequestHeaders) as client:
-        sem = asyncio.Semaphore(requests_per_second)
-        tasks = [fetch_url(client, url, sem) for url in urls]
-        results = await asyncio.gather(*tasks)
-        return results
-
-
-async def fetch_url(client: httpx.Client, url, semaphore: asyncio.Semaphore):
-    async with semaphore:
-
-        response: httpx.Response = await client.get(url)
-        response.raise_for_status()
-
-        await asyncio.sleep(1)
-
-    return response
-
 
 if __name__ == "__main__":
     podnames = [
