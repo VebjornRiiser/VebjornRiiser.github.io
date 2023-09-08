@@ -193,10 +193,12 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
         with open("debug.content", 'wb') as file:
             file.write(response.content)
         try:
-            _json = json.loads(response.content)
+            _json = json.loads(response.content.hex())
         except Exception as ex:
             print(response.headers["content-type"])
-            print(ex, response.text)
+            print(ex)
+            print()
+            print(response.content.hex())
 
         episode_json_list.extend(get_episodes_list(_json))
 
