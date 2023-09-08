@@ -188,7 +188,7 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
 
         response.raise_for_status()
         print("At page index ", page_index)
-        
+
         episode_json_list.extend(get_episodes_list(json.loads(response.content)))
 
         if get_number_of_episodes_from_episode_json(response.text) != 50:
@@ -205,7 +205,7 @@ def get_number_of_episodes_from_episode_json(json_str: str) -> int:
     return len(eps)
 
 
-def get_all_playback_urls(episode_list: list[str], requests_per_sec=10) -> list[str]:
+def get_all_playback_urls(episode_list: list[str], requests_per_sec=20) -> list[str]:
     EpisodeResults: list[requests.Response] = []
     urls_to_fetch = [
         f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
