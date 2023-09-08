@@ -190,6 +190,8 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
         response.raise_for_status()
         print("At page index ", page_index)
         _json = ""
+        with open("debug.content", 'wb') as file:
+            file.write(response.content)
         try:
             _json = json.loads(response.content)
         except Exception as ex:
