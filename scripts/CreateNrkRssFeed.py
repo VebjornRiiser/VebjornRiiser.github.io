@@ -188,18 +188,8 @@ def get_all_episode_items(base_url: str, requests_per_second=2):
 
         response.raise_for_status()
         print("At page index ", page_index)
-        _json = ""
-        with open("debug.content", 'wb') as file:
-            file.write(response.content)
-        try:
-            _json = json.loads(response.content)
-        except Exception as ex:
-            print(response.headers["content-type"])
-            print(ex)
-            print()
-            print(response.content)
-
-        episode_json_list.extend(get_episodes_list(_json))
+        
+        episode_json_list.extend(get_episodes_list(json.loads(response.content)))
 
         if get_number_of_episodes_from_episode_json(response.text) != 50:
             break
