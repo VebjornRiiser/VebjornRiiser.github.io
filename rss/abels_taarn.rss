@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Yhluc7JEqN-2F57v6xCdbwXnv8oh2ahmsrjA-_7NKL-Q</url>
+        <url>https://gfx.nrk.no/pIDW4tBU_8RpBChLYILw-AqbWpFUKLcLHIi9FSDFnfnw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels spesial - Bondens nye hjelper AX-1 roboten</title>
+            <description>AX-1 roboten jakter ugress og dreper det med en liten sprut. 
+Dette er presisjonsluking og kan spare miljøet for mye gift.</description>
+            <pubDate>2023-09-10T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT20M55S</itunes:duration>
+            <guid isPermaLink="false">bdbc045d-4f0f-4fb1-b517-5f8149a2aa15</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten</title>
