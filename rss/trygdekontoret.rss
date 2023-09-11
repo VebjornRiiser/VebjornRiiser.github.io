@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/6_FYa5oA1c634hU-9y62FQvBx78lzDW1laJn5FDBHn3Q</url>
+        <url>https://gfx.nrk.no/RkS05bVFsjxO0Ykr1W6joweNTupxiBm46oEVFxLY27_A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Saudi Arabia</title>
+            <description>Hva er egentlig planen til Saudi Arabia? Og hvorfor bruker de så mye penger på fotballspillere? Med Midtøsten-forsker ved Universitetet i Oslo og gjesteforsker i Saudi-Arabia, Charlotte Lysa og tidligere praktikant ved den Saudi Arabiske Ambassaden i Saudi Arabia, Reier Møll Schoder.</description>
+            <pubDate>2023-09-11T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7eb9c82b-84f8-417b-a845-a9ed6ed0413b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H22M6S</itunes:duration>
+            <guid isPermaLink="false">7eb9c82b-84f8-417b-a845-a9ed6ed0413b</guid>
+        </item>
         
         <item>
             <title>Urix spesial</title>
