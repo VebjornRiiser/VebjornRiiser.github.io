@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/DgHkWjj2A5qLfyf6dmGZmwQ0xCMI3D47UkGtytjK-ycg</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forrædertest, kaffegrut og teambuilding</title>
+            <description>Lars kunne ikke vært programleder i forræder. Martin har fått tilbud om kaffegrut på isen. Sammen diskuterer de teambuilding.</description>
+            <pubDate>2023-09-12T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/8c62de27-e4c6-467b-bf03-18bd099b2cc5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M37S</itunes:duration>
+            <guid isPermaLink="false">8c62de27-e4c6-467b-bf03-18bd099b2cc5</guid>
+        </item>
         
         <item>
             <title>Kim Kolstad: Isbiter og ungdomskilden</title>
