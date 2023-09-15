@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/l7sZTqTo8Ly3Sd7XS2blwQjsz0XR4Nv5Oy1KIdie8kmw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Niklas Baarli: ballong og brukket rygg</title>
+            <description>Programleder Niklas Baarli er dagens gjest. Det blir prat om ballongen han har i magen, roasten i bryllupet hans og da han brakk ryggen.</description>
+            <pubDate>2023-09-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b4bf2b26-4736-417b-b1a1-9278d30f3903_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M46S</itunes:duration>
+            <guid isPermaLink="false">b4bf2b26-4736-417b-b1a1-9278d30f3903</guid>
+        </item>
         
         <item>
             <title>Forrædertest, kaffegrut og teambuilding</title>
