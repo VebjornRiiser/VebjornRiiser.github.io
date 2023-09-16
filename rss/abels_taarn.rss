@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Bcyrta9R5-FJcE3uXxFKVAuPx-JaYuOWwnfCu8jauPvw</url>
+        <url>https://gfx.nrk.no/b54YBjePJD5ObRD1yJAQCAZ922RdKFuB5ks3bdUF5WAQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels spesial #3 - Kan vi leve uten plast?</title>
+            <description>Hvorfor er det så vanskelig å resirkulere plast?</description>
+            <pubDate>2023-09-16T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M14S</itunes:duration>
+            <guid isPermaLink="false">3cc71583-fc10-43fd-bbd4-26c708d1762a</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Kan aliens leve i det tomme verdensrommet?</title>
@@ -3034,19 +3043,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -3065,6 +3061,19 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8128f7a8-3016-455e-b49c-ac059e08b617_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT57M8S</itunes:duration>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
+        </item>
+        
+        <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
