@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/MauKQXhcXvIC_wyMfsZ61Adus1hYqJz8qxrOKj7AI-MA</url>
+        <url>https://gfx.nrk.no/WIyZYZteCAJA_4b-XcI7lAQ6tmgDD2AP01a9Qljjppew</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Olli Wermskog / Janne Rønningen / Johannes Fürst</title>
+            <description>Er Jonathan på festival alene? PROBLEMER: Han blir en annen når vi krangler / Hvor mye koster en Halloweenfest? / Hytta med et hjem i mitt hjerte / Samboer, eller ikke samboer? / Pakkedeal - og Ødipus er med / Mobbing i småskolen og møte med rektor / Bro-code, eller? / Livsfarlig Moped i Roma</description>
+            <pubDate>2023-09-16T13:22:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c1df8acc-2a21-4247-9c3b-cd8c140b749c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H16M3S</itunes:duration>
+            <guid isPermaLink="false">c1df8acc-2a21-4247-9c3b-cd8c140b749c</guid>
+        </item>
         
         <item>
             <title>Lars Berrum / Odd Nordstoga / Ingrid Gjessing Linhave</title>
