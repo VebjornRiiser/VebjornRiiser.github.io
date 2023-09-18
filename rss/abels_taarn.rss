@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/b54YBjePJD5ObRD1yJAQCAZ922RdKFuB5ks3bdUF5WAQ</url>
+        <url>https://gfx.nrk.no/4Dkh2oNi-VUSgGDD56ThlwwK0lWHQTtYa1jKExL4PhCQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - om myggens preferanser, sorte stjerner og neshorn</title>
+            <description>Myggens preferanser, sorte stjerner og utsetting av neshorn</description>
+            <pubDate>2023-09-18T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M59S</itunes:duration>
+            <guid isPermaLink="false">6c8ef332-8e16-40b0-860d-2879f020223b</guid>
+        </item>
         
         <item>
             <title>Abels spesial #3 - Kan vi leve uten plast?</title>
@@ -2434,6 +2443,22 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
         </item>
         
         <item>
+            <title>Abels bakgård - Ødelegger vi havet?</title>
+            <description>Hvordan har havet det langs Norges kystnære områder?
+Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
+
+Hvorfor blir havet nær kysten mørkere?
+
+Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
+
+Dette høres litt mørkt ut men vi ser også på løsninger.</description>
+            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Er vi datafigurer i en stor simulering av virkeligheten?</title>
             <description>- Om det finnes paralelle universer, finnes det da flere av meg? 
 
@@ -2454,22 +2479,6 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
             <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8edab392-25fe-415f-a216-90ebf8dbe9d1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT57M36S</itunes:duration>
             <guid isPermaLink="false">8edab392-25fe-415f-a216-90ebf8dbe9d1</guid>
-        </item>
-        
-        <item>
-            <title>Abels bakgård - Ødelegger vi havet?</title>
-            <description>Hvordan har havet det langs Norges kystnære områder?
-Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
-
-Hvorfor blir havet nær kysten mørkere?
-
-Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
-
-Dette høres litt mørkt ut men vi ser også på løsninger.</description>
-            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M36S</itunes:duration>
-            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
         </item>
         
         <item>
@@ -3043,6 +3052,19 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -3061,19 +3083,6 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8128f7a8-3016-455e-b49c-ac059e08b617_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT57M8S</itunes:duration>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
-        </item>
-        
-        <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>

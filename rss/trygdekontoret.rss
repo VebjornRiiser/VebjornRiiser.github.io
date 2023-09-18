@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/RkS05bVFsjxO0Ykr1W6joweNTupxiBm46oEVFxLY27_A</url>
+        <url>https://gfx.nrk.no/HeOzGcHQ_SePp0gDEP0nBAzwgZ6nU7-Ih9v07qS_aYVg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ytringsfrihetens fremtid</title>
+            <description>Hva er egentlig en ytring? Og er det en god idé å forby koranbrenning? Med Anine Kierulf og Vebjørn Selbekk.</description>
+            <pubDate>2023-09-18T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/6f799853-2d59-40fb-9eb5-462680332a07_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H16M31S</itunes:duration>
+            <guid isPermaLink="false">6f799853-2d59-40fb-9eb5-462680332a07</guid>
+        </item>
         
         <item>
             <title>Saudi Arabia</title>
