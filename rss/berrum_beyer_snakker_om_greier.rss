@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/l7sZTqTo8Ly3Sd7XS2blwQjsz0XR4Nv5Oy1KIdie8kmw</url>
+        <url>https://gfx.nrk.no/vs36SGAPP_UITqILiEqXhwztF2louL1XDSVJiFTWDSGQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vognkaos, stokkhytting og to hei totalt</title>
+            <description>Lars har hatt plass-trøbbel på tog. Olli har sett alt fælt på en trikketur. Sammen diskuterer hvor mange hei man skal ha på mail.</description>
+            <pubDate>2023-09-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1f8f8871-f93a-4dd1-97e5-c655cd0abeda_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H17M27S</itunes:duration>
+            <guid isPermaLink="false">1f8f8871-f93a-4dd1-97e5-c655cd0abeda</guid>
+        </item>
         
         <item>
             <title>Niklas Baarli: ballong og brukket rygg</title>
