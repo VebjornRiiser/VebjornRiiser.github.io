@@ -1476,5 +1476,14 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:duration>PT55M16S</itunes:duration>
             <guid isPermaLink="false">b07682aa-8b9f-4096-9b9c-b98e4ca737dc</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Dødelig sprit - metanolsaken</title>
+            <description>Store penger, 18 døde og et tresifret antall siktede – Norgeshistoriens største spritsmuglersak har forgreininger til mange land. Kommer 21.09.23 i NRK Radio.</description>
+            <pubDate>2023-09-20T11:32:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/9a74024f-ed5a-4e0e-bbab-e0d674ffbb9c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52S</itunes:duration>
+            <guid isPermaLink="false">9a74024f-ed5a-4e0e-bbab-e0d674ffbb9c</guid>
+        </item>
         </channel>
 </rss>
