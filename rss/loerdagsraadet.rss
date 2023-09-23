@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/WIyZYZteCAJA_4b-XcI7lAQ6tmgDD2AP01a9Qljjppew</url>
+        <url>https://gfx.nrk.no/YGuZp54EBamE-pIFP81s5QrxYqzOlZ9IZuKI7nBOvBPQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Galvan Mehidi / Kristine Grændsen / Chris Holsten</title>
+            <description>Flyttet Vera sammen med kjæresten eller til gokk? PROBLEMER: Hvem skal lese dagbøkene? / Pornotreningslyder / Forlate samboeren for en kollega? / Dårlig på konstruktiv kritikk / STOP THE WEDDING! / Samboeren min blir utestengt / Frykten for funksjonsnedsettelseskortet / Etikk i dating / Ikke-overraskelsesfest</description>
+            <pubDate>2023-09-23T13:31:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/866d60f4-3501-4c8b-911e-c15aa16756f6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H6M35S</itunes:duration>
+            <guid isPermaLink="false">866d60f4-3501-4c8b-911e-c15aa16756f6</guid>
+        </item>
         
         <item>
             <title>Olli Wermskog / Janne Rønningen / Johannes Fürst</title>
