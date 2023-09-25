@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_QSW-8gdBpclZYeBsvpn1wOQ0ayBLoSbsw-5kgDvXfaA</url>
+        <url>https://gfx.nrk.no/yMFyx57kM3-uJDh-0MI-_A9OlKdrJldCrRcB29kNqvqw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Steinslikkende forskere, hundespråk og Necrobotics</title>
+            <description>- Snakker du &quot;hundsk&quot;?  - Hvor god er du egentlig til å forstå hundensmimikk?
+- Motsatt vaksine mot MS
+- Hvorfor liker enkelte forskere å slikke på steiner?  ... og andre utvalgte Ig-Nobelpriser</description>
+            <pubDate>2023-09-25T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6a64d669-edf9-430d-9612-a785f43ce882_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M28S</itunes:duration>
+            <guid isPermaLink="false">6a64d669-edf9-430d-9612-a785f43ce882</guid>
+        </item>
         
         <item>
             <title>Abels spesial - Kosen med narkosen</title>
