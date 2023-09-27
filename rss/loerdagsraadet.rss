@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/YGuZp54EBamE-pIFP81s5QrxYqzOlZ9IZuKI7nBOvBPQ</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>En mengde mailer!</title>
+            <description>Vi durer igjennom masse rusk og rask: Middag med Live, Odd-fest, hva hvis man kjenner noen som har fått problemet sitt løst i LR? Hvordan ser egentlig Dr. Jones ut? Forslagskasse?</description>
+            <pubDate>2023-09-27T08:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3bb71f11-b6fc-4027-990d-cbbb0805d635_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT17M58S</itunes:duration>
+            <guid isPermaLink="false">3bb71f11-b6fc-4027-990d-cbbb0805d635</guid>
+        </item>
         
         <item>
             <title>Galvan Mehidi / Kristine Grændsen / Chris Holsten</title>
