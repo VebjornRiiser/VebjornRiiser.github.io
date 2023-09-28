@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/AtPeFygCaBHLV7v0mnYW7grLW7qa9ITQCMbPGIDdAD9A</url>
+        <url>https://gfx.nrk.no/EE0KguPUw12l5ijJpr6iwQTCbkPY2vavdhes0wd99TMw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Wolfgang Wee</title>
+            <description>Wolfgang Wee om hva han stemmer, Joe Rogan og annet podkast-preik.</description>
+            <pubDate>2023-09-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7f6b6226-5472-4662-951d-25442804e42d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H55M17S</itunes:duration>
+            <guid isPermaLink="false">7f6b6226-5472-4662-951d-25442804e42d</guid>
+        </item>
         
         <item>
             <title>Maria Stavang</title>
