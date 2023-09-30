@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/wjT8-tNepM4XyS45GxUHPAErT7ux6qlTbI4NLl4qifyA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Martha Leivestad / John Brungot / Frida Homlung</title>
+            <description>Hvordan blir det med halloweenfesten til Håvard? PROBLEMER: Ond sirkel med eksen / Seks tusen kroner fra Onkel Reisende Mac / Er to barn bærekraftig med trist samboer? / Svette forurenser badet / En idiot av en far / Verdens stilleste sex? / En ny jul truer / Skal jeg være en utakknemlig kjæreste? / Hvordan si takk?</description>
+            <pubDate>2023-09-30T13:29:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2ab6ea33-7a9b-49f6-be4b-3f087d5f60c6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M20S</itunes:duration>
+            <guid isPermaLink="false">2ab6ea33-7a9b-49f6-be4b-3f087d5f60c6</guid>
+        </item>
         
         <item>
             <title>En mengde mailer!</title>
