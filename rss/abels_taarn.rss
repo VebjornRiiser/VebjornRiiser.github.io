@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/uxn1B2nhtMruH37Lqy0wMQPXMN7wu-2qkE9Ylg_E40DQ</url>
+        <url>https://gfx.nrk.no/85lqXOdf6VZStY1qfjWj2ANVHrDQUFVLHsX7qTezWIkQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Skjønnheten i kaos</title>
+            <description>Kan det å møte sin elskede sammenlignes med ... bølgefunksjonens kollaps?
+Julia Ravanis skriver om det vakreste hun vet: kvantefysikk, kjærlighet og kaos.
+
+Reprise fra Juli 2022</description>
+            <pubDate>2023-09-30T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c255e4d4-9e5e-4776-8d19-4584cb736ee6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M41S</itunes:duration>
+            <guid isPermaLink="false">c255e4d4-9e5e-4776-8d19-4584cb736ee6</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Verdens minste atombombe -  på frokostbordet</title>
