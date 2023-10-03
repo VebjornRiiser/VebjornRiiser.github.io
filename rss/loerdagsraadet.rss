@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/wjT8-tNepM4XyS45GxUHPAErT7ux6qlTbI4NLl4qifyA</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er det Henrik Fladseth som er problemet?</title>
+            <description>Vi løser et problem med Henrik Fladseth og hans hund! Vi får ny (og viktig) info i kollektivforelskelse-problemet!</description>
+            <pubDate>2023-10-03T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/91d241a2-0b30-474a-a012-365120be25e8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT16M16S</itunes:duration>
+            <guid isPermaLink="false">91d241a2-0b30-474a-a012-365120be25e8</guid>
+        </item>
         
         <item>
             <title>Martha Leivestad / John Brungot / Frida Homlung</title>

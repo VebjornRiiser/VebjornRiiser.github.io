@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/6sfdDSx-Ehv2BQbP39k98gmOk0UThrzniY9Uw2cjI6IQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Amadouyou, bukkene Bruse og bilmerke klær</title>
+            <description>Lars har sett den nye sesongen av ungkaren. Martin har en bukkene bruse teori. Sammen diskuterer de folk med bilmerke klær.</description>
+            <pubDate>2023-10-03T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6e9359e5-42ef-44df-bffa-f14170e9a425_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M7S</itunes:duration>
+            <guid isPermaLink="false">6e9359e5-42ef-44df-bffa-f14170e9a425</guid>
+        </item>
         
         <item>
             <title>Sissel Gran: Knullekonge og KI-romanser</title>
