@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/EE0KguPUw12l5ijJpr6iwQTCbkPY2vavdhes0wd99TMw</url>
+        <url>https://gfx.nrk.no/GWgCIPAELDjs6dE2VOFUFAT07Bsz20ePgmIVWojdB0yw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Magnus Carlsen</title>
+            <description>Verdens beste sjakkspiller er gjest i verdens beste podkast.</description>
+            <pubDate>2023-10-05T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/96fce972-9c30-4aef-8412-9cc296bd8d1c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H6M17S</itunes:duration>
+            <guid isPermaLink="false">96fce972-9c30-4aef-8412-9cc296bd8d1c</guid>
+        </item>
         
         <item>
             <title>Wolfgang Wee</title>
