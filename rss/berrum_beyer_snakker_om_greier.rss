@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/AfmHe5naLi2xJ0S6jVpyCADn8Hf8rJCSvBhLLvEQ8S4A</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Aleksander Schau: Lomper og spyvafler</title>
+            <description>Programleder Aleksander Schau er ukas gjest. Det blir preik om fotballstudioer, lomper fra Gjerdrum, vafler av spy og P3-tiden.</description>
+            <pubDate>2023-10-06T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7f6a0090-b92a-476a-a8b4-e7d3ec06702b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M31S</itunes:duration>
+            <guid isPermaLink="false">7f6a0090-b92a-476a-a8b4-e7d3ec06702b</guid>
+        </item>
         
         <item>
             <title>Amadouyou, bukkene Bruse og bilmerke klær</title>
