@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/85lqXOdf6VZStY1qfjWj2ANVHrDQUFVLHsX7qTezWIkQ</url>
+        <url>https://gfx.nrk.no/xzdWhnsef0vbLbYhI9qglwGdmGpuMwYX5A_6W2cNescw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nobelpris spesial - mRNA, kvanteprikker og en EKSTREMT LITEN revolusjon</title>
+            <description>Veien til en Nobelpris var lang og kronglete for Katalin Karikó. I mange år kjempet hun i motbakke uten at noen hørte på ideen hennes. Den gikk ut på å bruke mRNA for å få kroppen til å produsere sin egen vaksine. Så kom COVID, og nå er hun en av de mest feirede forskerne i verden.
+
+I denne episoden snakker vi om de vitenskapelige Nobelprisene: hvorfor du trolig har huset fullt av kvanteprikker og hvorfor vi kanskje står ovenfor et  vaskeekte paradigmeskifte i fysikken.
+
+I panelet: Sigrid Bratlie, Ole Martin Løvvik og Ola Nilsen</description>
+            <pubDate>2023-10-06T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9fd50362-2b7b-4d68-99ed-9fe85225528f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT54M59S</itunes:duration>
+            <guid isPermaLink="false">9fd50362-2b7b-4d68-99ed-9fe85225528f</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Skjønnheten i kaos</title>
