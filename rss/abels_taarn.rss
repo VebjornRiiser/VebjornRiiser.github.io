@@ -11,11 +11,36 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/xzdWhnsef0vbLbYhI9qglwGdmGpuMwYX5A_6W2cNescw</url>
+        <url>https://gfx.nrk.no/zUkn9ulaSqwnbpYfbrz-cQwzk7t0FRYt8-rJ1mupbtaA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hællæ måne! - Abels tårn fra Fredrikstad</title>
+            <description>Hvem skulle trodd at framtidens månebase blei unnfanga Østfold, Norge?
+En fest av en sending fra litteraturhuset i Fredrikstad. (Del 1)
+
+- Hvordan havner blåskjellene langt inne på land?
+- Kan man snart snakke med de døde?
+- Gjærbakst og månefaser
+- Månebetong (et kortreist produkt fra Østfold)
+- Er vann fryst eller smelta ved NØYAKTIG null grader?
+- Er det egentlig så mye liv i dyphavet, der man vil lete etter mineraler?
+- Hvorfor bygger vi ikke saltsmeltereaktorer i Norge?
+- Hva hvis Kjernekraft hadde vunnet fram på 70-tallet...
+
+Panelet:
+Pia Ve Dahlen
+Martin Lersch
+Anna-Lena Kjøniiksen
+Tomas Norlander</description>
+            <pubDate>2023-10-06T11:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a370a6-db5d-4291-8e73-b4827580177e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M1S</itunes:duration>
+            <guid isPermaLink="false">d5a370a6-db5d-4291-8e73-b4827580177e</guid>
+        </item>
         
         <item>
             <title>Nobelpris spesial - mRNA, kvanteprikker og en EKSTREMT LITEN revolusjon</title>
