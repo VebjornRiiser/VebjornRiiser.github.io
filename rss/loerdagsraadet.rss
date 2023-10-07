@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/nXntyB-MDOOXD__j8ZDPrAXcAP13ad7U8r7bGMEOSa1A</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fem år med Live Nelvik</title>
+            <description>Venninna mi har blitt svensk / Lå med den ivrigste i kollektivet / Han lager dårlig musikk / Magen hennes ligger på vekten / Skarru fly til babyshower? / Bæsj i skogen til venninna mi / Må jeg dele Pantelotteriet-gevinst medkollektivet / Sjalu på katten / Superkjendisen og meg / Tulleringing er jo bare tull, men det blir tullete mye / Ironica Sarcastica, kopper og svigerfar / Det er lættis</description>
+            <pubDate>2023-10-07T09:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ec22f4b2-6465-455d-8d7c-28ce69a1cb02_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H18S</itunes:duration>
+            <guid isPermaLink="false">ec22f4b2-6465-455d-8d7c-28ce69a1cb02</guid>
+        </item>
         
         <item>
             <title>Er det Henrik Fladseth som er problemet?</title>
