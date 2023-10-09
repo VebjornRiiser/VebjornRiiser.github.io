@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g</url>
+        <url>https://gfx.nrk.no/_X8cYWuJdusu_Z2IdAWG1ggPN5ofCiiT7gBLbGKIPocA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ambulansearbeider Sander tilbake i Ukraina</title>
+            <description>Sander Sørsveen har vært seks ganger i Ukraina som frivillig, den siste gangen ble han nesten drept i et Russisk angrep.</description>
+            <pubDate>2023-10-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/30c6842e-68d4-49c5-980a-146cef690a20_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M49S</itunes:duration>
+            <guid isPermaLink="false">30c6842e-68d4-49c5-980a-146cef690a20</guid>
+        </item>
         
         <item>
             <title>Paradokset USA</title>
