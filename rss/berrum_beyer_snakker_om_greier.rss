@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/co8DmQs-EW21JfigGcyeBwj4OL48mUE0REQoIdh2sXIw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Christian Mikkelsen: Nemesis og skitur</title>
+            <description>Dagens gjest er komiker Christian Mikkelsen. Det blir preik om Martin sin utbrenthet, gode skiløyper og komikerlivet.</description>
+            <pubDate>2023-10-13T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3a1f22d7-779d-401e-a92f-65ffd04c1195_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M1S</itunes:duration>
+            <guid isPermaLink="false">3a1f22d7-779d-401e-a92f-65ffd04c1195</guid>
+        </item>
         
         <item>
             <title>Gutta går ned, søppel-beef og debrief</title>
