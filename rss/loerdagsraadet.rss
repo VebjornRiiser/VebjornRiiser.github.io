@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/nXntyB-MDOOXD__j8ZDPrAXcAP13ad7U8r7bGMEOSa1A</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høsttakkefest! + Fem tilbakemeldinger!</title>
+            <description>Høstferie og høsttakkefest, og hele fem tilbakemeldinger! Bare å njuta</description>
+            <pubDate>2023-10-13T12:46:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1411cf02-3322-4a5a-b3b7-d36e89a2d369_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M47S</itunes:duration>
+            <guid isPermaLink="false">1411cf02-3322-4a5a-b3b7-d36e89a2d369</guid>
+        </item>
         
         <item>
             <title>Fem år med Live Nelvik</title>
