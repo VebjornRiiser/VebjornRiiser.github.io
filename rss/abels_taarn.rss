@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/4NifUPkedDRGbaAhI8OiSguB6artq9H0fmINElVmqcug</url>
+        <url>https://gfx.nrk.no/DVeflBxZBBGTCWqsvMg-Wg-nSpvxFk2EO2SOqDro4Lsw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels spesial - Homo naledi</title>
+            <description>Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.</description>
+            <pubDate>2023-10-14T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M15S</itunes:duration>
+            <guid isPermaLink="false">34cd0342-4251-4970-9f70-9e82c460c71b</guid>
+        </item>
         
         <item>
             <title>Abels tårn - En sjuk episode</title>
