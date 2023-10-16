@@ -261,7 +261,8 @@ if __name__ == "__main__":
         "hele_historien",
         "loerdagsraadet",
         "debatten",
-        "radio_moerch"]
+        "radio_moerch",
+        "baade_erlend_og_steinar"]
     # example url https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/berrum_beyer_snakker_om_greier/9aff0403-327c-4e0b-bf04-03327cce0b37.mp3
     if (os.path.exists(PODLISTFILENAME)):
         print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
