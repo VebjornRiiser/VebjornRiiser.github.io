@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>CUSTOM: Både Erlend og Steinar</title>
+        <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
+        <!--<description></description>-->
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Både Erlend og Steinar</title>
+        <url>https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA</url>
+        <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
+        <width>144</width>
+        <height>144</height>
+        </image>
+        
+        <item>
+            <title>Den vanskelige andreepisoden</title>
+            <description>Steinar er en nervøs onanist og lurer på om Erlend har samme erfaringer. Lyttere har sendt inn sterke tenketank-tanker og Caroline Nitter har kanskje dissa Steinar på Reality Awards.</description>
+            <pubDate>2023-10-16T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/fe9e488c-974f-4aab-98d8-23b124d8a084_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M33S</itunes:duration>
+            <guid isPermaLink="false">fe9e488c-974f-4aab-98d8-23b124d8a084</guid>
+        </item>
+        
+        <item>
+            <title>Dødsing og l&apos;appel du vide</title>
+            <description>Kan dødsing reflektere noe dypere ved mennesket enn vi tror? Steinar tror ikke på Erlends sauehistorie, og søker svar hos Erlends far.</description>
+            <pubDate>2023-10-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M54S</itunes:duration>
+            <guid isPermaLink="false">6ffa6cd6-35a6-4ff6-a492-142decccfd1c</guid>
+        </item>
+        
+        <item>
+            <title>Både Erlend og Steinar - kommer 9. oktober</title>
+            <description>Erlend Mørch og Steinar Klouman Hallert skal bli enda bedre kjent med hverandre gjennom rare tankeeksperimenter og problemstillinger.</description>
+            <pubDate>2023-10-02T17:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c873c045-15da-4f7d-b0d3-cae6f40d10cb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49S</itunes:duration>
+            <guid isPermaLink="false">c873c045-15da-4f7d-b0d3-cae6f40d10cb</guid>
+        </item>
+        </channel>
+</rss>
