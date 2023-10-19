@@ -23,6 +23,7 @@
             <pubDate>2023-10-16T06:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/fe9e488c-974f-4aab-98d8-23b124d8a084_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"/>
             <guid isPermaLink="false">fe9e488c-974f-4aab-98d8-23b124d8a084</guid>
         </item>
         
@@ -32,6 +33,7 @@
             <pubDate>2023-10-09T06:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"/>
             <guid isPermaLink="false">6ffa6cd6-35a6-4ff6-a492-142decccfd1c</guid>
         </item>
         
@@ -41,6 +43,7 @@
             <pubDate>2023-10-02T17:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c873c045-15da-4f7d-b0d3-cae6f40d10cb_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"/>
             <guid isPermaLink="false">c873c045-15da-4f7d-b0d3-cae6f40d10cb</guid>
         </item>
         </channel>
