@@ -258,7 +258,16 @@ def generate_episode_rss(items):
 
 
 if __name__ == "__main__":
-    podnames = []
+    podnames = [
+    "berrum_beyer_snakker_om_greier",
+    "trygdekontoret",
+    "abels_taarn",
+    "hele_historien",
+    "loerdagsraadet",
+    "debatten",
+    "radio_moerch",
+    "baade_erlend_og_steinar_",]
+
     print("Trying to read settings file")
     try:
         full_path_to_podnames = os.path.dirname(__file__)+"\\"+PODLISTFILENAME
