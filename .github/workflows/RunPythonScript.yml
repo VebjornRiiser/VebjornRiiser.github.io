@@ -22,7 +22,9 @@ jobs:
     - name: CreateRssFiles
       run: |
         cd rss
-        python ../scripts/CreateNrkRssFeed.py
+        python --version
+        python3 --version
+        python3 ../scripts/CreateNrkRssFeed.py
       shell: sh
     
     - name: ShowResults
