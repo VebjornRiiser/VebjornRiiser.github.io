@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-from datetime import datetime
-import os
-import time
-import requests
 import json
+import os
+import sys
+import time
+
+import requests
+
 # 'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
 PODLISTFILENAME = "PodcastsToUpdate.txt"
 RequestHeaders = {"Accept": "*/*",
@@ -254,20 +256,18 @@ def generate_episode_rss(items):
 
 
 if __name__ == "__main__":
-    podnames = [
-        "berrum_beyer_snakker_om_greier",
-        "trygdekontoret",
-        "abels_taarn",
-        "hele_historien",
-        "loerdagsraadet",
-        "debatten",
-        "radio_moerch",
-        "baade_erlend_og_steinar_"]
-    # example url https://nrk-pod-pd.telenorcdn.net/podkast/podcastpublisher_prod/berrum_beyer_snakker_om_greier/9aff0403-327c-4e0b-bf04-03327cce0b37.mp3
-    if (os.path.exists(PODLISTFILENAME)):
-        print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
-        with open(PODLISTFILENAME, 'r') as PodcastListFile:
-            podnames = PodcastListFile.readlines()
+    podnames = []
+
+    try:
+        full_path_to_podnames = os.path.dirname(sys.argv[0])+"\\"+PODLISTFILENAME
+        if (os.path.exists(full_path_to_podnames)):
+            print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
+            with open(full_path_to_podnames, 'r') as PodcastListFile:
+                podnames = [name.strip() for name in PodcastListFile.readlines()]
+
+    except Exception as e:
+        print(f"Failed to get dirname. '{e}'")
+
 
     for pod in podnames:
         print(f"Getting rss feed for '{pod}'")
