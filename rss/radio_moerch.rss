@@ -11,11 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/AizWcS6fHkPhOQ5N3m0q9gAbxs3Oa4o7wYArmtrHT5zQ</url>
+        <url>https://gfx.nrk.no/nHMvB7992e-l2gMCtpuiZQVcdNKE7QROjxfB3Mj0y6Fg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Thorleif</title>
+            <description>Nok kjendiser! Min venn Thorleif er på besøk.</description>
+            <pubDate>2023-10-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H21M23S</itunes:duration>
+            <guid isPermaLink="false">cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197</guid>
+        </item>
         
         <item>
             <title>Dag Sørås</title>
