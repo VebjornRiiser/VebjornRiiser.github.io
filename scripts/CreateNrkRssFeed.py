@@ -266,6 +266,8 @@ if __name__ == "__main__":
             print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
             with open(full_path_to_podnames, 'r') as PodcastListFile:
                 podnames = [name.strip() for name in PodcastListFile.readlines()]
+        else:
+            print(f"Did not find any settings file in '{full_path_to_podnames}'")
 
     except Exception as e:
         print(f"Failed to get dirname. '{e}'")
