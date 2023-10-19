@@ -61,7 +61,6 @@ def get_podcast_url_name(episode_item):
 def get_content_url(episode_item):
     return f"https://podkast.nrk.no/fil/{get_podcast_url_name(episode_item)}/{get_episode_id(episode_item)}_0_ID192MP3.mp3"
 
-
 class EpisodeItem:
     def __init__(self, itemjson: dict, playback_url: list[str], content_length=None) -> None:
         self.title: str = replace_illegal_chars(
@@ -251,7 +250,7 @@ def generate_episode_rss(items):
             <pubDate>{EpItem.datetime_string} </pubDate>
             <enclosure url="{EpItem.content_url}" type="audio/mpeg"/>
             <itunes:duration>{EpItem.duration_str}</itunes:duration>
-            <itunes:image href="{EpItem.episode_image_url}"/>
+            {f'<itunes:image href="{EpItem.episode_image_url}"/>' if EpItem.episode_image_url is not None else ''}
             <guid isPermaLink="false">{EpItem.guid}</guid>
         </item>
         """
@@ -260,7 +259,7 @@ def generate_episode_rss(items):
 
 if __name__ == "__main__":
     podnames = []
-
+    print("Trying to read settings file")
     try:
         full_path_to_podnames = os.path.dirname(sys.argv[0])+"\\"+PODLISTFILENAME
         if (os.path.exists(full_path_to_podnames)):
