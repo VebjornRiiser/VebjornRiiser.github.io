@@ -69,6 +69,7 @@ class EpisodeItem:
         self.description: str = replace_illegal_chars(
             itemjson.get("titles").get("subtitle").strip())
         self.datetime_string: str = format_date(itemjson.get("date"))
+        self.episode_image_url = itemjson.get("squareImage")[-1].get("url")
         self.content_url = playback_url
         if content_length is not None:
             self.content_length = content_length
@@ -232,6 +233,7 @@ def get_playback_url(json_str):
 
 
 def create_episode_items(episodes: dict) -> str:
+    print("Getting playback urls")
     playback_urls = get_all_playback_urls(episodes)
 
     items = json_to_episodeitem(episodes, playback_urls)
@@ -249,6 +251,7 @@ def generate_episode_rss(items):
             <pubDate>{EpItem.datetime_string} </pubDate>
             <enclosure url="{EpItem.content_url}" type="audio/mpeg"/>
             <itunes:duration>{EpItem.duration_str}</itunes:duration>
+            <itunes:image href="{EpItem.episode_image_url}"/>
             <guid isPermaLink="false">{EpItem.guid}</guid>
         </item>
         """
