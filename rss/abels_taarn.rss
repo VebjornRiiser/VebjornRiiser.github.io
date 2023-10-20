@@ -11,11 +11,34 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/jWEZRWm-pm9kQb9AhPfFnwpC69YOvRJWWqVxCZ2r9XUw</url>
+        <url>https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gw6lXWtI2erHA45sLvGL4poA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Dynamittgubber som stearinlys</title>
+            <description>Abels tårn fra Karjolen pub i Porsgrunn
+
+- Dynamittgubber som stearinlys? 
+- Hjelper dragsug på drivstoffbruk?
+- Hva skal blekkspruten med tre hjerter?
+- Hvor mange - og hvor store - vindmøller er optimalt?
+- Om dyphavsstrømmer og polar planktonvekst
+- Hva er lydbølger laget av?
+- Temperert vann som strømsparingstiltak?
+
+Panelet:
+Knut Vågsæther
+Karoline Saubreka
+Atle Johnson Gyllensten</description>
+            <pubDate>2023-10-20T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a3a72635-0ed3-4a32-8397-8a42a6cf69c8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gw6lXWtI2erHA45sLvGL4poA"/>
+            <guid isPermaLink="false">a3a72635-0ed3-4a32-8397-8a42a6cf69c8</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Bananfluas følelsesliv</title>
