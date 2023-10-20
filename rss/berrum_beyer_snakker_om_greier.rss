@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/PCrXh2rKv4CEw1iSkukuRQljUQa7q9-on-XvuS9xDzJQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Linn Skåber: Bulgarske utfall og enebarn</title>
+            <description>Dagens gjest er humordronning Linn Skåber. Det blir preik om hemmelig tid, enebarn-oppførsel og humor- og teaterlivet.</description>
+            <pubDate>2023-10-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/54a3f876-8e23-45a4-b9d7-f9511cf3f76e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H8M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PCrXh2rKv4CEw1iSkukuRQljUQa7q9-on-XvuS9xDzJQ"/>
+            <guid isPermaLink="false">54a3f876-8e23-45a4-b9d7-f9511cf3f76e</guid>
+        </item>
         
         <item>
             <title>Fucked by Murphy, vælj-meg-jinte og hotell</title>

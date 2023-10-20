@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/Kl8QpWGi0SM1KGnKya2u-QtATeD_1SNWt5UZFcMLI2XA</url>
+        <url>https://gfx.nrk.no/7vfBi6qIwbWkJwSNoQGuQAd7FVmjl7fzwkdrBt5mLwyQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ekstra: Aktiviteter i julen</title>
+            <description>Silje, Jonis, og Fredrik bryner seg på et bonusproblem. Også fyllemail og annet gøy</description>
+            <pubDate>2023-10-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/693879bc-67f3-47e5-b600-4a1d94778b87_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT21M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7vfBi6qIwbWkJwSNoQGuQAd7FVmjl7fzwkdrBt5mLwyQ"/>
+            <guid isPermaLink="false">693879bc-67f3-47e5-b600-4a1d94778b87</guid>
+        </item>
         
         <item>
             <title>Jonis Josef / Silje Nordnes / Christian Mikkelsen</title>
