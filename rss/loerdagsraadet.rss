@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/7vfBi6qIwbWkJwSNoQGuQAd7FVmjl7fzwkdrBt5mLwyQ</url>
+        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2023 - nr. 5</title>
+            <description>Jonis Josef / Marte Bratberg / Thomas Fingern Gullestad / Cengiz Al / Tuva Fellman / Hasse Hope</description>
+            <pubDate>2023-10-21T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/860b4d9f-27dc-4d24-9e55-f8c8db270562_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+            <guid isPermaLink="false">860b4d9f-27dc-4d24-9e55-f8c8db270562</guid>
+        </item>
         
         <item>
             <title>Ekstra: Aktiviteter i julen</title>
