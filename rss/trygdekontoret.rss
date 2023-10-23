@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/vFb6s4KFOVr6Uwg1rl2qmAOhUtwcOg8lSOoxCSR1gNmw</url>
+        <url>https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Rus</title>
+            <description>Hva står i veien for en rusreform i Norge? Hvordan har det gått med land som allerede har innført en rusreform? Og hva er det egentlig med rus som gjør at folk blir avhengig? Med John Melhus, ruspolitisk rådgiver i Foreningen for human narkotikapolitikk.</description>
+            <pubDate>2023-10-23T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a5fea36e-93b8-4345-8a9f-f8a42e4bdf30_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H9M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg"/>
+            <guid isPermaLink="false">a5fea36e-93b8-4345-8a9f-f8a42e4bdf30</guid>
+        </item>
         
         <item>
             <title>Palestina</title>
