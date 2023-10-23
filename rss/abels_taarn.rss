@@ -11,11 +11,34 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gw6lXWtI2erHA45sLvGL4poA</url>
+        <url>https://gfx.nrk.no/bOycfeipRXkrvFxMpJs4VQqU84Tl1ogmT2Dpxi49CBtw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tema - Lungeflyteprøven og starten på den moderne rettsmedisinens historie</title>
+            <description>Lungeflyteprøven var en test der man tok ut lungene til et spedbarn og la dem i vann. Fløt de så hadde barnet pustet, sank de har ikke barnet pustet. Tore Renberg har skrevet en historisk roman om rettsaken i 1681 som gjorde denne testen historisk. Vi har koblet ham sammen med rettsmedisiner Ida Kathrine Gravensteen og møter dem i en obduksjonssal.</description>
+            <pubDate>2023-10-23T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fffba546-17d3-4131-b32a-45076f7b5b93_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bOycfeipRXkrvFxMpJs4VQqU84Tl1ogmT2Dpxi49CBtw"/>
+            <guid isPermaLink="false">fffba546-17d3-4131-b32a-45076f7b5b93</guid>
+        </item>
+        
+        <item>
+            <title>Forskningsfronten - Psykedelika som medisin, røverplaneter og pene bankdirektører</title>
+            <description>Abels tårn bringer deg nyheter fra forskningens verden: 
+- Bruk av psykedeliske stoffer i behandlingen av noen psykiske tilstander.
+- Røverplaneter
+- Forstemmende forskning viser: Pene mennesker tjener mer. MYE mer.</description>
+            <pubDate>2023-10-23T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Rsbdr2dnxmTnAgDgwrF0JwvRN_z3_nvlMongbzPg9Lvw"/>
+            <guid isPermaLink="false">4518e168-6a1f-445e-8c7f-e959aea59548</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Dynamittgubber som stearinlys</title>
@@ -4131,16 +4154,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
-            <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5c6cda7f-98b1-411e-9f99-0221aebb9daf_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M7S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
-            <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
-        </item>
-        
-        <item>
             <title>Forgård - med vikingetterforskeren Cat Jarman</title>
             <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -4148,6 +4161,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT53M26S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
             <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
+        </item>
+        
+        <item>
+            <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
+            <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5c6cda7f-98b1-411e-9f99-0221aebb9daf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
+            <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
         </item>
         
         <item>
