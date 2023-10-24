@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/PCrXh2rKv4CEw1iSkukuRQljUQa7q9-on-XvuS9xDzJQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Drikningslag , you are shit og for sterk mat</title>
+            <description>Lars har vært i utdrikningslag. Martin har vært vitne til hissig person på kafe. Sammen diskuterer de folk som sier de elsker for sterk mat.</description>
+            <pubDate>2023-10-24T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e754c157-6ff6-4bfb-80e6-87525e095b18_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H10M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">e754c157-6ff6-4bfb-80e6-87525e095b18</guid>
+        </item>
         
         <item>
             <title>Linn Skåber: Bulgarske utfall og enebarn</title>
