@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Timothy er fri ferdig</title>
+            <description>Vi hører fra Timothy og det blir kronologisk fyllmail</description>
+            <pubDate>2023-10-25T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/0101a216-25b8-4be0-b4c1-2fddce872eb0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT14M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">0101a216-25b8-4be0-b4c1-2fddce872eb0</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2023 - nr. 5</title>
