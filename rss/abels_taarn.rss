@@ -11,11 +11,82 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/bOycfeipRXkrvFxMpJs4VQqU84Tl1ogmT2Dpxi49CBtw</url>
+        <url>https://gfx.nrk.no/m7yrMQaPy2kNd4kpwM7amwYKswlE4KUU7p_P-LQk7oew</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - JUEBLSENDING fortsetter… Dør alle om jorda stopper å spinne?</title>
+            <description>...hvis for eksempel en kosmisk kjempe holder fast jorda i klypa?
+
+Andre panel på denne jubelsendingen består av:
+
+Psykolog Guro Løseth
+Teoretisk fysiker Are Raklev
+KI-forsker og fysiker Inga Strümke
+Bevaringsøkolog Anne Sverdrup-Thygeson   
+Rettsmedisiner Ida Kathrine Gravensteen
+Molekylærbiolog Sigrid Bratlie
+Zoolog Petter Bøckmann
+
+Og de svarer på disse spørsmålene fra våre lyttere:
+
+- Får man sterkere drømmer av morfin? Psykologen svarer…
+ 
+- Er drømmer scener fra et parallelt univers? Fysiker og hjerneforsker svarer…
+ 
+- Hva kommer det av at jorda roterer rundt seg selv?
+ 
+- Når roer KI-utviklingen seg? KI-forsker og fysikeren svarer..
+ 
+- Er noen egenskaper mer &quot;moderne&quot; enn andre? Botanikeren svarer…
+ 
+- Hvorfor er fleinsopp ulovlig? Rettspatologen/soppsakkyndig svarer…
+ 
+- Kan mintpastiller nøytralisere chili? Molekylærbiologen svarer…
+ 
+- Når slutter mennesket å lukte?  Zoologen svarer...</description>
+            <pubDate>2023-10-27T16:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4284c81b-4aaa-4b40-8c5c-64fc16ecb031_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/m7yrMQaPy2kNd4kpwM7amwYKswlE4KUU7p_P-LQk7oew"/>
+            <guid isPermaLink="false">4284c81b-4aaa-4b40-8c5c-64fc16ecb031</guid>
+        </item>
+        
+        <item>
+            <title>Abels Tårn - Jubelsending!  Kan man drikke diesel? ... Biler kan gå på matolje</title>
+            <description>Vi har vunnet PRIX RADIO for årets beste sendeflate, altså radioprogram. For å feire oss selv har vi trommet sammen noen av de beste forskningsformidlerne i Norge, og holder en heidundrende jubelsending for alle våre lyttere.  
+
+I PANELET:
+Kjemiker Carl Henrik Gørbitz
+Fysiker Joachim Mossige
+Paleontolog Aubrey Roberts
+Klimaforsker Bjørn Samset
+Kjemiker Einar Uggerud
+
+Første panel i dag skal svare på disse spørsmålene:
+ 
+- Kan diesel brukes i kroppen?
+ 
+- Hvordan lage den perfekte pannekakerøra?
+ 
+- Var det mer oksygen før?
+ 
+- Var G-kraften lavere før?
+
+ - Hvilke kjente energikilder skulle vi hatt mer av, og hvilke burde vi droppet?
+
+- Hvordan ville samfunnet sett ut uten metall?
+ 
+ - Når farger er bølger, hvordan kan klesvask påvirke farger ?</description>
+            <pubDate>2023-10-27T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/48f3abae-64e5-40e7-9763-1f74fd4b1820_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/V3vTB-6KX67-C4v2lJjbPAB7n90hTyVQ5Nymu9Gw-fGw"/>
+            <guid isPermaLink="false">48f3abae-64e5-40e7-9763-1f74fd4b1820</guid>
+        </item>
         
         <item>
             <title>Abels tema - Rettsmedisinens historie</title>
@@ -4154,16 +4225,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
-            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT53M26S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
-            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
-        </item>
-        
-        <item>
             <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
             <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -4171,6 +4232,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT57M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
             <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
+        </item>
+        
+        <item>
+            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
+            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
+            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
         </item>
         
         <item>
