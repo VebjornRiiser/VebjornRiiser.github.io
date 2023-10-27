@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/m4HWb030oqZVBWanmEtVEQIvl0v1GcV-SEMRkKYXbiLQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Malin Pettersen: Idol og Paw patrol</title>
+            <description>Artist og stemmeskuespiller Malin Pettersen er dagens gjest. Det blir preik om Idol, country og ikke minst Paw patrol.</description>
+            <pubDate>2023-10-27T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7de7d86c-70a5-4476-93cb-f31fd20fe695_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H6M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/m4HWb030oqZVBWanmEtVEQIvl0v1GcV-SEMRkKYXbiLQ"/>
+            <guid isPermaLink="false">7de7d86c-70a5-4476-93cb-f31fd20fe695</guid>
+        </item>
         
         <item>
             <title>Drikningslag , you are shit og for sterk mat</title>
