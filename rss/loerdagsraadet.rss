@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/j5EfOJpqUVAM0Em963yVmAKPIfrVqNNt2J92_JGO8gXg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Martin Lepperød / Marte Bratberg / Trond-Viggo Torgersen</title>
+            <description>Ble det Maren og Marius? PROBLEMER: Dansken, fransken og bulgaren / Arbeidsledig og flau / Baby eller Beach Explorer? / Hvem skal ta boten? / Kampen om gjestelisten / Frykt for å reise vekk / Hvordan mate et &quot;barn&quot; / Skal jeg bli gratis BPA</description>
+            <pubDate>2023-10-28T13:55:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2ba7494f-a1b4-4bf3-8db6-7aff61186fc2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/j5EfOJpqUVAM0Em963yVmAKPIfrVqNNt2J92_JGO8gXg"/>
+            <guid isPermaLink="false">2ba7494f-a1b4-4bf3-8db6-7aff61186fc2</guid>
+        </item>
         
         <item>
             <title>Timothy er fri</title>
