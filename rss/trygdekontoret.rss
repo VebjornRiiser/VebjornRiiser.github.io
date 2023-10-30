@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg</url>
+        <url>https://gfx.nrk.no/-Ek5KaMApeRRcVHY3_DtfA1ikycbSO_jHx1DSrZjr4rQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Norge på 70-tallet</title>
+            <description>Tiåret for radikal endring og gjennombruddet for de tre store: hardrock, oljeinntekter og jogging. Med forfatter og folkeminnegransker Thor Gotaas.</description>
+            <pubDate>2023-10-30T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/88193809-b94b-498e-b294-f9ca636abdd3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-Ek5KaMApeRRcVHY3_DtfA1ikycbSO_jHx1DSrZjr4rQ"/>
+            <guid isPermaLink="false">88193809-b94b-498e-b294-f9ca636abdd3</guid>
+        </item>
         
         <item>
             <title>Rus</title>
