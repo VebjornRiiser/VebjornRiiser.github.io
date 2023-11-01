@@ -1687,5 +1687,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ARjF7djyMCpJGt_TDp-8OgYLjlledUc3gSuAA4nNx_GA"/>
             <guid isPermaLink="false">edf01627-d038-41e4-9652-f99efec4bdbf</guid>
         </item>
+        
+        <item>
+            <title>Kommer i NRK Radio: Drapsmann på døra</title>
+            <description>En psykotisk mann tar seg inn i en tilfeldig leilighet i Oslo og dreper en 24 år gammel mann. Det blir starten på en politijakt gjennom Europa. Kommer 2.11.23 i NRK Radio.</description>
+            <pubDate>2023-11-01T13:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/fe0a3e06-0c34-4aa9-bb25-6b7c776a8084_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw"/>
+            <guid isPermaLink="false">fe0a3e06-0c34-4aa9-bb25-6b7c776a8084</guid>
+        </item>
         </channel>
 </rss>

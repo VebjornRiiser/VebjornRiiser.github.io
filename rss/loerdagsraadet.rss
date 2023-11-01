@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/j5EfOJpqUVAM0Em963yVmAKPIfrVqNNt2J92_JGO8gXg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kollektiv med noen man har ligget med?!</title>
+            <description>Hvordan gikk det med Josefine og Fredrik som kanskje skulle flytte sammen i kollektiv? Vår tilbakemelding fra Sven, som lurte på om han skulle bli gratis BPA. Pluss en masse prat om løst og fast!</description>
+            <pubDate>2023-11-01T13:50:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ca49e9bd-10df-4dc3-b5fd-3e0b152cd7c7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">ca49e9bd-10df-4dc3-b5fd-3e0b152cd7c7</guid>
+        </item>
         
         <item>
             <title>Martin Lepperød / Marte Bratberg / Trond-Viggo Torgersen</title>
