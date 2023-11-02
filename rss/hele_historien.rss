@@ -1697,5 +1697,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw"/>
             <guid isPermaLink="false">fe0a3e06-0c34-4aa9-bb25-6b7c776a8084</guid>
         </item>
+        
+        <item>
+            <title>Drapsmann på døra</title>
+            <description>En vanlig formiddag dukker en ukjent mann opp på døra til Heikki Paltto. Han har kniv og er desperat.</description>
+            <pubDate>2023-11-02T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/8da93fec-db16-4705-af2d-2066cb23dbe5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw"/>
+            <guid isPermaLink="false">8da93fec-db16-4705-af2d-2066cb23dbe5</guid>
+        </item>
         </channel>
 </rss>

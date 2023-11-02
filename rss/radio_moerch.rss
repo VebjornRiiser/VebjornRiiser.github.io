@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/WMH0PX4IbSPFFkPn6KTl_gayO3T9dd2bq8pf_JFWyrSw</url>
+        <url>https://gfx.nrk.no/wnuv-EDFUBsBVWlWulSGgQPYDifkA60hkKdObn3LxOfA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Marlene Stavrum</title>
+            <description>Komiker Marlene Stavrum er her og snakker med meg om humor, reality-TV, mobbing og masse mer.</description>
+            <pubDate>2023-11-02T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/eded7bd6-3719-4760-b0c3-3e6c4c0c016b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H17M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/wnuv-EDFUBsBVWlWulSGgQPYDifkA60hkKdObn3LxOfA"/>
+            <guid isPermaLink="false">eded7bd6-3719-4760-b0c3-3e6c4c0c016b</guid>
+        </item>
         
         <item>
             <title>Ove Vanebo</title>
