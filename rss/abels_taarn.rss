@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/72W_TchgMyt4radKrTQmMAVWk8o5nvDMv-oS5XiRCacQ</url>
+        <url>https://gfx.nrk.no/YY3Gl41HAy0KL3-7xvDeFgys8-ERtvD5mh9SGnzPBtoQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tema - Andøyas nye romhavn</title>
+            <description>Denne uka åpnet Andøya Space port med pomp og prakt og selveste Kronprinsen til stede.
+Abels tårn var der for et år siden og så på fasilitetene. 
+Både til det som nå står klart og til moderskipet Andøya Space senter. 
+Og, vi tok pulsen på konflikten som ligger og vaker både under og over havflaten, den mellom fiskerne og romfartsindustrien.</description>
+            <pubDate>2023-11-04T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3b3fb5c7-521d-493c-9d49-e5f0f6d87f4b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YY3Gl41HAy0KL3-7xvDeFgys8-ERtvD5mh9SGnzPBtoQ"/>
+            <guid isPermaLink="false">3b3fb5c7-521d-493c-9d49-e5f0f6d87f4b</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Kan neandertaler-gener vekkes til live?</title>
