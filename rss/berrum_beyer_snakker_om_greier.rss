@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/p9-slbiC2RcHpI_T0ci-Zw-i0AjUmy2vooPmn7qMPWRQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Baresparanto, sprukket kar og slites fanfare.</title>
+            <description>Lars har vært sint på bar. Martin tror han har sprukket et blodkar. Sammen diskuterer de folk som plystrer i urinalet.</description>
+            <pubDate>2023-11-07T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5bfe3d80-bc0b-4da9-924e-c511f6a139db_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">5bfe3d80-bc0b-4da9-924e-c511f6a139db</guid>
+        </item>
         
         <item>
             <title>Morten Ramm: Skalla uvitenhet og kødd til 50</title>
