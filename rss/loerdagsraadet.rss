@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/u7WwtoYz5uVu2mIe-7tzeQT_Zil1KGRo2NippSOMdlTg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Det settes av tid til å mobbe Lars Berrum</title>
+            <description>Live tar et vaskemiddeloppgjør med Lars, og det blir historier om både katt og hund.</description>
+            <pubDate>2023-11-08T14:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bcbaae8e-7786-4c19-a139-b898ee8a7796_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT12M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">bcbaae8e-7786-4c19-a139-b898ee8a7796</guid>
+        </item>
         
         <item>
             <title>Else Kåss Furuseth / Bjarte Tjøstheim / Linnéa Myhre</title>
