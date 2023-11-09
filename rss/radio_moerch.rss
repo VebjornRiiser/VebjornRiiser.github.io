@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/wnuv-EDFUBsBVWlWulSGgQPYDifkA60hkKdObn3LxOfA</url>
+        <url>https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mímir Kristjánsson igjen!</title>
+            <description>Erlend og Mímir snakker om krigen i Midtøsten.</description>
+            <pubDate>2023-11-09T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H32M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw"/>
+            <guid isPermaLink="false">18b22462-555d-4c70-aa3b-d6ce1603622a</guid>
+        </item>
         
         <item>
             <title>Marlene Stavrum</title>
