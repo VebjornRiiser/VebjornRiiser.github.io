@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/P27sbgCKqCbqRPs3UW9TFwJ67LzFVW6Tm3LvL7C8lMGw</url>
+        <url>https://gfx.nrk.no/OqJINBVv_adaoWEDxvSqnwFWr6g6w7eIclsSBuWH7HGw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Benny Bankboks</title>
+            <description>Jan Petter Askevold stod bak et av de mest spektakulære bankranene i moderne norsk historie. Og han slapp unna med det. En stund. Hør om det mildt sagt innholdsrike livet til Benny Bankboks!</description>
+            <pubDate>2023-11-13T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/288b06f4-f21b-470b-99c7-1b46364ac11b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/OqJINBVv_adaoWEDxvSqnwFWr6g6w7eIclsSBuWH7HGw"/>
+            <guid isPermaLink="false">288b06f4-f21b-470b-99c7-1b46364ac11b</guid>
+        </item>
         
         <item>
             <title>Samliv og sjalusi spessial</title>
