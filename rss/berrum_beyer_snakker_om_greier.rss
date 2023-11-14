@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/mXUaDPqq0lY3borx7fUpQA7FLnC8wSwoBYEbkzyYJGaQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Dobørste, offentlig shaming og joggebukse</title>
+            <description>Lars har sett bruksanvisning på toalett. Martin har noen bli shamet for å miste ungen sin. Sammen diskuterer de navnet joggebukse.</description>
+            <pubDate>2023-11-14T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f9fab272-dd18-477d-84de-acf730083c0a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H13M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">f9fab272-dd18-477d-84de-acf730083c0a</guid>
+        </item>
         
         <item>
             <title>Silje Nordnes: Balkan-hylle og marsvin</title>
