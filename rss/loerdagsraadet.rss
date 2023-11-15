@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XC4AUknuxkCijYQkx9wh5Q9AldVWohJwSZiXSJSFebzw</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ubablete fra Bableren</title>
+            <description>Vi har vært på teater, og Jonas har en julegave idé</description>
+            <pubDate>2023-11-15T15:45:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/4bb19b9e-56c4-4f50-ab56-a359711baebc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT16M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">4bb19b9e-56c4-4f50-ab56-a359711baebc</guid>
+        </item>
         
         <item>
             <title>Einar Tørnquist / Solveig Kloppen / Nils Bech</title>
