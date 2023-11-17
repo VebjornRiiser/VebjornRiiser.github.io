@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/dDNcHCIqdGrwWOyqtO_uJQYyktINy2AGetv_T1QuMAUQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jakob Schøyen Andersen: post fat og vond GT</title>
+            <description>Skuespiller, komiker og musiker Jakob Schøyen Andersen er dagens gjest. Det blir prat om å ha vært tjukk, duoen han kunne vært med Martin og vond GT.</description>
+            <pubDate>2023-11-17T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/97b37126-b5a7-440e-93f2-5f7f08c69f0a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dDNcHCIqdGrwWOyqtO_uJQYyktINy2AGetv_T1QuMAUQ"/>
+            <guid isPermaLink="false">97b37126-b5a7-440e-93f2-5f7f08c69f0a</guid>
+        </item>
         
         <item>
             <title>Dobørste, offentlig shaming og joggebukse</title>
