@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/rcbrvUyYo0SmHmJJlhLYsQBFVzCFvPYagalI0FhT7NsQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Erik Solbakken / Agnete Saba / Are Sende Osen</title>
+            <description>Hvordan gikk det med Filippa på Cezinando? PROBLEMER: Råd for å tenke fort...? / Hvem må gå: Kyllingstekerne eller de svake ingeniørene? / Og prisen som «pappa» går til? / Skal det koste mer å være singel? / Snekkerkjæreste og et halvt kjøkken / Etikk og moral rundt spøkelser! / Skal Petra hjem til Karsten? / Vet best hva jeg ikke vil ha / Hva skal jeg gjøre med ringen fra eksen? / Lov å si nei til søtsaker i selskap?</description>
+            <pubDate>2023-11-18T13:45:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6f2f8453-eaff-45e2-9bf7-4eb25b14aa96_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H14M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rcbrvUyYo0SmHmJJlhLYsQBFVzCFvPYagalI0FhT7NsQ"/>
+            <guid isPermaLink="false">6f2f8453-eaff-45e2-9bf7-4eb25b14aa96</guid>
+        </item>
         
         <item>
             <title>Ubablete fra Bableren</title>
