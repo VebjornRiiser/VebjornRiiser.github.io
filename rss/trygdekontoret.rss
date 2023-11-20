@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/OqJINBVv_adaoWEDxvSqnwFWr6g6w7eIclsSBuWH7HGw</url>
+        <url>https://gfx.nrk.no/7Pcd2WUMBo36JH1T7lpAWwW8K7-AngOTLM38oOzy58cg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Trond Giske</title>
+            <description>Står det egentlig så dårlig til med Arbeiderpartiet? Og har Trond Giske endret syn på noe etter at han forlot rikspolitikken?</description>
+            <pubDate>2023-11-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3070be9c-9d17-4969-9868-a8047de9e277_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7Pcd2WUMBo36JH1T7lpAWwW8K7-AngOTLM38oOzy58cg"/>
+            <guid isPermaLink="false">3070be9c-9d17-4969-9868-a8047de9e277</guid>
+        </item>
         
         <item>
             <title>Benny Bankboks</title>
