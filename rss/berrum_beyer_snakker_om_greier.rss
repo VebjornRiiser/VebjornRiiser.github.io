@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/dDNcHCIqdGrwWOyqtO_uJQYyktINy2AGetv_T1QuMAUQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Corned beef, minst mulig tenner og kjønnshår</title>
+            <description>Lars har smakt corned beef. Martin ny fakta om Ålesund. Sammen diskuterer de kjønnshår i pissoaret.</description>
+            <pubDate>2023-11-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e7d318c7-c8cb-4ee2-bfe6-1467482942bc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H5M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">e7d318c7-c8cb-4ee2-bfe6-1467482942bc</guid>
+        </item>
         
         <item>
             <title>Jakob Schøyen Andersen: post fat og vond GT</title>
