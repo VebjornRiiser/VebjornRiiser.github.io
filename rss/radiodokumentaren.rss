@@ -734,13 +734,13 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <title>I ulykkelige omstendigheter</title>
+            <description>Victoria venter sitt andre barn. Men når hun er seks måneder på vei oppdager legene at det er noe galt med barnet. Mer kan ikke legene si fordi de ikke vet hva som er galt. Av Victoria Wilden.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290203.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M30S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
         </item>
         
         <item>
@@ -754,13 +754,13 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>I ulykkelige omstendigheter</title>
-            <description>Victoria venter sitt andre barn. Men når hun er seks måneder på vei oppdager legene at det er noe galt med barnet. Mer kan ikke legene si fordi de ikke vet hva som er galt. Av Victoria Wilden.</description>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290203.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M30S</itunes:duration>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3272,6 +3272,16 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:duration>PT29M46S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA"/>
             <guid isPermaLink="false">7a3b54b2-6be1-4dba-b18a-927829fef512</guid>
+        </item>
+        
+        <item>
+            <title>Kommer i NRK Radio: Taliban 2.0</title>
+            <description>I ett år følger journalist Anders Hammer det nye Taliban-regimet i Afghanistan. Han blir arrestert, banket og truet med henrettelse.</description>
+            <pubDate>2023-11-21T14:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a4bd1c59-661f-44f7-add7-1dbabf4c6147_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ"/>
+            <guid isPermaLink="false">a4bd1c59-661f-44f7-add7-1dbabf4c6147</guid>
         </item>
         </channel>
 </rss>
