@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/7Pcd2WUMBo36JH1T7lpAWwW8K7-AngOTLM38oOzy58cg</url>
+        <url>https://gfx.nrk.no/NbdyREEU5JTYLndwXp5wMwp4SNETAtQP7yWaUX5DrdjA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hiphop</title>
+            <description>Hiphop fyller femti! Med artist og musikkprodusent Tommy Tee og musikkanmelder i Morgenbladet Eli Melby.</description>
+            <pubDate>2023-11-27T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/afd678ac-e8fe-4b0f-8f3d-ca5ea5c0aa77_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/NbdyREEU5JTYLndwXp5wMwp4SNETAtQP7yWaUX5DrdjA"/>
+            <guid isPermaLink="false">afd678ac-e8fe-4b0f-8f3d-ca5ea5c0aa77</guid>
+        </item>
         
         <item>
             <title>Trond Giske</title>
