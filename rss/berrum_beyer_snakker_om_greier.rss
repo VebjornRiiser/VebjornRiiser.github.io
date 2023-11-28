@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/OldjvXB0STIYbUd3WKDsQAoLBmwLhEY7apSjmfXL9cFw</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Backhand i garasjen, Olden retriever og barnefar</title>
+            <description>Lars har en tennisspiller i garasjen. Martin har fått masse vitser fra en drosjesjåfør. Sammen diskuterer de å kalle mannen for &quot;barnefar&quot;.</description>
+            <pubDate>2023-11-28T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2d71a739-7414-405d-9d8b-f730d57f4364_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">2d71a739-7414-405d-9d8b-f730d57f4364</guid>
+        </item>
         
         <item>
             <title>Cecilie Ramona: Perth og cannelés</title>
