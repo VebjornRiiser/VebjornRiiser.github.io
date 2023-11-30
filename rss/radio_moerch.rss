@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/Baho-61PepVCprJdm7Np2w3hC-P46U1Df6oqZoskRnJA</url>
+        <url>https://gfx.nrk.no/12T3AWVTi8EBY95xaD7X4A2X545cs2eRKWHv_ORlPSYQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Magnus Devold</title>
+            <description>Magnus Devold og jeg snakker om gamle Twitter-helter, humor og store karriereøyeblikk. Jeg svarer også på noen spørsmål fra dere.</description>
+            <pubDate>2023-11-30T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H13M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/12T3AWVTi8EBY95xaD7X4A2X545cs2eRKWHv_ORlPSYQ"/>
+            <guid isPermaLink="false">64415842-0c08-4df4-b05e-b621be2e6e20</guid>
+        </item>
         
         <item>
             <title>Nikolai Torgersen</title>
