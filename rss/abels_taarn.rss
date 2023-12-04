@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/72W_TchgMyt4radKrTQmMAVWk8o5nvDMv-oS5XiRCacQ</url>
+        <url>https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskninhgsfronten</title>
+            <description>-	OMG-partikkelen - Den nest mest kraftigste kosmiske strålen kommer fra… Ingen vet, men hun har fått navn etter den japanske solgudinnen
+-	Droner og kunstig intelligens blir et nytt tilleggsverktøy for å finne landminer
+-	Ultralyd kan legge hamstre i dvale.</description>
+            <pubDate>2023-12-04T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
+            <guid isPermaLink="false">9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4</guid>
+        </item>
         
         <item>
             <title>Da neandertalerne kom</title>
