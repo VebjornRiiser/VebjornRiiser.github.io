@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/J39vZGbORF5MbSFJHB-B8QGXFlwvxlaqI73xRfuBaTxw</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Skatten kommer, krabbe på scenen og hvor er kløtsjen?</title>
+            <description>Lars har ny skatteplan. Martin har erobret scenen i Bergen. Sammen diskuterer de hvorfor man skal ta lappen på manuell.</description>
+            <pubDate>2023-12-05T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/34695771-3079-4655-bd11-dbd2a70f08a1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">34695771-3079-4655-bd11-dbd2a70f08a1</guid>
+        </item>
         
         <item>
             <title>Simen Staalnacke: Sjeik-mail og hatt</title>
