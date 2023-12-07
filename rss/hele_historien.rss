@@ -1707,5 +1707,35 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg"/>
             <guid isPermaLink="false">7bd6cb06-504e-4281-a9cf-a3f4350a5329</guid>
         </item>
+        
+        <item>
+            <title>Skredet -  Begravd i snøen (1:3)</title>
+            <description>Rett før jul raser 5000 tonn snø inn i et boligområde i Longyearbyen. Noen våkner uten klær, andre finner ikke barna sine.</description>
+            <pubDate>2023-12-07T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/4fc2b081-c1e7-4799-af22-28ff3745bfe6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg"/>
+            <guid isPermaLink="false">4fc2b081-c1e7-4799-af22-28ff3745bfe6</guid>
+        </item>
+        
+        <item>
+            <title>Leteaksjonen - Begravd i snøen (2:3)</title>
+            <description>To små barn er blant de savnede i skredet. Over hundre frivillige leter desperat for å finne alle som ligger begravd i snømassene</description>
+            <pubDate>2023-12-07T06:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/5725f6f4-3cae-4da0-bb87-c74111fc2d0d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg"/>
+            <guid isPermaLink="false">5725f6f4-3cae-4da0-bb87-c74111fc2d0d</guid>
+        </item>
+        
+        <item>
+            <title>Oppgjøret -  Begravd i snøen (3:3)</title>
+            <description>De som er savnet i skredet er funnet, men ikke alle overlever. Etterpå kommer kritikken: Hvorfor bor det folk i et skredfarlig område?</description>
+            <pubDate>2023-12-07T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/7da20fd5-709e-474d-8519-024ca386b9b0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg"/>
+            <guid isPermaLink="false">7da20fd5-709e-474d-8519-024ca386b9b0</guid>
+        </item>
         </channel>
 </rss>
