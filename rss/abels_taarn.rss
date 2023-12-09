@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/WWuyf0foplFZKPOYiJZ3VQX_v1LTAckNp-9wlM6TMuvQ</url>
+        <url>https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAaXPmt0y1i4s6pdqX3kYY7A</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Neandertalerne, folket som plutselig forsvant (2:2)</title>
+            <description>Da Homo sapiens kom til Europa, forsvant på mystisk vis neandertalerne ... eller gjorde de det?</description>
+            <pubDate>2023-12-09T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAaXPmt0y1i4s6pdqX3kYY7A"/>
+            <guid isPermaLink="false">7a0cc359-ad78-4bc6-b943-20fc1bf96fae</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Påvirker sovestilling hjernen utvikling?</title>
