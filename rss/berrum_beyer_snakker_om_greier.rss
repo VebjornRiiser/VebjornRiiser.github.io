@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/7CYG5oIESd6iLcrfPhwMEAIpwU3Tzy3tX_mdnFp7ZAcQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Carlbernia, fem stjerners tur og smidig KATT</title>
+            <description>Lars har sendt tilbake frossen torsk. Martin har fryktet for livet i en drosjetur. Sammen diskuterer de hvor glatt fotgjenger overganger er.</description>
+            <pubDate>2023-12-12T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/019860a0-e53d-48e7-8487-1ed489647272_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">019860a0-e53d-48e7-8487-1ed489647272</guid>
+        </item>
         
         <item>
             <title>Joachim Førsund: Gjem siggen og Nina Lykke</title>
