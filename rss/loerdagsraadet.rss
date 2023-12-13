@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/-UflosotIYS4NfWQtjjyngfz3sZgQ5jJkpOPYTD5P2xg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Takknemlighet føles bra selv om ting er vanskelig</title>
+            <description>Ellinor har sendt oss en oppdatering på hvordan det går med datteren, og hvordan hun vil si takk til det flotte helsevesenet.</description>
+            <pubDate>2023-12-13T12:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/acf93f05-7db1-492b-9bd7-a0ee49e32fd0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT16M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">acf93f05-7db1-492b-9bd7-a0ee49e32fd0</guid>
+        </item>
         
         <item>
             <title>Arif Murakami / Kristine Grændsen / Torstein Bae</title>
