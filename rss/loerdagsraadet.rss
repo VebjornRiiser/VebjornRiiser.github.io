@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/ShIwy3U8mrZXCYvqavSmIgqlAEa2g_x5GNyr5Dxfn7Zg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Espen Eckbo / Silje Nordnes / Karsten Blomvik</title>
+            <description>Klarte Ana å sende nudes til kjæreten? PROBLEMER: Forventningene om glede / Kjæreste eller katt? / Sander har blitt syk og kjip / Hjelp! Julegave til en man dater? / Plan for 2024?! / Jeg vil ikke ha svigers på besøk hver ferie! / Kjærlighetssorg etter 2 måneder med dating / Kjæresten sover dårlig sammen / To tafatte forlovere</description>
+            <pubDate>2023-12-16T13:39:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/17bec28b-6a90-4d5a-a7d3-c59d84bfdffe_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H3M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ShIwy3U8mrZXCYvqavSmIgqlAEa2g_x5GNyr5Dxfn7Zg"/>
+            <guid isPermaLink="false">17bec28b-6a90-4d5a-a7d3-c59d84bfdffe</guid>
+        </item>
         
         <item>
             <title>Takknemlighet føles bra selv om ting er vanskelig</title>
