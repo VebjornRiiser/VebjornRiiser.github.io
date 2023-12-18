@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/qMVHlAgoA7bBy78UA9Px4w0dhtWr8BbkELXvyaNfQ9Sg</url>
+        <url>https://gfx.nrk.no/y-8CBQ37uhuv6iIQgjS_GwfsxrrBLrSVuCiQTFOMHXNA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - steinalderkvinner, kunstig hjerne og båndtvang for katter?</title>
+            <description>- Steinalderkvinnene var tøffere enn gutta
+- Første datasimulerte hjerne skrus på i 2024
+- Båndtvang for katter?</description>
+            <pubDate>2023-12-18T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8c2499a-4b12-4754-bc72-58783885738d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/y-8CBQ37uhuv6iIQgjS_GwfsxrrBLrSVuCiQTFOMHXNA"/>
+            <guid isPermaLink="false">c8c2499a-4b12-4754-bc72-58783885738d</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Lukter røkelse mindre nå enn før?</title>
