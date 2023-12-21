@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/2-EdVzIjMMkY6hqQkniFIQ1E1FiKMLngnalC7C5qDUfg</url>
+        <url>https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2023</title>
+            <description>Jeg har plukka ut noen øyeblikk jeg likte fra året som har gått. Takk til alle som har hørt på. Høres igjen 4. januar!</description>
+            <pubDate>2023-12-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H38M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw"/>
+            <guid isPermaLink="false">26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c</guid>
+        </item>
         
         <item>
             <title>Steinar Klouman Hallert igjen!</title>
