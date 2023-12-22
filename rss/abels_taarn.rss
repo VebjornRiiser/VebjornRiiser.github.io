@@ -11,11 +11,40 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/y-8CBQ37uhuv6iIQgjS_GwfsxrrBLrSVuCiQTFOMHXNA</url>
+        <url>https://gfx.nrk.no/_x9N_qTSldgOPYGWku9XIAswb6VLoYvZYw6QFiBXYxZQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Julenissens superkrefter og cyanid i kirsebærlikøren</title>
+            <description>I panelet :
+Fysiker Vidar Skogvoll  
+Psykolog Yasmin Sofia Iqbal  
+Organisk kjemiker Alexander H. Sandtorv  
+
+Og de svarer på disse spørsmålene fra våre lyttere.
+
+- Er en kinetisk molekylvarmer er en reell greie? 
+
+- Kan min deilige kirsebærlikør inneholde cyanid?    
+  
+- Hva er grådighet?
+
+- Hvor mange folk kreves det for å riste en brødskive? 
+
+- Kan liv på andre planeter ha samme byggesteiner som oss?     
+
+- Hva heter følelsen av at noen glor på deg? 
+
+- Hvilke superheltkrefter har egentlig julenissen?</description>
+            <pubDate>2023-12-22T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5408101-5d71-470c-9603-26e6c54f9610_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_x9N_qTSldgOPYGWku9XIAswb6VLoYvZYw6QFiBXYxZQ"/>
+            <guid isPermaLink="false">e5408101-5d71-470c-9603-26e6c54f9610</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - steinalderkvinner, kunstig hjerne og båndtvang for katter?</title>
