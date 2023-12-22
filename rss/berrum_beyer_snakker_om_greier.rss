@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/XCVtAwH2da5mhQmvysVO4gAIwRgsloTCGGKbLCHhM1uw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Else Kåss Furuseths: Gynekolog og lompe</title>
+            <description>Komiker Else Kåss Furuseths er dagens gjest. Det blir preik om gynekolog, barndom, Martins utseende og lomper.</description>
+            <pubDate>2023-12-22T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/07c1266c-d79a-4b9b-b15d-3c15f0bdebe0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XCVtAwH2da5mhQmvysVO4gAIwRgsloTCGGKbLCHhM1uw"/>
+            <guid isPermaLink="false">07c1266c-d79a-4b9b-b15d-3c15f0bdebe0</guid>
+        </item>
         
         <item>
             <title>WB-40, det må være gaver og hetero-venner</title>
