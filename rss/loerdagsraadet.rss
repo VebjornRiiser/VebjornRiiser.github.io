@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/iXE29hp7E_oM2JFuB29ReQ4-zS-8qajAnaBn53nuK-Rg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Martin Lepperød / Hilde Skaar / John Brungot</title>
+            <description>Er eventplanleggeren fremdeles ensom? PROBLEMER: Hasjkake til mormor? / Kollektiv er BEST / Hva er best for barna i jula? / Pinocchio juger / Min stigmatiserte hjemby / Arrangere nyttårsaften for første gang / Forsvunnet venn? / Han er 9 år eldre enn meg! / Spyttklysa og meg</description>
+            <pubDate>2023-12-23T13:46:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/15341196-53a1-450e-97f9-48010171e303_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H19M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/iXE29hp7E_oM2JFuB29ReQ4-zS-8qajAnaBn53nuK-Rg"/>
+            <guid isPermaLink="false">15341196-53a1-450e-97f9-48010171e303</guid>
+        </item>
         
         <item>
             <title>Bonus-mor har prøvd</title>
@@ -6590,10 +6600,10 @@ Rådgivere på Chateau Neuf i Oslo: Mia Hundvin, Christian Borch og Steinar Sage
             <description>Rådgivere: Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth.
 Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og offiseren / Dåpskrøll / Vannkresen / Julekort / Ekstra julegave / Nyttår med The Dark Side.</description>
             <pubDate>2013-12-21T13:37:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3" type="audio/mpeg"/>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H31M55S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
-            <guid isPermaLink="false">nrk_loerdagsraadet_2013-1221-1237_6352322648</guid>
+            <guid isPermaLink="false">nrk_loerdagsraadet_2013-1221-1237_6352323035</guid>
         </item>
         
         <item>
@@ -6601,10 +6611,10 @@ Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og 
             <description>Rådgivere: Audun Lysbakken, Synnøve Skarbø og Else Kåss Furuseth.
 Problemer: Dumpe venninnen? / Kjæresten min har dårlig klesstil / Matrosen og offiseren / Dåpskrøll / Vannkresen / Julekort / Ekstra julegave / Nyttår med The Dark Side.</description>
             <pubDate>2013-12-21T13:37:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352323035.mp3" type="audio/mpeg"/>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/nrk_loerdagsraadet_2013-1221-1237_6352322648.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H31M55S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
-            <guid isPermaLink="false">nrk_loerdagsraadet_2013-1221-1237_6352323035</guid>
+            <guid isPermaLink="false">nrk_loerdagsraadet_2013-1221-1237_6352322648</guid>
         </item>
         
         <item>
