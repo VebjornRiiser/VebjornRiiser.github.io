@@ -11,11 +11,25 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_x9N_qTSldgOPYGWku9XIAswb6VLoYvZYw6QFiBXYxZQ</url>
+        <url>https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYw41TMjVVWZPPCtDB94HpHbw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title>
+            <description>Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Cellene kan nå gjøre enkel stemmegjenkjenning. 
+
+Med
+Marianne Fyhn
+Anders Malthe-Sørenssen</description>
+            <pubDate>2023-12-23T08:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT19M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYw41TMjVVWZPPCtDB94HpHbw"/>
+            <guid isPermaLink="false">9958031f-e54f-48d5-a166-92b948fc53e7</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Julenissens superkrefter og cyanid i kirsebærlikøren</title>
