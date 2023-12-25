@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYw41TMjVVWZPPCtDB94HpHbw</url>
+        <url>https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYw_ioyp-0w3mWF3Xz_IRyQfg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - alkohol og hjernebark, funn av stormunn hai,  atomklokke</title>
+            <description>Nyheter fra vitenskapens verden:                      
+ - Alkoholikeres hjernebark er reparerbar
+- Sjeldent funn av en drektig Megamouth-hai
+- Julens ultimate atomklokkegavetips</description>
+            <pubDate>2023-12-25T07:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYw_ioyp-0w3mWF3Xz_IRyQfg"/>
+            <guid isPermaLink="false">08d6911e-dc23-40bb-810f-d9f32e81408c</guid>
+        </item>
         
         <item>
             <title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title>
