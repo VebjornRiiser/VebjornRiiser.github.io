@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/XCVtAwH2da5mhQmvysVO4gAIwRgsloTCGGKbLCHhM1uw</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fitta blir grøt, brev til Raja og den finske sulten</title>
+            <description>Lars har lest teksten fra en russelåt. Martin vil stille et åpent spørsmål til Abid Raja. Sammen diskuterer de kulturell appropriasjon med Beltedyret.</description>
+            <pubDate>2023-12-26T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5b83f94c-1a8c-42a6-908c-69f58e4e16a7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">5b83f94c-1a8c-42a6-908c-69f58e4e16a7</guid>
+        </item>
         
         <item>
             <title>Else Kåss Furuseths: Gynekolog og lompe</title>
