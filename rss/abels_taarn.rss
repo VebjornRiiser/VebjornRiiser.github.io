@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYw_ioyp-0w3mWF3Xz_IRyQfg</url>
+        <url>https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Årskavalkade 2023</title>
+            <description>Abels-redaksjonen byr, tradisjonen tro, på et raust tilbakeblikk på årets sendinger.
+Vi sender strøm gjennom publikum, og spør om baksten blir bedre når månen er ny?
+Vi spiser giftsopper, regenererer kroppsdeler og benytter karaoke som medisin.
+Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et riktig godt nytt år!</description>
+            <pubDate>2023-12-29T11:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ"/>
+            <guid isPermaLink="false">299c6f79-7e50-4ba3-9dbc-576c36bcfae4</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - alkohol og hjernebark, funn av stormunn hai,  atomklokke</title>
