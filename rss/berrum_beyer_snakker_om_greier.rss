@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/_M2OW7R0JvxVDMiWMK5LOAYp48s7rDdP1L2M2WWj_ZNA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jan Mabbro Andersen: Sixspencen av</title>
+            <description>Jan Mabbro titter innom i dag. Det blir prat om asiatisk ribbe, livet til Mabbro og ikke umulig du får høre Jul med mabbro.</description>
+            <pubDate>2023-12-29T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/60e4ef29-9fa5-450c-bd41-3bca4abbc890_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_M2OW7R0JvxVDMiWMK5LOAYp48s7rDdP1L2M2WWj_ZNA"/>
+            <guid isPermaLink="false">60e4ef29-9fa5-450c-bd41-3bca4abbc890</guid>
+        </item>
         
         <item>
             <title>Fitta blir grøt, brev til Raja og den finske sulten</title>
