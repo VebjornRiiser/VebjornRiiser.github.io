@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/iXE29hp7E_oM2JFuB29ReQ4-zS-8qajAnaBn53nuK-Rg</url>
+        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2023 - nr. 7</title>
+            <description>Odd Nordstoga / Ina Svenningdal / Olli Wermskog / John Brungot / Ulrikke Brandstorp / Adelina Ibishi / Hans-Olav Brenner / Christian Mikkelsen / Kristin Jess Rodin / Mikkel Niva</description>
+            <pubDate>2023-12-30T09:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/88744f53-b707-4e48-918e-51367dea8c6a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H36M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+            <guid isPermaLink="false">88744f53-b707-4e48-918e-51367dea8c6a</guid>
+        </item>
         
         <item>
             <title>Martin Lepperød / Hilde Skaar / John Brungot</title>
