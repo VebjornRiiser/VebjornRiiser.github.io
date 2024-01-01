@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/1h3NwCvRp5Jf8QD6GDRXzAUMLYvDOliPD7uFF7AMGDUw</url>
+        <url>https://gfx.nrk.no/R96_axW7L-D5tu05xvV50QW6EgAGbMjZB2wzIgkaVRYQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gabriele D&apos;Annunzio</title>
+            <description>Møt poeten, filosofen, krigshisseren og playboyen, Gabriele D&apos;Annunzio. En inspirasjon for Mussolini og Italias styggeste casanova. Med Elisabetta Cassina Wolff, historiker og førsteamanuensis ved UiO og Jon Rognlien, litteraturkritiker, forfatter og oversetter.</description>
+            <pubDate>2024-01-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/77e98be0-8239-4c04-921c-f4f137cd6636_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H13M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/R96_axW7L-D5tu05xvV50QW6EgAGbMjZB2wzIgkaVRYQ"/>
+            <guid isPermaLink="false">77e98be0-8239-4c04-921c-f4f137cd6636</guid>
+        </item>
         
         <item>
             <title>Hiphop</title>
