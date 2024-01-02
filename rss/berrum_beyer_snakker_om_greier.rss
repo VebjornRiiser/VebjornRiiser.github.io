@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/_M2OW7R0JvxVDMiWMK5LOAYp48s7rDdP1L2M2WWj_ZNA</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lazy day, fasong.no og Gardemoen-papir</title>
+            <description>Lars er på jakt etter ny hobby for 2024. Martin pitcher inn ny gründer-ide og sammen diskuterer de tørkepapiret på Gardemoen.</description>
+            <pubDate>2024-01-02T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c1028890-41f0-4b55-888e-2848bd888fc2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT54M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">c1028890-41f0-4b55-888e-2848bd888fc2</guid>
+        </item>
         
         <item>
             <title>Jan Mabbro Andersen: Sixspencen av</title>
