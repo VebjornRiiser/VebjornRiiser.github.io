@@ -734,16 +734,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
-        </item>
-        
-        <item>
             <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
             <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -761,6 +751,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT43M30S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
+        </item>
+        
+        <item>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3352,6 +3352,36 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:duration>PT2M26S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
             <guid isPermaLink="false">3fbd1ca0-c6b4-489b-800b-30b051bf7852</guid>
+        </item>
+        
+        <item>
+            <title>En ny gutt i klassen (1:8)</title>
+            <description>Lærerne stusser over at Adam går med plastposer som sokker, spiser mistenkelige piller og tegner grusomme tegninger.</description>
+            <pubDate>2024-01-03T05:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d56040d9-e858-4f52-8e36-388b35ad22ba_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
+            <guid isPermaLink="false">d56040d9-e858-4f52-8e36-388b35ad22ba</guid>
+        </item>
+        
+        <item>
+            <title>Skuespilleren (2:8)</title>
+            <description>Adams familie bor ikke der de sier, og snart skal det vise seg at dette ikke er det eneste de juger om.</description>
+            <pubDate>2024-01-03T05:05:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1a8195e4-164f-4492-9801-135f3b96fda2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
+            <guid isPermaLink="false">1a8195e4-164f-4492-9801-135f3b96fda2</guid>
+        </item>
+        
+        <item>
+            <title>Jakten (3:8)</title>
+            <description>Etter en intens biljakt gjennom hele Norge blir Adams hemmelighet avslørt. Nye episoder kommer 10. januar.</description>
+            <pubDate>2024-01-03T05:10:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5d1ee874-96e7-40a3-a3ef-29a5f79b7391_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
+            <guid isPermaLink="false">5d1ee874-96e7-40a3-a3ef-29a5f79b7391</guid>
         </item>
         </channel>
 </rss>
