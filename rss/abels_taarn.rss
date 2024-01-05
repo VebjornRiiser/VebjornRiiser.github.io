@@ -11,11 +11,43 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ</url>
+        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>2:3 Vi kårer de største forskningsgjennombruddene i 2023</title>
+            <description>Fire eksperter oppsummerer forskningsåret som kom og gikk.
+
+I panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke</description>
+            <pubDate>2024-01-05T10:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f8da1793-e621-4c59-bb5a-c7e9496b5e91_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
+            <guid isPermaLink="false">f8da1793-e621-4c59-bb5a-c7e9496b5e91</guid>
+        </item>
+        
+        <item>
+            <title>1:3 Vi kårer de største forskningsgjennombruddene i 2023</title>
+            <description>Fire eksperter oppsummerer forskningsåret som kom og gikk.
+
+I panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke</description>
+            <pubDate>2024-01-05T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
+            <guid isPermaLink="false">2c66d71d-24d4-4a05-a7ab-b361838eb8d9</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Årskavalkade 2023</title>
@@ -4557,16 +4589,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
-            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT53M26S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
-            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
-        </item>
-        
-        <item>
             <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
             <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -4574,6 +4596,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT57M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
             <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
+        </item>
+        
+        <item>
+            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
+            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
+            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
         </item>
         
         <item>
