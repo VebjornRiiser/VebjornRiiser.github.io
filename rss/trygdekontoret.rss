@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/R96_axW7L-D5tu05xvV50QW6EgAGbMjZB2wzIgkaVRYQ</url>
+        <url>https://gfx.nrk.no/vvyy0mU_UJn4ieh6eOnkLgkyuliuDVJ5ivhr4Q6ci1gw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Israels fremtid</title>
+            <description>Hvor er Israel på vei? Og hva er planen i Gaza? Med journalist Nikolai Kleivan og historiker og forfatter Asgeir Ueland, på linje fra Israel.</description>
+            <pubDate>2024-01-08T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8269389b-64d5-4edc-bd0f-6a71d8193c92_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H11M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vvyy0mU_UJn4ieh6eOnkLgkyuliuDVJ5ivhr4Q6ci1gw"/>
+            <guid isPermaLink="false">8269389b-64d5-4edc-bd0f-6a71d8193c92</guid>
+        </item>
         
         <item>
             <title>Gabriele D&apos;Annunzio</title>
