@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ</url>
+        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fikk ikke voldsalarm - ble drept</title>
+            <description>Hvorfor er det de kvinnelige ofrene som må ha voldsalarm når det er mennene som truer?</description>
+            <pubDate>2024-01-09T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7c01dfc3-31e1-4c4c-a736-9ddfe8d768c2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">7c01dfc3-31e1-4c4c-a736-9ddfe8d768c2</guid>
+        </item>
         
         <item>
             <title>Nytt år, flat mage og hvit måned</title>
