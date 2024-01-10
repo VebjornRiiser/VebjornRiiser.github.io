@@ -1727,5 +1727,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg"/>
             <guid isPermaLink="false">7da20fd5-709e-474d-8519-024ca386b9b0</guid>
         </item>
+        
+        <item>
+            <title>Kommer i NRK Radio: Munchtyveriene</title>
+            <description>Gjennom dristige kunstkupp har tyver flere ganger klart å stikke av med Norges mest dyrebare kunstskatter – malerier av Edvard Munch. Kommer 11.01.24.</description>
+            <pubDate>2024-01-10T14:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/2f061ed7-cee9-4323-8746-dd7ab2e5aa4d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ"/>
+            <guid isPermaLink="false">2f061ed7-cee9-4323-8746-dd7ab2e5aa4d</guid>
+        </item>
         </channel>
 </rss>
