@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/Ommn5wYkx7-J9oljvWWSFgr22OpvwGOfneCq3fXmZonQ</url>
+        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Israel-boikott</title>
+            <description>Vil stortinget gå til boikott av Israel når nær halvparten av det norske folk i en meningsmåling sier de ønsker boikott?</description>
+            <pubDate>2024-01-11T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2cf8d75d-e263-4f84-a175-0651c991e762_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">2cf8d75d-e263-4f84-a175-0651c991e762</guid>
+        </item>
         
         <item>
             <title>Fikk ikke voldsalarm - ble drept</title>
