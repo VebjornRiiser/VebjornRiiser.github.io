@@ -1737,5 +1737,35 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ"/>
             <guid isPermaLink="false">2f061ed7-cee9-4323-8746-dd7ab2e5aa4d</guid>
         </item>
+        
+        <item>
+            <title>&quot;Skrik&quot; ut av vinduet – Munchtyveriene (1:3)</title>
+            <description>Mens alle er opptatt av Lillehammer-OL, stikker ukjente tyver av med «Skrik». Bare en stige står igjen utenfor Nasjonalgalleriet.</description>
+            <pubDate>2024-01-11T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/e6f5d505-1281-41e1-871d-ab3c34a16a53_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ"/>
+            <guid isPermaLink="false">e6f5d505-1281-41e1-871d-ab3c34a16a53</guid>
+        </item>
+        
+        <item>
+            <title>&quot;Madonna&quot; i bagasjerommet – Munchtyveriene (2:3)</title>
+            <description>Midt på lyse dagen løper maskerte ranere inn på Munchmuseet og røsker med seg to malerier. Verdi: 750 millioner kroner.</description>
+            <pubDate>2024-01-11T06:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/43bde480-c6c3-48c2-8c56-7a3122654017_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ"/>
+            <guid isPermaLink="false">43bde480-c6c3-48c2-8c56-7a3122654017</guid>
+        </item>
+        
+        <item>
+            <title>En Munch på pissoaret – Munchtyveriene (3:3)</title>
+            <description>Munch-kunst for millioner henger usikret på hybler og toaletter, og ved muséet stjeler en betrodd ansatt verdifulle verk.</description>
+            <pubDate>2024-01-11T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/5c7d34ab-4740-441c-9e3d-2c1365821ce0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ"/>
+            <guid isPermaLink="false">5c7d34ab-4740-441c-9e3d-2c1365821ce0</guid>
+        </item>
         </channel>
 </rss>

@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA</url>
+        <url>https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ole Øyvind Sand Holth</title>
+            <description>Kunne krigen i Ukraina vært unngått? Er vestens kritikk av VM i Qatar dobbeltmoralsk? Klassekampens Ole Øyvind Sand Holth er gjest Obs: Episoden ble spilt inn 21. desember.</description>
+            <pubDate>2024-01-11T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d8d45af5-95ee-4b59-a2b2-49cf53facfc9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H36M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA"/>
+            <guid isPermaLink="false">d8d45af5-95ee-4b59-a2b2-49cf53facfc9</guid>
+        </item>
         
         <item>
             <title>Amalie Stuve er tilbake igjen!</title>
