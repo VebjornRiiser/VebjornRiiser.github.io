@@ -11,11 +11,31 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
+        <url>https://gfx.nrk.no/PGbFEl_rB21Q9Mqpi5m9JAZHaWXFzu1imsPra5YaInqw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Hvorfor har vi A- og B-mennesker?</title>
+            <description>I panelet:
+Biolog Katharina Vestre, 
+fysiker Ole Martin Løvvik 
+«kjøkkenkjemiker» Joachim Mossige 
+
+- Hvorfor er vi A- eller B-mennesker?
+- Hvorfor har eggs koketid økt? 
+- Hvor tynt kan egentlig gull bli?
+- Hvorfor er det flere fargerike og giftige dyr i varme strøk enn hos oss?
+- Hvorfor kan man blåse bobler av spytt?
+- Kjernen i jorda er tung, mens i sola lett, hvorfor?</description>
+            <pubDate>2024-01-12T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d8e72c42-2932-4258-a7bd-dd16d3bb77ea_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PGbFEl_rB21Q9Mqpi5m9JAZHaWXFzu1imsPra5YaInqw"/>
+            <guid isPermaLink="false">d8e72c42-2932-4258-a7bd-dd16d3bb77ea</guid>
+        </item>
         
         <item>
             <title>3:3 Vi spår gjennombruddene i 2024</title>
