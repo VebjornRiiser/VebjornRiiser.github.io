@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/vvyy0mU_UJn4ieh6eOnkLgkyuliuDVJ5ivhr4Q6ci1gw</url>
+        <url>https://gfx.nrk.no/Acmsex_jJ06qYCFrABM03QjAqkRqCc0U_T_JbTHgwYvA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvalfangst</title>
+            <description>Vi utryddet nesten de store hvalene i det første Norske oljeeventyret, en del av historien vår vi kanskje helst vil glemme. 
+Med Espen Ytreberg, forfatter og professor i medievitenskap ved UiO.</description>
+            <pubDate>2024-01-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9fcec416-8f4a-43fc-b214-634a5f0086ca_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Acmsex_jJ06qYCFrABM03QjAqkRqCc0U_T_JbTHgwYvA"/>
+            <guid isPermaLink="false">9fcec416-8f4a-43fc-b214-634a5f0086ca</guid>
+        </item>
         
         <item>
             <title>Israels fremtid</title>
