@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/7OdwOsADufWTP1WVBig67QVixepB6QcxxR7f6tqwV_yg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bekreftelse er vanskelig, men bra!</title>
+            <description>Ragnhild ville bekfrefte moren sin bedre da hun sendte inn problem i 2022 - hvordan har det gått?</description>
+            <pubDate>2024-01-17T16:20:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1fe0c432-e00d-4d56-9c2b-524c3156122c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT17M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">1fe0c432-e00d-4d56-9c2b-524c3156122c</guid>
+        </item>
         
         <item>
             <title>Silje Nordnes / Håvard Lilleheie / Alessandra Mele</title>
