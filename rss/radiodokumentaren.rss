@@ -734,13 +734,13 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <title>I ulykkelige omstendigheter</title>
+            <description>Victoria venter sitt andre barn. Men når hun er seks måneder på vei oppdager legene at det er noe galt med barnet. Mer kan ikke legene si fordi de ikke vet hva som er galt. Av Victoria Wilden.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290203.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M30S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
         </item>
         
         <item>
@@ -764,13 +764,13 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>I ulykkelige omstendigheter</title>
-            <description>Victoria venter sitt andre barn. Men når hun er seks måneder på vei oppdager legene at det er noe galt med barnet. Mer kan ikke legene si fordi de ikke vet hva som er galt. Av Victoria Wilden.</description>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290203.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M30S</itunes:duration>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3402,6 +3402,26 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:duration>PT36M30S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
             <guid isPermaLink="false">5b0b3c17-77fd-48d5-b7f9-23cc30f06d90</guid>
+        </item>
+        
+        <item>
+            <title>Monsteret (7:8)</title>
+            <description>Er dama en skurk eller et offer? Dommerne har bestemt seg.</description>
+            <pubDate>2024-01-17T05:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/91b1d40c-3514-4803-ba20-70a055802672_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
+            <guid isPermaLink="false">91b1d40c-3514-4803-ba20-70a055802672</guid>
+        </item>
+        
+        <item>
+            <title>Djevelens advokat (8:8)</title>
+            <description>Er barnekvinnen utsatt for et justismord? Barboras venner kjemper for å redde henne.</description>
+            <pubDate>2024-01-17T05:05:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a522b35d-8c18-44ba-a0c4-fa7ea5fcb0b5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA"/>
+            <guid isPermaLink="false">a522b35d-8c18-44ba-a0c4-fa7ea5fcb0b5</guid>
         </item>
         </channel>
 </rss>
