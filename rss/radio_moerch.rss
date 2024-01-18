@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA</url>
+        <url>https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lars Berrum 2.0</title>
+            <description>Simulering, religion, usynlige sykdommer og aktivisme er bare noe av det det går i når Lars Berrum er gjest. Igjen!</description>
+            <pubDate>2024-01-18T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d72e1f10-b2e1-48c3-a25f-69364b0e2bc3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H26M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA"/>
+            <guid isPermaLink="false">d72e1f10-b2e1-48c3-a25f-69364b0e2bc3</guid>
+        </item>
         
         <item>
             <title>Ole Øyvind Sand Holth</title>
