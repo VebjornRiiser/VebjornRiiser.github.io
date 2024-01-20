@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/IPJvQT2TLh4StR9pfEP9-g0DwfO8Q27AvKdplBx_JCiw</url>
+        <url>https://gfx.nrk.no/eN86_jJrupymxF8ZwO9NWgeZuBVJ7GoheBta15qkbCWw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Sophus Lie - Norges viktigste matematiker?</title>
+            <description>Sophus Lie skapte matematikken som var avgjørende for den moderne fysikken. Nå får han et eget senter i Tromsø.</description>
+            <pubDate>2024-01-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/eN86_jJrupymxF8ZwO9NWgeZuBVJ7GoheBta15qkbCWw"/>
+            <guid isPermaLink="false">61415227-9318-46b5-add1-ae5161aa2ca3</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Avfallshåndtering med lava</title>
