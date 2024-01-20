@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/905iQ0d0NQsw_-DZO82RLQ7kCC2bamG6h29y-HbJLVZw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vegard Ylvisåker / Solveig Kloppen / Harald Eia</title>
+            <description>Status fra ostefatet / Vil gjøre noe i smug! / Eventyrlysten med flyskrekk / Ligge med venn i åpent forhold?! / Er faren såra? / Reeeeeeeeels! / Spleising, spleising, spleising! / Møtes igjen i fotballen? / Ta med mor på tur? / Hvem skal bli med til fødselen?</description>
+            <pubDate>2024-01-20T13:10:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/177775c0-d809-48c0-aea2-57ef2396c30b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H14M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/905iQ0d0NQsw_-DZO82RLQ7kCC2bamG6h29y-HbJLVZw"/>
+            <guid isPermaLink="false">177775c0-d809-48c0-aea2-57ef2396c30b</guid>
+        </item>
         
         <item>
             <title>Bekreftelse er vanskelig, men bra!</title>
