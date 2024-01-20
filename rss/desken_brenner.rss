@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>CUSTOM: Desken brenner</title>
+        <link>https://radio.nrk.no/podkast/desken_brenner</link>
+        <!--<description></description>-->
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Desken brenner</title>
+        <url>https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q</url>
+        <link>https://radio.nrk.no/podkast/desken_brenner</link>
+        <width>144</width>
+        <height>144</height>
+        </image>
+        
+        <item>
+            <title>Mysteriet Besseberg og Breiviks undulat</title>
+            <description>Premiere! Marcus og Martinus er overhodet IKKE involvert i skandaler, Anne-Kat. Hærland har forlatt Farmen Kjendis, og svenske tilstander har ankommet Irak.
+ 
+Odd-Magnus, Amalie, Marius og Tara tar deg gjennom ukas nyheter og snakkiser.</description>
+            <pubDate>2024-01-19T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0995e545-7ded-408d-b350-d6d49f593a67_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">0995e545-7ded-408d-b350-d6d49f593a67</guid>
+        </item>
+        
+        <item>
+            <title>I NRK Radio: Hør Desken brenner</title>
+            <description>Ny humorpodkast.</description>
+            <pubDate>2024-01-12T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/4d713051-3940-4c54-afc0-fc1c7fb3e87f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">4d713051-3940-4c54-afc0-fc1c7fb3e87f</guid>
+        </item>
+        </channel>
+</rss>
