@@ -18,6 +18,16 @@
         </image>
         
         <item>
+            <title>En mytisk episode</title>
+            <description>Åndenes makt endret barndommen til Erlend og Steinar er i ferd med å bli voksen.</description>
+            <pubDate>2024-01-22T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2d215ea1-b294-4528-906d-1d05d77dac1a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"/>
+            <guid isPermaLink="false">2d215ea1-b294-4528-906d-1d05d77dac1a</guid>
+        </item>
+        
+        <item>
             <title>Ja til mer sorg</title>
             <description>Steinar ønsker å føle på mer sorg, mens Erlend kommer på hvorfor han er glad.</description>
             <pubDate>2024-01-15T06:00:00+01:00 </pubDate>
