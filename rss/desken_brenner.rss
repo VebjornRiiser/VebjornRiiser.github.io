@@ -28,15 +28,5 @@ Odd-Magnus, Amalie, Marius og Tara tar deg gjennom ukas nyheter og snakkiser.</d
             <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
             <guid isPermaLink="false">0995e545-7ded-408d-b350-d6d49f593a67</guid>
         </item>
-        
-        <item>
-            <title>I NRK Radio: Hør Desken brenner</title>
-            <description>Ny humorpodkast.</description>
-            <pubDate>2024-01-12T12:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/4d713051-3940-4c54-afc0-fc1c7fb3e87f_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT25S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
-            <guid isPermaLink="false">4d713051-3940-4c54-afc0-fc1c7fb3e87f</guid>
-        </item>
         </channel>
 </rss>
