@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ</url>
+        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Må Kjerkol gå av?</title>
+            <description>Eksperter påpeker at flere avsnitt i helseministerens masteroppgave inneholder avsnitt identiske med tekst fra andre studenter.</description>
+            <pubDate>2024-01-23T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/293bcd57-e8ec-4e75-931f-c7623f5d3bde_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">293bcd57-e8ec-4e75-931f-c7623f5d3bde</guid>
+        </item>
         
         <item>
             <title>Hva bør kongen gjøre?</title>
