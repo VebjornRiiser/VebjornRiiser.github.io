@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/905iQ0d0NQsw_-DZO82RLQ7kCC2bamG6h29y-HbJLVZw</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Et gøyalt forslag til alle lærere + mails!</title>
+            <description>Vi durer igjennom mange lyttermail!</description>
+            <pubDate>2024-01-24T16:55:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e81ab56c-5ba9-47b0-a5a8-f60afc42107f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT14M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">e81ab56c-5ba9-47b0-a5a8-f60afc42107f</guid>
+        </item>
         
         <item>
             <title>Vegard Ylvisåker / Solveig Kloppen / Harald Eia</title>
