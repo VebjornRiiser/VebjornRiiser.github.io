@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA</url>
+        <url>https://gfx.nrk.no/R9zFhVP0W_BEFUOAYGx_MA8yjAs97vqdNT67J1L97ojA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Simen Velle</title>
+            <description>Kokain, politiker-intelligens og privat helseomsorg. En dypt engasjerende samtale med FpU-leder Simen Velle.</description>
+            <pubDate>2024-01-25T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H26M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/R9zFhVP0W_BEFUOAYGx_MA8yjAs97vqdNT67J1L97ojA"/>
+            <guid isPermaLink="false">1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d</guid>
+        </item>
         
         <item>
             <title>Lars Berrum 2.0</title>
