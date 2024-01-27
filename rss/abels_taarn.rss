@@ -11,11 +11,27 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ut3JRbXySA-bPWfa8pN9Kwu4Xi8Tsmx4eE8KBazErbAQ</url>
+        <url>https://gfx.nrk.no/dbTuyB--2kfh5_hwKhkxfQBmpZmm30NBKjDVJRrOZ1Cw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels ekstra fra Tromsø</title>
+            <description>Hetland Audun er psykolog og Rikardsen Audun er arktisk biolog og de svarte på disse spørsmålene:
+
+Lyver vi så vi tror det selv? 
+
+Hvorfor har isbjørnen svart tunge og snute?   
+
+Hvorfor blir noen dyr hauggamle?</description>
+            <pubDate>2024-01-27T07:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/642f6afe-9581-4be6-abd9-326cdb42772f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT24M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dbTuyB--2kfh5_hwKhkxfQBmpZmm30NBKjDVJRrOZ1Cw"/>
+            <guid isPermaLink="false">642f6afe-9581-4be6-abd9-326cdb42772f</guid>
+        </item>
         
         <item>
             <title>Abels tårn - Hvor mye kan en hund lære på 500 år?</title>
