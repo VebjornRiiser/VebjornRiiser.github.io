@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/COrFBFaHcaL7p-T6vITMKwsfLJuABrqWn8fXpzfRdz3w</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kåre Magnus Bergh / Adelina Ibishi / Sjur Vatne Brean</title>
+            <description>Hallois rådgivere / Kollektivproblemet! Okay, da... en gang til! / Lysforurensning? / Hekten definerer / Brøt den hellige reglen / Søppelhuset er endelig operativt / Sårer jeg mer om jeg sier ja, eller melder avbud? / Sjokkerende funn i bukselomma til lillesøster / Den hemmelige fyren / Buse i nesa-etikette! / Koppen skal ut / Epilog</description>
+            <pubDate>2024-01-27T13:09:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d57989ae-f27d-498c-a890-b9946aceb5bd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H17M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/COrFBFaHcaL7p-T6vITMKwsfLJuABrqWn8fXpzfRdz3w"/>
+            <guid isPermaLink="false">d57989ae-f27d-498c-a890-b9946aceb5bd</guid>
+        </item>
         
         <item>
             <title>Et gøyalt forslag til alle lærere + mails!</title>
