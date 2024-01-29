@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw</url>
+        <url>https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Avhengighet</title>
+            <description>Hvordan er det å leve med avhengighet? Hvordan funker AA? Og hvordan er det å leve som tørrlagt alkoholiker? Med Trond Bjerke, AA-medlem, forfatter og forskningsleder ved rusklinikken på Universitetet i Nord-Norge.</description>
+            <pubDate>2024-01-29T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1d910d8e-e6f8-427d-880e-b34bd1db75e7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H10M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg"/>
+            <guid isPermaLink="false">1d910d8e-e6f8-427d-880e-b34bd1db75e7</guid>
+        </item>
         
         <item>
             <title>Norge og korrupsjon</title>
