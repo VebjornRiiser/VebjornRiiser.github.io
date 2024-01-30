@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/x3pPHNyAdwu1loJBSOOyCwZkPIKehVz7Z7D5UjeLnHLQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jeg er søt, best med utbrudd og hører på alt</title>
+            <description>Lars har snakket gebrokkent på kafe! Martin lurer på om han bør ha et utbrudd. Sammen diskuterer de folk som hører på alt.</description>
+            <pubDate>2024-01-30T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0ef56689-91b4-4401-8b83-eacd8ee9b143_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">0ef56689-91b4-4401-8b83-eacd8ee9b143</guid>
+        </item>
         
         <item>
             <title>Mia Hundvin: Skeptisk og østlandsunger</title>
