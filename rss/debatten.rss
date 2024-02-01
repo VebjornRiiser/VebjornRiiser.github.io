@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/Ah2IbMX7CyTm9bSRyHETfQOUia-JOcIKx-LdzYQaZrGw</url>
+        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Krever Gaza-svar fra regjeringen</title>
+            <description>Flere hundre næringslivsledere med opprop for Gaza. Krever umiddelbar handling av regjeringen.</description>
+            <pubDate>2024-02-01T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/dc64ffc6-e04e-4252-abd8-788645599b7a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">dc64ffc6-e04e-4252-abd8-788645599b7a</guid>
+        </item>
         
         <item>
             <title>Menn som banker, voldtar og gifter bort kvinner</title>
