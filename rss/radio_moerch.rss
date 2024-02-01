@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/R9zFhVP0W_BEFUOAYGx_MA8yjAs97vqdNT67J1L97ojA</url>
+        <url>https://gfx.nrk.no/QuTphqH6hNRTRALWfh3fiAA2ZL7NlqZbB9Wty338EyAQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Magnus Midtbø</title>
+            <description>Klatrer og youtuber som mener han &quot;egentlig ikke gjør så mye farlig&quot;. Så hvorfor leste han da inn testamente på telefonen sist han var i Las Vegas?</description>
+            <pubDate>2024-02-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b2f0d297-976e-417f-b160-9d2873d0c56e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H20M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/QuTphqH6hNRTRALWfh3fiAA2ZL7NlqZbB9Wty338EyAQ"/>
+            <guid isPermaLink="false">b2f0d297-976e-417f-b160-9d2873d0c56e</guid>
+        </item>
         
         <item>
             <title>Simen Velle</title>
