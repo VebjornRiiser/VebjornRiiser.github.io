@@ -11,11 +11,36 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Jo7m2a-9ig5zZ65e2QpGgg1wq0uVG17Gc4Afp2-0xp0A</url>
+        <url>https://gfx.nrk.no/zhFiKjUFCvBRi1N-XeLO2wrrcLWjpSRv4EmuHxYj4IBQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Kan man bli forgiftet av en gammel lysekrone?</title>
+            <description>Kan man bli forgiftet av en gammel lysekrone? 
+
+Er tidevann årsaken til at livet gikk fra havet og opp på land? 
+
+Hvordan klarer mors melk bli så tilpasset barnets behov? 
+
+Når kan vi dele mennesker inn i ulike arter? 
+
+Hvorfor blir ikke egenskapen blå øyne utryddet? 
+
+Hvorfor finner vi ikke menneskefossiler?
+
+
+Dagens eksperter:
+Julie Sørlie Paus-Knudsen, Biolog, 
+Lene Liebe Delsett, Paleontolog,</description>
+            <pubDate>2024-02-02T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fdef85ef-3924-427d-8de9-d859c6433b8a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zhFiKjUFCvBRi1N-XeLO2wrrcLWjpSRv4EmuHxYj4IBQ"/>
+            <guid isPermaLink="false">fdef85ef-3924-427d-8de9-d859c6433b8a</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Spermageddon, PFAS problemet og kvarker i løsvekt</title>
