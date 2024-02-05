@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg</url>
+        <url>https://gfx.nrk.no/NqxJvvdwc5TmH9yyyBLsUQEHgXnuHuRO1WLJnMK4qIuQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tyskland</title>
+            <description>Fra utsiden virker Tyskland anno 2024 relativt stabilt, men om man åpner døra og titter inn i ølhallene er ting kanskje mer urolig enn man skulle tro? Med Astrid Sverresdotter Dypvik, forfatter, historiker og journalist.</description>
+            <pubDate>2024-02-05T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/86a45b57-e106-4052-9dc2-1371a30bd8a4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/NqxJvvdwc5TmH9yyyBLsUQEHgXnuHuRO1WLJnMK4qIuQ"/>
+            <guid isPermaLink="false">86a45b57-e106-4052-9dc2-1371a30bd8a4</guid>
+        </item>
         
         <item>
             <title>Avhengighet</title>

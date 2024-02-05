@@ -11,11 +11,25 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/PN5oNYG740t-R9KIBlO8fAeLZFMqhCv8-DPM-SaHoKHg</url>
+        <url>https://gfx.nrk.no/-DF69MbQc5FI2a9LqjuKfgLFrToZZstOPo9x7toTmpmQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - hvithai, Neuralink og kikerter i månejord</title>
+            <description>Nyheter fra vitenskapens verden om:
+- Hvithaiunge observert for første gang                    
+- Nytt håp for noen døve                                                       
+- En chip i hjernen fra Neuralink
+- Kikerter i månejord</description>
+            <pubDate>2024-02-05T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d7867b34-08d2-46e0-b189-2609d97dcd6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-DF69MbQc5FI2a9LqjuKfgLFrToZZstOPo9x7toTmpmQ"/>
+            <guid isPermaLink="false">d7867b34-08d2-46e0-b189-2609d97dcd6d</guid>
+        </item>
         
         <item>
             <title>Den myteomspunne chaga soppen..</title>
