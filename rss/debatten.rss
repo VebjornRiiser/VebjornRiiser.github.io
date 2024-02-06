@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ</url>
+        <url>https://gfx.nrk.no/wiyIZhtFfKa1246PnqO5IAShKcv_M9ZQvN_em8efbyfA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Eggrøre i landbruket</title>
+            <description>Hvordan sikre at kundene får nok egg i butikkene?</description>
+            <pubDate>2024-02-06T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/404f6cc5-0293-4248-8812-55060ce0d2a3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/wiyIZhtFfKa1246PnqO5IAShKcv_M9ZQvN_em8efbyfA"/>
+            <guid isPermaLink="false">404f6cc5-0293-4248-8812-55060ce0d2a3</guid>
+        </item>
         
         <item>
             <title>Krever Gaza-svar fra regjeringen</title>
