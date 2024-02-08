@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/wiyIZhtFfKa1246PnqO5IAShKcv_M9ZQvN_em8efbyfA</url>
+        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ut med mobilen, inn med tekstroboter</title>
+            <description>Er lærere og elever klare for den nye tidsalderen?</description>
+            <pubDate>2024-02-08T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/50085d33-abc4-4c72-9cfe-da9dbdf23388_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">50085d33-abc4-4c72-9cfe-da9dbdf23388</guid>
+        </item>
         
         <item>
             <title>Eggrøre i landbruket</title>
