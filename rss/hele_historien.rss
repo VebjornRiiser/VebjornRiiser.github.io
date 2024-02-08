@@ -1767,5 +1767,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw"/>
             <guid isPermaLink="false">318ff358-a495-470f-8cfa-378063017738</guid>
         </item>
+        
+        <item>
+            <title>Det tryggeste hotellet – Skuddene på Serena (1:2)</title>
+            <description>En norsk journalist er skutt og hardt skadet. Hvert sekund teller når kollegene prøver å holde ham i live, og nå er det kritisk.</description>
+            <pubDate>2024-02-08T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/1779e83f-3345-4d26-9fc3-20e33596421d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw"/>
+            <guid isPermaLink="false">1779e83f-3345-4d26-9fc3-20e33596421d</guid>
+        </item>
+        
+        <item>
+            <title>Venter på pappa – Skuddene på Serena (2:2)</title>
+            <description>Utenriksminister Støre søker dekning i kjelleren, og to småbarnsfedre fra Norge har alvorlige skader.</description>
+            <pubDate>2024-02-08T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/55fe7b63-9fa8-42a7-8e3e-6912f8bc3475_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw"/>
+            <guid isPermaLink="false">55fe7b63-9fa8-42a7-8e3e-6912f8bc3475</guid>
+        </item>
         </channel>
 </rss>

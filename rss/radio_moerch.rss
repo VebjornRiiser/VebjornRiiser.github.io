@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/QuTphqH6hNRTRALWfh3fiAA2ZL7NlqZbB9Wty338EyAQ</url>
+        <url>https://gfx.nrk.no/RONf1IFxjUnM6G-I6D6wiA02-38IM7owwRNe4m8ktu3Q</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Anne-Kat. Hærland</title>
+            <description>Hun har nettopp hoppet av Farmen, men jeg ville heller prate om kunstig intelligens. Dét kan Anne-Katrine nemlig veldig mye om!</description>
+            <pubDate>2024-02-08T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/de913afd-f512-4d9a-a7f0-8a19220b4a22_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/RONf1IFxjUnM6G-I6D6wiA02-38IM7owwRNe4m8ktu3Q"/>
+            <guid isPermaLink="false">de913afd-f512-4d9a-a7f0-8a19220b4a22</guid>
+        </item>
         
         <item>
             <title>Magnus Midtbø</title>
