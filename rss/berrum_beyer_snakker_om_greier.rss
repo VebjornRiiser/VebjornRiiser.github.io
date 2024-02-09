@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/G1vOG0WNdJkNvIFAHfofuwi9FwJN8JYmD38E6ZGsPwMA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>OnklP: Gammal limmo og Oslo Ess</title>
+            <description>Pål Tøien bedre kjent som OnklP er ukas gjest. Det blir preik om Lillehammer, å dra rundt med Oslo Ess og</description>
+            <pubDate>2024-02-09T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/d133d3c1-a67e-43b0-b3d9-7b482ef30c60_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT54M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/G1vOG0WNdJkNvIFAHfofuwi9FwJN8JYmD38E6ZGsPwMA"/>
+            <guid isPermaLink="false">d133d3c1-a67e-43b0-b3d9-7b482ef30c60</guid>
+        </item>
         
         <item>
             <title>Jumbo Jumbo, bring the gun og plaster</title>
