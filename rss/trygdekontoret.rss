@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/NqxJvvdwc5TmH9yyyBLsUQEHgXnuHuRO1WLJnMK4qIuQ</url>
+        <url>https://gfx.nrk.no/77XD2XBhl9JYuesX5mb8cAberzNrYEGm-qEnUgGOOlXw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Syden spessial</title>
+            <description>Hvorfor og hvordan forelsket nordmenn seg i det mystiske landet Syden? Med sosialantropolog og forfatter Runar Døving og Gudveig Nyre, syden- og charterreise-veteran med nesten 30 års erfaring fra Star Tour.</description>
+            <pubDate>2024-02-12T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9ba13f2b-2334-4eac-a682-60835873a7b4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/77XD2XBhl9JYuesX5mb8cAberzNrYEGm-qEnUgGOOlXw"/>
+            <guid isPermaLink="false">9ba13f2b-2334-4eac-a682-60835873a7b4</guid>
+        </item>
         
         <item>
             <title>Tyskland</title>
