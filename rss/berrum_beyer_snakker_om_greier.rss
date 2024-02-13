@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/G1vOG0WNdJkNvIFAHfofuwi9FwJN8JYmD38E6ZGsPwMA</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fugl for træd, professor drøvel og all babies</title>
+            <description>Lars har landa litt i seg selv. Martin har tatt vaksiner. Sammen diskuterer de å ha &quot;baby on board&quot; skilt bak bilen.</description>
+            <pubDate>2024-02-13T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b47f3c97-4a85-4bdb-a60c-8ecf0479350d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">b47f3c97-4a85-4bdb-a60c-8ecf0479350d</guid>
+        </item>
         
         <item>
             <title>OnklP: Gammal limmo og Oslo Ess</title>
