@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/DBE0P_nP1gWLy02L93yK2gOgp8v06i0SF8SZQME2YRKQ</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lilly og brudd med familie + Såret far på arbeidplass</title>
+            <description>To fine tilbakemeldinger og en mail fra en søster som har blitt fersket med narkotika - og er glad for kjeften!</description>
+            <pubDate>2024-02-14T16:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/edcdcf46-dcaf-493a-9847-f8af3a9a9582_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT18M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">edcdcf46-dcaf-493a-9847-f8af3a9a9582</guid>
+        </item>
         
         <item>
             <title>Bjarte Tjøstheim / Annika Momrak / Olli Wermskog</title>
