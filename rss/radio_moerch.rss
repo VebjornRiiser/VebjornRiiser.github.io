@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/RONf1IFxjUnM6G-I6D6wiA02-38IM7owwRNe4m8ktu3Q</url>
+        <url>https://gfx.nrk.no/HcrExoq_visKlz_uiK2M6AhYIdSE7ro8jwZZwIlGpYbQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Magnus Marsdal</title>
+            <description>Kvinner og menn stemmer stadig mer ulikt. Flere kvinner til venstre, flere menn til høyre. Sosiolog Magnus Marsdal og jeg utforsker hvorfor.</description>
+            <pubDate>2024-02-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H38M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HcrExoq_visKlz_uiK2M6AhYIdSE7ro8jwZZwIlGpYbQ"/>
+            <guid isPermaLink="false">c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4</guid>
+        </item>
         
         <item>
             <title>Anne-Kat. Hærland</title>
