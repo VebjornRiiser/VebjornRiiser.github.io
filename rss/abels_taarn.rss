@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew</url>
+        <url>https://gfx.nrk.no/Q0eTKDg2XArTCx1PYonh1w6IlGeR_leXgv8Yk9jV-PIw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nå har jeg blitt døden</title>
+            <description>(Reprise) Oscarutdelinga nærmer seg og filmen Oppenheimer har gode sjanser. Vi tar derfor et gjenhør med episoden vår om atombombens far.
+
+Torkild Jemterud gjør et dypdykk i temaet.</description>
+            <pubDate>2024-02-16T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Q0eTKDg2XArTCx1PYonh1w6IlGeR_leXgv8Yk9jV-PIw"/>
+            <guid isPermaLink="false">1512b127-9c15-4a34-8e71-cedae4865b1f</guid>
+        </item>
         
         <item>
             <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
