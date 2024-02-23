@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/j-IYHMhs4e5bMbbccsTl2wfrINz_0VKbOznfO6gVXNUw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Harald Eia: Unøyaktighet og fyllesyke</title>
+            <description>Komiker og programleder Harald Eia er ukens gjest. Det blir prat om Haralds forhold til nøyaktighet, fyllesyke og narsissismen ved å være helt.</description>
+            <pubDate>2024-02-23T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/9ebe8918-6367-452e-a36b-1ed249054486_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H14M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/j-IYHMhs4e5bMbbccsTl2wfrINz_0VKbOznfO6gVXNUw"/>
+            <guid isPermaLink="false">9ebe8918-6367-452e-a36b-1ed249054486</guid>
+        </item>
         
         <item>
             <title>Masse bits, entreprenørånden og huge dildo</title>
