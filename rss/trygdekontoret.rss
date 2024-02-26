@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/u3C60JgDG4nUsFU3BqPdLAdm5HjYsxoL2zPuvoU5K9jQ</url>
+        <url>https://gfx.nrk.no/UbZw31Lg5ONZdmzmtl0lEAwVWuZdKj86eRdlKN7lEBhQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Parasitt spessial</title>
+            <description>En vanlig katteparasitt kobles til blant annet risikoadferd, schizofreni og selvmord. Hvordan påvirker parasitter hjernene våre? Med biolog, professor og forsker Øyvind Øverli.</description>
+            <pubDate>2024-02-26T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9efbc738-2ffd-46cd-837e-9ad1a87e194a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/UbZw31Lg5ONZdmzmtl0lEAwVWuZdKj86eRdlKN7lEBhQ"/>
+            <guid isPermaLink="false">9efbc738-2ffd-46cd-837e-9ad1a87e194a</guid>
+        </item>
         
         <item>
             <title>Psykopater og sadister</title>
