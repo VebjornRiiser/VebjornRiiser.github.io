@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/j-IYHMhs4e5bMbbccsTl2wfrINz_0VKbOznfO6gVXNUw</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Sheriff på djupet, stort parti sopp og folkemøkk</title>
+            <description>Lars har funnet 27 bruksområder for Vademecum, Martin har fått hårreisende informasjon om tømming i Oslofjorden, og sammen diskuterer de muligheter for kommersielle samarbeid.</description>
+            <pubDate>2024-02-27T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e45a137d-44c0-409c-8d6e-0019c2ee4a9b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H8M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">e45a137d-44c0-409c-8d6e-0019c2ee4a9b</guid>
+        </item>
         
         <item>
             <title>Harald Eia: Unøyaktighet og fyllesyke</title>
