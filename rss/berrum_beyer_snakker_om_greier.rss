@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/teqaYUYu7P-3UvhXYU3QYQeKREhN7w1v3JJaKOIGMW1g</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Live Nelvik: Spagat og dickpicks</title>
+            <description>Komiker Live Nelvik er dagens gjest. Det blir prat om å gå i spagaten, ta dickpicks som kompliment og da hun ba Lars kjøpe vaskepuler.</description>
+            <pubDate>2024-03-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/78fed8a2-bf0a-4514-9dd6-a4becbca0f82_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/teqaYUYu7P-3UvhXYU3QYQeKREhN7w1v3JJaKOIGMW1g"/>
+            <guid isPermaLink="false">78fed8a2-bf0a-4514-9dd6-a4becbca0f82</guid>
+        </item>
         
         <item>
             <title>Sheriff på djupet, stort parti sopp og folkemøkk</title>
