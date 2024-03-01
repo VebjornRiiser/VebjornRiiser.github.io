@@ -11,11 +11,49 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/TSNGuZ3Ay0UZXPPqviT9pgfmnH5V1f1owd4O7yaArRvQ</url>
+        <url>https://gfx.nrk.no/uImxeLvUXXha2p-Q4sf8lwtUG3khmLosKLo7UdTnzNRA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (1:10) - Kjærlighet i algoritmenes tid</title>
+            <description>- Jeg har mye mer interessante samtaler med KI enn med mennesker.
+
+Kunstig intelligens blir en del av livene våre.  Noen blir til og med kjæreste med algoritmene. 
+Møt også verdens første koder som drømte om KI allerede på 1800-tallet.</description>
+            <pubDate>2024-03-01T11:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/829f80ad-1b43-4c4d-adc9-805066f7e3c1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uImxeLvUXXha2p-Q4sf8lwtUG3khmLosKLo7UdTnzNRA"/>
+            <guid isPermaLink="false">829f80ad-1b43-4c4d-adc9-805066f7e3c1</guid>
+        </item>
+        
+        <item>
+            <title>Kan KI brukes til å forstå dyrespråk?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Hvordan fungerer luktesansen under vann?
+Kan tigerhaien smake maten den sluker?
+Har vi egentlig fri vilje når alle naturlovene gjelder?
+Kan opphavsretten stoppe kunstig intelligens sitt megapotensiale?
+Hvor får fisk oksygenet sitt fra?
+Hvordan påvirker fysikk, kjemi og teknologi Simuleringsteorien?
+Blir det behov for politikk hvis kunstig intelligens overtar?
+
+Dagens eksperter:
+Datalog Morten Goodwin
+Marinbiolog Emilie Hernes Vereide
+Fysiker Are Raklev
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-03-01T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/257de36e-572d-46ac-bbe8-3aff8ca735bf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Fwwm55rJzNG86NtuW7_psAkKEUQyAvDjQBDzMQx3Qrnw"/>
+            <guid isPermaLink="false">257de36e-572d-46ac-bbe8-3aff8ca735bf</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Siste nytt fra vitenskapens verden</title>
@@ -854,31 +892,6 @@ Annette Hobson gjør et dypdykk i temaet.</description>
             <itunes:duration>PT29M29S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/Rsbdr2dnxmTnAgDgwrF0JwvRN_z3_nvlMongbzPg9Lvw"/>
             <guid isPermaLink="false">4518e168-6a1f-445e-8c7f-e959aea59548</guid>
-        </item>
-        
-        <item>
-            <title>Dynamittgubber som stearinlys?</title>
-            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
-
-- Dynamittgubber som stearinlys? 
-- Hjelper dragsug på drivstoffbruk?
-- Hva skal blekkspruten med tre hjerter?
-- Hvor mange - og hvor store - vindmøller er optimalt?
-- Om dyphavsstrømmer og polar planktonvekst
-- Hva er lydbølger laget av?
-- Temperert vann som strømsparingstiltak?
-
-Dagens eksperter:
-Professor i forbrenning, Knut Vågsæther
-Polarforsker Karoline Saubreka
-Vindingeniør Atle Johnson Gyllensten
-
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description>
-            <pubDate>2023-10-20T07:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a3a72635-0ed3-4a32-8397-8a42a6cf69c8_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M6S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gw6lXWtI2erHA45sLvGL4poA"/>
-            <guid isPermaLink="false">a3a72635-0ed3-4a32-8397-8a42a6cf69c8</guid>
         </item>
         
         <item>
@@ -1902,6 +1915,41 @@ Organisk kjemiker, Alexander H. Sandtorv</description>
         </item>
         
         <item>
+            <title>Abels tårn - Mentos i Cola, Solo, Farris og Cremant</title>
+            <description>ABESL TÅRN - Hvordan holde på kullsyra i en åpnet brusflaske?
+ 
+- Kan strøm hindre at vi råtner?
+ 
+- Hvorfor drømmer vi mere på hytta?
+ 
+- Hvor langt unna tua kan en maur bli fraktet og fortsatt finne veien hjem?
+ 
+- Hvorfor sørger vi oss ikke ferdig mens folk er i live?
+  
+- Hvorfor fjerner varmt vann møkk best?
+ 
+- Kan det å dusje sjeldnere påvirke helsa?
+ 
+- Er følelser lavstatus?
+ 
+- Er teflon ett evig kjemikalie?
+ 
+- Er det bra å smøre seg med olivenolje?
+ 
+Og vi gjør eksperimenterer med mentos og brus...
+ 
+I panelet:
+Zoolog Petter Bøckman 
+Psykolog Yasmin Sofia Iqbal 
+Organisk kjemiker, Alexander H. Sandtorv</description>
+            <pubDate>2023-05-19T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/624adefc-22bc-47fa-92f1-74b5c4f9f90a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/lblH5KF19tMjTnHxB1qgqwJXeG5uPLXdOEzg3tra97jQ"/>
+            <guid isPermaLink="false">624adefc-22bc-47fa-92f1-74b5c4f9f90a</guid>
+        </item>
+        
+        <item>
             <title>Abels ekstra: Ja, mobilen sniklytter nok til ALT du sier!  ... (Hører telefonen hva du sier? - Del 2)</title>
             <description>I forrige sending gjorde vi et eksperiment: Snakket høyt om å kjøpe et obskurt produkt for å se om det dukket opp reklame på for eksempel Facebook. I løpet av ett døgn var den der. Reklamen for barfotsko. 
 Det betyr at: ja, telefonen lytter sannsynligvis til det du sier, og sannsynligvis selges denne informasjonen videre. Det er konklusjonen til både informatikeren og nestlederen for nasjonal cybersikkerhet.
@@ -2815,21 +2863,6 @@ Republisering fra sommeren 2021.</description>
             <itunes:duration>PT57M39S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/-tuxHEWvwdJYRbe6FiiVWwmGGq295T_Z8eWUgUgg4OzQ"/>
             <guid isPermaLink="false">39e57b2d-28c3-40a5-b304-0bd8b3007c34</guid>
-        </item>
-        
-        <item>
-            <title>Abels tårn - Den viktigste forskninga i 2022!</title>
-            <description>Kunstig intelligens kom brakende inn over oss i 2022. Men var det viktigste som skjedde på vitenskapsfronten i året som gikk?
-Vårt håndplukkede panel kårer de viktigste hendelsene fra fjoråret - sett gjennom sine fagbriller.
-
-Panelet:
-Materialfysiker Ole Martin Løvvik
-Paleontolog Lene Liebe Delsett</description>
-            <pubDate>2023-01-06T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d56f991c-8419-44f0-b45e-43e4fc39330c_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M2S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/QaI8cuX7NYADGPGfxj5nqAWX78ZO9XalnLvlBE6KV53w"/>
-            <guid isPermaLink="false">d56f991c-8419-44f0-b45e-43e4fc39330c</guid>
         </item>
         
         <item>
@@ -4883,6 +4916,22 @@ Ukas makker: fysikkprofessor Sverre Holm</description>
         </item>
         
         <item>
+            <title>Forgård - Gud og gullkabler</title>
+            <description>Dagens makker er professor i signalbehandling, og hisset for noen år siden på seg mektige krefter i NRK da han skrev om lydkvaliteten på DAB-radio. 
+Og i høst klarte han kunststykket å hisse på seg både ateister og konservative kristne med sin bok om forholdet mellom Naturvitenskap og Gud.
+
+Vi skal også få siste nytt om omikron og vaksiner.
+Og som en bonus: den kuriøse sammenhengen mellom hvorfor vi feirer jul - og Big Bang!
+
+Ukas makker: fysikkprofessor Sverre Holm</description>
+            <pubDate>2021-12-17T09:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c179307-452c-4166-9a5c-127aedaf8552_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6Pe618jxg7TzpFvV6DhY8gqnMdjLMVNWye9P5eUvcp9Q"/>
+            <guid isPermaLink="false">6c179307-452c-4166-9a5c-127aedaf8552</guid>
+        </item>
+        
+        <item>
             <title>Panelet - Den første pannekakas problem</title>
             <description>- Hvorfor blir den første pannekaka alltid rar? Gjelder det samme for andre &quot;første ting&quot;?
 - Blir gammalost så soppbefengt at den blir vegansk?
@@ -5846,18 +5895,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Forgård - Vi beklager, klimateknisk feil</title>
-            <description>For å nå klimamålene har vi gjort oss stadig mer avhengig av teknologiske løsninger. Men å innføre dem har vist seg å by på store problemer - bare tenk på vindmøllene. Og vi er foreløpig bare på startstreken.
-
-Ukas makker: Steffen Kallbekken</description>
-            <pubDate>2021-05-28T16:32:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cc073802-255b-4373-91a5-cabd96b45a75_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/HW_ZmjFSb0KZmwrE7WYvcwjtlNCkvrpqmbNZoer7gKaA"/>
-            <guid isPermaLink="false">cc073802-255b-4373-91a5-cabd96b45a75</guid>
-        </item>
-        
-        <item>
             <title>Panelet: Å kurere allergi med innvollsormer</title>
             <description>•	Blir smaksløkene skada når man brenner tunga?
 •	Og hvorfor heter det smaks-«løk»?
@@ -6791,6 +6828,31 @@ Fysiker Anja Røyne</description>
             <itunes:duration>PT55M38S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/cCkrcA_WkCmO3IG2siO1lANPLFdpHlKsMbQMaK8J6N3w"/>
             <guid isPermaLink="false">ab8967b5-bc40-48d1-bfb2-26b75ba88b86</guid>
+        </item>
+        
+        <item>
+            <title>Tidsreiser, propolis og svartedauen</title>
+            <description>Finnes fargen brun?
+
+-	Bier som går på kull
+-	Er venstrehendte mer kreative?
+-	Kan vi se farger som ikke finnes i naturen?
+-	Bruker vi opp oksygenet på planeten vår?
+-	Svartedauen og rattus rattus
+-	Et nytt problem vedrørende tidsreiser
+-	Er ramsløk ugress?
+-	Medisin av svarthyllbær
+-	Endres månenes bane om vi høster tidevannsenergi?
+
+I panelet
+Insektøkolog Anne  Sverdrup-Thygeson
+Lege Steinar Madsen
+Matematiker Andreas Nakkerud</description>
+            <pubDate>2020-09-18T15:53:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff1e4a1b-98d1-4a52-a4b0-eb141a0363cc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
+            <guid isPermaLink="false">ff1e4a1b-98d1-4a52-a4b0-eb141a0363cc</guid>
         </item>
         
         <item>
@@ -10199,30 +10261,6 @@ Bakemester Hans Helge Raae olsen</description>
             <itunes:duration>PT54M21S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
             <guid isPermaLink="false">abels_taarn_2017-02-10_1431_1978.MP3</guid>
-        </item>
-        
-        <item>
-            <title>Fotfettet ditt smelter på 10 grader. Til etteretning.</title>
-            <description>I ukas episode diskuterer vi hva faktaprodusentene skal finne på nå som vi offisielt har gått inn i den postfaktuelle tidsalder, der alternative fakta er like sanne som konvensjonelle fakta.
-
-Dessuten svarer vi på følgende spørsmål:
-Har vi virkelig 90000 km blodårer? 
-Hvorfor ser venna mine helt skeive ut i speilet, men ikke på selfier? 
-Smelter hjortefett på høyere temperatur enn kufett?
-Stemmer det at det ikke er fullt før det renner over?
-Hvor store kan regndråper bli?
-Kan man dø av sorg?
-Kan naturlige plantegifter forurense drikkevann?
-
-I Panelet:
-Lege Steinar Madsen
-Psykolog Yasmin Sofia Iqbal
-Kjemiker Einar Uggerud</description>
-            <pubDate>2017-02-03T13:38:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/abels_taarn_2017-02-03_1238_2324.MP3" type="audio/mpeg"/>
-            <itunes:duration>PT54M15S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
-            <guid isPermaLink="false">abels_taarn_2017-02-03_1238_2324.MP3</guid>
         </item>
         
         <item>
