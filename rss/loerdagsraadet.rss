@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/TAk_Wt4SrYsP0VA167XQWgPsvQicZ_6k2mqm7vlKImbg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Christian Mikkelsen / Hilde Skaar / Frida Ånnevik</title>
+            <description>Hallois rådgivere / Konkurransevennskapet / Hvordan si opp på en best mulig måte? / Happysocks! / Elendig på flørting / Side om Side / Rase fra seg / Mobilbruk *med lyd* på kollektivtransport / Kleint å våkne / Geriljabroderi / Koppen skal ut / Epilog</description>
+            <pubDate>2024-03-02T13:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3dcfd6e6-365f-48f9-8106-1c31013a3539_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H19M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TAk_Wt4SrYsP0VA167XQWgPsvQicZ_6k2mqm7vlKImbg"/>
+            <guid isPermaLink="false">3dcfd6e6-365f-48f9-8106-1c31013a3539</guid>
+        </item>
         
         <item>
             <title>Undringsvillig!!!</title>
