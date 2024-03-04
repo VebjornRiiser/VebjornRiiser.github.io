@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/UbZw31Lg5ONZdmzmtl0lEAwVWuZdKj86eRdlKN7lEBhQ</url>
+        <url>https://gfx.nrk.no/wnzo3gKtTu0v4wwbX45wvw78WCPwIlLGyf42_fzqD80g</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Prepping</title>
+            <description>Hvor forberedte bør vi være på naturkatastrofer, krig og pandemi? Og kan man bli så forberedt at man gleder seg litt til verdens undergang? Med prepper og egenberedskap-ekspert Fredrik Juell.</description>
+            <pubDate>2024-03-04T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0be90d47-a0b6-47b8-8f2b-5f1987447283_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/wnzo3gKtTu0v4wwbX45wvw78WCPwIlLGyf42_fzqD80g"/>
+            <guid isPermaLink="false">0be90d47-a0b6-47b8-8f2b-5f1987447283</guid>
+        </item>
         
         <item>
             <title>Parasitt spessial</title>
