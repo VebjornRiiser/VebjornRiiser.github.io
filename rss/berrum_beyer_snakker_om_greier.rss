@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/teqaYUYu7P-3UvhXYU3QYQeKREhN7w1v3JJaKOIGMW1g</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Det var agurken, debriefens venner og kleinhet</title>
+            <description>Lars har blitt blitt matforgifta på NRK. Martin vil lage et senter for fyllesyke. Sammen diskuterer de om man skal påpeke at det er kleint i en situasjon.</description>
+            <pubDate>2024-03-05T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ca770a92-e130-4ad9-a988-9df790a91935_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">ca770a92-e130-4ad9-a988-9df790a91935</guid>
+        </item>
         
         <item>
             <title>Live Nelvik: Spagat og dickpicks</title>
