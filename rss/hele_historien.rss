@@ -1777,5 +1777,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw"/>
             <guid isPermaLink="false">55fe7b63-9fa8-42a7-8e3e-6912f8bc3475</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Terrorangrepet på pride</title>
+            <description>Mens folk er ute på byen i Oslo og feirer kjærligheten, reiser en mann inn til sentrum bevæpnet med automatvåpen og hat.</description>
+            <pubDate>2024-03-06T14:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/1fa40fdc-f28a-4fa7-914b-ca957606a64e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ONgH7zWLW0fneUHi0pf84wmuW83RKhjjudDKaxgKTeOA"/>
+            <guid isPermaLink="false">1fa40fdc-f28a-4fa7-914b-ca957606a64e</guid>
+        </item>
         </channel>
 </rss>
