@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/TAk_Wt4SrYsP0VA167XQWgPsvQicZ_6k2mqm7vlKImbg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fiskebolla lengter etter havet?</title>
+            <description>Dro Berit Bianca på galla - og lengter fiskebolla til havet?</description>
+            <pubDate>2024-03-06T16:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/375d1bd5-279e-400f-a602-e161a349b85c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT22M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">375d1bd5-279e-400f-a602-e161a349b85c</guid>
+        </item>
         
         <item>
             <title>Christian Mikkelsen / Hilde Skaar / Frida Ånnevik</title>
