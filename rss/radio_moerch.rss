@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/jKorGQVAbxY9zWJhhytUpQNowWafrKcqrw8JdZaxxQsA</url>
+        <url>https://gfx.nrk.no/bRwLsRUJZW1JpuSa8OSmnAYlZ13X5lZHb67PB0ICkOZQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Birger Emanuelsen</title>
+            <description>– Hva vil det si i praksis, dét å la barna lide litt? Forfatter Birger Emanuelsen har skrevet bok om oppvekst og foreldreskap.</description>
+            <pubDate>2024-03-07T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/8377869a-6447-44d0-b7f9-57f716cf0957_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H57M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bRwLsRUJZW1JpuSa8OSmnAYlZ13X5lZHb67PB0ICkOZQ"/>
+            <guid isPermaLink="false">8377869a-6447-44d0-b7f9-57f716cf0957</guid>
+        </item>
         
         <item>
             <title>Sigrid Bratlie</title>

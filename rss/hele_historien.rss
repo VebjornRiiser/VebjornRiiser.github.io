@@ -1787,5 +1787,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ONgH7zWLW0fneUHi0pf84wmuW83RKhjjudDKaxgKTeOA"/>
             <guid isPermaLink="false">1fa40fdc-f28a-4fa7-914b-ca957606a64e</guid>
         </item>
+        
+        <item>
+            <title>Terrorangrepet på pride (1:2)</title>
+            <description>Terroristen skyter for å drepe. Festglade folk flykter i panikk.</description>
+            <pubDate>2024-03-07T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/a7accd1f-dab1-41e3-b7a5-6a46b7544899_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ONgH7zWLW0fneUHi0pf84wmuW83RKhjjudDKaxgKTeOA"/>
+            <guid isPermaLink="false">a7accd1f-dab1-41e3-b7a5-6a46b7544899</guid>
+        </item>
+        
+        <item>
+            <title>Terrorangrepet på pride (2:2)</title>
+            <description>Før politiet kommer, kaster vanlige mennesker seg på terroristen for å legge ham i bakken. Det blir en kamp på liv og død.</description>
+            <pubDate>2024-03-07T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/f8775b8c-09bf-4d4e-8d3f-02428007ff38_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ONgH7zWLW0fneUHi0pf84wmuW83RKhjjudDKaxgKTeOA"/>
+            <guid isPermaLink="false">f8775b8c-09bf-4d4e-8d3f-02428007ff38</guid>
+        </item>
         </channel>
 </rss>
