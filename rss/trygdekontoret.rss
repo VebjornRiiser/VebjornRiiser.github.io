@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/wnzo3gKtTu0v4wwbX45wvw78WCPwIlLGyf42_fzqD80g</url>
+        <url>https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Armageddon spessial</title>
+            <description>Mektige kristne grupper i USA kjemper for å fremskynde dommedag - i Midtøsten. Med regissør Tonje Hessen Schei, redaktør Vebjørn Selbekk og førsteamanuensis ved ONH Hilde Restad.</description>
+            <pubDate>2024-03-11T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/12c9e650-9133-47da-bff0-7520372bc89e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H9M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg"/>
+            <guid isPermaLink="false">12c9e650-9133-47da-bff0-7520372bc89e</guid>
+        </item>
         
         <item>
             <title>Prepping</title>
