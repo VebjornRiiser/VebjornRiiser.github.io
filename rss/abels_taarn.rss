@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/jTWjDc2bg3XDMGQUJNktWAnbK1prSVeFw6d1R7YxgkjA</url>
+        <url>https://gfx.nrk.no/LJ_xdXrJgyBsbgm5Q9_axAAeTAWVJWv6MxcfiP-ULUSQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (2:10) - Krig. Turing.</title>
+            <description>Har drapsdroner blitt tatt i bruk i Ukraina? Maskiner som selv velger sine mål - og skyter. 
+Vi spør hvordan KI vil endre framtidens kriger, detekter skudd i Oslo, og så spiller vi Alan Turings Imitation Game. 
+Dessuten kårer vi verdens første moderne datamaskin.</description>
+            <pubDate>2024-03-12T20:15:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b68a95ac-e2c7-4c78-bdb0-248ac68668ca_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LJ_xdXrJgyBsbgm5Q9_axAAeTAWVJWv6MxcfiP-ULUSQ"/>
+            <guid isPermaLink="false">b68a95ac-e2c7-4c78-bdb0-248ac68668ca</guid>
+        </item>
         
         <item>
             <title>Kan katten din bli allergisk mot deg?</title>
