@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/bRwLsRUJZW1JpuSa8OSmnAYlZ13X5lZHb67PB0ICkOZQ</url>
+        <url>https://gfx.nrk.no/LFHbO__fPnIgMtnxlYpagw2a0hdDUEMuzSIx6la9fLOg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Anders Danielsen Lie</title>
+            <description>–Jeg høres helt stoner ut! Lege, skuespiller og smarting Anders Danielsen Lie og jeg snakker om hva bevissthet egentlig ER. Pluss en del annet.</description>
+            <pubDate>2024-03-14T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/13ca4f9d-0bdb-4022-ab80-1d9336f8d0da_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H1M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LFHbO__fPnIgMtnxlYpagw2a0hdDUEMuzSIx6la9fLOg"/>
+            <guid isPermaLink="false">13ca4f9d-0bdb-4022-ab80-1d9336f8d0da</guid>
+        </item>
         
         <item>
             <title>Birger Emanuelsen</title>
