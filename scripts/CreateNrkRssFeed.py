@@ -267,7 +267,7 @@ if __name__ == "__main__":
     "debatten",
     "radio_moerch",
     "baade_erlend_og_steinar_",
-    "radiodokumentaren", "desken_brenner"]
+    "radiodokumentaren"]
 
     print("Trying to read settings file")
     try:
