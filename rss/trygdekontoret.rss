@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg</url>
+        <url>https://gfx.nrk.no/e6QXQ1sIHSnxd9P8UAqkVwE_kL63RFSFiAYJaH-b9EqA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Terrorisme</title>
+            <description>Fungerer terrorisme for å få til politisk forandring? Hvorfor blir folk terrorister? Og hvorfor ble Lars Gule arrestert med sprengstoff i bagasjen på en flyplass i Libanon? Med filosof Lars Gule.</description>
+            <pubDate>2024-03-18T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8caa0d9d-48ea-4cec-a600-055cb111b419_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H18M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/e6QXQ1sIHSnxd9P8UAqkVwE_kL63RFSFiAYJaH-b9EqA"/>
+            <guid isPermaLink="false">8caa0d9d-48ea-4cec-a600-055cb111b419</guid>
+        </item>
         
         <item>
             <title>Armageddon spessial</title>
