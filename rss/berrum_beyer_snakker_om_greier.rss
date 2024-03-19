@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/WM0b8ioAl3RRvPXf4Y6ldgDv22tOX6dfCFu6qPs7KP8w</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bali 1: Slangesinn</title>
+            <description>Martin har kommet seg til bali! Han sliter med frykt for slanger og strømmen. Lars liv er annerledes. Sammen diskuterer de om skalldyr er havet innsekter.</description>
+            <pubDate>2024-03-19T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/bf781302-6039-4de3-9c22-82af3a19b679_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">bf781302-6039-4de3-9c22-82af3a19b679</guid>
+        </item>
         
         <item>
             <title>Sandra Kolstad: Eye shooting og alt i lomma</title>
