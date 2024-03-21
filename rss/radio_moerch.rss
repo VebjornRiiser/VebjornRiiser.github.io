@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/LFHbO__fPnIgMtnxlYpagw2a0hdDUEMuzSIx6la9fLOg</url>
+        <url>https://gfx.nrk.no/eXclxbDck37IFG4YvG3BlgFR-FU23lfGFmw_hu4KuU4A</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gisle Selnes</title>
+            <description>&quot;– Dødstraff kan være utfallet !&quot; Julian Assange-aktivist Gisle Selnes mener USA prøver å skremme andre varslere. Hva er det som foregår her egentlig?</description>
+            <pubDate>2024-03-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/9eb45053-99eb-4eb2-8d87-b5251351a224_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H28M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/eXclxbDck37IFG4YvG3BlgFR-FU23lfGFmw_hu4KuU4A"/>
+            <guid isPermaLink="false">9eb45053-99eb-4eb2-8d87-b5251351a224</guid>
+        </item>
         
         <item>
             <title>Anders Danielsen Lie</title>

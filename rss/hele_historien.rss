@@ -1807,5 +1807,45 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
             <guid isPermaLink="false">cf9d0f95-cc19-41f5-812d-9b480f8ac0fb</guid>
         </item>
+        
+        <item>
+            <title>Paller med penger – Nokas-ranet (1:4)</title>
+            <description>Gjengen med ranere fyller bager med pengesedler. Svetten siler og klokka tikker.</description>
+            <pubDate>2024-03-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/5c5ccf04-5cf4-40cd-985b-82148171f5e7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
+            <guid isPermaLink="false">5c5ccf04-5cf4-40cd-985b-82148171f5e7</guid>
+        </item>
+        
+        <item>
+            <title>Vill vest – Nokas-ranet (2:4)</title>
+            <description>Ranere og politi skyter mot hverandre. Politimannen Arne Klungland blir truffet i hodet – og dør.</description>
+            <pubDate>2024-03-21T06:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/3d672c60-2dff-4cd2-8114-c222f78406cc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
+            <guid isPermaLink="false">3d672c60-2dff-4cd2-8114-c222f78406cc</guid>
+        </item>
+        
+        <item>
+            <title>På sporet av «Skyggen» – Nokas-ranet (3:4)</title>
+            <description>Alle krefter settes inn i jakten på han som drepte politimannen Arne Klungland – en kriminell med kallenavnet «Skyggen».</description>
+            <pubDate>2024-03-21T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/30ab2b8f-5dde-483d-b44b-8d685dbc0328_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
+            <guid isPermaLink="false">30ab2b8f-5dde-483d-b44b-8d685dbc0328</guid>
+        </item>
+        
+        <item>
+            <title>Jakten på Toska – Nokas-ranet (4:4)</title>
+            <description>Politiet jobber intenst med å spore opp hjernen bak det spektakulære ranet – David Toska. Men han er som sunket i jorda.</description>
+            <pubDate>2024-03-21T06:03:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/fe6977c0-bc72-4003-bb7f-5c77f6283444_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
+            <guid isPermaLink="false">fe6977c0-bc72-4003-bb7f-5c77f6283444</guid>
+        </item>
         </channel>
 </rss>
