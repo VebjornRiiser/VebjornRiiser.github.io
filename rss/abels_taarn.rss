@@ -11,11 +11,26 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/In9K_0cb2aoe8pXNp91zzQTnnaBvXj7-1DnCsjogAx6g</url>
+        <url>https://gfx.nrk.no/_LlYgm1FB48DOcqK8cfbkA1GdQsmiC63s41Q7hiW2zXw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan KI bli religiøs?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Dagens eksperter:
+Geolog Reidar Müller
+Kjemiker Ole Swang
+Religionfilosof og digitaletiker Leonora Bergsjø</description>
+            <pubDate>2024-03-22T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/75b11a0f-2103-4f7e-a217-b745bf739eef_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_LlYgm1FB48DOcqK8cfbkA1GdQsmiC63s41Q7hiW2zXw"/>
+            <guid isPermaLink="false">75b11a0f-2103-4f7e-a217-b745bf739eef</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Beethovens dødsårsak</title>
