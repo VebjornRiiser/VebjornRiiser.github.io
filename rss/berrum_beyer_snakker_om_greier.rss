@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/FtT364TLvtUIt5nwig7zagAverbKrARbSZ9pMLQe3VWA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ronny Brede Aase: stemmekrøll og brystvorte</title>
+            <description>Programleder Ronny Brede Aase er dagens gjest. Det blir preik om stemmekrøllet i MGP og om Ronny stimulerer brystvorten sin på tv.</description>
+            <pubDate>2024-03-22T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7d70306e-dd3e-4960-bee5-3c57aa6b06ff_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H28M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/FtT364TLvtUIt5nwig7zagAverbKrARbSZ9pMLQe3VWA"/>
+            <guid isPermaLink="false">7d70306e-dd3e-4960-bee5-3c57aa6b06ff</guid>
+        </item>
         
         <item>
             <title>Bali 1: Slangesinn</title>
