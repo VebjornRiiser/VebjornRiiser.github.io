@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/762k_QmVVdETtUnBZiqluQ1w37kiWLvUKRaYm4eO2TUw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tuva Fellman / Stig Brenner / Ella Marie Hætta Isaksen</title>
+            <description>Hvor feriet Alva jul? PROBLEMER: Kjedelig dating / Sa fra, det ble dårlig stemning / Skilsmissemusikkk / Første kjæreste er anklaget / Hva gjør jeg med en arvet porselensdukke? / Hvordan bli kjent med pappa? / Trekant! / Forlover som ikke kan dra i utdrikningslaget / Bestevennen min er forelsket i meg</description>
+            <pubDate>2024-03-23T13:05:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e5d7c7eb-7fcd-4d35-a747-7f95c7e0876c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H18M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/762k_QmVVdETtUnBZiqluQ1w37kiWLvUKRaYm4eO2TUw"/>
+            <guid isPermaLink="false">e5d7c7eb-7fcd-4d35-a747-7f95c7e0876c</guid>
+        </item>
         
         <item>
             <title>Tankestrek</title>
