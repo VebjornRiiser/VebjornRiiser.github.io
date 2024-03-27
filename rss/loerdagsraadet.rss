@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/762k_QmVVdETtUnBZiqluQ1w37kiWLvUKRaYm4eO2TUw</url>
+        <url>https://gfx.nrk.no/hLy5YxM3z_nwVTqLc7l4ew2F_Czve8Wc0I04YCsMcFoA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mikkel Niva holder tale</title>
+            <description>Mikkel leser talen til Margreth... på mange vis! Vi får tilbakemelding på hvordan det gikk... pluss: fyllemail!</description>
+            <pubDate>2024-03-27T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6978361b-fb93-4ddf-964d-d1a70a3a0844_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hLy5YxM3z_nwVTqLc7l4ew2F_Czve8Wc0I04YCsMcFoA"/>
+            <guid isPermaLink="false">6978361b-fb93-4ddf-964d-d1a70a3a0844</guid>
+        </item>
         
         <item>
             <title>Tuva Fellman / Stig Brenner / Ella Marie Hætta Isaksen</title>
