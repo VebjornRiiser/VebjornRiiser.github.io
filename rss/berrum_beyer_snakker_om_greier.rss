@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/a7vUXdigCmxp5kGZZbEfAwXhSVgbmP6KAVmU8yhCN36g</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nina Brochmann: Gregory Pincus og nakensketsj</title>
+            <description>Lege Nina Brochmann er dagens gjest. Det blir prat om da Nina var naken i en revy-sketsj og om Gregory Pincus som lagde p-pillen.</description>
+            <pubDate>2024-03-29T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/187e6ef2-4dae-45c1-b482-ed37dbde22fd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H14M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/a7vUXdigCmxp5kGZZbEfAwXhSVgbmP6KAVmU8yhCN36g"/>
+            <guid isPermaLink="false">187e6ef2-4dae-45c1-b482-ed37dbde22fd</guid>
+        </item>
         
         <item>
             <title>Bali 2: They got me this time mate!</title>
