@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/hLy5YxM3z_nwVTqLc7l4ew2F_Czve8Wc0I04YCsMcFoA</url>
+        <url>https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2023 - nr. 10</title>
+            <description>Jenny Skavlan / Hilde Skaar / Erik Solbakken / Henrik Fladseth / Adelina Ibishi / Fredrik Skavlan / Lars Berrum / Odd Nordstoga / Ingrid Gjessing Linhave</description>
+            <pubDate>2024-03-30T09:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/dacde037-06cd-4031-9374-44c7e1a8b67f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H42M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA"/>
+            <guid isPermaLink="false">dacde037-06cd-4031-9374-44c7e1a8b67f</guid>
+        </item>
         
         <item>
             <title>Mikkel Niva holder tale</title>
