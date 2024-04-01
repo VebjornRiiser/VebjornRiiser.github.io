@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/3gOKX0X40zjpWjH2rvbQ6QqOJwdC_8Td-cQ9uvRYnbhw</url>
+        <url>https://gfx.nrk.no/zjhW1V4zxKl5Mm2crsm44AW2jdXqxl8pZt6EGJDE2zeA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lokalavis spessial</title>
+            <description>Hva sier lokalavisene om oss nordmenn? Og hvorfor er de så morsomme? Med mannen bak instagramkontoen BAdesKEn Ken André Ottesen.</description>
+            <pubDate>2024-04-01T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/dc2d71e0-a232-46c8-a052-5172c3d48b78_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zjhW1V4zxKl5Mm2crsm44AW2jdXqxl8pZt6EGJDE2zeA"/>
+            <guid isPermaLink="false">dc2d71e0-a232-46c8-a052-5172c3d48b78</guid>
+        </item>
         
         <item>
             <title>Transhumanisme</title>
