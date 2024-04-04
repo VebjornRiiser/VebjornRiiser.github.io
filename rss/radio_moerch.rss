@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/DQF6i7koBRBhgraqn3RqbgHeqcqgHUM7swbNMWy3r5IQ</url>
+        <url>https://gfx.nrk.no/h4xn6aQYQlaOAb-yx91WeAFF0lFD7ytYvvI5cnibqbsQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vebjørn Selbekk 4ever!</title>
+            <description>Redaktør, kristenmann og intelligent fyr. Også sionist da! Vi gønner på -men aller først har Vebjørn en høne å plukke med meg.
+
+Denne episoden ble spilt inn 18.mars.</description>
+            <pubDate>2024-04-04T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/59ea353c-d5ee-4beb-889a-029fc318a9fc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H2M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/h4xn6aQYQlaOAb-yx91WeAFF0lFD7ytYvvI5cnibqbsQ"/>
+            <guid isPermaLink="false">59ea353c-d5ee-4beb-889a-029fc318a9fc</guid>
+        </item>
         
         <item>
             <title>Henriette Steensrup</title>
