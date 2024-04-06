@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/MLT_-bdI1lShubox8qRuxAXkroGMNbrwqvZ8XeRvVfYg</url>
+        <url>https://gfx.nrk.no/-8SRHZt-ZptOOwWg0jtdRQMUJco38v_cf4xqiOlYOgXA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (4:10) - Vaktskifte: Dr. KI stempler inn</title>
+            <description>Å oppdage en kreftsvulst  er en perfekt oppgave for KI, og nå er teknologien på full fart inn i helsevesenet. Hva betyr det for deg og meg?
+Bli også med til Horten og møt den autonome ubåten Hugin, og hør om ekspertsystemenes vekst og fall og den store KI-vinteren som senket seg.</description>
+            <pubDate>2024-04-06T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6bd8eed3-740a-48d4-b115-3b6fd78dcfea_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-8SRHZt-ZptOOwWg0jtdRQMUJco38v_cf4xqiOlYOgXA"/>
+            <guid isPermaLink="false">6bd8eed3-740a-48d4-b115-3b6fd78dcfea</guid>
+        </item>
         
         <item>
             <title>Kan menn utvikle urinlekkasje hvis de sitter og tisser?</title>
@@ -330,18 +341,6 @@ Torkild Jemterud gjør et dypdykk i temaet.</description>
         </item>
         
         <item>
-            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
-            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
-
-Torkild Jemterud gjør et dypdykk.</description>
-            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M12S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
-            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
-        </item>
-        
-        <item>
             <title>Hva er det med tallet 44?</title>
             <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
@@ -363,6 +362,18 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
             <itunes:duration>PT57M28S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/fPSsd_n65KoLb8rqRZmfbggnExkQLRAD6vrKzyGXrlRA"/>
             <guid isPermaLink="false">8090b590-e6d6-4e4a-9108-d8c3c540a68a</guid>
+        </item>
+        
+        <item>
+            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
+            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
+
+Torkild Jemterud gjør et dypdykk.</description>
+            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
+            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
         </item>
         
         <item>
@@ -3865,23 +3876,6 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
         </item>
         
         <item>
-            <title>Abels bakgård - Ødelegger vi havet?</title>
-            <description>Hvordan har havet det langs Norges kystnære områder?
-Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
-
-Hvorfor blir havet nær kysten mørkere?
-
-Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
-
-Dette høres litt mørkt ut men vi ser også på løsninger.</description>
-            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M36S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
-            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Er vi datafigurer i en stor simulering av virkeligheten?</title>
             <description>- Om det finnes paralelle universer, finnes det da flere av meg? 
 
@@ -3903,6 +3897,23 @@ Dette høres litt mørkt ut men vi ser også på løsninger.</description>
             <itunes:duration>PT57M36S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/qseyuM-Fy-9IxbTIO2hbrQqnOBxguSQ8sk4Zs_cn2CxQ"/>
             <guid isPermaLink="false">8edab392-25fe-415f-a216-90ebf8dbe9d1</guid>
+        </item>
+        
+        <item>
+            <title>Abels bakgård - Ødelegger vi havet?</title>
+            <description>Hvordan har havet det langs Norges kystnære områder?
+Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
+
+Hvorfor blir havet nær kysten mørkere?
+
+Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
+
+Dette høres litt mørkt ut men vi ser også på løsninger.</description>
+            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
+            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
         </item>
         
         <item>
@@ -4505,20 +4516,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -4538,6 +4535,20 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
+        </item>
+        
+        <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
@@ -5218,16 +5229,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
-            <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5c6cda7f-98b1-411e-9f99-0221aebb9daf_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M7S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
-            <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
-        </item>
-        
-        <item>
             <title>Forgård - med vikingetterforskeren Cat Jarman</title>
             <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -5235,6 +5236,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT53M26S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
             <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
+        </item>
+        
+        <item>
+            <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
+            <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5c6cda7f-98b1-411e-9f99-0221aebb9daf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
+            <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
         </item>
         
         <item>
