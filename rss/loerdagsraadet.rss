@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/iAqWAvsoRKi3nn4wBopmUwm9zX_rncQHtygHV3jWLK5g</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tre tilbakemeldinger: Fly / Tur / Jobb</title>
+            <description>Ble det flytur til Australia? Ble mor med på tur? Kan vennegjengen feire at alle har fått jobb... pluss fyllemail!</description>
+            <pubDate>2024-04-10T15:50:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7b65c634-bb1c-497b-857d-fcd96df4b2bb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">7b65c634-bb1c-497b-857d-fcd96df4b2bb</guid>
+        </item>
         
         <item>
             <title>Jonas Gahr Støre / Else Kåss Furuseth / Lars Berrum</title>
