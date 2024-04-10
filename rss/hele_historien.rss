@@ -1837,5 +1837,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q"/>
             <guid isPermaLink="false">fe6977c0-bc72-4003-bb7f-5c77f6283444</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Dødsfellen Rocknes</title>
+            <description>Januar 2004:  Lasteskipet Rocknes går rundt på få minutter. Halvparten av mannskapet på 30 blir fanget inne i skroget.</description>
+            <pubDate>2024-04-10T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/533bde3f-6b96-49cb-ac53-2a9ec133d38d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
+            <guid isPermaLink="false">533bde3f-6b96-49cb-ac53-2a9ec133d38d</guid>
+        </item>
         </channel>
 </rss>
