@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/h4xn6aQYQlaOAb-yx91WeAFF0lFD7ytYvvI5cnibqbsQ</url>
+        <url>https://gfx.nrk.no/pFQjPc1OETJH_lV-gheg6gZ16CoPzPBPok2_fCIyg4Vw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kurt Nilsen</title>
+            <description>&quot;Idag hadde jeg punchet ham i nesa.&quot;, sier Kurt om Idol-dommeren som kalte ham en hobbit. Jeg slipper også litt viktig informasjon i start her.</description>
+            <pubDate>2024-04-11T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c5e90745-a402-4f72-a944-38e120a9ecd9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H28M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/pFQjPc1OETJH_lV-gheg6gZ16CoPzPBPok2_fCIyg4Vw"/>
+            <guid isPermaLink="false">c5e90745-a402-4f72-a944-38e120a9ecd9</guid>
+        </item>
         
         <item>
             <title>Vebjørn Selbekk #2</title>

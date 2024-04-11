@@ -1847,5 +1847,35 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
             <guid isPermaLink="false">533bde3f-6b96-49cb-ac53-2a9ec133d38d</guid>
         </item>
+        
+        <item>
+            <title>Kantringen – Dødsfellen Rocknes  (1:3)</title>
+            <description>Mannskapet vet ikke at noe er galt før verktøy faller ned fra veggen. Det enorme skipet kantrer og havner på få minutter opp ned.</description>
+            <pubDate>2024-04-11T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/eebaa0ee-8625-45ed-9e34-78b73bf61bf3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
+            <guid isPermaLink="false">eebaa0ee-8625-45ed-9e34-78b73bf61bf3</guid>
+        </item>
+        
+        <item>
+            <title>Kampen mot klokka –Dødsfellen Rocknes (2:3)</title>
+            <description>Sjokkerte naboer ser folk løpe på skipsskroget. Noen har havnet i sjøen, og mange er fortsatt fanget inne i skipet.</description>
+            <pubDate>2024-04-11T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/12be5fad-38a8-4de3-bb70-bc0308d4a0c4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
+            <guid isPermaLink="false">12be5fad-38a8-4de3-bb70-bc0308d4a0c4</guid>
+        </item>
+        
+        <item>
+            <title>Fanget i mørket–Dødsfellen Rocknes (3:3)</title>
+            <description>Tre menn er innestengt i det mørke maskinrommet. Det begynner å bli vanskelig å puste.</description>
+            <pubDate>2024-04-11T06:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/0ccb8f19-bdc3-4fad-88be-cfe580884441_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
+            <guid isPermaLink="false">0ccb8f19-bdc3-4fad-88be-cfe580884441</guid>
+        </item>
         </channel>
 </rss>
