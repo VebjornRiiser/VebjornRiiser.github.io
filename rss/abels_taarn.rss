@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/3zlRBnFiZ1TXX-gVvKOaewynF9guSEgxswMFYAwQE2NQ</url>
+        <url>https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn tok feil om månen</title>
+            <description>Vi har invitert måneprofessor Reidar G. Trønnes for irettesette oss. Han forteller hva månen faktisk består av, hvordan den oppstod og hvordan den påvirker jorda nå.</description>
+            <pubDate>2024-04-13T07:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/54b212f9-0229-4191-a7df-d58ff645732b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
+            <guid isPermaLink="false">54b212f9-0229-4191-a7df-d58ff645732b</guid>
+        </item>
         
         <item>
             <title>Hvordan ville jorda vært uten mennesker?</title>
