@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/weFjfJ-ZbAfa7ykxPn-FwApEYJhlVA0ML7zBTQFj_LHw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ronny Brede Aase / Fingern / Marlene Stavrum</title>
+            <description>Hallois rådgivere / Være gode for hverandre / Sang for 90 og 19!? / Holde hviledagen hellig / Kor ska vi reis? / Vil få tilbake kompisen / Kan jeg bruke videobevis? / En runde til-løgnen! / Bo i Syden eller Norge? / Svigerfar DRITER ned dassen / Koppen skal ut / Epilog</description>
+            <pubDate>2024-04-13T13:06:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/64e30ebf-52f9-4e7b-aaef-a9feb17aed16_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H22M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/weFjfJ-ZbAfa7ykxPn-FwApEYJhlVA0ML7zBTQFj_LHw"/>
+            <guid isPermaLink="false">64e30ebf-52f9-4e7b-aaef-a9feb17aed16</guid>
+        </item>
         
         <item>
             <title>Tre tilbakemeldinger: Fly / Tur / Jobb</title>
