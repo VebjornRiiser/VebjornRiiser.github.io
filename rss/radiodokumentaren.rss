@@ -734,16 +734,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
-        </item>
-        
-        <item>
             <title>Plagsomme Tom – tyven som ingen kan ta</title>
             <description>Tom er en schizofren småkriminell fyr fra Sarpsborg. Han er utilregnelig. For syk for fengsel, men ikke farlig eller syk nok til å tvangsinnlegges. Dermed får han ingen straff. Vi har fulgt Tom over tid. Han har en fribillett til kriminalitet. Til skade for seg selv, og de rundt seg. Av Gro Engen.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -761,6 +751,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT45M6S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
+        </item>
+        
+        <item>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3502,6 +3502,16 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:duration>PT33M33S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/7jKBEDT--XKBOSyqwKHzyAE9wo9U1o1yVZS10KqKm3xQ"/>
             <guid isPermaLink="false">ecb81fe9-ea91-46b4-9a64-c29ebe069139</guid>
+        </item>
+        
+        <item>
+            <title>Kommer: På innsiden av domstolen</title>
+            <description>Therese (27) og Silje (25) skal i retten for første gang. Kan de vinne over mektige motstandere og overbevise dommerne? Fra 16.april.</description>
+            <pubDate>2024-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/82f783c6-a227-443b-ba39-7b5c82aec935_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg"/>
+            <guid isPermaLink="false">82f783c6-a227-443b-ba39-7b5c82aec935</guid>
         </item>
         </channel>
 </rss>
