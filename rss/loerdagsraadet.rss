@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/weFjfJ-ZbAfa7ykxPn-FwApEYJhlVA0ML7zBTQFj_LHw</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Stygge bilder av vakre barn</title>
+            <description>Hvordan miste stygge bilder av vakre barn, oppfordring til oppstopperneser og fyllemail fra Maaemo!</description>
+            <pubDate>2024-04-16T13:29:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/eea60325-d3d9-467a-8b1b-9bcc1aac16b0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT17M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">eea60325-d3d9-467a-8b1b-9bcc1aac16b0</guid>
+        </item>
         
         <item>
             <title>Ronny Brede Aase / Fingern / Marlene Stavrum</title>
