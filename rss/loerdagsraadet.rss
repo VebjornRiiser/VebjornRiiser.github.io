@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/0O9w_215tOgY638_w6BdxgBYRNwaE8BRW3U4gMj6iWQA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Dagny / Niklas Baarli / Kristin Jess Rodin</title>
+            <description>Hallois rådgivere / Finne seg selv på nytt i 30årene / Flamingoen i vinduet / Tidspessimist / Falsk Petter Stordalen / Rettmessig arving? / Selvbevisst vikarlærer / Gjorde Martin Lepperød-feilen / Tastetrykk som terroriserer kontoret / Kjæreste ville heller bo i båt enn med meg / Koppen skal ut / Epilog</description>
+            <pubDate>2024-04-20T13:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f41a409e-427e-46e8-aad1-3e66011d1485_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0O9w_215tOgY638_w6BdxgBYRNwaE8BRW3U4gMj6iWQA"/>
+            <guid isPermaLink="false">f41a409e-427e-46e8-aad1-3e66011d1485</guid>
+        </item>
         
         <item>
             <title>Stygge bilder av vakre barn</title>
