@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/WRdRLJ3nWB8tyBWnr8ftWgKZIqK2_SrN8ZDHu_Zjn5hw</url>
+        <url>https://gfx.nrk.no/d2Rv1iRmaMw9KIEz8YxTggGajeGQ-suoDa-U0h-3ue2A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Europa</title>
+            <description>Hvor lang er vi i Vesten villige til å gå for å forsvare verdiene våre? Og hvordan ser Europas fremtid ut?</description>
+            <pubDate>2024-04-22T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/348de274-3b44-498d-82fe-a36f2b3fc402_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/d2Rv1iRmaMw9KIEz8YxTggGajeGQ-suoDa-U0h-3ue2A"/>
+            <guid isPermaLink="false">348de274-3b44-498d-82fe-a36f2b3fc402</guid>
+        </item>
         
         <item>
             <title>Fattigdom</title>
