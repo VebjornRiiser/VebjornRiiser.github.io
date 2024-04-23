@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/7fKwNwSjw-uycwXueTYsAwaN9Os32Ih4aJGlXLaO5xKw</url>
+        <url>https://gfx.nrk.no/UDiZPBacutw0eOA5ir6aRQZQnQ6KQD-j_Oc03JlSsPCQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (5:10) - Neuralink og dype nevrale nettverk</title>
+            <description>MS-rammende Kenth er i ferd med å miste både taleevne og kontakt med kroppen. Kan han få hjelp av KI og hjerneimpantater? Vi skal også se på selve grunnlaget for all ny KI: dype nevrale nettverk. Hvor likt er det med hva som foregår i vår egen hjerne?</description>
+            <pubDate>2024-04-23T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5dab21f-6afc-4771-b428-4145b415ae83_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/UDiZPBacutw0eOA5ir6aRQZQnQ6KQD-j_Oc03JlSsPCQ"/>
+            <guid isPermaLink="false">a5dab21f-6afc-4771-b428-4145b415ae83</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten: En sjelden tilstand får folk til å se demoner over alt</title>
