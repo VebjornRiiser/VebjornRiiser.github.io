@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/0O9w_215tOgY638_w6BdxgBYRNwaE8BRW3U4gMj6iWQA</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lepperød, Stordalen og flamingonews</title>
+            <description>(ekte) Martin Lepperød om stilletida og sex, tilbakemelding fra (falsk) Petter Stordalen og FLAMINGONEWS</description>
+            <pubDate>2024-04-24T14:05:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c43b4991-9a7a-46e1-958b-8f660bf92c4c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT21M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">c43b4991-9a7a-46e1-958b-8f660bf92c4c</guid>
+        </item>
         
         <item>
             <title>Dagny / Niklas Baarli / Kristin Jess Rodin</title>
