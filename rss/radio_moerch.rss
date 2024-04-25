@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/pFQjPc1OETJH_lV-gheg6gZ16CoPzPBPok2_fCIyg4Vw</url>
+        <url>https://gfx.nrk.no/0AeT2e2cEcLHIde7AQKCQg75N4ZUt6QHJgH-Ovbu5aFg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Morten Thorsby</title>
+            <description>Jeg har besøkt Italia-proff og landslagsspiller Morten Thorsby i Itallia! Han har «ambisiøs-gutt-syndrom», sier han. Hva betyr dét på banen?</description>
+            <pubDate>2024-04-25T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/0807ae11-391c-440d-896d-7ed081f3ddfd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H46M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0AeT2e2cEcLHIde7AQKCQg75N4ZUt6QHJgH-Ovbu5aFg"/>
+            <guid isPermaLink="false">0807ae11-391c-440d-896d-7ed081f3ddfd</guid>
+        </item>
         
         <item>
             <title>Kurt Nilsen</title>
