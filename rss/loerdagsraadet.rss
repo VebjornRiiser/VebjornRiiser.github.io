@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/dA70QBGMplKrUZxDrwebWwgouyrleYxf-R_-k0ZSb4_A</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Odd Nordstoga / Silje Nordnes / Ahmed Mamow</title>
+            <description>Hallois rådgivere / Karriere og reise og kjærester / Hvordan sender man folk hjem?  / Riktig mengde mat til besøk / Hva gjør vi med Eurovision i år? / Er gayradaren min på bærtur? / Hodeløs fyr på treningssenteret / Hadet, sjalusi!? / Førstegangstjenesten / Papp og plast - hvor vanskelig kan det være? / Koppen skal ut / Epilog</description>
+            <pubDate>2024-04-27T13:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d7dd0e06-0616-4a83-bf5e-7a53c2420c2c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H17M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dA70QBGMplKrUZxDrwebWwgouyrleYxf-R_-k0ZSb4_A"/>
+            <guid isPermaLink="false">d7dd0e06-0616-4a83-bf5e-7a53c2420c2c</guid>
+        </item>
         
         <item>
             <title>Lepperød, Stordalen og flamingonews</title>
