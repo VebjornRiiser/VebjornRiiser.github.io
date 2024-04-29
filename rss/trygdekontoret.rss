@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/3mXWrWRluc8UEdXGXaT74Qs_rxkmQ5JNwVSJrf1HjoRw</url>
+        <url>https://gfx.nrk.no/9zKyliqNE1J6U3YvIt_BwwN6QvibeXRN7JlrJdtfuCKg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Politi</title>
+            <description>Hun har sett hovedstadens aller verste sider, men også jobbet med forebygging og gitt håp til de mest sårbare.
+I 30 år har Kim Anne Hiorth har skrevet ned sterke historier fra hverdagen som politi i Oslo.</description>
+            <pubDate>2024-04-29T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b181d686-bd64-413d-bef9-ebd91422097a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9zKyliqNE1J6U3YvIt_BwwN6QvibeXRN7JlrJdtfuCKg"/>
+            <guid isPermaLink="false">b181d686-bd64-413d-bef9-ebd91422097a</guid>
+        </item>
         
         <item>
             <title>Europa</title>
