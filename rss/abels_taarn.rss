@@ -11,11 +11,26 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/XIz1bdxAgMbQe2m_GypSwAT4JCGEC-GlYTfmDej7jsWw</url>
+        <url>https://gfx.nrk.no/hOnOfFMGUjF7Q9pNQKzAzQuvoFNq-cwO71EhAVVozypA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er de ti sterkeste dyrene?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Dagens eksperter:
+Statistiker Solveig Engebretsen
+Forsker på dyrevelferd, Kristian Ellingsen
+Kjemiker Carl Henrik Gørbitz</description>
+            <pubDate>2024-05-03T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8e996484-785a-4409-9186-928c2fc9815d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hOnOfFMGUjF7Q9pNQKzAzQuvoFNq-cwO71EhAVVozypA"/>
+            <guid isPermaLink="false">8e996484-785a-4409-9186-928c2fc9815d</guid>
+        </item>
         
         <item>
             <title>Den store serien om KI (6:10) - Trekk 37</title>
