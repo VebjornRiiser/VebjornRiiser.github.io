@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/hOnOfFMGUjF7Q9pNQKzAzQuvoFNq-cwO71EhAVVozypA</url>
+        <url>https://gfx.nrk.no/TTa1nCRh3yPMbR34tEp4FgT7vkt1c2mKMDAv6jlEksyw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Fisk kan være (selv)bevisst</title>
+            <description>Torkild og Kristina deler små og store forskningsnyheter.</description>
+            <pubDate>2024-05-06T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cf71dd6-222c-4ac0-9568-0dc74947a80c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TTa1nCRh3yPMbR34tEp4FgT7vkt1c2mKMDAv6jlEksyw"/>
+            <guid isPermaLink="false">3cf71dd6-222c-4ac0-9568-0dc74947a80c</guid>
+        </item>
         
         <item>
             <title>Hva er de ti sterkeste dyrene?</title>
