@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/NLUSNZTgWK7I8Fk1CLm6pweux1zjONNDcLHphWyMjElg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hundretusen / Validering / Parfyme</title>
+            <description>Har Magnus fått orden på økonomien? Catrin Nelvik validerer en hund! Får Dr. Jones endelig bursdagsgaven sin?!</description>
+            <pubDate>2024-05-08T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/0b3280ae-0738-4ff5-b2b2-f836eba1696c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">0b3280ae-0738-4ff5-b2b2-f836eba1696c</guid>
+        </item>
         
         <item>
             <title>Maria Stavang / Torbjørn Røe Isaksen / Selma Ibrahim</title>
