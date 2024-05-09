@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/0AeT2e2cEcLHIde7AQKCQg75N4ZUt6QHJgH-Ovbu5aFg</url>
+        <url>https://gfx.nrk.no/DjZikVEyYCYq8MF1lQl4bQtqxvFnIW__F4g8vxU8vKXQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Astrid Hoem</title>
+            <description>Lederen i AUF veddet 150.000 kr med nestlederen -om  hvilken jobb hun tar etter avgang. I denne episodden jazzer vi videre, om Norges fremtid!</description>
+            <pubDate>2024-05-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/e2e3b666-fa32-4db2-845c-6463c36bd5dc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H35M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DjZikVEyYCYq8MF1lQl4bQtqxvFnIW__F4g8vxU8vKXQ"/>
+            <guid isPermaLink="false">e2e3b666-fa32-4db2-845c-6463c36bd5dc</guid>
+        </item>
         
         <item>
             <title>Morten Thorsby</title>
