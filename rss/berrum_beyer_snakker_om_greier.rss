@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/oM3D-LF9jzNNZbwXjXiLRwHHA9CvmXseKQn9TyD_s42Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Silya Nymoen: Pimp og drit på scenen.</title>
+            <description>Artist Silya Nymoen er dagens gjest. Det blir peik om hvorfor hun heter Silya, hvordan livet var i New York, da hun møtte en pimp og da noen dreit på scenen.</description>
+            <pubDate>2024-05-10T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/8692ad0c-af10-4305-bf62-a7fa7fd97e22_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H12M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oM3D-LF9jzNNZbwXjXiLRwHHA9CvmXseKQn9TyD_s42Q"/>
+            <guid isPermaLink="false">8692ad0c-af10-4305-bf62-a7fa7fd97e22</guid>
+        </item>
         
         <item>
             <title>Bali 8: Det hjalp ikke, men jeg er Guro!</title>
