@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw</url>
+        <url>https://gfx.nrk.no/TH0-KFpBVntS8Z9mUCbM8Qvf2BNpT2mI_Dmrb-ikATEw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (X:10) Bonusepisode</title>
+            <description>&quot;Hvis KI tar det siste skrittet nå, er vi ferdige&quot;, sier matematiker Helge Holden om sin egen profesjon. Og sjakken? Den er allerede ferdig. ++ Bonusbonus: Bing &amp; Bringsværd</description>
+            <pubDate>2024-05-10T13:45:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8eb66160-ac3a-4d9a-989f-c5b545616150_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT15M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TH0-KFpBVntS8Z9mUCbM8Qvf2BNpT2mI_Dmrb-ikATEw"/>
+            <guid isPermaLink="false">8eb66160-ac3a-4d9a-989f-c5b545616150</guid>
+        </item>
         
         <item>
             <title>Hvordan holde russebassen ute?</title>
