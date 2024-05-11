@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/dPEgTHaUAsMCnrO7YZHiKAy0Wtdimm0khVcRyv1zz72A</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Olli Wermskog / Kristine Grændsen / Erik Solbakken</title>
+            <description>Hallois rådgivere / Kan man bli mor når man er et emosjonelt vrak? / Erik, deler hele livet sitt på jobb / Hvor lenge kan man ha det... helt OK? / Kompis sniker til seg penger / Bli en bedre planlegger / Snille piker på leit etter action / Jobb på kjæresteferie? / Må bruden holde tale? / Koppen skal ut / Epilog</description>
+            <pubDate>2024-05-11T13:04:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d3ae8cd9-0d05-47bd-9ecd-5b8014b7e229_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H8M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dPEgTHaUAsMCnrO7YZHiKAy0Wtdimm0khVcRyv1zz72A"/>
+            <guid isPermaLink="false">d3ae8cd9-0d05-47bd-9ecd-5b8014b7e229</guid>
+        </item>
         
         <item>
             <title>Hundretusen / Validering / Parfyme</title>
