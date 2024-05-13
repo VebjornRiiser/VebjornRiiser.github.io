@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/qsBmc1-Wt1qImomB4-AWXAiNRg_G1taMTGV0HOnYvXtQ</url>
+        <url>https://gfx.nrk.no/_daFxU00aqutq8wvuIV1YwG7e6OjUMS2Xi_YroE19RwQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Barndom og sosiale medier</title>
+            <description>Hva skjer med barndommen når man alltid er på sosiale medier? Med forfatter og sosiolog Willy Pedersen.</description>
+            <pubDate>2024-05-13T12:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a0f4483c-fbd4-493e-9a05-6fc109fd3037_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_daFxU00aqutq8wvuIV1YwG7e6OjUMS2Xi_YroE19RwQ"/>
+            <guid isPermaLink="false">a0f4483c-fbd4-493e-9a05-6fc109fd3037</guid>
+        </item>
         
         <item>
             <title>Kjernekraft</title>
