@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/oM3D-LF9jzNNZbwXjXiLRwHHA9CvmXseKQn9TyD_s42Q</url>
+        <url>https://gfx.nrk.no/9apGS_vhP6k5K9-FDPEf9ARbAAwknADNkJZQ3E8rHHhw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>18 om sommern, britisk bolle og flashmob</title>
+            <description>Lars har kjøpt seg bil. Martin har klipt håret. Sammen diskuterer de hva</description>
+            <pubDate>2024-05-14T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3023e1dd-1b5f-451b-9e59-9f28901fbd2d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H6M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9apGS_vhP6k5K9-FDPEf9ARbAAwknADNkJZQ3E8rHHhw"/>
+            <guid isPermaLink="false">3023e1dd-1b5f-451b-9e59-9f28901fbd2d</guid>
+        </item>
         
         <item>
             <title>Silya Nymoen: Pimp og drit på scenen.</title>
