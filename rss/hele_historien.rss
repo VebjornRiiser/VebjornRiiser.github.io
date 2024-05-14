@@ -1877,5 +1877,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw"/>
             <guid isPermaLink="false">0ccb8f19-bdc3-4fad-88be-cfe580884441</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Operasjon Libanon</title>
+            <description>I 1978 havner norske FN-soldater i krig i Libanon. Israel har invadert nabolandet på jakt etter palestinske terrorister. Publiseres onsdag 15.mai 2024.</description>
+            <pubDate>2024-05-14T09:15:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/6308a5dc-1c71-4687-8a55-dc1e907b4edd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA"/>
+            <guid isPermaLink="false">6308a5dc-1c71-4687-8a55-dc1e907b4edd</guid>
+        </item>
         </channel>
 </rss>
