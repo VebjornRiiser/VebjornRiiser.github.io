@@ -1887,5 +1887,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA"/>
             <guid isPermaLink="false">6308a5dc-1c71-4687-8a55-dc1e907b4edd</guid>
         </item>
+        
+        <item>
+            <title>I krig for fred – Operasjon Libanon (1:2)</title>
+            <description>De unge norske guttene som reiser til Libanon aner ikke hva som venter dem. Verken israelere eller palestinere vil ha dem der.</description>
+            <pubDate>2024-05-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/fdf19205-9cf2-4bdd-973a-545e28bad017_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA"/>
+            <guid isPermaLink="false">fdf19205-9cf2-4bdd-973a-545e28bad017</guid>
+        </item>
+        
+        <item>
+            <title>Kampen om Ørneredet – Operasjon Libanon (2:2)</title>
+            <description>Kulene hagler og geriljaen nærmer seg. For første gang siden andre verdenskrig får norske soldater ordre om å skyte for å drepe.</description>
+            <pubDate>2024-05-15T06:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/02824039-6f43-484a-aa6e-524dc3598afa_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA"/>
+            <guid isPermaLink="false">02824039-6f43-484a-aa6e-524dc3598afa</guid>
+        </item>
         </channel>
 </rss>
