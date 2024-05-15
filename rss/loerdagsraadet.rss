@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/dPEgTHaUAsMCnrO7YZHiKAy0Wtdimm0khVcRyv1zz72A</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Pølseprat og fyllemail fra gammel dame</title>
+            <description>Hvordan går det med Henrik og de ekstroverte? Forberedelser til 17. mai, pølseprat og fyllemail fra gammel dame!!</description>
+            <pubDate>2024-05-15T16:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/4bd54b00-cd3c-4aee-8860-b2dce69a62ad_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT19M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">4bd54b00-cd3c-4aee-8860-b2dce69a62ad</guid>
+        </item>
         
         <item>
             <title>Olli Wermskog / Kristine Grændsen / Erik Solbakken</title>
