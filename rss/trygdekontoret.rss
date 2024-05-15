@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/_daFxU00aqutq8wvuIV1YwG7e6OjUMS2Xi_YroE19RwQ</url>
+        <url>https://gfx.nrk.no/5HF-_7w3QqUQc5vQZSoerwowRS9ad9An489uoJJBmF6A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Russetidens skyggeside</title>
+            <description>Russebransjen har blitt en enorm industri. På bekostning av russen selv? Med forfatter og journalist Ivar Brandvol.</description>
+            <pubDate>2024-05-15T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2520d0fe-24fb-4f16-b373-083e32fdaae0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/5HF-_7w3QqUQc5vQZSoerwowRS9ad9An489uoJJBmF6A"/>
+            <guid isPermaLink="false">2520d0fe-24fb-4f16-b373-083e32fdaae0</guid>
+        </item>
         
         <item>
             <title>Barndom og sosiale medier</title>
