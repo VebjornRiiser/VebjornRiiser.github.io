@@ -18,6 +18,16 @@
         </image>
         
         <item>
+            <title>En bakfull episode</title>
+            <description>Erlend og Steinar skal vinne over 100 mennesker fra 1.etasje på Oslo City i noe. Hva velger de?</description>
+            <pubDate>2024-05-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/8bbbd9f4-dea9-4b0b-9776-861507f149c6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"/>
+            <guid isPermaLink="false">8bbbd9f4-dea9-4b0b-9776-861507f149c6</guid>
+        </item>
+        
+        <item>
             <title>En hatefull episode</title>
             <description>Steinar prøver å komme til bunns i hatet sitt mot kvinnelige elsyklister. Erlend har blitt uvenn med en automat. Og dette er ikke en blogg!</description>
             <pubDate>2024-05-13T06:00:00+02:00 </pubDate>
