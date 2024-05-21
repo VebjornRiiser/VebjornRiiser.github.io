@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/zRp07_anz5QvZZoxFwN4ogeQX74XVIPq6bZOsB2zv-ww</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Krukke med føtter, 20 over 20 og hamrefest</title>
+            <description>Lars har vært forbanna på en krukke. Martin har møtt fulle gutter på bussen. Sammen diskuterer de om en blir for gammel for en sexstilling.</description>
+            <pubDate>2024-05-21T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/502475e3-7637-4980-aca4-ae5a8e04d63f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">502475e3-7637-4980-aca4-ae5a8e04d63f</guid>
+        </item>
         
         <item>
             <title>Odd-Magnus Williamson: Forventning og 17 mai</title>
