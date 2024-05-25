@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/uqxQd0ORxJgMIuJbzVFAMw8vuVZ1jBlysLHjP3bus6dQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mikkel Niva / Mia Hundvin / Cecilie Kåss Furuseth</title>
+            <description>Hallois rådgivere / Bli sammen med eksen? / Kan jeg drepe skilpadda mi? / Håpløst forelsket på jobb / En oppmerksomhet til elev / Litt mer om B / Venninne med dårlig ånde / Når nostalgien tar over / Bollepige vil finne sin indre danske / Sommerferie alene / Svigermor på hytta skravler i vei / Koppen skal ut / Epilog</description>
+            <pubDate>2024-05-25T12:58:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/39ae8434-1fe3-4c85-b9d4-60487045a53c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uqxQd0ORxJgMIuJbzVFAMw8vuVZ1jBlysLHjP3bus6dQ"/>
+            <guid isPermaLink="false">39ae8434-1fe3-4c85-b9d4-60487045a53c</guid>
+        </item>
         
         <item>
             <title>på med trusa, hadebra</title>
