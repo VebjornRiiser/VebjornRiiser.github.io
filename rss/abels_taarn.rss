@@ -11,11 +11,25 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Kd3udwEZ40YElVWnetIyewe9FWOewBf4syHhdZC3A67Q</url>
+        <url>https://gfx.nrk.no/YjA2nZuaF7f5EzKQjwDZYg4rVSvgV_mV_Ix-_eVuk6Lg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Pyramidenes hemmelighet avslørt</title>
+            <description>Torkild, Hanne og Kristina deler små og store forskningsnyheter:
+
+En av pyramidenes hemmeligheter er nå avslørt
+Manglende jordmagnetisme kan ha gitt en eksplosjon av liv 
+Kanskje har vi funnet en medisin mot gambling</description>
+            <pubDate>2024-05-27T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b2f30e45-d72a-4d40-8d73-e03a5302b787_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YjA2nZuaF7f5EzKQjwDZYg4rVSvgV_mV_Ix-_eVuk6Lg"/>
+            <guid isPermaLink="false">b2f30e45-d72a-4d40-8d73-e03a5302b787</guid>
+        </item>
         
         <item>
             <title>Den store serien om KI (7:10) - Chat GPT: Hvordan funker det?</title>
