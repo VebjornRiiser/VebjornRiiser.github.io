@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/j_5WICoiRVvERZL_JQnfnAgtQWwIsplofS5fX2WmO90Q</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Maarud blå, hestesaddle og do you cry?</title>
+            <description>Lars har sett kassadamen spise popcorn. Martin har tatt med guttungen til frisøren. Sammen diskuterer de stussing av skjegg.</description>
+            <pubDate>2024-05-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/859aaea7-c3de-4f22-8cfd-d28a622ba57b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">859aaea7-c3de-4f22-8cfd-d28a622ba57b</guid>
+        </item>
         
         <item>
             <title>Kåre Magnus Bergh: Blod for blod og props</title>
