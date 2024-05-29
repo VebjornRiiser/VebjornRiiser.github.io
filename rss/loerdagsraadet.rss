@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/uqxQd0ORxJgMIuJbzVFAMw8vuVZ1jBlysLHjP3bus6dQ</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tiltak er bra for forholdet</title>
+            <description>Bjørn og Nina har gjort smarte grep i jobb/forhold-hverdagen!</description>
+            <pubDate>2024-05-29T15:40:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fc62e553-e04c-4028-a949-845b72968c9b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT13M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">fc62e553-e04c-4028-a949-845b72968c9b</guid>
+        </item>
         
         <item>
             <title>Mikkel Niva / Mia Hundvin / Cecilie Kåss Furuseth</title>
