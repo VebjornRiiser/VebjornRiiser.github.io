@@ -11,11 +11,30 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/YjA2nZuaF7f5EzKQjwDZYg4rVSvgV_mV_Ix-_eVuk6Lg</url>
+        <url>https://gfx.nrk.no/A0S22hEG-N-4_G48QcgwhAIiQfAwHELwYukKCgOCvX9Q</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn på Wonderful World festivalen i Stavanger</title>
+            <description>I dag sender vi fra Wonderful World festivalen i Stavanger. Med et strålende panel gir Torkild Jemterud oss svar på spørsmålene:
+
+- Hva består universet av?
+- Hvorfor tåler noen sterk mat bedre enn andre?
+- Har gravitasjon større hastighet enn lyset?
+- Trenger vi menn i dag? 
+- Hvorfor endrer smaken seg fra morgen til kveld?
+- Hvordan kan lys være både partikler og bølger samtidig? 
+- Har gravitasjon større hastighet enn lyset?
+- Trenger vi menn i dag?</description>
+            <pubDate>2024-05-31T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f204618e-ef33-425e-833d-5f9515cacc53_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/A0S22hEG-N-4_G48QcgwhAIiQfAwHELwYukKCgOCvX9Q"/>
+            <guid isPermaLink="false">f204618e-ef33-425e-833d-5f9515cacc53</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Pyramidenes hemmelighet avslørt</title>
