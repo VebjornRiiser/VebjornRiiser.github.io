@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/jnByVrrtQVLhIcoREuSuKgx9tJ-JEbjplb7nSAGWPQew</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gabrielle: Bratislava og der er ikke Bergen</title>
+            <description>Artist Gabrielle er dagens gjest. Det blir preik om Bratislava, hva som er Bergen og angsten rundt å være kjent.</description>
+            <pubDate>2024-05-31T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b994cdcc-00c2-4b4f-a26a-ff1d14e62361_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/jnByVrrtQVLhIcoREuSuKgx9tJ-JEbjplb7nSAGWPQew"/>
+            <guid isPermaLink="false">b994cdcc-00c2-4b4f-a26a-ff1d14e62361</guid>
+        </item>
         
         <item>
             <title>Maarud blå, hestesaddle og do you cry?</title>
