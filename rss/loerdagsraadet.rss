@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/mkWZueuA90RvtvWBC-zZJwitp8t-q2S3Jz7PnUlTlfTQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Galvan Mehidi / Ingrid Gjessing Linhave / Markus Neby</title>
+            <description>Hallois rådgivere / Nå har jeg følelser! / Feil telefonnummer / Bare fiks den kaffekanna! / Kliss, klass, jeg elsker deg / Inngrodd kompis / Else sin bukett / Navigere i jobbjakten / 12 år gammel skjult tatovering / Skal jeg dra på utveksling? Ja eller nei? / Koppen skal ut / Epilog</description>
+            <pubDate>2024-06-01T13:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/760dd8da-31c7-45d4-aafd-87309b7c2415_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H9M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/mkWZueuA90RvtvWBC-zZJwitp8t-q2S3Jz7PnUlTlfTQ"/>
+            <guid isPermaLink="false">760dd8da-31c7-45d4-aafd-87309b7c2415</guid>
+        </item>
         
         <item>
             <title>Tiltak er bra for forholdet</title>
