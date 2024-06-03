@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Både Erlend og Steinar</title>
-        <url>https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA</url>
+        <url>https://gfx.nrk.no/Dn4zzdHb8S9w7QkocADlFQ3izdspXaaKlTBqm0BZNXiw</url>
         <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gonzo-episoden</title>
+            <description>Erlend og Steinar har vært ute i felt og avdekket hvor inkluderende båtmiljøet er. Og hvor på kroppen skal man plassere den røde knappen?</description>
+            <pubDate>2024-06-03T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c987a82a-806c-4c55-8df4-cd932254407e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Dn4zzdHb8S9w7QkocADlFQ3izdspXaaKlTBqm0BZNXiw"/>
+            <guid isPermaLink="false">c987a82a-806c-4c55-8df4-cd932254407e</guid>
+        </item>
         
         <item>
             <title>&quot;Samtlige&quot; har blitt voldtatt</title>

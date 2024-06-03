@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/FQFrQJxNW7DqacUMsKt3agb_wSIiEKMU4rqVF4Eu1g1Q</url>
+        <url>https://gfx.nrk.no/CNXYlP-SVFQ8QusktzbJvgdsPL7JoY07Z5RecL_cAKBg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Afghanistan under Talban</title>
+            <description>Hva har skjedd i Afghanistan etter at verdens oppmerksomhet forsvant? Med Ayesha Wolasmal, journalist, hjelpearbeider, diplomat og forfatter.</description>
+            <pubDate>2024-06-03T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/41f2a962-9844-431e-93e5-5fb538cd3b92_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H17M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/CNXYlP-SVFQ8QusktzbJvgdsPL7JoY07Z5RecL_cAKBg"/>
+            <guid isPermaLink="false">41f2a962-9844-431e-93e5-5fb538cd3b92</guid>
+        </item>
         
         <item>
             <title>Jo Nesbø</title>
