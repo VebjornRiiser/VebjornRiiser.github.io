@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/rkyoTSsoEy9NXMRrTYL1DARETXplojFePaVh65Za3jxw</url>
+        <url>https://gfx.nrk.no/MLL2BOe57bibwDeIfxpOyQCgWfEVyOeSq1QfPSM_Tauw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Henrik Fladseth</title>
+            <description>«Du var for feig!» Komiker Henrik Fladseth mener Erlend burde fortsatt med stand-up.</description>
+            <pubDate>2024-06-06T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7251ae07-6d2a-495f-90cf-12fce02fb2ff_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H25M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/MLL2BOe57bibwDeIfxpOyQCgWfEVyOeSq1QfPSM_Tauw"/>
+            <guid isPermaLink="false">7251ae07-6d2a-495f-90cf-12fce02fb2ff</guid>
+        </item>
         
         <item>
             <title>Lena Lindgren</title>
