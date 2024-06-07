@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/GlFJ2ZrdBEszM40DVKcHOAvAOrRSsw2bRxZvWPzqj0rQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jonna Støme: Barne-tv og snikfilming</title>
+            <description>Komiker Jonna Støme er dagens gjest. Det blir preik om stand-up, å jobbe i barne-tv og om moren som bor i USA.</description>
+            <pubDate>2024-06-07T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/05477340-f347-49a0-913d-2103dd901a4f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GlFJ2ZrdBEszM40DVKcHOAvAOrRSsw2bRxZvWPzqj0rQ"/>
+            <guid isPermaLink="false">05477340-f347-49a0-913d-2103dd901a4f</guid>
+        </item>
         
         <item>
             <title>Hugos på Løren, egentligensen og rikt skjegg</title>
