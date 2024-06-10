@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Ysu7BOxevj5xnzFM-4t7CAujGJQKIRqEr98yuuYdw-hg</url>
+        <url>https://gfx.nrk.no/1MEQEk9x-t_4YNVdbjURagUxlpGp0Q5D51Q2r-Y7sXVw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Aids i Norge</title>
+            <description>Hvordan taklet Norge at Aids kom til landet? Med lege og forfatter Ketil Slagstad.</description>
+            <pubDate>2024-06-10T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/77b7affe-10c4-44ca-90ba-02db5f8cb3de_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1MEQEk9x-t_4YNVdbjURagUxlpGp0Q5D51Q2r-Y7sXVw"/>
+            <guid isPermaLink="false">77b7affe-10c4-44ca-90ba-02db5f8cb3de</guid>
+        </item>
         
         <item>
             <title>Afghanistan under Taliban</title>
