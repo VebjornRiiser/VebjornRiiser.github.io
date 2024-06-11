@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/GlFJ2ZrdBEszM40DVKcHOAvAOrRSsw2bRxZvWPzqj0rQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ta meg på fitta, Herstein Beyer og kil Hugo</title>
+            <description>Lars har møtt gal dame på pub. Martin har vært på slektstreff. Sammen diskuterer de kiling.</description>
+            <pubDate>2024-06-11T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e318b1d1-529e-4dd3-b7fa-a1c60be4e8ee_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">e318b1d1-529e-4dd3-b7fa-a1c60be4e8ee</guid>
+        </item>
         
         <item>
             <title>Jonna Støme: Barne-tv og snikfilming</title>
