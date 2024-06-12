@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/Y73YfkSurjnUEFUUV2D_tA7GFw001as-B1WLJlurc4Zg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>To følsomme herrer</title>
+            <description>Vi har fått to tilbakemeldinger, Brage sine foreldre har vært skilt en stund, og hvordan går det med Robin sin forelskelse i Helene?</description>
+            <pubDate>2024-06-12T12:10:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bb489838-5cde-4d8a-90cf-d344e435bdf7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT20M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">bb489838-5cde-4d8a-90cf-d344e435bdf7</guid>
+        </item>
         
         <item>
             <title>Jonas Kinge Bergland / Linnéa Myhre / Karsten Blomvik</title>
