@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/8sZ6KQ09czPNw2jOPqo6xAaXiQWrpxPDAmT6zwUtKsww</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vidar Magnussen: Tennisalbue og Picasso-fjes</title>
+            <description>Skuespiller og komiker Vidar Magnussen er dagens gjest. Det blir prat om spillet, hvordan han gamet på seg tennisalbue og hva agenten hans i London kalte han.</description>
+            <pubDate>2024-06-14T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f7d91f1c-d223-477f-8ef9-9791f7d78fa3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/8sZ6KQ09czPNw2jOPqo6xAaXiQWrpxPDAmT6zwUtKsww"/>
+            <guid isPermaLink="false">f7d91f1c-d223-477f-8ef9-9791f7d78fa3</guid>
+        </item>
         
         <item>
             <title>Ta meg på fitta, Herstein Beyer og kil Hugo</title>
