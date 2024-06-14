@@ -11,11 +11,32 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/CHKXTyH25CrdZMLi8Kz6Gg98cLozH7QDQhKgrqBtGapA</url>
+        <url>https://gfx.nrk.no/PUrJK70hMOTyfL8iGOIDmwJI6ad8NWyvuB2CnFO8y9mg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>ABELS KORK - Verdens største(?) musikkeksperiment (2:3)</title>
+            <description>Hvordan henger musikk og følelser sammen, og finnes det typisk manne- og kvinnemusikk?
+Sammen med Krinkastingsorkestret og musikkforskere ved Universitetet i Oslo får du både musikk og vitenskap i dette tredelte Abels tårn podkasten.</description>
+            <pubDate>2024-06-14T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61a47ecc-eb12-4484-bb44-d3ec852cb5b7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PUrJK70hMOTyfL8iGOIDmwJI6ad8NWyvuB2CnFO8y9mg"/>
+            <guid isPermaLink="false">61a47ecc-eb12-4484-bb44-d3ec852cb5b7</guid>
+        </item>
+        
+        <item>
+            <title>ABELS KORK - Verdens største(?) musikkeksperiment (1:3)</title>
+            <description>Hvordan henger musikk og følelser sammen? Abels tårn og Kringkastingsorkestret har sammen med musikkforskere på universitetet i Oslo satt seg fore og utføre verdens (kanskje) største musikkeksperiment.</description>
+            <pubDate>2024-06-14T09:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b54dfae6-40a9-483b-b744-24764b134a61_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PUrJK70hMOTyfL8iGOIDmwJI6ad8NWyvuB2CnFO8y9mg"/>
+            <guid isPermaLink="false">b54dfae6-40a9-483b-b744-24764b134a61</guid>
+        </item>
         
         <item>
             <title>Den store serien om KI (7.2:10) Chat GPTs norske utfordrer</title>
@@ -671,6 +692,18 @@ Torkild Jemterud gjør et dypdykk i temaet.</description>
         </item>
         
         <item>
+            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
+            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
+
+Torkild Jemterud gjør et dypdykk.</description>
+            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
+            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
+        </item>
+        
+        <item>
             <title>Hva er det med tallet 44?</title>
             <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
@@ -692,18 +725,6 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
             <itunes:duration>PT57M28S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/fPSsd_n65KoLb8rqRZmfbggnExkQLRAD6vrKzyGXrlRA"/>
             <guid isPermaLink="false">8090b590-e6d6-4e4a-9108-d8c3c540a68a</guid>
-        </item>
-        
-        <item>
-            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
-            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
-
-Torkild Jemterud gjør et dypdykk.</description>
-            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M12S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
-            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
         </item>
         
         <item>
