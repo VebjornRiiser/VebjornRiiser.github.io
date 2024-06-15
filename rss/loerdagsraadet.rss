@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/6AJuWNQulWtMqpxuch79BwFIaK4kfn0XlZeuyb8ZVRTA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hasse Hope / Marlene Stavrum / Kåre Magnus Bergh</title>
+            <description>Ble Vaiana lastebilsjåfør? PROBLEM: Sladderparet / Gammel eremitt blant perleøredobber / Jeg fant forlovelsesring / Tante Mormor! / Utro venninne, skal jeg si det? / Nyter sommeværet med bismak / Fæl sommer i vente? / Hvor lenge må jeg vente for å snakke med ex’en? / Trenger rufsete kollega hjelp? / Husker dere noe?</description>
+            <pubDate>2024-06-15T13:10:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ba817141-40c3-4695-b67c-6d8d3af26991_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H58M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6AJuWNQulWtMqpxuch79BwFIaK4kfn0XlZeuyb8ZVRTA"/>
+            <guid isPermaLink="false">ba817141-40c3-4695-b67c-6d8d3af26991</guid>
+        </item>
         
         <item>
             <title>To følsomme herrer</title>
