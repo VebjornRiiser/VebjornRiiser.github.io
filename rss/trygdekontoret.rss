@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/1MEQEk9x-t_4YNVdbjURagUxlpGp0Q5D51Q2r-Y7sXVw</url>
+        <url>https://gfx.nrk.no/sz6ZCdn-o0hrzNQZoSNrwQtJS_dvQK9XDOwxS2FSIUoA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bipolar lidelse</title>
+            <description>Hvordan er livet med bipolar lidelse før og etter en diagnose?</description>
+            <pubDate>2024-06-17T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/520819e6-f615-4b6f-a890-355904d69e25_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sz6ZCdn-o0hrzNQZoSNrwQtJS_dvQK9XDOwxS2FSIUoA"/>
+            <guid isPermaLink="false">520819e6-f615-4b6f-a890-355904d69e25</guid>
+        </item>
         
         <item>
             <title>Aids i Norge</title>
