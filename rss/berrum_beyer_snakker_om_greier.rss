@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/8sZ6KQ09czPNw2jOPqo6xAaXiQWrpxPDAmT6zwUtKsww</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jeg liker ikke deg, Peppes i flosshatten og stressa rapper</title>
+            <description>Lars tok taxi med en som ikke likte han. Martin har har spist en hel Peppes pizza. Sammen diskuterer de en rapper som var redd for å glemme teksten.</description>
+            <pubDate>2024-06-18T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/cb6d6ae5-a60a-42c6-bbdc-60b68dd3adc3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">cb6d6ae5-a60a-42c6-bbdc-60b68dd3adc3</guid>
+        </item>
         
         <item>
             <title>Vidar Magnussen: Tennisalbue og Picasso-fjes</title>
