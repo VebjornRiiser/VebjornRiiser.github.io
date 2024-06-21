@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/JwnTCoCFhmxzo_A3xx9--QfVVGnN53DmS3ELEy2BKX5Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Marte Stokstad: Lakkfrakk og greske kelnere</title>
+            <description>Marte Stokstad er dagens gjest. Vi hører om Grand-Prix-kollega Graham Norton, emo-oppveksten og hvordan det er å ikke ha skam i livet.</description>
+            <pubDate>2024-06-21T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b14b92ea-6cb4-40d5-aa3b-47d525407f52_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JwnTCoCFhmxzo_A3xx9--QfVVGnN53DmS3ELEy2BKX5Q"/>
+            <guid isPermaLink="false">b14b92ea-6cb4-40d5-aa3b-47d525407f52</guid>
+        </item>
         
         <item>
             <title>Jeg liker ikke deg, Peppes i flosshatten og stressa rapper</title>
