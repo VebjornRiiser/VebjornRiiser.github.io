@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/JwnTCoCFhmxzo_A3xx9--QfVVGnN53DmS3ELEy2BKX5Q</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Pung på sjuognitti, grense på femogførr og kurvløsning</title>
+            <description>Lars har pissa foran vekter i Bergen. Martin har fått vondt i beinet. Sammen diskuterer hvordan du legger bestikket i oppvaskmaskinen.</description>
+            <pubDate>2024-06-25T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/933b336b-6898-47e5-be21-fe137e147d5f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">933b336b-6898-47e5-be21-fe137e147d5f</guid>
+        </item>
         
         <item>
             <title>Marte Stokstad: Lakkfrakk og greske kelnere</title>
