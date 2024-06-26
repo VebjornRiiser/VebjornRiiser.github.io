@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/cSz2Nr-Ur51CGK3d4SNC8gpwXI2hWFSp5hpVuCN0uTNA</url>
+        <url>https://gfx.nrk.no/_UWVRinxKktQv2fwK5fVlAZs3NiurM077rfJJlVdxIJA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store serien om KI (7.3 : 10)  - Forstår Chat GPT verden?</title>
+            <description>Har Chat GPT en modell av verden? Forstår den noe som helst? Skjønner den ironi og kan den produsere mening?</description>
+            <pubDate>2024-06-26T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/52f50077-4cf5-4268-9c14-5df905ef1b45_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_UWVRinxKktQv2fwK5fVlAZs3NiurM077rfJJlVdxIJA"/>
+            <guid isPermaLink="false">52f50077-4cf5-4268-9c14-5df905ef1b45</guid>
+        </item>
         
         <item>
             <title>Vil vi i framtiden styre menns prevensjon med en app?</title>
