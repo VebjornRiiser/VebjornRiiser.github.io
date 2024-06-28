@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/ooqKXKvinIGK9JnxGUbZKgDXEwrncM8JxvjHLo7Ov8jA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Galvan Mehidi: Feiden løses og fjellbomber</title>
+            <description>Komiker Galvan Mehidi er dagens gjest. Det blir snakk om turen til Irak, hvordan det var å vokse opp på Mysen og Lars løser en års lang feide mellom Galvan og Martin.</description>
+            <pubDate>2024-06-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e293b290-fe95-496e-9202-2bc5525bcd0d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ooqKXKvinIGK9JnxGUbZKgDXEwrncM8JxvjHLo7Ov8jA"/>
+            <guid isPermaLink="false">e293b290-fe95-496e-9202-2bc5525bcd0d</guid>
+        </item>
         
         <item>
             <title>Pung på sjuognitti, grense på femogførr og kurvløsning</title>
