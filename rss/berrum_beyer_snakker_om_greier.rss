@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/ooqKXKvinIGK9JnxGUbZKgDXEwrncM8JxvjHLo7Ov8jA</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Sedler i sokka, machete rundt og hva slags sommer?</title>
+            <description>Martin skal spille tennis i frankrike. Det blir premiere på is-test og spalten Machete rundt og sammen avslører de hvilken artist som er sommerens tegn.</description>
+            <pubDate>2024-07-02T02:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/16896d38-32f0-4134-a375-ec60b6c7ca28_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H8M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">16896d38-32f0-4134-a375-ec60b6c7ca28</guid>
+        </item>
         
         <item>
             <title>Galvan Mehidi: Feiden løses og fjellbomber</title>
