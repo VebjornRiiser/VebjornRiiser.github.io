@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/2yMKx3DXsYQ-_EQ6DN7OJg1f0MtLvexdgC-SeBsXn-3g</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Summerhauset 3: Se te hælvete å kom deg ut</title>
+            <description>Lars og Martin har tatt med seg gjengen ut på hyttetur. Sandra Kolstad er sommerens eneste gjest. Det blir kanskje et dikt og en ny summerhauset vignett.</description>
+            <pubDate>2024-07-05T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/28b8930d-2796-4ded-96fc-7e3bf65e4f0e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2yMKx3DXsYQ-_EQ6DN7OJg1f0MtLvexdgC-SeBsXn-3g"/>
+            <guid isPermaLink="false">28b8930d-2796-4ded-96fc-7e3bf65e4f0e</guid>
+        </item>
         
         <item>
             <title>Sedler i sokka, machete rundt og hva slags sommer?</title>
