@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/_1rRRxviilZ4lq5q2SkfJA2IUWT0tEPlPPeE3VXXm5jg</url>
+        <url>https://gfx.nrk.no/_1rRRxviilZ4lq5q2SkfJA-agLACF8TRVFF5tFUtqz6Q</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ella Marie Hætta Isaksen / Abu Hussain / Magnus Devold / Kristine Grændsen / Maria Stavang / Markus Neby / Olli Wermskog</title>
+            <description>Tømmer innboksen - del 2: Forlatt vibrator / Forbudt kjærlighet / Gjerrig omgangskrets / Kvitte oss med malerier fra en venn? / Jeg har et kjempecrush, men også en fantastisk kjæreste / Trekantdrama med kjæreste og eksen hans / Reise eller delta i bursdag? / En overall livskrise / To be sassy or not to be sassy / Livskjærlighet, utroskap og fortvilelse  / Strippeklubb i et forhold / Hvordan bli venn med broren sin? / Tilbakemelding fra Sindre som starta året med et dårlig BÆNG!</description>
+            <pubDate>2024-07-06T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/740f75c3-bec5-4632-95fa-cce701f77c6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H14M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_1rRRxviilZ4lq5q2SkfJA-agLACF8TRVFF5tFUtqz6Q"/>
+            <guid isPermaLink="false">740f75c3-bec5-4632-95fa-cce701f77c6d</guid>
+        </item>
         
         <item>
             <title>Else Kåss Furuseth / Catrin Sagen / Emil Gukild / Silje Nordnes / Magnus Devold</title>
