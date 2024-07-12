@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/Dy2B9wWqxd0d8fx9ZufjbgSfYqsD0Pw0TI23uOITXkWQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Summerhauset 3: No ska vi fråtse</title>
+            <description>Sola steker på hytteturen til Berrum og Beyer. Det blir preik om jordbærplukking, det blir dikt og en liten runde på bondens mentale helse.</description>
+            <pubDate>2024-07-12T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/416cb0c1-842c-4086-b072-f941008f7f7f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Dy2B9wWqxd0d8fx9ZufjbgSfYqsD0Pw0TI23uOITXkWQ"/>
+            <guid isPermaLink="false">416cb0c1-842c-4086-b072-f941008f7f7f</guid>
+        </item>
         
         <item>
             <title>Minigolfbane, problemfri sommer og toliter</title>
