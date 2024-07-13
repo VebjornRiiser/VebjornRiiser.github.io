@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/crqdiUl9iGsou4m8zKkRfQU_W6A9DeRmc_7bYS7S0e2A</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kristin Jess Rodin / Henrik Fladseth / Ahmed Mamow / Annika Momrak / Niklas Baarli / Benjamin Silseth / Cecilie Ramona Kåss Furuseth</title>
+            <description>Tømmer innboksen - del 3: Venninnen eller fetteren? / Samboer låser ikke døra / Hva om han ikke vil ha barn? / Hvem har skyld i tyveriet / Skal jeg beholde kattene? / Søsken «kjærlighet» / Hvordan få tilbake kronjuvelene? / Hvordan få kjæresten til å flytte / TILBAKEMELDING: Amalie, gjengen og Agnes uten jobb</description>
+            <pubDate>2024-07-13T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ca28b773-43f0-4a56-9cf5-ffecf0594329_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H41M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/crqdiUl9iGsou4m8zKkRfQU_W6A9DeRmc_7bYS7S0e2A"/>
+            <guid isPermaLink="false">ca28b773-43f0-4a56-9cf5-ffecf0594329</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2023 - nr. 12</title>
