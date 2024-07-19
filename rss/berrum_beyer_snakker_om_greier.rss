@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/8G73jCHeALZjkytS45hvMAYr6nKHbckuggTAn-b7iwRA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Summerhauset 3: JEG ER REKA PELLE</title>
+            <description>Mabbro har blåst null og hytteturen fortsetter. Klima er dagens tema i summerhauset og Beltedyret vil gjerne snakke om varder.</description>
+            <pubDate>2024-07-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c90897f1-673d-4f45-83c4-e935aaa94706_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/8G73jCHeALZjkytS45hvMAYr6nKHbckuggTAn-b7iwRA"/>
+            <guid isPermaLink="false">c90897f1-673d-4f45-83c4-e935aaa94706</guid>
+        </item>
         
         <item>
             <title>Fatbike, smattestopp og høylytt ligging</title>
