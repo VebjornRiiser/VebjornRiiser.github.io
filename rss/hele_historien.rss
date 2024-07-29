@@ -1927,5 +1927,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/6Xg2iDAojD4vV3y8GEY9_QTzVqsd-tn4maw4FwrfcKDQ"/>
             <guid isPermaLink="false">851f0ce0-16ba-4d20-805a-65dffaae816c</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Rasa i Jølster</title>
+            <description>Ein sommardag i 2019 rasar enorme mengder jord og stein ned bratte fjellsider i Jølster. Folk spring for livet, og bilane blir dødsfeller.</description>
+            <pubDate>2024-07-29T14:10:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/eb23960e-4536-4cf2-af82-f1e9a0dbba09_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw"/>
+            <guid isPermaLink="false">eb23960e-4536-4cf2-af82-f1e9a0dbba09</guid>
+        </item>
         </channel>
 </rss>
