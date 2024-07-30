@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/Dy2B9wWqxd0d8fx9ZufjbgSfYqsD0Pw0TI23uOITXkWQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Benjamin Butthole, singelhaier og hundeprat</title>
+            <description>Lars mener single folk bør holde seg unna parferier, Martin er skuffet over mangelen på is-spalte. Sammen diskuterer de bikkjesmalltalk.</description>
+            <pubDate>2024-07-30T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2f4f79f6-fc4d-464e-8652-b1863405de54_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">2f4f79f6-fc4d-464e-8652-b1863405de54</guid>
+        </item>
         
         <item>
             <title>Summerhauset 3: Magan til Rema Reiten på Rimi</title>

@@ -1937,5 +1937,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw"/>
             <guid isPermaLink="false">eb23960e-4536-4cf2-af82-f1e9a0dbba09</guid>
         </item>
+        
+        <item>
+            <title>Rasa i Jølster</title>
+            <description>160 gonger rasar det ned stupbratte fjell i Jølster. Ein far og ei dotter er i bil på veg heim i styrtregnet. Så skal det gå eit siste ras.</description>
+            <pubDate>2024-07-30T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/54036002-dbb1-4c40-9d8a-12f4fe2a553f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw"/>
+            <guid isPermaLink="false">54036002-dbb1-4c40-9d8a-12f4fe2a553f</guid>
+        </item>
         </channel>
 </rss>
