@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/SZ78Uai83xfdiRJk9WPgMQZynLvZ-V_ieH6t6bOUjzrA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Summerhauset 3: Det hjalp ikke</title>
+            <description>Hytteturen drar seg ut til &quot;høstmåneden&quot; august. Beltedyret har blitt konfrontert, Mabben blåser en siste gang og spørsmålet er hjalp det?</description>
+            <pubDate>2024-08-02T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/a9714922-97bb-44ea-bf24-72a8efe60e2a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/SZ78Uai83xfdiRJk9WPgMQZynLvZ-V_ieH6t6bOUjzrA"/>
+            <guid isPermaLink="false">a9714922-97bb-44ea-bf24-72a8efe60e2a</guid>
+        </item>
         
         <item>
             <title>Benjamin Butthole, singelhaier og hundeprat</title>
