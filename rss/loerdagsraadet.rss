@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA</url>
+        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2024 - nr. 3</title>
+            <description>Høydepunkter fra 2024 - nr. 3</description>
+            <pubDate>2024-08-10T09:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5df542ca-2cb6-41f9-bfdd-1aef495d401c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H39M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+            <guid isPermaLink="false">5df542ca-2cb6-41f9-bfdd-1aef495d401c</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2024 - nr. 2</title>
