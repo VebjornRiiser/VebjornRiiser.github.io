@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hei, hei!</title>
+            <description>To oppløftende tilbakemeldinger starter sesongen!</description>
+            <pubDate>2024-08-15T16:05:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e4006669-dd27-4d73-9c5d-6f2883d58630_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT22M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">e4006669-dd27-4d73-9c5d-6f2883d58630</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2024 - nr. 3</title>
