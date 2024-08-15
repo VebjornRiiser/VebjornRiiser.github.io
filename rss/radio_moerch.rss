@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/v4fvz4E3_aSlB9MhgAtp0wO5nNrXA7-vzP4jVYf-3h6A</url>
+        <url>https://gfx.nrk.no/RY28wLiNqpRw7q9dwCIfMQjOxsFRCxE94KGAaII7fmhg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Eirik Grasaas-Stavenes</title>
+            <description>Han er ikke helt fotball-viter, men fullbefaren utenriksjournalist. Europa brenner, la oss snakke om fotball!</description>
+            <pubDate>2024-08-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/275d8b48-b55c-4bc8-bcb3-64eba0f0ec3e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/RY28wLiNqpRw7q9dwCIfMQjOxsFRCxE94KGAaII7fmhg"/>
+            <guid isPermaLink="false">275d8b48-b55c-4bc8-bcb3-64eba0f0ec3e</guid>
+        </item>
         
         <item>
             <title>Frederic Hauge</title>
