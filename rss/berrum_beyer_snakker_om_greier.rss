@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/OG4XBvbovIdkYcj-x10aOQz-BPHH04H6TMq5ci4it33Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Pernille Sørensen: Ekkel før 12 og et løfte i fylla</title>
+            <description>Pernille Sørensen er dagens gjest. Det blir snakk om drømmen om å bli valgforsker, om hvordan hun ser vitser i farger og om den gangen hun ga Martin et løfte i fylla.</description>
+            <pubDate>2024-08-16T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/05e3960f-5374-4038-aa0a-ffce189913c1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/OG4XBvbovIdkYcj-x10aOQz-BPHH04H6TMq5ci4it33Q"/>
+            <guid isPermaLink="false">05e3960f-5374-4038-aa0a-ffce189913c1</guid>
+        </item>
         
         <item>
             <title>Gomle på skalk, Vind Berrum &amp; Håp Håpløshet</title>
