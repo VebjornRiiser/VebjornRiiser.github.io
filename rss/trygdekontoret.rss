@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/GWz3dJ1sM4E95HM4Oz0rfwQKk_21r7t-3U4ElZwdhAVg</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mannen og litteraturen</title>
+            <description>Mange menn gir alle andre skylda når de sliter.  Forfatter Kyrre Andreassen ender ofte opp med å skrive om dem.</description>
+            <pubDate>2024-08-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b69eaaec-5ed2-4f98-8075-2f339c770e0e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">b69eaaec-5ed2-4f98-8075-2f339c770e0e</guid>
+        </item>
         
         <item>
             <title>Tvangstanker</title>
