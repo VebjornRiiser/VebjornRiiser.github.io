@@ -1937,5 +1937,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw"/>
             <guid isPermaLink="false">54036002-dbb1-4c40-9d8a-12f4fe2a553f</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Roskilde-tragedien</title>
+            <description>En episk Pearl Jam-kveld blir et mareritt. En fortvila rockestjerne trygler publikum om å trekke bakover – forgjeves.</description>
+            <pubDate>2024-08-21T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/819ce32d-27e8-4eb9-a019-2f087466c690_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/33biR0i2RRKkorgO4FBhDApWnSU8nFq6ueZVvA1-DiCw"/>
+            <guid isPermaLink="false">819ce32d-27e8-4eb9-a019-2f087466c690</guid>
+        </item>
         </channel>
 </rss>
