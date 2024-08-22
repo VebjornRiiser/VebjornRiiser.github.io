@@ -1947,5 +1947,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/33biR0i2RRKkorgO4FBhDApWnSU8nFq6ueZVvA1-DiCw"/>
             <guid isPermaLink="false">819ce32d-27e8-4eb9-a019-2f087466c690</guid>
         </item>
+        
+        <item>
+            <title>Roskilde-tragedien</title>
+            <description>I gjørma foran «Den Orange Scene» pågår en kamp på liv og død. 50 000 mennesker presser på, og trengselen blir en dødsfelle.</description>
+            <pubDate>2024-08-22T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/8ca45688-6ed8-42c4-83f2-7bf91e47ba9e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/33biR0i2RRKkorgO4FBhDApWnSU8nFq6ueZVvA1-DiCw"/>
+            <guid isPermaLink="false">8ca45688-6ed8-42c4-83f2-7bf91e47ba9e</guid>
+        </item>
         </channel>
 </rss>
