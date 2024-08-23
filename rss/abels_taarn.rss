@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/rRAJPPK95XUARquQa_M15ganOjx7Pr-G_4wJzE6G8gJQ</url>
+        <url>https://gfx.nrk.no/S6pD-ieSM5aKfs8OxeOIgQKzJcY-Ih4kMpo-vFWhZBbA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Kan jeg få en KI som digital assistent?</title>
+            <description>Et strålende ekspertpanel svarer på det du ikke visste du ville vite. I dag med hovedvekt på kunstig intelligens.
+
+Programleder Torkild Jemterud
+
+Dagens panel:
+Inga Strumke - Partikkelfysiker, forfatter, forsker og KI dronning
+Sondre Ronander  - Informasjonssjef for Google Norge 
+Klas Henning Pettersen  - CEO for NORA – Norwegian Artificial Intelligence Research Consortium</description>
+            <pubDate>2024-08-23T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/480c8585-bfaa-459f-884d-ebb63a2d1833_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/S6pD-ieSM5aKfs8OxeOIgQKzJcY-Ih4kMpo-vFWhZBbA"/>
+            <guid isPermaLink="false">480c8585-bfaa-459f-884d-ebb63a2d1833</guid>
+        </item>
         
         <item>
             <title>Hva skjer når to sorte hull kræsjer?</title>
