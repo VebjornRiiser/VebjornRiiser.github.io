@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/BggEr2x-KwKf_yiG6U1WMQUL4VQ7zGTBB2kWHV6OuVrg</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Trojansk nazi, tryggen på ryggen og bankekultur</title>
+            <description>Lars har lest landsloven. Martin har vært i hemmelig bryllup. Sammen diskuterer de å banke på dodøra når den er låst.</description>
+            <pubDate>2024-08-27T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ee08bcd0-a7d8-4cf6-8aa8-07f0cff39ccd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">ee08bcd0-a7d8-4cf6-8aa8-07f0cff39ccd</guid>
+        </item>
         
         <item>
             <title>Espen Abrahamsen: Kanke prate og hockey</title>
