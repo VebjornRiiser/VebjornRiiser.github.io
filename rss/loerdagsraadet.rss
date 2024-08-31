@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/V_8nYHramLLE8jx0MiYdHQYp7tdmwp9f4MlpHXpeR6ug</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Pernille Sørensen / Erik Solbakken / Hilde Skaar</title>
+            <description>Tilbakemelding: Mer forelskelsesfilosofi  / Problemer: Bedre kjæreste sammen med familien / El-pip! / Har vi slått opp i virkeligheten også? / Vente på forelskelsen? / Jeg heter ikke Morten! / Mitt narkotikum: mobilen / Foreldre lar barna tisse i hagen vår / Gave til fysioterapeuten min / Søster med kjærlighetssorg</description>
+            <pubDate>2024-08-31T12:52:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fd5521ae-e14d-4264-b6ea-89cd00496d6a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H14M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/V_8nYHramLLE8jx0MiYdHQYp7tdmwp9f4MlpHXpeR6ug"/>
+            <guid isPermaLink="false">fd5521ae-e14d-4264-b6ea-89cd00496d6a</guid>
+        </item>
         
         <item>
             <title>Lå med en i kollektivet, siste kapitel!</title>
