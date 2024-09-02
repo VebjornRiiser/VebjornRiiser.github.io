@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/LYaF7ovl5zlBgKPXZzuIIQ6lRq46jjgaGgGKZdy_wZPw</url>
+        <url>https://gfx.nrk.no/kCbmE2AquVK2Migrjwa5MgftZ4s00rcjtYm7PJlaXEgA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hypokondri</title>
+            <description>Har vi mer helseangst enn før? Med lege Ingvard Wilhelmsen.</description>
+            <pubDate>2024-09-02T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/bf436251-9c21-495a-a18b-463a2fa09f0a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/kCbmE2AquVK2Migrjwa5MgftZ4s00rcjtYm7PJlaXEgA"/>
+            <guid isPermaLink="false">bf436251-9c21-495a-a18b-463a2fa09f0a</guid>
+        </item>
         
         <item>
             <title>Storbritannia</title>
