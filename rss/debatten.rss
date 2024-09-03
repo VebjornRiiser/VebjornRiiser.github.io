@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
+        <url>https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommersielt prinsessebryllup</title>
+            <description>Kritikken mot prinsesse Märtha Louise stilner ikke etter salg, promotering og avtaler i forbindelse med bryllupet.</description>
+            <pubDate>2024-09-03T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9c22d913-7830-411a-a575-b279d33ec655_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">9c22d913-7830-411a-a575-b279d33ec655</guid>
+        </item>
         
         <item>
             <title>Er kunstig intelligens slutten?</title>
