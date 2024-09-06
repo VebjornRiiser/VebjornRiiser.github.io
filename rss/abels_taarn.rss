@@ -11,11 +11,35 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/MLT_-bdI1lShubox8qRuxAXkroGMNbrwqvZ8XeRvVfYg</url>
+        <url>https://gfx.nrk.no/B2ycbayz9R7scIO6bD2OUQwzrdycHxMg6LMz2puZkQHQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er tyggis laget av og er det sunt?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud deg svar på ting du ikke visste du lurte på, som: 
+
+Hva er tyggegummi laget av?
+
+Funker stikkpiller raskere enn piller vi spiser?
+
+Hva bestemmer mengden bobler i kullsyrevann?
+
+Hva avgjør om det blir kantarellår eller ikke?
+
+Er badstue bra mot infeksjon?
+
+Hvordan oppstår såpebobler?
+
+Hvorfor skjelver bladene på ospetrær?</description>
+            <pubDate>2024-09-06T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f3a1dbfa-f2fb-49d5-b89c-1a3be09b75f6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/B2ycbayz9R7scIO6bD2OUQwzrdycHxMg6LMz2puZkQHQ"/>
+            <guid isPermaLink="false">f3a1dbfa-f2fb-49d5-b89c-1a3be09b75f6</guid>
+        </item>
         
         <item>
             <title>Hva skjer med dop som havner i do?</title>
@@ -5035,20 +5059,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -5068,6 +5078,20 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
+        </item>
+        
+        <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
