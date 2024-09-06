@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/Ppb_J2ALMg2i177IhaHM4wpnLVdsz7B0yMdWSzfESPzQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hans Henrik Verpe: Når kappen faller</title>
+            <description>Tryllekunstner, Hans Henrik Verpe, er dagens gjest. Det blir prat om å løpe barbeint, trylling, og om det er bekmørkt når kappen faller.</description>
+            <pubDate>2024-09-06T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/56d13cb0-02a3-4185-830f-bc1f8f70bcdf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ppb_J2ALMg2i177IhaHM4wpnLVdsz7B0yMdWSzfESPzQ"/>
+            <guid isPermaLink="false">56d13cb0-02a3-4185-830f-bc1f8f70bcdf</guid>
+        </item>
         
         <item>
             <title>Bjørnespising, inn &amp; ut og båsproblematikk</title>
