@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/j8wUPhQ7VRqmaNxKeCJCHQkCuxC1INdLwevTto8JvzMg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Aksel Hennie / Silje Nordnes / Mikkel Niva</title>
+            <description>Tilbakemelding: Mamma Mø er tilbake på jobb / Problemer: 5 fisker eller tre til side? / Forelsket i randoms på trikken / Hva er greit på pause? / Date med agorafobi / Et vennlig rop om hjelp fra Syden / Mister interessen etter to år / Fransk svigers / Sprudlende, morsom og gøy... men bare til meg</description>
+            <pubDate>2024-09-07T12:52:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/878a5b5d-d846-4532-b922-c5f73b675628_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H14M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/j8wUPhQ7VRqmaNxKeCJCHQkCuxC1INdLwevTto8JvzMg"/>
+            <guid isPermaLink="false">878a5b5d-d846-4532-b922-c5f73b675628</guid>
+        </item>
         
         <item>
             <title>Forfattere som bæsjer</title>
