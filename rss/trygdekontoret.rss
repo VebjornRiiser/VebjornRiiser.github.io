@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/kCbmE2AquVK2Migrjwa5MgftZ4s00rcjtYm7PJlaXEgA</url>
+        <url>https://gfx.nrk.no/T3Awpx8nN8QRvaGNe5oEPQQC_Kfylao4BXBKL0dFdsMA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Alderdom</title>
+            <description>Hvordan er det å bli gammel i Norge i 2024? Med kriminolog, forfatter og tidligere politiker Kjersti Ericsson.</description>
+            <pubDate>2024-09-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a908532e-199f-4c37-8b4a-9239f0e36da5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/T3Awpx8nN8QRvaGNe5oEPQQC_Kfylao4BXBKL0dFdsMA"/>
+            <guid isPermaLink="false">a908532e-199f-4c37-8b4a-9239f0e36da5</guid>
+        </item>
         
         <item>
             <title>Hypokondri</title>
