@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/j8wUPhQ7VRqmaNxKeCJCHQkCuxC1INdLwevTto8JvzMg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ikke kjemp for noen som ikke vil kjempe for deg</title>
+            <description>To tilbakemeldinger: En om kjærlighet og en om skriving av master! Pluss truseprat... og generell god stemning!</description>
+            <pubDate>2024-09-12T15:40:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fd065a78-2097-42c7-a9c9-5a3b174b3366_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT21M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">fd065a78-2097-42c7-a9c9-5a3b174b3366</guid>
+        </item>
         
         <item>
             <title>Aksel Hennie / Silje Nordnes / Mikkel Niva</title>
