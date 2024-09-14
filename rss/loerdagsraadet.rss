@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/YmQmjt_W3_yCEfRPCRlzng72caM1tfFvGA4lTa0pYgJg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tuva Fellman / Magnus Devold / Linnéa Myhre</title>
+            <description>Tilbakemelding: Er FulleJulie fremdeles interessert i Romeo / Problemer: Serieutro / Utringing til besvær / Kan man elske noen, men ikke kunne være sammen? / Ja eller nei til 1 million? / Hvordan overraske kjæresten med blåtur?  / Hjelp Skipperen med romantiske planer / Er det innafor å be bestemor holde kjeft? / Kan man vekke et «spøkelse» til live? / Kan jeg selge tantes gullsmykke?</description>
+            <pubDate>2024-09-14T14:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/06e23d5e-8c61-48d3-852d-67ba311d90f0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H11M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YmQmjt_W3_yCEfRPCRlzng72caM1tfFvGA4lTa0pYgJg"/>
+            <guid isPermaLink="false">06e23d5e-8c61-48d3-852d-67ba311d90f0</guid>
+        </item>
         
         <item>
             <title>Ikke kjemp for noen som ikke vil kjempe for deg</title>
