@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/K10jVil10o70g4NQBtM__wk-s68JaE0m0AzJAsnDHjzw</url>
+        <url>https://gfx.nrk.no/1tywLCm_-JEa99urQ-5_QwmBp2fGLW_Qx0GUzr9SRlbg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nanoteknologi mot kreft</title>
+            <description>Forskning på nanoteknologi i medisin vant en av Kavliprisene 2024. 
+
+Torkild, Kristina og Hanne  snakker om forskningen til vinnerne. 
+Hør om hvordan hjernene våre klarer å gjenkjenne ansikter og hvordan vi finner planeter utenfor solsystemet vårt.</description>
+            <pubDate>2024-09-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b913f62-673e-44c9-ad5e-74908861e091_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1tywLCm_-JEa99urQ-5_QwmBp2fGLW_Qx0GUzr9SRlbg"/>
+            <guid isPermaLink="false">7b913f62-673e-44c9-ad5e-74908861e091</guid>
+        </item>
         
         <item>
             <title>Kan man lage en tredje arm ved hjelp av en bionisk protese?</title>
