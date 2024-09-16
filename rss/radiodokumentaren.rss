@@ -3683,5 +3683,15 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg"/>
             <guid isPermaLink="false">4b3dff9b-4aed-4452-a8ba-215b115f06e2</guid>
         </item>
+        
+        <item>
+            <title>I NRK Radio – Arvingen</title>
+            <description>Johan Hagenæs junior får tidenes mulighet. Han arver bestefarens skipsrederi og lever i overflod. Så snur det.</description>
+            <pubDate>2024-09-16T13:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2d2157fb-bad1-42ea-a6d3-8c6b8f0688c9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/f2wRjQ1mRDpR_xOdVnU5ZgwYKsMI5r-ILDf7nU1trGHQ"/>
+            <guid isPermaLink="false">2d2157fb-bad1-42ea-a6d3-8c6b8f0688c9</guid>
+        </item>
         </channel>
 </rss>
