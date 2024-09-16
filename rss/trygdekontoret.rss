@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/T3Awpx8nN8QRvaGNe5oEPQQC_Kfylao4BXBKL0dFdsMA</url>
+        <url>https://gfx.nrk.no/GEVy0xN3bs0-2-SQTf6hXQT3px-PJbGs6UQr-jQVxgAw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nordpolen</title>
+            <description>Hva er egentlig Nordpolen? Og hvorfor reiser man dit? Med eventyrer, forfatter, forlegger og kunstsamler Erling Kagge.</description>
+            <pubDate>2024-09-16T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5656f215-4f9f-416a-8fad-30f9a71c13cf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H9M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GEVy0xN3bs0-2-SQTf6hXQT3px-PJbGs6UQr-jQVxgAw"/>
+            <guid isPermaLink="false">5656f215-4f9f-416a-8fad-30f9a71c13cf</guid>
+        </item>
         
         <item>
             <title>Alderdom</title>
