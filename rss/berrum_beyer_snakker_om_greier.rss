@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/sO9pe8krXR91Vnjq_9RufQtbxd1zufRAt4cPov_vE1_w</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Agatha Crisby,  Hvasser og skvatt du?</title>
+            <description>Lars har hatt forferdelig skjeggsveis. Martin lanserer lørdag den fjortende som fæl dag. Sammen diskuterer de skremming.</description>
+            <pubDate>2024-09-17T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/622d5f26-d1e0-4106-9f38-273eb7b44370_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H5M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">622d5f26-d1e0-4106-9f38-273eb7b44370</guid>
+        </item>
         
         <item>
             <title>Ingrid Gjessing Linhave: cardigan og inte rolig</title>
