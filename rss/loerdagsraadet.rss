@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/YmQmjt_W3_yCEfRPCRlzng72caM1tfFvGA4lTa0pYgJg</url>
+        <url>https://gfx.nrk.no/BeyFGx0xaIVQTQuclx1HuQPw0MyA57v0g4I1EBMBTScw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Unnskyld!</title>
+            <description>Vi feirer Den Store Unnskylddagen, ved å si unnskyld for at vi ikke har arrangert en unnskylddag... uansett ringer Live Pernille Sørensen for å si unnskyld! Så noe ble det! Heyhå!</description>
+            <pubDate>2024-09-17T16:35:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f4c9c58d-454f-43c2-9c1e-fe5ab86f7904_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT15M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BeyFGx0xaIVQTQuclx1HuQPw0MyA57v0g4I1EBMBTScw"/>
+            <guid isPermaLink="false">f4c9c58d-454f-43c2-9c1e-fe5ab86f7904</guid>
+        </item>
         
         <item>
             <title>Tuva Fellman / Magnus Devold / Linnéa Myhre</title>
