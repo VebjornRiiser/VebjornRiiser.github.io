@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/neRgu96jvFt-ykLYS3yJMgoBLPtOh3O1aG4tXWU6PRCw</url>
+        <url>https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ny bok: Støre forsøkt kastet</title>
+            <description>Ap-lederen skal ha overlevd et kuppforsøk fra sine egne, ifølge ny bok.</description>
+            <pubDate>2024-09-19T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/13ebb9b4-b241-4351-a339-f7101c39e43b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">13ebb9b4-b241-4351-a339-f7101c39e43b</guid>
+        </item>
         
         <item>
             <title>Bollestad slår tilbake</title>
