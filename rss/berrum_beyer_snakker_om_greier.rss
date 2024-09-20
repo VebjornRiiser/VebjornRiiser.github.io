@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/Yd3PegeQBFkjuH-rvMOHtwDqeNoNuVDvUnysqYOkFozw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nora Svenningsen: Vond ræv og paralympics</title>
+            <description>Komiker Nora Svenningsen er dagens gjest. Det blir prat om Paralympics og rumpesmerter inni hælja!</description>
+            <pubDate>2024-09-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2d2cdbbb-9303-4b54-bb65-64aa15a11f61_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Yd3PegeQBFkjuH-rvMOHtwDqeNoNuVDvUnysqYOkFozw"/>
+            <guid isPermaLink="false">2d2cdbbb-9303-4b54-bb65-64aa15a11f61</guid>
+        </item>
         
         <item>
             <title>Agatha Crisby,  Hvasser og skvatt du?</title>
