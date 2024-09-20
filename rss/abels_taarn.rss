@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/rfYoqDP90zwEAcUTa0fGZApx0K_q43DgJEPwYTnVAuyg</url>
+        <url>https://gfx.nrk.no/rHleDLLXq8E2DEpuHWZ2xA2PDQWTkO6ViYT8DXI2Q8wQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor har ikke vi mennesker pels?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Kjemiker Ole Swang
+Fysiker Anja Røyne
+Forsker på dyrevelferd Kristian Ellingsen-Dalskau
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst i NRK-radioappen.</description>
+            <pubDate>2024-09-20T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/65e83aad-22df-4abc-9018-ab2574c8358f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rHleDLLXq8E2DEpuHWZ2xA2PDQWTkO6ViYT8DXI2Q8wQ"/>
+            <guid isPermaLink="false">65e83aad-22df-4abc-9018-ab2574c8358f</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Hvem er smartest av A- og B-mennesker?</title>
