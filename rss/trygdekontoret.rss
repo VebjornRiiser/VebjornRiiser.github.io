@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/GEVy0xN3bs0-2-SQTf6hXQT3px-PJbGs6UQr-jQVxgAw</url>
+        <url>https://gfx.nrk.no/PE2tOjwYxU78NpXo4QyanwlpI7lHNnasPtEhLrs4lZnw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Velferdsstatens grenser</title>
+            <description>Hvor mye tåler den nordiske velferdsstaten og hvem skal ta de vanlige jobbene?   Med Danmarks utlendings- og integrasjonsminister Kaare Dybvad Bek</description>
+            <pubDate>2024-09-23T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5f0b1b14-8bef-4fb9-b832-e0267974cb3e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PE2tOjwYxU78NpXo4QyanwlpI7lHNnasPtEhLrs4lZnw"/>
+            <guid isPermaLink="false">5f0b1b14-8bef-4fb9-b832-e0267974cb3e</guid>
+        </item>
         
         <item>
             <title>Nordpolen</title>
