@@ -1957,5 +1957,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/dl8LtNn1pYeXA1AlQ0ycpQrU790Vpn6_jHY_QMujo-sA"/>
             <guid isPermaLink="false">3b470ceb-7187-4dd7-94d3-9f2b793cf56d</guid>
         </item>
+        
+        <item>
+            <title>Gisselaksjonen på Torp (1:2)</title>
+            <description>Ranerne søker dekning i huset til et eldre ektepar. Politiet forsøker å hale ut tida mens skarpskytterne i Beredskapstroppen er på vei.</description>
+            <pubDate>2024-09-26T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/ca117b40-1656-43f0-8a57-ac61ef818120_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dl8LtNn1pYeXA1AlQ0ycpQrU790Vpn6_jHY_QMujo-sA"/>
+            <guid isPermaLink="false">ca117b40-1656-43f0-8a57-ac61ef818120</guid>
+        </item>
+        
+        <item>
+            <title>Gisselaksjonen på Torp (2:2)</title>
+            <description>I fluktbilen truer ranerne med å henrette gislene. De setter en tidsfrist, og teller ned.</description>
+            <pubDate>2024-09-26T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/692be234-147a-428f-8eea-96ba176f0309_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dl8LtNn1pYeXA1AlQ0ycpQrU790Vpn6_jHY_QMujo-sA"/>
+            <guid isPermaLink="false">692be234-147a-428f-8eea-96ba176f0309</guid>
+        </item>
         </channel>
 </rss>
