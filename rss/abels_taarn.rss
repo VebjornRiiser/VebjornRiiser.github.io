@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/5ePZKXa5qD2SGfM3K9bA_gA6SBRLcsZYOguaHQL_0jww</url>
+        <url>https://gfx.nrk.no/F1LTUJdDYvoW1HMr9mUIFAK3iBS2tact64lIej2EwhnA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvis alt tomrom fjernes, hvor liten blir kloden?</title>
+            <description>CERN - stedet som vil avdekke hva universet er laget av og hvordan det funker. Intet mindre. Vi har samlet et knippe fysikere for å feire 70 års jubileet til verdens kuleste forskningssted.</description>
+            <pubDate>2024-10-02T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/776f88b1-bf33-45e2-8a92-448dabc5e74d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/F1LTUJdDYvoW1HMr9mUIFAK3iBS2tact64lIej2EwhnA"/>
+            <guid isPermaLink="false">776f88b1-bf33-45e2-8a92-448dabc5e74d</guid>
+        </item>
         
         <item>
             <title>Hvor langt kan man telle?</title>
