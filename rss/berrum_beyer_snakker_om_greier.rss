@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/TYdwmOop6Hc9W9M_lUU3MQhfoSsqJy7XmlzpLC-OHWqw</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Viggo Venn: Kenguru og mentor</title>
+            <description>Klovn Viggo Venn er innom. Det blir prat om å ha mentor, livet som klovn og da Viggo holdt på å bli drept av en kenguru.</description>
+            <pubDate>2024-10-04T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/85b523a6-a1d8-436d-a8cb-57d641d683c2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H8M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TYdwmOop6Hc9W9M_lUU3MQhfoSsqJy7XmlzpLC-OHWqw"/>
+            <guid isPermaLink="false">85b523a6-a1d8-436d-a8cb-57d641d683c2</guid>
+        </item>
         
         <item>
             <title>Stang inn, øl på månen og få ut verden</title>
