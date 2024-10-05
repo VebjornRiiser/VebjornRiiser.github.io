@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/KceXNWhHmsxSpLugnSJfkghtm212Cgyj-6Y-pqBfIApA</url>
+        <url>https://gfx.nrk.no/M27ppYYGgUdIvbSjwwo9twMPyDo2-vPbT0Ed_FBe8t5w</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Danby Choi / Jon Martin Henriksen / Adelina Ibishi</title>
+            <description>Tilbakemelding: Siri og drømmehuset / Problemer: Datingen surner / Busstur-problematikk / Tok dem på fersken / Trussel mot demokratiet? / For tilpasningsdyktig / Nasjonale regler for SoMe-brudd / Hva gjør jeg med alt utstyret? / Så mange steg, men det står stille / Når starter livet?</description>
+            <pubDate>2024-10-05T13:04:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ab9d4c35-8799-4b0a-937c-a5893ffdbe83_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H16M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/M27ppYYGgUdIvbSjwwo9twMPyDo2-vPbT0Ed_FBe8t5w"/>
+            <guid isPermaLink="false">ab9d4c35-8799-4b0a-937c-a5893ffdbe83</guid>
+        </item>
         
         <item>
             <title>Henriette Steenstrup / Henrik Farley / Kristine Grændsen</title>
