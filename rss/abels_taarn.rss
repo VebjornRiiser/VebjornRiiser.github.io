@@ -11,11 +11,25 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/AP_uCERVhwPisnrxaO2N2wkPm2ANn4Gji_WEHu1kgfOw</url>
+        <url>https://gfx.nrk.no/F0aC7_Du5GUfGKWyU4n4jgD57OhnB0mTBOPLEwQRM6zA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Den store marshmallowtesten er feil</title>
+            <description>En berømt psykologitest med marshmallow fra 70-tallet  tilbakevises.  
+
+ Forklaringen på et mystisk Jordskjelvsignal som slo inn på måleapparater verden over for et år siden.  
+
+ Blekkspruten viser seg å ha overraskende gode samarbeidsevner, med en annen art...</description>
+            <pubDate>2024-10-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6d28c980-3dff-42e3-8571-69509dfb1b51_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/F0aC7_Du5GUfGKWyU4n4jgD57OhnB0mTBOPLEwQRM6zA"/>
+            <guid isPermaLink="false">6d28c980-3dff-42e3-8571-69509dfb1b51</guid>
+        </item>
         
         <item>
             <title>Hvor lenge funker et avkappet hode?</title>
