@@ -1977,5 +1977,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA"/>
             <guid isPermaLink="false">a42335ad-f7f7-4881-8bf8-c4702ba24492</guid>
         </item>
+        
+        <item>
+            <title>Hagledrapene (1:2)</title>
+            <description>Uten forvarsel skyter en mann mot folk på en idrettsbane. To faller livløse til bakken, mens de andre flykter for livet.</description>
+            <pubDate>2024-10-10T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/7d5f7a08-9919-431b-9e13-6f4278be915f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA"/>
+            <guid isPermaLink="false">7d5f7a08-9919-431b-9e13-6f4278be915f</guid>
+        </item>
+        
+        <item>
+            <title>Hagledrapene (2:2)</title>
+            <description>Fire mennesker ligger livløse på bakken. Politiet jakter på gjerningsmannen som kjører rundt i området med våpen i bilen.</description>
+            <pubDate>2024-10-10T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/53e0c153-d43a-48f3-8e6a-259b62ac076d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA"/>
+            <guid isPermaLink="false">53e0c153-d43a-48f3-8e6a-259b62ac076d</guid>
+        </item>
         </channel>
 </rss>
