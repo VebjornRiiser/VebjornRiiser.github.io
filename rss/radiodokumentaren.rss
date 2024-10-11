@@ -731,16 +731,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
-            <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1222-0630_6352304545.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT45M6S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
-        </item>
-        
-        <item>
             <title>Inn i varmen. Drømmen om det normale liv</title>
             <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -748,6 +738,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT43M45S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
+        </item>
+        
+        <item>
+            <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
+            <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1222-0630_6352304545.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
         </item>
         
         <item>
@@ -1438,10 +1438,7 @@ En radiodokumentar av Sindre Leganger.</description>
         
         <item>
             <title>Ridder sjanseløs</title>
-            <description>Det er 25 år siden Per Bergersen døde, mannen som på folkemunne går under navnet bygde-Jokke.
-Det unge musikktalentet ble drept i sitt eget hjem, etter sigende skutt av en kompis, bare timer etter at han hadde holdt konsert for venner og kjente på Thomas-gården i hjembyen. Brått tok er trøblete liv slutt og med det mistet norsk musikk et av sine største talenter.
-Bergersen gjorde noen innspillinger i de årene han var aktiv som musiker, og etter at han døde fikk Røros fritidsklubb samlet inn nok materiale til et helt album. Albumet ble trykket i 1000 eksemplarer.
-Med låter som &quot;Jeg skyter meg på julaften&quot; og &quot;Hemmat&quot; skrev han seg inn norsk undergrunn. Mange merket et slags åndelig slektskap med Joachim Nielsen fra Jokke &amp; Valentinerne, derav navnet bygde-Jokke. Med såre og brutale tekster, akkompagnert av hissig gitar, var Bergersen bygde-Norges egen rockepoet.</description>
+            <description>Per Bergersen ble drept av en kompis. Brått tok et trøblete liv slutt, og norsk musikk mistet et av sine største talenter.</description>
             <pubDate>2015-06-25T11:10:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/NRKLT61973_EA3452BE5A6249849306D5194DE3750C.MP3" type="audio/mpeg"/>
             <itunes:duration>PT41M51S</itunes:duration>
