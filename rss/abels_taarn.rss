@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/nY2cvKjf9yZ2NrWacBaqJQddYNWwlsVbm-iojNxKZhzw</url>
+        <url>https://gfx.nrk.no/-7E4D4sjPTCo5t5EQIcEIAeVzJVKUmY23HB4cLyFNpJg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er vitsen med morgenkvalme?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Eivind Torgersen
+Anna Blix
+Erik Tunstad
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-10-13T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9b974b86-c612-4841-a1a2-67a4122c9de9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-7E4D4sjPTCo5t5EQIcEIAeVzJVKUmY23HB4cLyFNpJg"/>
+            <guid isPermaLink="false">9b974b86-c612-4841-a1a2-67a4122c9de9</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Året da KI vant Nobelprisene</title>
