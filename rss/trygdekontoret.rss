@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/ZHWmsQF20d2Bq8HArfJoQw2l92jGv7rqNAsExRscvL8Q</url>
+        <url>https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Barn med skjerm</title>
+            <description>Hva gjør skjermbruk med barn? Er vi alle på vei mot digital demens? Med forfatter Maja Lunde.</description>
+            <pubDate>2024-10-14T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7e978d55-6580-47d0-b1da-7248bba3ed7a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA"/>
+            <guid isPermaLink="false">7e978d55-6580-47d0-b1da-7248bba3ed7a</guid>
+        </item>
         
         <item>
             <title>Outsideren Per Bergersen</title>
