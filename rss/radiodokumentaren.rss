@@ -731,16 +731,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
-        </item>
-        
-        <item>
             <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
             <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -748,6 +738,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT45M6S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
+        </item>
+        
+        <item>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3626,6 +3626,46 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:duration>PT42M25S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/f2wRjQ1mRDpR_xOdVnU5ZgwYKsMI5r-ILDf7nU1trGHQ"/>
             <guid isPermaLink="false">ccb70d3d-70d1-497f-b0a2-5bf9a8c463ca</guid>
+        </item>
+        
+        <item>
+            <title>Ungkar med dobbelseng (1 av 4)</title>
+            <description>Rune drøymer om band og dame. Han har ein plan for å oppfylle begge. Ein plan berre han trur på.</description>
+            <pubDate>2024-10-17T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/dc2c6e7f-e1c0-472d-8e20-50324afc7ebb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vCnbTCIjWFF1Rm0Br4_06wob7jyq3VA9jAmmRNopUjCg"/>
+            <guid isPermaLink="false">dc2c6e7f-e1c0-472d-8e20-50324afc7ebb</guid>
+        </item>
+        
+        <item>
+            <title>Hurragutt (2 av 4)</title>
+            <description>Ein spinnvill idé om ei dobbeltseng på hjul snur opp ned på alt for Vassendgutane. Og aller mest for Rune.</description>
+            <pubDate>2024-10-17T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e2e0633e-8b75-4fba-9912-cb578221859a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vCnbTCIjWFF1Rm0Br4_06wob7jyq3VA9jAmmRNopUjCg"/>
+            <guid isPermaLink="false">e2e0633e-8b75-4fba-9912-cb578221859a</guid>
+        </item>
+        
+        <item>
+            <title>Berre ei øl (3 av 4)</title>
+            <description>Fyll og fest er Vassendgutanes oppskrift på suksess. Men kor lenge kan det gå?</description>
+            <pubDate>2024-10-17T06:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5a731ee3-db7a-4266-a83c-627914d2d57a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT19M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vCnbTCIjWFF1Rm0Br4_06wob7jyq3VA9jAmmRNopUjCg"/>
+            <guid isPermaLink="false">5a731ee3-db7a-4266-a83c-627914d2d57a</guid>
+        </item>
+        
+        <item>
+            <title>Du og ej og metoo (4 av 4)</title>
+            <description>Vassendgutane trassar advarslar om karrieremessig sjølvmord, og gir ut ei eiga metoo-plate. Det kan ikkje gå bra.</description>
+            <pubDate>2024-10-17T06:03:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/46124d42-db58-4ad0-8590-9d589b2a2d88_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vCnbTCIjWFF1Rm0Br4_06wob7jyq3VA9jAmmRNopUjCg"/>
+            <guid isPermaLink="false">46124d42-db58-4ad0-8590-9d589b2a2d88</guid>
         </item>
         </channel>
 </rss>
