@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2024 - nr. 5</title>
+            <description>Ronny Brede Aase / Fingern / Marlene Stavrum / Dagny / Niklas Baarli / Kristin Jess Rodin / Silje Nordnes / Odd Nordstoga / Ahmed Mamow</description>
+            <pubDate>2024-10-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1afb663c-0cc9-441a-974b-d2cba4f641ce_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H45M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+            <guid isPermaLink="false">1afb663c-0cc9-441a-974b-d2cba4f641ce</guid>
+        </item>
         
         <item>
             <title>Mange mailer om ditt og datt</title>
