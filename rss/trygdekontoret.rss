@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA</url>
+        <url>https://gfx.nrk.no/SrPVVjoRc-n_tFZZ53a95gDZJNmA6Qi8QRcF6PPVh8Mg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Japan</title>
+            <description>Hypermoderne, tradisjonsbundet og alltid fascinerende. Kunstner Gardar Eide Einarsson om sitt andre hjemland, Japan.</description>
+            <pubDate>2024-10-21T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/14397ff6-d757-4a90-a209-cfba0bb67a8f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H11M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/SrPVVjoRc-n_tFZZ53a95gDZJNmA6Qi8QRcF6PPVh8Mg"/>
+            <guid isPermaLink="false">14397ff6-d757-4a90-a209-cfba0bb67a8f</guid>
+        </item>
         
         <item>
             <title>Barn med skjerm</title>
