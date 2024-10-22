@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/HADaTBwaz9Pz29US1CJFtQklzu1RRRQHu5JuONW6Y_Pg</url>
+        <url>https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>TYRANN: Saddam Hussein (1:5)</title>
+            <description>Noen maktmennesker har rett og slett gjort verden til et mye dårligere sted. Her er første episode av podkasten Tyrann.</description>
+            <pubDate>2024-10-22T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/a19dae47-e79f-4b7c-bcc2-9243218a800c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA"/>
+            <guid isPermaLink="false">a19dae47-e79f-4b7c-bcc2-9243218a800c</guid>
+        </item>
         
         <item>
             <title>Sigrid Sollund</title>
