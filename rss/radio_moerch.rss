@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA</url>
+        <url>https://gfx.nrk.no/3eAW-OmzofFRJO6sY5ivxQuiPQzD2uSla7PKrm8nrpmA</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lars Berrum + Ida Lødemel Tvedt</title>
+            <description>Det er ikke lett å snakke og tenke godt om humor. Her har Lars med seg en han synes klarer det.</description>
+            <pubDate>2024-10-24T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/844f458d-7073-441e-83a3-72e222ae4acf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H18M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3eAW-OmzofFRJO6sY5ivxQuiPQzD2uSla7PKrm8nrpmA"/>
+            <guid isPermaLink="false">844f458d-7073-441e-83a3-72e222ae4acf</guid>
+        </item>
         
         <item>
             <title>TYRANN: Saddam Hussein (1:5)</title>
