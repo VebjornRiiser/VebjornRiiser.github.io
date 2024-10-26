@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/lq9akXTuA56CO-O1BjgRNghcnlvsCIHn7v3VIlIjoOZw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Galvan Mehidi / Hilde Skaar / Cecilie Kåss Furuseth</title>
+            <description>Problemer: Jul alene, eller med crushet som ligger med roommate’n? / Forholdet er bygget på en løgn... av papp / Jobb og personlighet kommer ikke overens / Flørt eller Roma / Festlogistikk / (For) hjelpsom kollega / Kollektivforbannelse? / Mannen som tror han er Haaland… / Hva gjør dere med greiene? / Komme ut... av snusboksen</description>
+            <pubDate>2024-10-26T13:46:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a41299ef-fc97-4448-b1c0-7e61729e8b08_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H10M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/lq9akXTuA56CO-O1BjgRNghcnlvsCIHn7v3VIlIjoOZw"/>
+            <guid isPermaLink="false">a41299ef-fc97-4448-b1c0-7e61729e8b08</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2024 - nr. 5</title>
