@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/SrPVVjoRc-n_tFZZ53a95gDZJNmA6Qi8QRcF6PPVh8Mg</url>
+        <url>https://gfx.nrk.no/0SrZZXKNg4naGPxfjs6zXwiURsphjD8xeBCv17DVWbrw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Norge sett fra Nord</title>
+            <description>Er Nord-Norge et kaldt, bizarro-Norge eller er ikke avstandene egentlig så store? Eller ja til begge deler? Med journalist og forfatter Egon Holstad.</description>
+            <pubDate>2024-10-28T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0000405c-8086-402a-a387-d33ffe8344e1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0SrZZXKNg4naGPxfjs6zXwiURsphjD8xeBCv17DVWbrw"/>
+            <guid isPermaLink="false">0000405c-8086-402a-a387-d33ffe8344e1</guid>
+        </item>
         
         <item>
             <title>Japan</title>
