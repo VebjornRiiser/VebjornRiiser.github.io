@@ -11,11 +11,24 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/A7YltE__fAx_EgpVNjKz4wdleRFQ18y1R49E03YCJ7RQ</url>
+        <url>https://gfx.nrk.no/IasfPCMN_loEhVipKwiqCgDUe4qOmQ1Ni-wWnsOWsWuQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Venner som er dårlige for helsa di</title>
+            <description>Torkild, Hanne og Annette deler små og store nerdete forskningsnyheter om: 
+- Venner som er dårlige for deg.
+- Aper med jernteppe. 
+- Et hundre år gammelt matteproblem.</description>
+            <pubDate>2024-10-28T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f8a88a8b-bbc4-4629-9a99-6e72c66fb497_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IasfPCMN_loEhVipKwiqCgDUe4qOmQ1Ni-wWnsOWsWuQ"/>
+            <guid isPermaLink="false">f8a88a8b-bbc4-4629-9a99-6e72c66fb497</guid>
+        </item>
         
         <item>
             <title>Vet vi intuitivt hvordan lage barn?</title>
@@ -4721,6 +4734,23 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
         </item>
         
         <item>
+            <title>Abels bakgård - Ødelegger vi havet?</title>
+            <description>Hvordan har havet det langs Norges kystnære områder?
+Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
+
+Hvorfor blir havet nær kysten mørkere?
+
+Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
+
+Dette høres litt mørkt ut men vi ser også på løsninger.</description>
+            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
+            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Er vi datafigurer i en stor simulering av virkeligheten?</title>
             <description>- Om det finnes paralelle universer, finnes det da flere av meg? 
 
@@ -4742,23 +4772,6 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
             <itunes:duration>PT57M36S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/qseyuM-Fy-9IxbTIO2hbrQqnOBxguSQ8sk4Zs_cn2CxQ"/>
             <guid isPermaLink="false">8edab392-25fe-415f-a216-90ebf8dbe9d1</guid>
-        </item>
-        
-        <item>
-            <title>Abels bakgård - Ødelegger vi havet?</title>
-            <description>Hvordan har havet det langs Norges kystnære områder?
-Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
-
-Hvorfor blir havet nær kysten mørkere?
-
-Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
-
-Dette høres litt mørkt ut men vi ser også på løsninger.</description>
-            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M36S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
-            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
         </item>
         
         <item>

@@ -3667,5 +3667,15 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
             <itunes:image href="https://gfx.nrk.no/vCnbTCIjWFF1Rm0Br4_06wob7jyq3VA9jAmmRNopUjCg"/>
             <guid isPermaLink="false">46124d42-db58-4ad0-8590-9d589b2a2d88</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Hemmeligheten fra Blücher</title>
+            <description>En dykker gjør et sensasjonelt funn på havets bunn – dagboka til en ung nazist. Den forteller om tyskernes angrep på Norge, opplevd fra innsiden. I NRK Radio fra 29. oktober 2024.</description>
+            <pubDate>2024-10-28T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/18c79a5e-b6a4-4ab4-9424-02bbc57a60da_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q"/>
+            <guid isPermaLink="false">18c79a5e-b6a4-4ab4-9424-02bbc57a60da</guid>
+        </item>
         </channel>
 </rss>
