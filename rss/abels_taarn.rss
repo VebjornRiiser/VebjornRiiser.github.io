@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/IasfPCMN_loEhVipKwiqCgDUe4qOmQ1Ni-wWnsOWsWuQ</url>
+        <url>https://gfx.nrk.no/4sQSr4NZHOuy7cC0krN7yQB7SUYEE4sRSptJTjevLPNA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forkskningsfronten - Soppen som elsker støy</title>
+            <description>Torkild, Hanne og Annette deler små og store nerdete forskningsnyheter om:
+Torkild, Hanne og Annette deler små og store nerdete forskningsnyheter om: 
+
+- Den hvite muggsoppen som elsker støy
+
+- og selvfølgelig - siste nytt om pentakvarker
+
+- Hunder som bokstavelig talt ser med nesa</description>
+            <pubDate>2024-10-30T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ee647038-98fb-49ed-ba45-24671dcec874_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/4sQSr4NZHOuy7cC0krN7yQB7SUYEE4sRSptJTjevLPNA"/>
+            <guid isPermaLink="false">ee647038-98fb-49ed-ba45-24671dcec874</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Venner som er dårlige for helsa di</title>
