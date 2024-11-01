@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/4sQSr4NZHOuy7cC0krN7yQB7SUYEE4sRSptJTjevLPNA</url>
+        <url>https://gfx.nrk.no/zE7d2t5MTXu3Ahd_gOxtjQlpSpUUr7wbR5An57d4gcDA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor tårer når man skjærer løk?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Dagens eksperter:
+Biolog Katharina Vestre
+Datalog Morten Goodwin
+Statistiker Jo Røislien
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til Abels@nrk.no</description>
+            <pubDate>2024-11-01T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/dfa0c851-6a3c-4131-b8f0-63266241e459_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zE7d2t5MTXu3Ahd_gOxtjQlpSpUUr7wbR5An57d4gcDA"/>
+            <guid isPermaLink="false">dfa0c851-6a3c-4131-b8f0-63266241e459</guid>
+        </item>
         
         <item>
             <title>Forkskningsfronten - Soppen som elsker støy</title>
