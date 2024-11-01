@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/UgOJHRkZW8N9xoP7PRplsQ5meADJ0EMDNTCJD8XrlqFA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Unge Obi: Seig geit og Bergfeim</title>
+            <description>Artist Andreas Nesteby Obrenovic er dagens gjest. Det blir prat om Hovseter, da han spiste seig geit og utdeling av pris?!</description>
+            <pubDate>2024-11-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/bc6e6182-c176-4728-b159-1b03dc81831e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/UgOJHRkZW8N9xoP7PRplsQ5meADJ0EMDNTCJD8XrlqFA"/>
+            <guid isPermaLink="false">bc6e6182-c176-4728-b159-1b03dc81831e</guid>
+        </item>
         
         <item>
             <title>Negroni, Rogan rigging og skate klær</title>
