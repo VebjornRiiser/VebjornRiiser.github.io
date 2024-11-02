@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/-FQC8RXdJk7OSl9lo-ULcwIrX2zHr_eLhWGOvBhDMHkw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Odd Nordstoga / Amalie Stuve / Vegard Ylvisåker</title>
+            <description>Har Petter beholdt vennene? PROBLEMER: Klimpringen er intens og klein / Hytta har blitt offentlig eiendom? / Bryllupsgjest eller Judas? / Normalisere irritabilitet / Hva skal vi gjøre i julen? / Innpåsliten kollega</description>
+            <pubDate>2024-11-02T14:03:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/51604812-a099-40a1-a396-c4d2a31c304e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H29M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-FQC8RXdJk7OSl9lo-ULcwIrX2zHr_eLhWGOvBhDMHkw"/>
+            <guid isPermaLink="false">51604812-a099-40a1-a396-c4d2a31c304e</guid>
+        </item>
         
         <item>
             <title>Har det klikka for Live?!</title>
