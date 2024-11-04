@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/0SrZZXKNg4naGPxfjs6zXwiURsphjD8xeBCv17DVWbrw</url>
+        <url>https://gfx.nrk.no/ZvejrZaLSV9FWyzHVVQRgwy8iBCydhtq2HhZP3DI44Qw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvit nasjonalisme i USA</title>
+            <description>Evan McLaren ble radikalisert, kalte seg fascist og hvit nasjonalist, og så snudde han og flyttet til Norge.</description>
+            <pubDate>2024-11-04T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3fb8e01a-c072-4b6e-8e25-9cbdcd8cf5d7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ZvejrZaLSV9FWyzHVVQRgwy8iBCydhtq2HhZP3DI44Qw"/>
+            <guid isPermaLink="false">3fb8e01a-c072-4b6e-8e25-9cbdcd8cf5d7</guid>
+        </item>
         
         <item>
             <title>Norge sett fra Nord</title>
