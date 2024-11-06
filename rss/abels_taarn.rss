@@ -11,11 +11,25 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/TLNa2pcNQsvd6XxKVd0iFw6Dyqmd1jx-Yv-viFUV7pvQ</url>
+        <url>https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten -  Sånn blir du kvitt stemmer i hodet</title>
+            <description>Torkild, Hanne og Kristina deler små og store forskningsnyheter.
+
+- Ny behandling funnet mot stemmer i hodet
+- Verdens største primtall oppdaget
+- Slik påvirker gaming karakterene dine</description>
+            <pubDate>2024-11-06T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/21a706f4-604b-46f3-b0bd-d4a8d60d2e3b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg"/>
+            <guid isPermaLink="false">21a706f4-604b-46f3-b0bd-d4a8d60d2e3b</guid>
+        </item>
         
         <item>
             <title>Kan KI løse Midtøsten-krisa?</title>
