@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/3eAW-OmzofFRJO6sY5ivxQuiPQzD2uSla7PKrm8nrpmA</url>
+        <url>https://gfx.nrk.no/vCKu92t8TjlpApXmQNL-dQuX03gRCUPBgd3XWkIWjA1A</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Isalill Kolpus fra Nytt på nytt</title>
+            <description>«Hvorfor er russiske barn så sjuuuukt flinke til å tegne?» Isalill er fra grensebyen Kirkenes og har har sett dem i aksjon.</description>
+            <pubDate>2024-11-07T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c24d0022-0308-4bf6-b5b8-402d7fb7badb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H16M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vCKu92t8TjlpApXmQNL-dQuX03gRCUPBgd3XWkIWjA1A"/>
+            <guid isPermaLink="false">c24d0022-0308-4bf6-b5b8-402d7fb7badb</guid>
+        </item>
         
         <item>
             <title>Lars Berrum + Ida Lødemel Tvedt om humor</title>
