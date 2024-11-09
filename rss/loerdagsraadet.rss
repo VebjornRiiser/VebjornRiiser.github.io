@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/-FQC8RXdJk7OSl9lo-ULcwIrX2zHr_eLhWGOvBhDMHkw</url>
+        <url>https://gfx.nrk.no/bLfiYioIiI31V1fzhOtDsgKSsYHbkxtEzYCY-P_Ljs8w</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Annika Momrak / Jonis Josef / Mia Hundvin</title>
+            <description>Hvem eier katten nå? PROBLEMER: Deler-for-mye-angst / Belærende roomie, men billig leie / Faller for feil type / Naver, Naver, Naver, Naver, Naver / Livets forgjengelighet og aldersangst / Hvorfor er Leo rar? / Bedrevitende far</description>
+            <pubDate>2024-11-09T13:12:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b6a16d89-3a50-491a-9e99-0c3cb9668a92_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H28M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bLfiYioIiI31V1fzhOtDsgKSsYHbkxtEzYCY-P_Ljs8w"/>
+            <guid isPermaLink="false">b6a16d89-3a50-491a-9e99-0c3cb9668a92</guid>
+        </item>
         
         <item>
             <title>Odd Nordstoga / Amalie Stuve / Vegard Ylvisåker</title>
