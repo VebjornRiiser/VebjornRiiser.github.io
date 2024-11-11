@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/ZvejrZaLSV9FWyzHVVQRgwy8iBCydhtq2HhZP3DI44Qw</url>
+        <url>https://gfx.nrk.no/mYx73LUGFcXqTNTjq4mmYAUHHTrCMRyWHZ3NJgVKvH3A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Psykiatri i Norge</title>
+            <description>Hvordan behandles de psykisk sykeste? Og hva skal til for å bli kjent utilregnelig? Med rettspsykiater Randi Rosenqvist.</description>
+            <pubDate>2024-11-11T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e74c8cd0-bf46-4130-a017-2a26fbb00144_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H21M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/mYx73LUGFcXqTNTjq4mmYAUHHTrCMRyWHZ3NJgVKvH3A"/>
+            <guid isPermaLink="false">e74c8cd0-bf46-4130-a017-2a26fbb00144</guid>
+        </item>
         
         <item>
             <title>Hvit nasjonalisme i USA</title>
