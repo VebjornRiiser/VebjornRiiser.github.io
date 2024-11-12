@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/4_rmtZtR9i4qXsHK5okf_AJOTdMQOeI1GKyeHnHbYLQw</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hul five, nummen frontallapp og du er flink</title>
+            <description>Lars har gitt en solid high five. Martin synes det har blitt for kaldt. Sammen diskuterer de folk som sier &quot;du er flink&quot;.</description>
+            <pubDate>2024-11-12T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7eddb10f-f6d9-498f-80ac-48e6f3db3420_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">7eddb10f-f6d9-498f-80ac-48e6f3db3420</guid>
+        </item>
         
         <item>
             <title>Girl in red:  Ukjent nemisis</title>
