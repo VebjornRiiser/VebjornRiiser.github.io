@@ -11,11 +11,45 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/J8-8U_KZhPYwFwwF7GF2KwJxGTJ3lqR-ChdchCBUBc7g</url>
+        <url>https://gfx.nrk.no/QjZ0VGrCE543B8NXX5EZawh-MhdQHycNW4Q7I-V3PQhA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vil mennesker bo i andre solsystemer?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Ben David Normann
+Paleontolog Lene Liebe Delsett
+Kjemiker Ole Swang
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-15T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09534c65-abf4-4a88-99fe-8a6bf6f364b3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/QjZ0VGrCE543B8NXX5EZawh-MhdQHycNW4Q7I-V3PQhA"/>
+            <guid isPermaLink="false">09534c65-abf4-4a88-99fe-8a6bf6f364b3</guid>
+        </item>
+        
+        <item>
+            <title>Har bare mennesker trassige unger?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Ben David Normann
+Paleontolog Lene Liebe Delsett
+Kjemiker Ole Swang
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4bef107c-fc06-4f96-b079-5fd57aa42832_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1sLKuZQafF_oVJGu64vPJQXz2s7yh1NF_tW_gipQGO6Q"/>
+            <guid isPermaLink="false">4bef107c-fc06-4f96-b079-5fd57aa42832</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Dyra som går på fylla.</title>
@@ -4842,6 +4876,23 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
         </item>
         
         <item>
+            <title>Abels bakgård - Ødelegger vi havet?</title>
+            <description>Hvordan har havet det langs Norges kystnære områder?
+Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
+
+Hvorfor blir havet nær kysten mørkere?
+
+Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
+
+Dette høres litt mørkt ut men vi ser også på løsninger.</description>
+            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
+            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Er vi datafigurer i en stor simulering av virkeligheten?</title>
             <description>- Om det finnes paralelle universer, finnes det da flere av meg? 
 
@@ -4863,23 +4914,6 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
             <itunes:duration>PT57M36S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/qseyuM-Fy-9IxbTIO2hbrQqnOBxguSQ8sk4Zs_cn2CxQ"/>
             <guid isPermaLink="false">8edab392-25fe-415f-a216-90ebf8dbe9d1</guid>
-        </item>
-        
-        <item>
-            <title>Abels bakgård - Ødelegger vi havet?</title>
-            <description>Hvordan har havet det langs Norges kystnære områder?
-Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
-
-Hvorfor blir havet nær kysten mørkere?
-
-Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
-
-Dette høres litt mørkt ut men vi ser også på løsninger.</description>
-            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M36S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
-            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
         </item>
         
         <item>
