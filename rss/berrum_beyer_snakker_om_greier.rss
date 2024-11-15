@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/7UYf2MAWqVi4JcLQftJBaAH7U_5T1AjqjOqp_S-Ik-MA</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ingar Helge Gimle: Et rom og kjøkken</title>
+            <description>Skuespiller Ingar Helge Gimle er dagens gjest. Det blir prat om hverdags-angst, masseflyttinga hans og en liten rolle i Skottland.</description>
+            <pubDate>2024-11-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/cc020d66-af09-44f3-a25c-9b44f587d0ed_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7UYf2MAWqVi4JcLQftJBaAH7U_5T1AjqjOqp_S-Ik-MA"/>
+            <guid isPermaLink="false">cc020d66-af09-44f3-a25c-9b44f587d0ed</guid>
+        </item>
         
         <item>
             <title>Hul five, nummen frontallapp og du er flink</title>
