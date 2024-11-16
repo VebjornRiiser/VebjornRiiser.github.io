@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/JW6o_b-THuWa8q2t3OIstQDLPXMv8ms7v4kCFsaGhS_Q</url>
+        <url>https://gfx.nrk.no/KK8oxc-jog-Mm0rdhld8JQI_JfKMycuJsy0XP6ZJcCjg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Catrin Sagen / Olli Wermskog / Ulrikke Brandstorp</title>
+            <description>Ga Gunn opp? PROBLEMER: Hjelp! Jeg er forelsket i en vegetarianer / Krangling over spillkveld på hytta / Inkludere hverandre sosialt / Dårlig håndtering av sykmelding / Hva gjør jeg med pappa i julen? / Lykkelig uvitende / Jeg vil bli mer rusta / Det ser så lett ut</description>
+            <pubDate>2024-11-16T13:34:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6bb0106a-6609-42fa-8acc-e5c863441360_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H30M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KK8oxc-jog-Mm0rdhld8JQI_JfKMycuJsy0XP6ZJcCjg"/>
+            <guid isPermaLink="false">6bb0106a-6609-42fa-8acc-e5c863441360</guid>
+        </item>
         
         <item>
             <title>Lørdagsrådet Vorspiel - med Olli Wermskog (Obs.: Rare greier)</title>
