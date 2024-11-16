@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/bLfiYioIiI31V1fzhOtDsgKSsYHbkxtEzYCY-P_Ljs8w</url>
+        <url>https://gfx.nrk.no/JW6o_b-THuWa8q2t3OIstQDLPXMv8ms7v4kCFsaGhS_Q</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Lørdagsrådet Vorspiel - med Olli Wermskog (Obs.: Rare greier)</title>
+            <description>Olli har forsovet seg to ganger til Lørdagsrådet. Da er straffen: «Lørdagsrådet Vorspiel». Programmet som passer på at rådgivere dukker opp til riktig tid. Bedre å helgardere seg enn å forsove seg, si!</description>
+            <pubDate>2024-11-16T10:20:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/abe5490c-b84b-41fe-9fdb-25f1931ff00e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JW6o_b-THuWa8q2t3OIstQDLPXMv8ms7v4kCFsaGhS_Q"/>
+            <guid isPermaLink="false">abe5490c-b84b-41fe-9fdb-25f1931ff00e</guid>
+        </item>
         
         <item>
             <title>Annika Momrak / Jonis Josef / Mia Hundvin</title>
