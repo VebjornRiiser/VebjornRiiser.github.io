@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/mYx73LUGFcXqTNTjq4mmYAUHHTrCMRyWHZ3NJgVKvH3A</url>
+        <url>https://gfx.nrk.no/uoXs6SLLj8Ypq_EP5c3G2wAxt8LRL_vQndcOyAypIYYg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Trump og den hvite makta</title>
+            <description>Hvilken rolle har rasisme spilt for Trumps vei til makta? Og hvordan vil de neste årene se ut for USA?</description>
+            <pubDate>2024-11-18T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/6cce4b13-4dab-4697-8548-a10aedb373d8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H19M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uoXs6SLLj8Ypq_EP5c3G2wAxt8LRL_vQndcOyAypIYYg"/>
+            <guid isPermaLink="false">6cce4b13-4dab-4697-8548-a10aedb373d8</guid>
+        </item>
         
         <item>
             <title>Psykiatri i Norge</title>
