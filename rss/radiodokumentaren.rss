@@ -721,16 +721,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
-        </item>
-        
-        <item>
             <title>I ulykkelige omstendigheter</title>
             <description>Victoria venter sitt andre barn. Men når hun er seks måneder på vei oppdager legene at det er noe galt med barnet. Mer kan ikke legene si fordi de ikke vet hva som er galt. Av Victoria Wilden.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -738,6 +728,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT43M30S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290203</guid>
+        </item>
+        
+        <item>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -3709,21 +3709,11 @@ Og så blir det stille. I stillheten står Anja og Ebba igjen, med minnene om ma
         </item>
         
         <item>
-            <title>Kommer: Mannen uten minne</title>
-            <description>Ragnhild sin sønn har forsvunnet i Kina. Så får hun en veldig rar epost.</description>
-            <pubDate>2024-11-17T20:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/57f6f836-dd85-453e-a7be-9b0d852be501_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT26S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/TFV0ljeu8bGS3UYA92Ea0wcN2FtQzcgX5_-K_uTjhbDw"/>
-            <guid isPermaLink="false">57f6f836-dd85-453e-a7be-9b0d852be501</guid>
-        </item>
-        
-        <item>
             <title>Mannen uten minne</title>
             <description>Ragnhild sin sønn har forvunnet i Kina. Så får hun en veldig rar epost.</description>
             <pubDate>2024-11-19T06:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/24f520c9-5839-4378-9a05-eb2db24935ec_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT44M21S</itunes:duration>
+            <itunes:duration>PT44M22S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/TFV0ljeu8bGS3UYA92Ea0wcN2FtQzcgX5_-K_uTjhbDw"/>
             <guid isPermaLink="false">24f520c9-5839-4378-9a05-eb2db24935ec</guid>
         </item>
