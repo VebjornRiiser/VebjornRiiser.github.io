@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/KK8oxc-jog-Mm0rdhld8JQI_JfKMycuJsy0XP6ZJcCjg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gabriella! / Dramatisk historie... / og ryddig tilbakemelding!</title>
+            <description>Hvor er det blitt av Elsebeth? Roteguri har fått det ryddig - og Live har opplevd dramatiske ting!</description>
+            <pubDate>2024-11-20T17:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b3c73c8a-b29b-40dd-8176-328c23e584b6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">b3c73c8a-b29b-40dd-8176-328c23e584b6</guid>
+        </item>
         
         <item>
             <title>Catrin Sagen / Olli Wermskog / Ulrikke Brandstorp</title>
