@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/vCKu92t8TjlpApXmQNL-dQuX03gRCUPBgd3XWkIWjA1A</url>
+        <url>https://gfx.nrk.no/HwHL26teyHQwyNY77u7L9g5ZrwreaUSBlxmI4qpASkCw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Politiker (og husgjest!) Mímir Kristjánsson</title>
+            <description>«Jeg må tilstå noe..» Erlend forteller Mímir Kristjánsson om følelsene sine etter USA-valget.</description>
+            <pubDate>2024-11-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/1490c7d3-a130-48e6-85aa-01e69a8d8ce5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H23M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HwHL26teyHQwyNY77u7L9g5ZrwreaUSBlxmI4qpASkCw"/>
+            <guid isPermaLink="false">1490c7d3-a130-48e6-85aa-01e69a8d8ce5</guid>
+        </item>
         
         <item>
             <title>Isalill Kolpus fra Nytt på nytt</title>
