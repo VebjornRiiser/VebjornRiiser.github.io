@@ -11,11 +11,45 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/m3l-TWSRPfi_ejQGpBwXbwPnxdaKkneGAjd02Xyd8lRA</url>
+        <url>https://gfx.nrk.no/njuiw11euyUjRn_1FMkIsw-35zVIe0KbXRhE4V7R874A</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva skjer hvis astronauter får hull i romdrakta?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Ida Torkjellsdatter Storehaug
+Filosof Einar Duenger Bøhn
+Biolog Julie Sørlie Paus-Knudsen
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-22T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/76054a7d-7264-4657-aad6-767cb8a0a770_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT22M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/njuiw11euyUjRn_1FMkIsw-35zVIe0KbXRhE4V7R874A"/>
+            <guid isPermaLink="false">76054a7d-7264-4657-aad6-767cb8a0a770</guid>
+        </item>
+        
+        <item>
+            <title>Hva kom først av blomsten og bien?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Ida Torkjellsdatter Storehaug
+Filosof Einar Duenger Bøhn
+Biolog Julie Sørlie Paus-Knudsen
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-22T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1760d31b-f530-4e80-9d1d-93f11406a8a0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/4oX5kc6WMiyjsOSO_IVOjw6YgypRQmFJ3Y3uU-pB-GsA"/>
+            <guid isPermaLink="false">1760d31b-f530-4e80-9d1d-93f11406a8a0</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Konspirasjoner, kosmiske lik og verdens eldste organisme</title>
@@ -5526,20 +5560,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -5559,6 +5579,20 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
+        </item>
+        
+        <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
@@ -6239,16 +6273,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
-            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT53M26S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
-            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
-        </item>
-        
-        <item>
             <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
             <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -6256,6 +6280,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT57M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
             <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
+        </item>
+        
+        <item>
+            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
+            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
+            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
         </item>
         
         <item>
