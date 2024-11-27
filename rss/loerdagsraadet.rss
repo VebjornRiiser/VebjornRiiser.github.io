@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/xNGCSIl51RjEsdzFagoX6QZOqDXkT1tWhdRUGavj2TCg</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Matmonsteret om Maskorama</title>
+            <description>Live debriefer Maskorama, og Jonas får Trond Viggo Torgersen på tråden.</description>
+            <pubDate>2024-11-27T11:45:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/10fa336b-5564-4e9a-bd45-a768ef6e0875_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT10M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">10fa336b-5564-4e9a-bd45-a768ef6e0875</guid>
+        </item>
         
         <item>
             <title>Solveig Kloppen / Karsten Blomvik / Kristoffer Olsen</title>
