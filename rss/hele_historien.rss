@@ -1997,5 +1997,45 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg"/>
             <guid isPermaLink="false">e2f89386-8340-429e-a23a-c7c9e3a5dc82</guid>
         </item>
+        
+        <item>
+            <title>Svikeren (1:4)</title>
+            <description>Rinnan er ikke vond å be når nazistene vil verve ham. Snart viser det seg at han har talent for å være iskald og brutal.</description>
+            <pubDate>2024-11-28T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/e51a3c6b-8611-4d3c-839e-d79c70965c16_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg"/>
+            <guid isPermaLink="false">e51a3c6b-8611-4d3c-839e-d79c70965c16</guid>
+        </item>
+        
+        <item>
+            <title>Dobbeltspillet (2:4)</title>
+            <description>Rinnan infiltrerer motstandsbevegelsen og tyster til nazistene. Hundrevis av motstandsfolk blir torturert og drept.</description>
+            <pubDate>2024-11-28T06:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/2e647c26-1ed1-47aa-a960-f25d533a1378_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg"/>
+            <guid isPermaLink="false">2e647c26-1ed1-47aa-a960-f25d533a1378</guid>
+        </item>
+        
+        <item>
+            <title>Rinnanbanden (3:4)</title>
+            <description>I hovedkvarteret Bandeklosteret blir norske motstandsfolk torturert. Rinnan deltar aktivt i mishandlingen, og viser ingen nåde.</description>
+            <pubDate>2024-11-28T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/6b46d841-c501-4552-ab8b-8deaab90c6dc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg"/>
+            <guid isPermaLink="false">6b46d841-c501-4552-ab8b-8deaab90c6dc</guid>
+        </item>
+        
+        <item>
+            <title>Dødsdommen (4:4)</title>
+            <description>Rinnan flykter til fjells når nazistene taper krigen, men innhentes av hevnlystne nordmenn. Snart står han tiltalt for landssvik.</description>
+            <pubDate>2024-11-28T06:03:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/16a7f70f-5cca-4c5f-a6bc-ed5105f58f5a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg"/>
+            <guid isPermaLink="false">16a7f70f-5cca-4c5f-a6bc-ed5105f58f5a</guid>
+        </item>
         </channel>
 </rss>
