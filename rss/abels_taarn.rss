@@ -11,11 +11,45 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/iU4hVQYEBMdo0zZ-lPsivwepbvA_yR7yZcC128hK7DHw</url>
+        <url>https://gfx.nrk.no/4Ml1wnECB7TkQ5NdNFjmCglC_jfbxpM9AiMArOuew2Yw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Henrik Sveinson
+Statistiker Solveig Engebretsen
+Lege Erik Sveberg Dietrichs
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-29T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/885845f8-7698-4524-bd24-4bdc72e8a295_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/4Ml1wnECB7TkQ5NdNFjmCglC_jfbxpM9AiMArOuew2Yw"/>
+            <guid isPermaLink="false">885845f8-7698-4524-bd24-4bdc72e8a295</guid>
+        </item>
+        
+        <item>
+            <title>Når kan vi overleve drukning?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Fysiker Henrik Sveinson
+Statistiker Solveig Engebretsen
+Lege Erik Sveberg Dietrichs
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2024-11-29T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d7163f54-75a6-4711-b45d-8ca62ccf4324_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1Jvs-wp7zJuSV1QNyKFEew133Zr1GFipDO7TSF3vBX_A"/>
+            <guid isPermaLink="false">d7163f54-75a6-4711-b45d-8ca62ccf4324</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Flyvende dinosaurer i Danmark</title>
@@ -5574,6 +5608,20 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -5593,20 +5641,6 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
-        </item>
-        
-        <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
