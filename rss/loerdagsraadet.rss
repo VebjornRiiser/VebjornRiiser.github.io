@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/aX0Z-izwT0th0DuRG7OOQgpopbxvVPIZZNdEofsNv4aA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>«Idiot» vikarierer (Martin Lepperød / Adelina Ibishi / Dr. Jones)</title>
+            <description>«Idiot» (P3 sitt mest idiotiske radioprogram) vikarierer... så lenge Adelina, Martin og Dr. Jones har selvtillit!</description>
+            <pubDate>2024-12-07T11:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6f41817e-e97b-42aa-bd58-587012670d44_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aX0Z-izwT0th0DuRG7OOQgpopbxvVPIZZNdEofsNv4aA"/>
+            <guid isPermaLink="false">6f41817e-e97b-42aa-bd58-587012670d44</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2024 - nr. 6</title>
