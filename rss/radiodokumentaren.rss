@@ -166,7 +166,7 @@ Av Lorenz Rollhäuser (For Sender Freies Berlin) Norsk versjon: Kåre Johan Lund
             <pubDate>2013-03-08T11:46:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-0308-1046_6349833667.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/du9XZFZ8PA17gbgWJTtODw5sZGJ1NeYnheM5ypx8_dAg"/>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-0308-1046_6349833667</guid>
         </item>
         
@@ -438,7 +438,7 @@ Av Rune Bjåstad. Første gang sendt i 2000.</description>
         
         <item>
             <title>Hestkuken fra Hemnes</title>
-            <description>mai 2011 skapte Samfunnspartiets leder Øystein Meier Johannessen overskrifter da han demonstrerte mot høye strømpriser ved å sette opp avkappede hestehoder utenfor Stortinget. Av Espen Thoresen. Første gang sendt i 2011.</description>
+            <description>I mai 2011 skapte Samfunnspartiets leder overskrifter da han demonstrerte mot høye strømpriser ved å sette opp avkappede hestehoder utenfor Stortinget.</description>
             <pubDate>2013-08-15T17:08:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-0815-0308_6351217652.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M8S</itunes:duration>
@@ -731,16 +731,6 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
-            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
-        </item>
-        
-        <item>
             <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
             <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
@@ -748,6 +738,16 @@ I strikkeklubben de har startet hjelper de hverandre gjennom små og store krise
             <itunes:duration>PT45M6S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
             <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
+        </item>
+        
+        <item>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har holdt sammen i 22 år. Etter mange år som narkomane på gata i Oslo bestemmer de seg for å starte på nytt.  I sitt nye hjem på Finnskogen drømmer de om å leve et normalt liv. Men hva er egentlig det? Av Beate Hofseth og Susann Østigaard.</description>
+            <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -1945,16 +1945,6 @@ Men hvorfor dukket hun opp helt plutselig? Hva vil hun?</description>
             <itunes:duration>PT44M</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/du9XZFZ8PA17gbgWJTtODw5sZGJ1NeYnheM5ypx8_dAg"/>
             <guid isPermaLink="false">radiodokumentaren_2018-05-09_2203_1540.MP3</guid>
-        </item>
-        
-        <item>
-            <title>Å være norsk i detalj</title>
-            <description>Hva gjør en radioreporter når hun oppdager at «Ja, vi elsker» ikke er Norges offisielle nasjonalsang, men bare har klart å komme seg inn i tradisjon og folkesjel ved hjelp av sedvane? Hun bestiller en ny, og oppdatert nasjonalsang av komponist Stian Carstensen fra bandet Farmers Market. Håpet er at denne sangen, sunget av Bjarte Hjelmeland, en dag vil ta over for «Ja, vi elsker».</description>
-            <pubDate>2018-05-17T00:03:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2018-05-16_2203_1116.MP3" type="audio/mpeg"/>
-            <itunes:duration>PT44M28S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">radiodokumentaren_2018-05-16_2203_1116.MP3</guid>
         </item>
         
         <item>
