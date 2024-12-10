@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/aX0Z-izwT0th0DuRG7OOQgpopbxvVPIZZNdEofsNv4aA</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Askepotts julekalender luke 10-13</title>
+            <description>Vår meeeeget lavterskel adventskalender ruller videre!</description>
+            <pubDate>2024-12-10T16:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/90ae7166-e3b6-4e12-b924-14af482879cd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">90ae7166-e3b6-4e12-b924-14af482879cd</guid>
+        </item>
         
         <item>
             <title>«Idiot» vikarierer (Martin Lepperød / Adelina Ibishi / Dr. Jones)</title>
