@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/JzLE89R2XzhwuzbG9OEr-wEo-lWkRP3O4S2QxZVq_tZQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Erik Solbakken / Silje Nordnes / Espen Abrahamsen</title>
+            <description>TILBAKEMELDING: Føler Lisa seg mer hjemme? / PROBLEMER: En litt ekstra hyggelig kollega / Gaver er kjærlighetsspråket, men tomt for penger / Kan forholdet overleve utroskap? / Hjelpelæreren! / Klein stillhet / Julegaveinnpakning / Hjem til jul! / Venner vs. Kjærligheten</description>
+            <pubDate>2024-12-14T12:50:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c3dbd7ae-cbdb-4f9b-b10d-e46ba0d4ee0c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H21M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JzLE89R2XzhwuzbG9OEr-wEo-lWkRP3O4S2QxZVq_tZQ"/>
+            <guid isPermaLink="false">c3dbd7ae-cbdb-4f9b-b10d-e46ba0d4ee0c</guid>
+        </item>
         
         <item>
             <title>Askepotts julekalender luke 10-13</title>
