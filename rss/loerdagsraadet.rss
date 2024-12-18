@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/JzLE89R2XzhwuzbG9OEr-wEo-lWkRP3O4S2QxZVq_tZQ</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Askepotts julekalender luke 14-24</title>
+            <description>Gjesteopptreden fra: Olli Wermskog, Solveig Kloppen, Dj. Bingo, Klara, Kjartan - og tilbakemelding fra Askepott  &lt;3</description>
+            <pubDate>2024-12-18T17:53:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/94fcf0a6-ae5a-4523-ac49-99fbde0ee2cd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">94fcf0a6-ae5a-4523-ac49-99fbde0ee2cd</guid>
+        </item>
         
         <item>
             <title>Erik Solbakken / Silje Nordnes / Espen Abrahamsen</title>
