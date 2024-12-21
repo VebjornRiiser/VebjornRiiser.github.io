@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/LQ6nI2yJmF6kegDDP0MknwBRpkkKubqvAcuEiwYwt9Eg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bård Tufte Johansen / Kristin Jess Rodin / Henrik Farley</title>
+            <description>TILBAKEMELDING: Tidenes flause... eller? PROBLEMER: Syv år med Rune / Gavesermonien / Håpløs kjærlighet / Alene på nyttårsaften / Ikke er så god på å takle skuffelse / Attpåklatten og eneste jenta i søskenflokken / Ops! Lå med sjefen! / Alle snakker om baby</description>
+            <pubDate>2024-12-21T17:25:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/23e00657-6264-4cb2-a2b6-8a438716eb35_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H1M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LQ6nI2yJmF6kegDDP0MknwBRpkkKubqvAcuEiwYwt9Eg"/>
+            <guid isPermaLink="false">23e00657-6264-4cb2-a2b6-8a438716eb35</guid>
+        </item>
         
         <item>
             <title>Askepotts julekalender luke 14-24</title>
