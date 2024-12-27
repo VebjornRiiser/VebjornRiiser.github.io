@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/nH4cKbjhW_unL806zajKtwMijMNeg17bk0ttbjUhdjaQ</url>
+        <url>https://gfx.nrk.no/1yhMb9TY5d7XCsMlznbaJwhZ5UzJ56UoGmnUAPfXyEJg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Abels tårn - Når er man halvveis i livet, målt i opplevd tid?</title>
+            <description>Man sier at tiden går fortere jo eldre man blir. Når er man i så fall halvveis i livet - i opplevd tid? Og hvorfor bør mesteparten av tida man har til rådighet bli fyllt av lek? Dessuten: hvordan veit barnet når tida er moden for å forlate mors mage?</description>
+            <pubDate>2024-12-27T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cb9b4035-9766-48ea-b3d7-ad4b51370015_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1yhMb9TY5d7XCsMlznbaJwhZ5UzJ56UoGmnUAPfXyEJg"/>
+            <guid isPermaLink="false">cb9b4035-9766-48ea-b3d7-ad4b51370015</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten: Rudolfs diagnose og laksehatter</title>
