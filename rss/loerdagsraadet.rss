@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/LQ6nI2yJmF6kegDDP0MknwBRpkkKubqvAcuEiwYwt9Eg</url>
+        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Høydepunkter fra 2024 - nr. 7</title>
+            <description>Fredrik Skavlan / Solveig Kloppen / Sjur Vatne Brean / Galvan Mehidi / Ingrid Gjessing Linhave / Markus Neby / Mikkel Niva / Mia Hundvin / Cecilie Kåss Furuseth</description>
+            <pubDate>2024-12-28T09:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6a91d6ca-d247-4b9c-aadf-7263ea490bdb_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H36M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+            <guid isPermaLink="false">6a91d6ca-d247-4b9c-aadf-7263ea490bdb</guid>
+        </item>
         
         <item>
             <title>Bård Tufte Johansen / Kristin Jess Rodin / Henrik Farley</title>
