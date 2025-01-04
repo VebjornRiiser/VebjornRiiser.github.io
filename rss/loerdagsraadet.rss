@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw</url>
+        <url>https://gfx.nrk.no/ZOFau9upMNq5yMZb3S4wZgTiPCzAw31G2GmIGiinruKg</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Maria Stavang / Mathea Josefsen / Are Sende Osen</title>
+            <description>TILBAKEMELDING: Var Klara alene på nyttårsaften? / PROBLEMER: Kontorjobb eller mer eventyr? / Hvor mange datingdetaljer kan man dele? / Sexklubbdrømmen nærmer seg, men fått ny flamme... / Trekkes mot han / Nebbet går  / Alkohol til pynt i stua fra roomie men jeg er avholds / Sykt såra samboer / Ikke barnehagetante</description>
+            <pubDate>2025-01-04T15:20:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f2da7338-8f99-489c-be33-329b0b3938a6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H23M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ZOFau9upMNq5yMZb3S4wZgTiPCzAw31G2GmIGiinruKg"/>
+            <guid isPermaLink="false">f2da7338-8f99-489c-be33-329b0b3938a6</guid>
+        </item>
         
         <item>
             <title>Høydepunkter fra 2024 - nr. 7</title>
