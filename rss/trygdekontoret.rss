@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Lov1w9MXx3sCVaQAA7FPjQt8_-zbH5UDlYOHo614eRmA</url>
+        <url>https://gfx.nrk.no/bRzWythyE10w-9LB281jTQ-ekREGFl1FUjYBcUoSbUDQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Odd Nerdrum</title>
+            <description>Odd Nerdrum om kunsten, livet og litt om loven.</description>
+            <pubDate>2025-01-06T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/58d4c743-19df-4137-be84-b49652faf9dc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H14M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bRzWythyE10w-9LB281jTQ-ekREGFl1FUjYBcUoSbUDQ"/>
+            <guid isPermaLink="false">58d4c743-19df-4137-be84-b49652faf9dc</guid>
+        </item>
         
         <item>
             <title>Iran</title>
