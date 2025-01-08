@@ -3745,5 +3745,15 @@ Liv bor mer i Norge nå, og må på nytt bli kjent med landet, byen og gatene 
             <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w"/>
             <guid isPermaLink="false">1556dbfa-3439-4e12-a2eb-e8d77ab3d6d0</guid>
         </item>
+        
+        <item>
+            <title>Smakebit: TikTok-krigeren Vova</title>
+            <description>I en stridsvogn ved fronten i Ukraina kjemper Vova mot russerne med granater – og på sosiale medier. I NRK Radio fra 9.1.2025.</description>
+            <pubDate>2025-01-08T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f376a9bc-fdde-438a-a2bf-53f0ac0b28d6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aK6H7pE4GXJY6fbz8P_8RQg5DP0jFCQ5Oy4-WO2HMpuA"/>
+            <guid isPermaLink="false">f376a9bc-fdde-438a-a2bf-53f0ac0b28d6</guid>
+        </item>
         </channel>
 </rss>
