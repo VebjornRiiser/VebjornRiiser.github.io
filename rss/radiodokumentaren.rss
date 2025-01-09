@@ -718,13 +718,13 @@ Slik lydde invitasjonen til dei mange tusen som var innom IKEA i løpet av veka:
         </item>
         
         <item>
-            <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
-            <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
+            <title>Inn i varmen. Drømmen om det normale liv</title>
+            <description>Lena og Per har levd som narkomane på gata i mange år. Nå vil de starte på nytt, men hva er egentlig det normale liv?</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1222-0630_6352304545.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT45M6S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YwrIVegOdZ7Wm-Lx3PKvngdBsygE-Gzd_tL0EiCFn-mQ"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
         </item>
         
         <item>
@@ -738,13 +738,13 @@ Slik lydde invitasjonen til dei mange tusen som var innom IKEA i løpet av veka:
         </item>
         
         <item>
-            <title>Inn i varmen. Drømmen om det normale liv</title>
-            <description>Lena og Per har levd som narkomane på gata i mange år. Nå vil de starte på nytt, men hva er egentlig det normale liv?</description>
+            <title>Den frie byråkraten. Et portrett av Karin Stoltenberg</title>
+            <description>Karin Stoltenberg var kjent for å være en tilbakeholden og privat kvinne. Da sønnen hennes for noen år siden fikk spørsmålet om hvem han så mest opp til, svarte han «Karin Stoltenberg». Han understreket hennes egenskaper som mor, hennes faglige egenskaper, og så la han til: «Jeg beundrer henne for å ha levd et mystisk og spennende liv». Av Kari Hesthamar.</description>
             <pubDate>2013-12-22T19:30:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1218-0500_6352290226.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT43M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/YwrIVegOdZ7Wm-Lx3PKvngdBsygE-Gzd_tL0EiCFn-mQ"/>
-            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1218-0500_6352290226</guid>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/nrk_radiodokumentaren_2013-1222-0630_6352304545.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+            <guid isPermaLink="false">nrk_radiodokumentaren_2013-1222-0630_6352304545</guid>
         </item>
         
         <item>
@@ -3754,6 +3754,16 @@ Liv bor mer i Norge nå, og må på nytt bli kjent med landet, byen og gatene 
             <itunes:duration>PT28S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/aK6H7pE4GXJY6fbz8P_8RQg5DP0jFCQ5Oy4-WO2HMpuA"/>
             <guid isPermaLink="false">f376a9bc-fdde-438a-a2bf-53f0ac0b28d6</guid>
+        </item>
+        
+        <item>
+            <title>TikTok-krigeren Vova</title>
+            <description>Etter flere år ved fronten i Ukraina håper Vova at krigen snart er over – mens drømmen om full seier føles stadig fjernere.</description>
+            <pubDate>2025-01-09T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/3c4a37a7-ba77-463e-bf73-585d4d4c3f9a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ru6Etd9wZUUBllUB94d4pgraVKy4kO_1fkO7JDsUm9Nw"/>
+            <guid isPermaLink="false">3c4a37a7-ba77-463e-bf73-585d4d4c3f9a</guid>
         </item>
         </channel>
 </rss>
