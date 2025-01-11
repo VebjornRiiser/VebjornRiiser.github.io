@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/ZOFau9upMNq5yMZb3S4wZgTiPCzAw31G2GmIGiinruKg</url>
+        <url>https://gfx.nrk.no/lK6ZFqm3pUknpr0yYU5vewPnyk_ysoPz1gLXHupiaGlQ</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ella Marie Hætta Isaksen / John Brungot / Annika Momrak (... og litt Odd)</title>
+            <description>TILBAKEMELDING: Postkort fra Herr og Fru Valle / PROBLEMER: Kaos bak baren / Det har stoppet litt opp / Strikkegenseren / Er det noe igjen som kan reddes? / Hjelp! Crazy! Toxic! Love! / Prøver igjen og igjen og igjen / Vond lukt på kontoret / Spilleregler i nytt forhold</description>
+            <pubDate>2025-01-11T14:30:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/767077b8-e97d-4957-bddb-3a9b0439c02b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H16M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/lK6ZFqm3pUknpr0yYU5vewPnyk_ysoPz1gLXHupiaGlQ"/>
+            <guid isPermaLink="false">767077b8-e97d-4957-bddb-3a9b0439c02b</guid>
+        </item>
         
         <item>
             <title>Maria Stavang / Mathea Josefsen / Are Sende Osen</title>
