@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/bRzWythyE10w-9LB281jTQ-ekREGFl1FUjYBcUoSbUDQ</url>
+        <url>https://gfx.nrk.no/tw7kW6p7zfDLskhuiRb2BAW55DkJ4nRsjGyzfV67-WWw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Politi og kokain</title>
+            <description>Ronny René Raveen var politi og rusavhengig. Og så ble han tatt.</description>
+            <pubDate>2025-01-13T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b4b09062-aecf-442e-b0bd-d77e102cc66a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H20M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tw7kW6p7zfDLskhuiRb2BAW55DkJ4nRsjGyzfV67-WWw"/>
+            <guid isPermaLink="false">b4b09062-aecf-442e-b0bd-d77e102cc66a</guid>
+        </item>
         
         <item>
             <title>Odd Nerdrum</title>
