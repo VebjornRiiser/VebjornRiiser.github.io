@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/blEozZ88dGiXr8uWy-Ug7gNi18EN0jOS1qK36r5MbU9A</url>
+        <url>https://gfx.nrk.no/7JQQAYCGAtRQO6UMEgpyxAXaJ43-WySk1itSk9d1KUAQ</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Med Lars Berrum på Granca</title>
+            <description>Gutta har mindre klær, men kjeftamentet funker mer enn godt nok. De glemte dessverre å snakke om bryllupet til Lars.</description>
+            <pubDate>2025-01-16T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d6ef11b7-1e73-4b7b-ab7e-c14c32de5060_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7JQQAYCGAtRQO6UMEgpyxAXaJ43-WySk1itSk9d1KUAQ"/>
+            <guid isPermaLink="false">d6ef11b7-1e73-4b7b-ab7e-c14c32de5060</guid>
+        </item>
         
         <item>
             <title>Høyresidens Nils August Andresen</title>
