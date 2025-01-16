@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/lK6ZFqm3pUknpr0yYU5vewPnyk_ysoPz1gLXHupiaGlQ</url>
+        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tre gode historier om kjærlighet</title>
+            <description>Lisa romantiserer for mye, Mia har fått Thomas tilbake i livet sitt og det er forvirrende... og Tante T har tanker om dating og kjærligheten!</description>
+            <pubDate>2025-01-16T17:55:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/dff8ce61-0ee4-4843-8784-26afb1dc484e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA"/>
+            <guid isPermaLink="false">dff8ce61-0ee4-4843-8784-26afb1dc484e</guid>
+        </item>
         
         <item>
             <title>Ella Marie Hætta Isaksen / John Brungot / Annika Momrak (... og litt Odd)</title>
