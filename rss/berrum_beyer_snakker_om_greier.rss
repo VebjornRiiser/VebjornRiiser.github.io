@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/-wjShNm5brFT_W9ftFuoVw1IUy8vsHQ6lsx3cnl9NYKQ</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Aslak Maurstad: camo og dansematte</title>
+            <description>Aslak Maurstad er dagens gjest. Det blir prat om straming, dansematte og camo klær.</description>
+            <pubDate>2025-01-17T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/34f48ce0-469c-471b-9453-60284bd33d5d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-wjShNm5brFT_W9ftFuoVw1IUy8vsHQ6lsx3cnl9NYKQ"/>
+            <guid isPermaLink="false">34f48ce0-469c-471b-9453-60284bd33d5d</guid>
+        </item>
         
         <item>
             <title>Granca 4: Greven, gamling og betting.</title>
