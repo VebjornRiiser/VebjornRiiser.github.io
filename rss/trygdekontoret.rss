@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/tw7kW6p7zfDLskhuiRb2BAW55DkJ4nRsjGyzfV67-WWw</url>
+        <url>https://gfx.nrk.no/N6hrd-PPzkB38mTwwydj1wsobNPhqj_prEgLTsb6sD2A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Svenske tilstander</title>
+            <description>Hvor ille kan man egentlig ha det i et land hvor bacon og alkohol er så billig? Med Åsa Linderborg.</description>
+            <pubDate>2025-01-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/52b91573-3040-42b0-bf87-31c289686594_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/N6hrd-PPzkB38mTwwydj1wsobNPhqj_prEgLTsb6sD2A"/>
+            <guid isPermaLink="false">52b91573-3040-42b0-bf87-31c289686594</guid>
+        </item>
         
         <item>
             <title>Politi og kokain</title>

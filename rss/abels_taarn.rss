@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/c26jgPCub_zOyK3u9ubXYw532RCUgNJoEOtFFRb_IwRg</url>
+        <url>https://gfx.nrk.no/vtQC7gxOvQbfBT9OQJk8qAiukzJXXb333pS3oDEwrRNQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Bakterienes hemmelige nettverk</title>
+            <description>Torkild, Hanne og Kristina deler store og små nyheter fra forskningens verden.</description>
+            <pubDate>2025-01-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ce38425f-a0bc-4b40-a20d-93fc41778db5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vtQC7gxOvQbfBT9OQJk8qAiukzJXXb333pS3oDEwrRNQ"/>
+            <guid isPermaLink="false">ce38425f-a0bc-4b40-a20d-93fc41778db5</guid>
+        </item>
         
         <item>
             <title>Hvorfor blir vi så hekta på røyk og sjokopålegg?</title>
