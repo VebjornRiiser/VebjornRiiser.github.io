@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/-wjShNm5brFT_W9ftFuoVw1IUy8vsHQ6lsx3cnl9NYKQ</url>
+        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Granca 5: ubesvart fra Rudberg</title>
+            <description>Lars har vært ute med Herodes Faslk og Rune Rudberg. Martin har tanker om Trumps innsettelse. Sammen diskuterer de henda i lomma med votter.</description>
+            <pubDate>2025-01-21T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e6803a86-5664-4fb3-a875-b10003d5135d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+            <guid isPermaLink="false">e6803a86-5664-4fb3-a875-b10003d5135d</guid>
+        </item>
         
         <item>
             <title>Aslak Maurstad: camo og dansematte</title>
