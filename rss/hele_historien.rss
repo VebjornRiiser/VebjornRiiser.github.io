@@ -2047,5 +2047,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/mJWBn290hlaitbyFZCqisg4OeTtEM7Z88KvRseUPQgpw"/>
             <guid isPermaLink="false">c846040b-341a-4638-82a5-3184f930f844</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Prinsen av Gautefall</title>
+            <description>En velkledd mann med store planer dukker opp ei lita bygd i Telemark. Alle tror han er kongelig, og den lokale banken kaster penger etter ham.</description>
+            <pubDate>2025-01-22T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/3e894bf9-fa3e-4466-9b2a-72e28c59744f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw"/>
+            <guid isPermaLink="false">3e894bf9-fa3e-4466-9b2a-72e28c59744f</guid>
+        </item>
         </channel>
 </rss>
