@@ -2057,5 +2057,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw"/>
             <guid isPermaLink="false">3e894bf9-fa3e-4466-9b2a-72e28c59744f</guid>
         </item>
+        
+        <item>
+            <title>Gull og grønne skoger (1:2)</title>
+            <description>Pengene strømmer fra Telemark til Singapore.  Alle vil samarbeide med den arabiske forretningsmannen, men ingen vet helt hvor pengene blir av.</description>
+            <pubDate>2025-01-23T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/66c62aa9-c6c8-4de9-b407-79ea5e96a6f4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw"/>
+            <guid isPermaLink="false">66c62aa9-c6c8-4de9-b407-79ea5e96a6f4</guid>
+        </item>
+        
+        <item>
+            <title>Kameleonen (2:2)</title>
+            <description>Uroen stiger i den lokale banken. De har lånt ut flere hundre millioner til den velkledde «prinsen», men hvem er han – egentlig?</description>
+            <pubDate>2025-01-23T06:01:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/f760706f-5cea-42e1-832a-19f7a76d5742_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw"/>
+            <guid isPermaLink="false">f760706f-5cea-42e1-832a-19f7a76d5742</guid>
+        </item>
         </channel>
 </rss>
