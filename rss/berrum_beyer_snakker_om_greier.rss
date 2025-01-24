@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/VA9-H7iHFn-90o74FtnqdQ0uAkC5GdOUih_g5lGAXA1w</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Annika Momrak: Buldring i bilen</title>
+            <description>Annika Momrak titter innom podden i dag. Det blir prat om buldring, bo i bilen og adhd.</description>
+            <pubDate>2025-01-24T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/672e6c3f-43d6-4b15-bd95-dde7394ceb49_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/VA9-H7iHFn-90o74FtnqdQ0uAkC5GdOUih_g5lGAXA1w"/>
+            <guid isPermaLink="false">672e6c3f-43d6-4b15-bd95-dde7394ceb49</guid>
+        </item>
         
         <item>
             <title>Granca 5: ubesvart fra Rudberg</title>
