@@ -270,7 +270,8 @@ if __name__ == "__main__":
 
     print("Trying to read settings file")
     try:
-        full_path_to_podnames = os.path.dirname(__file__)+"\\"+PODLISTFILENAME
+        
+        full_path_to_podnames = os.path.join(os.path.dirname(__file__), PODLISTFILENAME)
         if (os.path.exists(full_path_to_podnames)):
             print(f"Found {PODLISTFILENAME}. Using to lookup podcasts")
             with open(full_path_to_podnames, 'r') as PodcastListFile:
