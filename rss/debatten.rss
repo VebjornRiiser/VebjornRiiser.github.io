@@ -11,11 +11,811 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA</url>
+        <url>https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw</url>
         <link>https://radio.nrk.no/podkast/debatten</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Regjeringskrise?</title>
+            <description>EUs energiregler splitter regjeringen. Ap vil innføre reglene, mens Sp stritter imot. Det kan gå mot regjeringskrise i Norge.</description>
+            <pubDate>2025-01-23T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6b7f4338-d883-4e73-810e-8f4573231a57_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">6b7f4338-d883-4e73-810e-8f4573231a57</guid>
+        </item>
+        
+        <item>
+            <title>Trump vil ta tilbake Panamakanalen</title>
+            <description>Kina har fått for stor kontroll over Panamakanalen, ifølge den nye amerikanske presidenten.</description>
+            <pubDate>2025-01-21T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/36562e46-3f89-43b6-8439-83c77483f2be_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">36562e46-3f89-43b6-8439-83c77483f2be</guid>
+        </item>
+        
+        <item>
+            <title>Et Norge helt uten skatt på arbeid</title>
+            <description>Bruker vi oljepengene annerledes, kan Norge fjerne all inntektsskatt, ifølge snakkisboka «Landet som ble for rikt».</description>
+            <pubDate>2025-01-16T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/fd4b7b8e-38ed-4be5-a505-e64876ffae63_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">fd4b7b8e-38ed-4be5-a505-e64876ffae63</guid>
+        </item>
+        
+        <item>
+            <title>Statsministerduell</title>
+            <description>Statsministerkandidatene Støre og Listhaug strides om hvem av dem som vil forlenge oljealderen lengst.</description>
+            <pubDate>2025-01-14T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c29ac70d-28fb-4281-b5bd-5f344a8eb58c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">c29ac70d-28fb-4281-b5bd-5f344a8eb58c</guid>
+        </item>
+        
+        <item>
+            <title>Trump truer danskene</title>
+            <description>Kort tid før Trump innsettes som president, utelukker han ikke militær makt for å sikre seg Grønland.</description>
+            <pubDate>2025-01-09T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4bd4a153-cdcf-48aa-8143-f1dfd2bd5429_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">4bd4a153-cdcf-48aa-8143-f1dfd2bd5429</guid>
+        </item>
+        
+        <item>
+            <title>Se, de snakker!</title>
+            <description>LO brøt kontakten med NHO før jul, nå møtes de igjen. Sykefraværet stiger, men hvor truet er sykelønna når nesten hele Stortinget vil beholde den?</description>
+            <pubDate>2025-01-07T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6e3ab2ad-e9df-483e-98d0-492545845916_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">6e3ab2ad-e9df-483e-98d0-492545845916</guid>
+        </item>
+        
+        <item>
+            <title>Står EU-argumentene seg fortsatt?</title>
+            <description>Norge har stått utenfor i 30 år. Men er EU i dag det samme vi sa nei til i 1994?</description>
+            <pubDate>2024-11-28T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2e0a3a8a-524b-436f-b32d-ad4b8c3671a8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">2e0a3a8a-524b-436f-b32d-ad4b8c3671a8</guid>
+        </item>
+        
+        <item>
+            <title>Strid om ny abortlov</title>
+            <description>Regjeringen foreslår selvbestemt fosterreduksjon frem til uke 18. Møter motstand.</description>
+            <pubDate>2024-11-26T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7e073d01-eca0-4173-a396-aa3bce908aa5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">7e073d01-eca0-4173-a396-aa3bce908aa5</guid>
+        </item>
+        
+        <item>
+            <title>Politiet har siktet Marius Borg Høiby for voldtekt</title>
+            <description>Kronprinsesse Mette-Marits sønn er varetektsfengslet for en uke med brev- og besøksforbud. En katastrofal feilvurdering, mener forsvareren.</description>
+            <pubDate>2024-11-21T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c2f7da59-a329-4aa7-b130-2672b7558088_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">c2f7da59-a329-4aa7-b130-2672b7558088</guid>
+        </item>
+        
+        <item>
+            <title>Formuesskatt: Omfordeling eller ran av de rike?</title>
+            <description>Nå er de borgerlige partiene nesten enige om formuesskatten. Så hva er venstresidens svar?</description>
+            <pubDate>2024-11-19T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/5730a93e-5995-4cbf-943e-10b9dd3aad21_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">5730a93e-5995-4cbf-943e-10b9dd3aad21</guid>
+        </item>
+        
+        <item>
+            <title>Massivt krav om bedre kreftvaksine</title>
+            <description>Hvorfor tilbyr ikke Norge den beste beskyttelsen barn kan få mot kreft?</description>
+            <pubDate>2024-11-14T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/95406a94-4367-492b-94ea-1cb6c374e956_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">95406a94-4367-492b-94ea-1cb6c374e956</guid>
+        </item>
+        
+        <item>
+            <title>Mangedobling av milliardene til Ukraina</title>
+            <description>Norske partier byr over hverandre i pengestøtte til Ukraina-krigen. Vil de også gi ekstra oljemilliarder til eget land?</description>
+            <pubDate>2024-11-12T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/076b0e2b-f8e7-4c4d-b9f6-5f676249b198_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">076b0e2b-f8e7-4c4d-b9f6-5f676249b198</guid>
+        </item>
+        
+        <item>
+            <title>«Falsk same»?</title>
+            <description>Hvem kan regne seg som same? Debatten går etter at NRK gransket Sandra Borchs samiske slekt.</description>
+            <pubDate>2024-11-07T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cc5931af-d11d-4bb8-91d6-5125e44100e8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">cc5931af-d11d-4bb8-91d6-5125e44100e8</guid>
+        </item>
+        
+        <item>
+            <title>Milliarder til norske batterier</title>
+            <description>Ingen greier å lage batterier i Norge uten penger fra Staten. Hvorfor skal vi i det hele tatt satse på det?</description>
+            <pubDate>2024-10-31T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/97b48609-edb9-4f2f-b549-ca8548fcb9a3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">97b48609-edb9-4f2f-b549-ca8548fcb9a3</guid>
+        </item>
+        
+        <item>
+            <title>Du blir lurt</title>
+            <description>Pass på. Nye kreative svindelmetoder brer om seg. Kan det stoppes?</description>
+            <pubDate>2024-10-29T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e218860e-0dea-448b-9550-fe719a151664_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">e218860e-0dea-448b-9550-fe719a151664</guid>
+        </item>
+        
+        <item>
+            <title>Unge sender Ap mot sperregrensa</title>
+            <description>Var det opp til de unge, ville Ap fått 5 prosent og Frp 37 prosent, ifølge ny måling.</description>
+            <pubDate>2024-10-24T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3f3f871e-aed1-4414-84f9-712b9c380d44_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">3f3f871e-aed1-4414-84f9-712b9c380d44</guid>
+        </item>
+        
+        <item>
+            <title>Milliardene flyr i havvinden</title>
+            <description>Regjeringen vil subsidiere havvind som aldri blir lønnsom, ifølge NVE. Kritikerne mener havvind-eventyret kan koste opp mot 150 milliarder kroner.</description>
+            <pubDate>2024-10-22T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9a4b844b-a65c-42c4-9002-5140369cbb48_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">9a4b844b-a65c-42c4-9002-5140369cbb48</guid>
+        </item>
+        
+        <item>
+            <title>Slik kan du spare på maten</title>
+            <description>Maten har blitt 44.000 kroner dyrere på tre år. Her får du de beste sparetipsene.</description>
+            <pubDate>2024-10-17T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/539bf783-ac96-4bbe-a3c0-bfcc17464df7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">539bf783-ac96-4bbe-a3c0-bfcc17464df7</guid>
+        </item>
+        
+        <item>
+            <title>Skoler legges ned, bygder dør</title>
+            <description>Under en regjering som lovet mindre sentralisering, blir det kutt i tilbudet til barn og unge over hele landet.</description>
+            <pubDate>2024-10-15T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/712d8794-ac0c-4e8a-897b-ad0646c24225_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H13M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">712d8794-ac0c-4e8a-897b-ad0646c24225</guid>
+        </item>
+        
+        <item>
+            <title>Bløffebudsjett, mener opposisjonen</title>
+            <description>Regjeringen svarer på beskyldinger fra opposisjonen om bløff, løgn og overdrivelser.</description>
+            <pubDate>2024-10-10T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ff63d9bd-73f3-43c5-824a-0889239b1d23_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H17M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">ff63d9bd-73f3-43c5-824a-0889239b1d23</guid>
+        </item>
+        
+        <item>
+            <title>Tidenes budsjett, men misnøyen vokser</title>
+            <description>Det er typisk norsk å klage på bruken av våre egne oljemilliarder. Tenk at den absurde oljeformuen har gjort oss så utilfreds.</description>
+            <pubDate>2024-10-08T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a82662f5-04be-4d45-a113-331029c964e2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">a82662f5-04be-4d45-a113-331029c964e2</guid>
+        </item>
+        
+        <item>
+            <title>Hvorfor bomber de hverandre?</title>
+            <description>Går verden med åpne øyne inn i en krig mellom de to tidligere vennene Iran og Israel?</description>
+            <pubDate>2024-10-03T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/73a7ed8c-04b4-433a-89e2-661e02fdffdc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">73a7ed8c-04b4-433a-89e2-661e02fdffdc</guid>
+        </item>
+        
+        <item>
+            <title>De sa vi skulle få bedre råd</title>
+            <description>Ap sa vi skulle få bedre råd. Høyre lovte lavere samlet avgiftstrykk. Hvorfor sa ikke partiene at vann- og avløpsgebyrene øker betraktelig de neste årene?</description>
+            <pubDate>2024-10-01T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/42b4c89d-713a-4ad3-a198-0240d8e32ed2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">42b4c89d-713a-4ad3-a198-0240d8e32ed2</guid>
+        </item>
+        
+        <item>
+            <title>Ber Abid Raja slutte å spille på fremmedfrykt</title>
+            <description>Norske muslimer har fått nok av Rajas islamkritikk.</description>
+            <pubDate>2024-09-26T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/13fad912-4568-45fa-95c9-e74259d182d2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">13fad912-4568-45fa-95c9-e74259d182d2</guid>
+        </item>
+        
+        <item>
+            <title>Sykelønnsforslag provoserer</title>
+            <description>De fattigste og sykeste rammes hardest ved kutt i sykelønnsordningen. Men har Norge noe valg?</description>
+            <pubDate>2024-09-24T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b7e8eb83-ebc9-42d9-ad92-7803971486c7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">b7e8eb83-ebc9-42d9-ad92-7803971486c7</guid>
+        </item>
+        
+        <item>
+            <title>Ny bok: Støre forsøkt kastet</title>
+            <description>Ap-lederen skal ha overlevd et kuppforsøk fra sine egne, ifølge ny bok.</description>
+            <pubDate>2024-09-19T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/13ebb9b4-b241-4351-a339-f7101c39e43b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">13ebb9b4-b241-4351-a339-f7101c39e43b</guid>
+        </item>
+        
+        <item>
+            <title>Bollestad slår tilbake</title>
+            <description>Den avgåtte KrF-lederen beskylder tidligere kolleger for å være illojale og hevder hun ble presset ut. Hvem snakker sant?</description>
+            <pubDate>2024-09-17T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/ec8aae9b-bbb6-4854-8d6a-e0f2fa6ee31d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/neRgu96jvFt-ykLYS3yJMgoBLPtOh3O1aG4tXWU6PRCw"/>
+            <guid isPermaLink="false">ec8aae9b-bbb6-4854-8d6a-e0f2fa6ee31d</guid>
+        </item>
+        
+        <item>
+            <title>Nordens svar på Putins krig</title>
+            <description>Har Norden blitt tryggere etter at Finland og Sverige ble med i Nato? Dette er en spesialsending fra YLE, DR, SVT og NRK.</description>
+            <pubDate>2024-09-12T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/31ec4186-3bdd-4d6b-94ef-aa730b02fba4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H31M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">31ec4186-3bdd-4d6b-94ef-aa730b02fba4</guid>
+        </item>
+        
+        <item>
+            <title>Drill, baby, drill!</title>
+            <description>Oljebransjen vil at dagens produksjonsnivå av olje og gass opprettholdes. Hva skjer med kloden da?</description>
+            <pubDate>2024-09-05T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/77ce97bc-0931-40e2-af1e-3f85154c96ec_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT54M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">77ce97bc-0931-40e2-af1e-3f85154c96ec</guid>
+        </item>
+        
+        <item>
+            <title>Kommersielt prinsessebryllup</title>
+            <description>Kritikken mot prinsesse Märtha Louise stilner ikke etter salg, promotering og avtaler i forbindelse med bryllupet.</description>
+            <pubDate>2024-09-03T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9c22d913-7830-411a-a575-b279d33ec655_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">9c22d913-7830-411a-a575-b279d33ec655</guid>
+        </item>
+        
+        <item>
+            <title>Er kunstig intelligens slutten?</title>
+            <description>Er det over og ut for menneskeheten når datamaskinene blir smartere enn oss?</description>
+            <pubDate>2024-05-28T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/42636b60-0ae6-4fb3-b306-6c8c48b1fdad_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">42636b60-0ae6-4fb3-b306-6c8c48b1fdad</guid>
+        </item>
+        
+        <item>
+            <title>Flaggnekt fyrer opp pride-debatten</title>
+            <description>Kommune nekter skolene å heise regnbueflagget.</description>
+            <pubDate>2024-05-23T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/898e42a8-99ee-4e5b-b2c6-585604a3a5a4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">898e42a8-99ee-4e5b-b2c6-585604a3a5a4</guid>
+        </item>
+        
+        <item>
+            <title>Norge vil måtte arrestere Netanyahu</title>
+            <description>Regjeringen sier Norge må pågripe Netanyahu ved en arrestordre fra ICC.</description>
+            <pubDate>2024-05-21T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6e46b825-7aef-44b2-ac7c-e9ae8b546bf6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">6e46b825-7aef-44b2-ac7c-e9ae8b546bf6</guid>
+        </item>
+        
+        <item>
+            <title>Er det vanlige folks tur nå?</title>
+            <description>Regjeringen satser på forsvar, politi, helse og Ukraina. Men hvor er milliardene til vanlige folk?</description>
+            <pubDate>2024-05-14T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d74b8e75-62c0-4a89-b387-0567d8a82571_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">d74b8e75-62c0-4a89-b387-0567d8a82571</guid>
+        </item>
+        
+        <item>
+            <title>World Champion: Norway!</title>
+            <description>Ingen slår Norge i bistand, nå bruker vi 60 mrd. i året som skal gå til fattigdomsbekjempelse. Hvorfor går skattepengene våre da til rockeskoler i Bosnia?</description>
+            <pubDate>2024-05-02T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4d4a7e72-ef93-44e3-9196-f4767d373c66_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">4d4a7e72-ef93-44e3-9196-f4767d373c66</guid>
+        </item>
+        
+        <item>
+            <title>Kan penger gjenopprette tilliten til politiet?</title>
+            <description>Folk skytes gjennom vinduer, og naboer tør ikke ringe politiet. Vil regjeringens løfter om mer penger få bukt med voldsproblemene?</description>
+            <pubDate>2024-04-30T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2cac92e9-a06e-46f0-9435-51413a3596fd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">2cac92e9-a06e-46f0-9435-51413a3596fd</guid>
+        </item>
+        
+        <item>
+            <title>Private helseforsikringer skyter i været</title>
+            <description>Helseministeren som skal bekjempe private helseforsikringer hadde selv privat helseforsikring.</description>
+            <pubDate>2024-04-25T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/23210bef-ca69-4cf0-b54f-9e5b50ad422b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">23210bef-ca69-4cf0-b54f-9e5b50ad422b</guid>
+        </item>
+        
+        <item>
+            <title>Fredsarbeid til besvær?</title>
+            <description>Er Norges rolle som megler i Midtøsten en fordel for oss? Eller fører dialoglinjen til at Norge ikke tar ordentlig stilling i krig og konflikt?</description>
+            <pubDate>2024-04-23T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/97bed56c-0898-4f15-8bde-e62e131149de_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">97bed56c-0898-4f15-8bde-e62e131149de</guid>
+        </item>
+        
+        <item>
+            <title>Kvinner krever ny voldtektslov</title>
+            <description>Men hva vil det hjelpe om ordet samtykke kommer inn i loven?</description>
+            <pubDate>2024-04-18T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/70457788-909d-43f1-a6b1-9197ade44755_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">70457788-909d-43f1-a6b1-9197ade44755</guid>
+        </item>
+        
+        <item>
+            <title>Vedum i klinsj med bøndene</title>
+            <description>Bøndene mener Sp svikter dem i kampen om å få lønn på linje med lærere og sykepleiere.</description>
+            <pubDate>2024-04-16T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c28af718-0521-4b4b-b14d-709c01af57d8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">c28af718-0521-4b4b-b14d-709c01af57d8</guid>
+        </item>
+        
+        <item>
+            <title>Kan Kjerkol bli sittende?</title>
+            <description>Klagenemnda underkjenner helseministerens master grunnet juks.</description>
+            <pubDate>2024-04-11T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/1c4a4c3b-7aa0-498c-8a1c-b0f17392ea66_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">1c4a4c3b-7aa0-498c-8a1c-b0f17392ea66</guid>
+        </item>
+        
+        <item>
+            <title>Blir Asker Norges nye skatteparadis?</title>
+            <description>Nå vil Asker kutte formuesskatten. Vil flere rikinger flytte dit da?</description>
+            <pubDate>2024-04-09T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/34a937f3-5e7f-4526-8682-7468e6f5147c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">34a937f3-5e7f-4526-8682-7468e6f5147c</guid>
+        </item>
+        
+        <item>
+            <title>Kvifor nynorsk?</title>
+            <description>Stadig færre elevar vil ha nynorsk. Så kvifor må alle lære det?</description>
+            <pubDate>2024-04-04T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/1e0d9cc3-4171-421d-89de-8eef61567b00_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">1e0d9cc3-4171-421d-89de-8eef61567b00</guid>
+        </item>
+        
+        <item>
+            <title>Vil tvinge 19-åringer til pliktår</title>
+            <description>Hvorfor tror politikere at vi får gode helsetjenester med unge ufaglærte i samfunnstjeneste?</description>
+            <pubDate>2024-04-02T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/09c428ee-4181-4a1c-b922-472bc57c30c1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">09c428ee-4181-4a1c-b922-472bc57c30c1</guid>
+        </item>
+        
+        <item>
+            <title>VAR det verdt det?</title>
+            <description>Videodømming i Eliteserien har fått supportere til å brøle enda høyere.</description>
+            <pubDate>2024-03-21T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4f4121ff-cc60-4455-8d83-6a241401ce3a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">4f4121ff-cc60-4455-8d83-6a241401ce3a</guid>
+        </item>
+        
+        <item>
+            <title>Snakker vi oss syke?</title>
+            <description>Unge melder selv om psykiske helseplager.</description>
+            <pubDate>2024-03-19T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9e6aef2a-a5b5-4461-a3c3-f7bd20b77f6b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">9e6aef2a-a5b5-4461-a3c3-f7bd20b77f6b</guid>
+        </item>
+        
+        <item>
+            <title>Må jobbe lenger for samme pensjon</title>
+            <description>Arbeidsfolk protesterer mot ny pensjonsalder. Hva er det med et land som ikke har råd til at vi blir eldre?</description>
+            <pubDate>2024-03-14T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2676e0fc-fd4a-4414-bb78-052cf3bb31de_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">2676e0fc-fd4a-4414-bb78-052cf3bb31de</guid>
+        </item>
+        
+        <item>
+            <title>Ble nektet å gå i 8. mars-tog</title>
+            <description>Var det jødiske feminister eller pro-israelske aktivister som ble fysisk hindret i å marsjere med egne plakater?</description>
+            <pubDate>2024-03-12T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/3fe36fe8-4e04-4ff3-b704-86c79c70136b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">3fe36fe8-4e04-4ff3-b704-86c79c70136b</guid>
+        </item>
+        
+        <item>
+            <title>Fortsatt bonusfest i Statkraft</title>
+            <description>Konsernsjefen beklaget og statsråden lovet innstramming, men har bonusene i Statkraft blitt mer musikalske?</description>
+            <pubDate>2024-03-07T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7130f339-01cc-4436-a113-4311e9b40a3a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">7130f339-01cc-4436-a113-4311e9b40a3a</guid>
+        </item>
+        
+        <item>
+            <title>Pressen får kjeft for kongedekningen</title>
+            <description>Kong Haralds Malaysia-reise skaper debatt. Mediene kritiseres for kritiske spørsmål.</description>
+            <pubDate>2024-03-05T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a1130249-7488-4410-91be-5c527ede0592_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">a1130249-7488-4410-91be-5c527ede0592</guid>
+        </item>
+        
+        <item>
+            <title>Vil pøse på med våpen</title>
+            <description>Venstre vil øke våpenstøtten til Ukraina, men blir det fred av enda mere kuler og krutt?</description>
+            <pubDate>2024-02-29T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f36f8129-a2f0-4571-bc5d-978172152db7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">f36f8129-a2f0-4571-bc5d-978172152db7</guid>
+        </item>
+        
+        <item>
+            <title>Menn som ikke får dame</title>
+            <description>FpU-lederen satte fyr på likestillingsdebatten.</description>
+            <pubDate>2024-02-27T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d4e99a00-d2c5-413e-9a00-120435430a18_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">d4e99a00-d2c5-413e-9a00-120435430a18</guid>
+        </item>
+        
+        <item>
+            <title>Hvorfor skal Google til Skien?</title>
+            <description>Google har søkt om å få bruke kraft tilsvarende 5 % av Norges årlige forbruk. Hva blir strømprisen da?</description>
+            <pubDate>2024-02-22T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6d3e3631-8d45-415b-a8ed-ca75ebd3f247_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">6d3e3631-8d45-415b-a8ed-ca75ebd3f247</guid>
+        </item>
+        
+        <item>
+            <title>Nei til mørkhudede?</title>
+            <description>Er det rasistisk av politikerne i Drammen å bare ville bosette flyktninger fra Ukraina?</description>
+            <pubDate>2024-02-20T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d8e25d63-8e72-4809-b064-1e2d0243c994_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">d8e25d63-8e72-4809-b064-1e2d0243c994</guid>
+        </item>
+        
+        <item>
+            <title>Borten Moe ut mot egen regjering</title>
+            <description>Klimaministeren avviser Borten Moes påstand om at Norge ikke når klimamålene.</description>
+            <pubDate>2024-02-15T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/60f38487-8845-49d3-8084-31e3c82021f4_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">60f38487-8845-49d3-8084-31e3c82021f4</guid>
+        </item>
+        
+        <item>
+            <title>Forfattere krangler om penger</title>
+            <description>Våre mest bejublede forfattere strides om hvem som skal få statsstøtte.</description>
+            <pubDate>2024-02-13T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e864e2fc-a17c-4f5f-9465-d73b50596d3e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">e864e2fc-a17c-4f5f-9465-d73b50596d3e</guid>
+        </item>
+        
+        <item>
+            <title>Ut med mobilen, inn med tekstroboter</title>
+            <description>Er lærere og elever klare for den nye tidsalderen?</description>
+            <pubDate>2024-02-08T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/50085d33-abc4-4c72-9cfe-da9dbdf23388_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">50085d33-abc4-4c72-9cfe-da9dbdf23388</guid>
+        </item>
+        
+        <item>
+            <title>Eggrøre i landbruket</title>
+            <description>Hvordan sikre at kundene får nok egg i butikkene?</description>
+            <pubDate>2024-02-06T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/404f6cc5-0293-4248-8812-55060ce0d2a3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+            <guid isPermaLink="false">404f6cc5-0293-4248-8812-55060ce0d2a3</guid>
+        </item>
+        
+        <item>
+            <title>Krever Gaza-svar fra regjeringen</title>
+            <description>Flere hundre næringslivsledere med opprop for Gaza. Krever umiddelbar handling av regjeringen.</description>
+            <pubDate>2024-02-01T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/dc64ffc6-e04e-4252-abd8-788645599b7a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ"/>
+            <guid isPermaLink="false">dc64ffc6-e04e-4252-abd8-788645599b7a</guid>
+        </item>
+        
+        <item>
+            <title>Menn som banker, voldtar og gifter bort kvinner</title>
+            <description>Hva gjør det norske samfunnet med den brutale æresvolden?</description>
+            <pubDate>2024-01-30T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/6d9c9b24-85fe-4548-808a-438515f9bc53_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ah2IbMX7CyTm9bSRyHETfQOUia-JOcIKx-LdzYQaZrGw"/>
+            <guid isPermaLink="false">6d9c9b24-85fe-4548-808a-438515f9bc53</guid>
+        </item>
+        
+        <item>
+            <title>Opprør i kommunene</title>
+            <description>Skolebygg forfaller, og sykehjem legges ned. Hundre kommuner vil ha mer penger fra de rikeste kommunene.</description>
+            <pubDate>2024-01-25T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c4b384a0-f031-406a-b198-5f5f05e7cf8d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ommn5wYkx7-J9oljvWWSFgr22OpvwGOfneCq3fXmZonQ"/>
+            <guid isPermaLink="false">c4b384a0-f031-406a-b198-5f5f05e7cf8d</guid>
+        </item>
+        
+        <item>
+            <title>Må Kjerkol gå av?</title>
+            <description>Eksperter påpeker at flere avsnitt i helseministerens masteroppgave inneholder avsnitt identiske med tekst fra andre studenter.</description>
+            <pubDate>2024-01-23T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/293bcd57-e8ec-4e75-931f-c7623f5d3bde_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ"/>
+            <guid isPermaLink="false">293bcd57-e8ec-4e75-931f-c7623f5d3bde</guid>
+        </item>
+        
+        <item>
+            <title>Hva bør kongen gjøre?</title>
+            <description>Bør kong Harald gjøre som dronning Margrethe og abdisere, eller bør han bli sittende livet ut?</description>
+            <pubDate>2024-01-18T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b7d3e694-6e4c-4836-9772-cbce36311509_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ"/>
+            <guid isPermaLink="false">b7d3e694-6e4c-4836-9772-cbce36311509</guid>
+        </item>
+        
+        <item>
+            <title>Norge strammer inn for ukrainere</title>
+            <description>Snart er det flere ukrainere enn finnmarkinger i Norge. Hvor lenge kan utviklingen fortsette?</description>
+            <pubDate>2024-01-16T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/282a6718-1797-4152-a4dd-2d48bd5b7f36_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ"/>
+            <guid isPermaLink="false">282a6718-1797-4152-a4dd-2d48bd5b7f36</guid>
+        </item>
+        
+        <item>
+            <title>Israel-boikott</title>
+            <description>Vil stortinget gå til boikott av Israel når nær halvparten av det norske folk i en meningsmåling sier de ønsker boikott?</description>
+            <pubDate>2024-01-11T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2cf8d75d-e263-4f84-a175-0651c991e762_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ommn5wYkx7-J9oljvWWSFgr22OpvwGOfneCq3fXmZonQ"/>
+            <guid isPermaLink="false">2cf8d75d-e263-4f84-a175-0651c991e762</guid>
+        </item>
+        
+        <item>
+            <title>Fikk ikke voldsalarm - ble drept</title>
+            <description>Hvorfor er det de kvinnelige ofrene som må ha voldsalarm når det er mennene som truer?</description>
+            <pubDate>2024-01-09T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7c01dfc3-31e1-4c4c-a736-9ddfe8d768c2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ommn5wYkx7-J9oljvWWSFgr22OpvwGOfneCq3fXmZonQ"/>
+            <guid isPermaLink="false">7c01dfc3-31e1-4c4c-a736-9ddfe8d768c2</guid>
+        </item>
+        
+        <item>
+            <title>Nytt år, flat mage og hvit måned</title>
+            <description>Finnes det en mirakelkur for flat mage og bedre pust? Og hvor stor effekt har en hvit måned på kroppen?</description>
+            <pubDate>2024-01-04T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/91ffeecc-d853-4683-9d59-649f92428013_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aC6WpM0sMibNm-mLTnonJAgd7F0tKl-F40LJJJeqiAsQ"/>
+            <guid isPermaLink="false">91ffeecc-d853-4683-9d59-649f92428013</guid>
+        </item>
+        
+        <item>
+            <title>«Stygge» bygg ergrer</title>
+            <description>Det pågår et opprør mot arkitektur i Norge. Men hvem avgjør hva som er et vellykket bygg?</description>
+            <pubDate>2023-11-30T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/32ca9e69-7888-4c9f-a7f7-e689c9d05425_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">32ca9e69-7888-4c9f-a7f7-e689c9d05425</guid>
+        </item>
+        
+        <item>
+            <title>Rømmer til USA</title>
+            <description>Batterifabrikken som ble hyllet som et industrieventyr flytter til USA. Nå stilles spørsmål om norsk subsidiert batteriproduksjon er en dårlig ide?</description>
+            <pubDate>2023-11-28T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/adbfe04e-d9b0-4b1e-b69e-c71ac67f4e23_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">adbfe04e-d9b0-4b1e-b69e-c71ac67f4e23</guid>
+        </item>
+        
+        <item>
+            <title>Livredde for å miste akuttberedskap</title>
+            <description>Leger frykter det blir nedleggelser av akuttfunksjoner flere steder i landet hvis forslagene i Helse Nord blir vedtatt.</description>
+            <pubDate>2023-11-23T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/81b59f72-5865-4011-bd5d-5c8376cf7890_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">81b59f72-5865-4011-bd5d-5c8376cf7890</guid>
+        </item>
+        
+        <item>
+            <title>Uklart når «Bamsegutt» republiseres</title>
+            <description>NRK unnlot å nevne en overgrepsdom i serien om «Bamsegutt», og nå hagler kritikken.</description>
+            <pubDate>2023-11-21T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/2013ba7f-ee97-4abb-bce1-555ac8745bdc_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">2013ba7f-ee97-4abb-bce1-555ac8745bdc</guid>
+        </item>
+        
+        <item>
+            <title>Spiser vi selvdød laks?</title>
+            <description>Hva bør oppdrettsbransjen gjøre med syk laks slik at vi ikke får dette på matbordet?</description>
+            <pubDate>2023-11-16T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/337898b5-499d-4dc5-9d68-35258cc87461_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">337898b5-499d-4dc5-9d68-35258cc87461</guid>
+        </item>
+        
+        <item>
+            <title>Bør Norge anerkjenne Palestina nå?</title>
+            <description>Alle på Stortinget vil ha en palestinsk stat, men politikerne er uenige om når Norge bør gi palestinerne håndsrekningen.</description>
+            <pubDate>2023-11-14T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d0618eca-d0d5-4989-9395-ec3f0b03ee60_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">d0618eca-d0d5-4989-9395-ec3f0b03ee60</guid>
+        </item>
+        
+        <item>
+            <title>– Stopp bombingen nå!</title>
+            <description>Aksjonister vil ikke se flere døde barn og ber politikerne gjøre mer for uskyldig lidende i Gaza.</description>
+            <pubDate>2023-11-09T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b526d5af-953a-4bd5-bee6-f4f4d3bd0e46_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">b526d5af-953a-4bd5-bee6-f4f4d3bd0e46</guid>
+        </item>
+        
+        <item>
+            <title>Slutt på habilitetsskandaler nå?</title>
+            <description>Solberg, Støre og avgåtte statsråder skulle gjenreise tilliten til politikere. Klarte de det?</description>
+            <pubDate>2023-11-07T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/89fe5dd4-4040-48cd-a3a4-7a3846396503_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT51M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">89fe5dd4-4040-48cd-a3a4-7a3846396503</guid>
+        </item>
+        
+        <item>
+            <title>Er ultraprosessert mat farlig?</title>
+            <description>Fagfolk er uenige om hvor mye bearbeiding har å si for hvor sunn maten er.</description>
+            <pubDate>2023-11-02T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c71dbc06-51d6-407d-a082-69418d387223_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">c71dbc06-51d6-407d-a082-69418d387223</guid>
+        </item>
+        
+        <item>
+            <title>Polititopp: Folk ville blitt skremt om de visste</title>
+            <description>Justisministeren får kritikk for manglende politiressurser i kampen mot ungdomskriminaliteten.</description>
+            <pubDate>2023-10-31T22:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/215e95ca-1e73-4c0e-af3f-bc1a95d6a199_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">215e95ca-1e73-4c0e-af3f-bc1a95d6a199</guid>
+        </item>
+        
+        <item>
+            <title>– Jeg føler meg ikke trygg</title>
+            <description>Politiker flytter fra Oslo øst og slutter i politikken av hensyn til egen sikkerhet. Ungdomsvolden og gjengkriminaliten vokser.</description>
+            <pubDate>2023-10-26T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/fc73915e-648c-479a-a66d-ea9610af186c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">fc73915e-648c-479a-a66d-ea9610af186c</guid>
+        </item>
+        
+        <item>
+            <title>Evigvarende blodig i Midtøsten</title>
+            <description>De har fulgt Midtøsten-konflikten gjennom generasjoner. Hva er analysen nå?</description>
+            <pubDate>2023-10-24T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/d5da6b09-517b-4a35-9600-f382258505c3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">d5da6b09-517b-4a35-9600-f382258505c3</guid>
+        </item>
+        
+        <item>
+            <title>Skal WHO bestemme mer over nordmenns helse?</title>
+            <description>WHO diskuterer om de, og ikke Norge, skal få avgjøre isolering og vaksinering ved neste helsekrise.</description>
+            <pubDate>2023-10-19T22:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/316a161d-f3db-40a9-9d6b-9b60f13ebb9e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">316a161d-f3db-40a9-9d6b-9b60f13ebb9e</guid>
+        </item>
         
         <item>
             <title>Hvem er du, Andreas?</title>
@@ -23,6 +823,7 @@
             <pubDate>2023-10-17T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/490ea9a7-92af-48e0-9b4f-2cafbb1a4983_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">490ea9a7-92af-48e0-9b4f-2cafbb1a4983</guid>
         </item>
         
@@ -32,6 +833,7 @@
             <pubDate>2023-10-12T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/016e8d0e-adbb-4d7e-999d-cc1c73485cc3_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">016e8d0e-adbb-4d7e-999d-cc1c73485cc3</guid>
         </item>
         
@@ -41,6 +843,7 @@
             <pubDate>2023-10-10T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e81a66e3-fda0-49dc-bfca-7a0dad274ecf_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e81a66e3-fda0-49dc-bfca-7a0dad274ecf</guid>
         </item>
         
@@ -50,6 +853,7 @@
             <pubDate>2023-10-05T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/26cfe8ca-b7a5-44de-b4d1-0c4d1c6111e1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">26cfe8ca-b7a5-44de-b4d1-0c4d1c6111e1</guid>
         </item>
         
@@ -59,6 +863,7 @@
             <pubDate>2023-10-03T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0770b068-481b-450a-8c75-c23495418084_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0770b068-481b-450a-8c75-c23495418084</guid>
         </item>
         
@@ -68,6 +873,7 @@
             <pubDate>2023-09-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/644772af-c76c-46c7-b06f-b52d63147965_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">644772af-c76c-46c7-b06f-b52d63147965</guid>
         </item>
         
@@ -77,6 +883,7 @@
             <pubDate>2023-09-26T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9f03686c-e178-4659-a872-86c618cfc6f3_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9f03686c-e178-4659-a872-86c618cfc6f3</guid>
         </item>
         
@@ -86,6 +893,7 @@
             <pubDate>2023-09-21T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/ee3c789a-a97c-45eb-9764-dd0fcac2bc82_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">ee3c789a-a97c-45eb-9764-dd0fcac2bc82</guid>
         </item>
         
@@ -95,6 +903,7 @@
             <pubDate>2023-09-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c4f87d6d-359a-4274-8049-d87f2351a48b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c4f87d6d-359a-4274-8049-d87f2351a48b</guid>
         </item>
         
@@ -104,6 +913,7 @@
             <pubDate>2023-09-14T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/388d16b5-d7d9-4b53-b0ff-0af2be239e51_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">388d16b5-d7d9-4b53-b0ff-0af2be239e51</guid>
         </item>
         
@@ -113,6 +923,7 @@
             <pubDate>2023-09-12T20:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/f6003726-3d7b-41df-9a25-a18df3b9b386_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">f6003726-3d7b-41df-9a25-a18df3b9b386</guid>
         </item>
         
@@ -122,6 +933,7 @@
             <pubDate>2023-06-01T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d54317ef-4180-43c1-a8f4-27f82b0901a3_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H3M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d54317ef-4180-43c1-a8f4-27f82b0901a3</guid>
         </item>
         
@@ -131,6 +943,7 @@
             <pubDate>2023-05-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/67191e63-3365-40a8-87d8-d60ff6339902_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">67191e63-3365-40a8-87d8-d60ff6339902</guid>
         </item>
         
@@ -140,6 +953,7 @@
             <pubDate>2023-05-23T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6f9e6da1-ef80-4e24-930d-5499b8efdf23_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6f9e6da1-ef80-4e24-930d-5499b8efdf23</guid>
         </item>
         
@@ -149,6 +963,7 @@
             <pubDate>2023-05-16T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/149c149e-8e70-4332-b9ea-ef830a20325f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">149c149e-8e70-4332-b9ea-ef830a20325f</guid>
         </item>
         
@@ -158,6 +973,7 @@
             <pubDate>2023-05-04T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/7a0f5a5a-5060-4566-9ca3-d4e0597084f5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">7a0f5a5a-5060-4566-9ca3-d4e0597084f5</guid>
         </item>
         
@@ -167,6 +983,7 @@
             <pubDate>2023-05-02T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62</guid>
         </item>
         
@@ -176,6 +993,7 @@
             <pubDate>2023-04-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3ed9f392-0d05-4c2a-af23-10f639b4160f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3ed9f392-0d05-4c2a-af23-10f639b4160f</guid>
         </item>
         
@@ -185,6 +1003,7 @@
             <pubDate>2023-04-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6bcf4113-2451-4680-b6aa-1ecacf8cc458_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6bcf4113-2451-4680-b6aa-1ecacf8cc458</guid>
         </item>
         
@@ -194,6 +1013,7 @@
             <pubDate>2023-04-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a2bc603c-b386-4abd-bb19-4658802fe038_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a2bc603c-b386-4abd-bb19-4658802fe038</guid>
         </item>
         
@@ -203,6 +1023,7 @@
             <pubDate>2023-04-18T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">133ba6a9-fe7a-4480-b10e-2a0d18196b1b</guid>
         </item>
         
@@ -212,6 +1033,7 @@
             <pubDate>2023-04-13T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4fcfd325-5da3-4d01-b187-ab8fbed7f597_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4fcfd325-5da3-4d01-b187-ab8fbed7f597</guid>
         </item>
         
@@ -221,6 +1043,7 @@
             <pubDate>2023-04-11T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6e805fff-ddaf-4976-94b5-094e13901866_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6e805fff-ddaf-4976-94b5-094e13901866</guid>
         </item>
         
@@ -230,6 +1053,7 @@
             <pubDate>2023-03-30T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/00c2d68e-c219-46b0-a978-a10912d87b3d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">00c2d68e-c219-46b0-a978-a10912d87b3d</guid>
         </item>
         
@@ -239,6 +1063,7 @@
             <pubDate>2023-03-28T21:59:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0b02fb79-c085-49e2-9793-24557fb056c8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0b02fb79-c085-49e2-9793-24557fb056c8</guid>
         </item>
         
@@ -248,6 +1073,7 @@
             <pubDate>2023-03-23T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/78b6e8f1-103e-45f7-ad92-732017d6a32f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">78b6e8f1-103e-45f7-ad92-732017d6a32f</guid>
         </item>
         
@@ -257,6 +1083,7 @@
             <pubDate>2023-03-21T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">efd359b6-f3e1-4fe9-adad-e0e8652a483f</guid>
         </item>
         
@@ -266,6 +1093,7 @@
             <pubDate>2023-03-16T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/098e2bab-191f-4c76-86e3-f476f2ce41c1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">098e2bab-191f-4c76-86e3-f476f2ce41c1</guid>
         </item>
         
@@ -275,6 +1103,7 @@
             <pubDate>2023-03-14T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3c32debc-a460-4d19-81f2-8e8daed2d9f7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3c32debc-a460-4d19-81f2-8e8daed2d9f7</guid>
         </item>
         
@@ -284,6 +1113,7 @@
             <pubDate>2023-03-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">eb4e40df-979d-4c41-91cc-a177c9eec0cb</guid>
         </item>
         
@@ -293,6 +1123,7 @@
             <pubDate>2023-03-07T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/5aa85c68-15c2-4c05-be1f-3e76d4660cef_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">5aa85c68-15c2-4c05-be1f-3e76d4660cef</guid>
         </item>
         
@@ -302,6 +1133,7 @@
             <pubDate>2023-03-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/45b324ab-7f69-4d65-be05-011b3e34208d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">45b324ab-7f69-4d65-be05-011b3e34208d</guid>
         </item>
         
@@ -311,6 +1143,7 @@
             <pubDate>2023-02-28T22:05:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d4bd20ea-860f-4eff-adb7-5d769a3f3f34_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d4bd20ea-860f-4eff-adb7-5d769a3f3f34</guid>
         </item>
         
@@ -320,6 +1153,7 @@
             <pubDate>2023-02-23T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/565f7b29-cbc0-4f93-821c-f5b85051f97d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">565f7b29-cbc0-4f93-821c-f5b85051f97d</guid>
         </item>
         
@@ -329,6 +1163,7 @@
             <pubDate>2023-02-21T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/60166a52-3105-4c9b-a888-712c59a486ff_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">60166a52-3105-4c9b-a888-712c59a486ff</guid>
         </item>
         
@@ -338,6 +1173,7 @@
             <pubDate>2023-02-16T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9637c6fa-1931-4356-a668-3be6e165d49c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9637c6fa-1931-4356-a668-3be6e165d49c</guid>
         </item>
         
@@ -347,6 +1183,7 @@
             <pubDate>2023-02-14T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/feacc8dc-2796-4565-a59d-fa0011c56380_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">feacc8dc-2796-4565-a59d-fa0011c56380</guid>
         </item>
         
@@ -356,6 +1193,7 @@
             <pubDate>2023-02-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/83121b44-bed4-4839-88bf-588efff16845_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">83121b44-bed4-4839-88bf-588efff16845</guid>
         </item>
         
@@ -365,6 +1203,7 @@
             <pubDate>2023-02-07T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/68270b7c-d580-4fcd-8993-da071cd224a0_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">68270b7c-d580-4fcd-8993-da071cd224a0</guid>
         </item>
         
@@ -374,6 +1213,7 @@
             <pubDate>2023-02-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/feb84f5d-e4fa-4521-9de7-2a62e2211b61_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">feb84f5d-e4fa-4521-9de7-2a62e2211b61</guid>
         </item>
         
@@ -383,6 +1223,7 @@
             <pubDate>2023-01-31T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/1a06cc8b-61cd-48e4-a32b-5281d1d1712c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">1a06cc8b-61cd-48e4-a32b-5281d1d1712c</guid>
         </item>
         
@@ -392,6 +1233,7 @@
             <pubDate>2023-01-26T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/726a8b73-522e-4a14-bab3-3505bba31297_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">726a8b73-522e-4a14-bab3-3505bba31297</guid>
         </item>
         
@@ -401,6 +1243,7 @@
             <pubDate>2023-01-24T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/df2a896e-1340-4966-ae1d-0d28922601dc_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">df2a896e-1340-4966-ae1d-0d28922601dc</guid>
         </item>
         
@@ -410,6 +1253,7 @@
             <pubDate>2023-01-19T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/bcb38884-077d-423c-aecf-6697af7079d4_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">bcb38884-077d-423c-aecf-6697af7079d4</guid>
         </item>
         
@@ -419,6 +1263,7 @@
             <pubDate>2023-01-18T09:30:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9258fab7-2b5e-4c5b-9c03-6dcd3db32a6a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9258fab7-2b5e-4c5b-9c03-6dcd3db32a6a</guid>
         </item>
         
@@ -428,6 +1273,7 @@
             <pubDate>2023-01-12T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c12ae521-e701-48dc-9364-1dc2f2fc63b6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c12ae521-e701-48dc-9364-1dc2f2fc63b6</guid>
         </item>
         
@@ -437,6 +1283,7 @@
             <pubDate>2023-01-10T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/19cc0ea5-fb95-44b0-8f77-0f2cce3921be_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">19cc0ea5-fb95-44b0-8f77-0f2cce3921be</guid>
         </item>
         
@@ -446,6 +1293,7 @@
             <pubDate>2023-01-05T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9f5842d0-541b-49c5-87d4-bbef3b70230c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9f5842d0-541b-49c5-87d4-bbef3b70230c</guid>
         </item>
         
@@ -455,6 +1303,7 @@
             <pubDate>2022-12-01T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8664df1e-40f4-4bd0-a07e-8656b8c903e8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8664df1e-40f4-4bd0-a07e-8656b8c903e8</guid>
         </item>
         
@@ -464,6 +1313,7 @@
             <pubDate>2022-11-29T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/371ae3ec-7cd3-4109-98dc-443b314d750b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">371ae3ec-7cd3-4109-98dc-443b314d750b</guid>
         </item>
         
@@ -473,6 +1323,7 @@
             <pubDate>2022-11-24T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/cc84c2fe-890e-48ba-be13-c3971e8870ae_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">cc84c2fe-890e-48ba-be13-c3971e8870ae</guid>
         </item>
         
@@ -482,6 +1333,7 @@
             <pubDate>2022-11-22T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3162761e-07a7-40b2-bc06-e57a4b745dd1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3162761e-07a7-40b2-bc06-e57a4b745dd1</guid>
         </item>
         
@@ -491,6 +1343,7 @@
             <pubDate>2022-11-17T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/5d3313c2-b14f-4ff0-a0af-869047214de1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">5d3313c2-b14f-4ff0-a0af-869047214de1</guid>
         </item>
         
@@ -500,6 +1353,7 @@
             <pubDate>2022-11-15T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/dbe56982-f00b-4c05-a12a-f4970bca1b86_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">dbe56982-f00b-4c05-a12a-f4970bca1b86</guid>
         </item>
         
@@ -509,6 +1363,7 @@
             <pubDate>2022-11-10T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6deca7de-1fbc-4955-9a23-988fd6da6ee4_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6deca7de-1fbc-4955-9a23-988fd6da6ee4</guid>
         </item>
         
@@ -518,6 +1373,7 @@
             <pubDate>2022-11-08T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/853ba5dc-b549-4228-b917-32d73e60e8e6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">853ba5dc-b549-4228-b917-32d73e60e8e6</guid>
         </item>
         
@@ -527,6 +1383,7 @@
             <pubDate>2022-11-03T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6e26be1d-d524-4e56-a16b-825f977c5dc6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6e26be1d-d524-4e56-a16b-825f977c5dc6</guid>
         </item>
         
@@ -536,6 +1393,7 @@
             <pubDate>2022-11-01T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/bf68172a-659b-4d56-8e48-74f74497b76e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">bf68172a-659b-4d56-8e48-74f74497b76e</guid>
         </item>
         
@@ -545,6 +1403,7 @@
             <pubDate>2022-10-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/085c5c3f-fb82-402d-b549-54555fa97b6d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">085c5c3f-fb82-402d-b549-54555fa97b6d</guid>
         </item>
         
@@ -554,6 +1413,7 @@
             <pubDate>2022-10-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/de59a0b8-a8b7-4a6c-83f4-2aa0a3f149e7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">de59a0b8-a8b7-4a6c-83f4-2aa0a3f149e7</guid>
         </item>
         
@@ -563,6 +1423,7 @@
             <pubDate>2022-10-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b2f9fdee-de72-4763-a8d9-07d6aca85801_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b2f9fdee-de72-4763-a8d9-07d6aca85801</guid>
         </item>
         
@@ -572,6 +1433,7 @@
             <pubDate>2022-10-18T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/385fb8d0-9392-406f-972c-9bc1e076072c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">385fb8d0-9392-406f-972c-9bc1e076072c</guid>
         </item>
         
@@ -581,6 +1443,7 @@
             <pubDate>2022-10-13T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/44e30702-5842-45d2-85b8-57fee40c5221_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">44e30702-5842-45d2-85b8-57fee40c5221</guid>
         </item>
         
@@ -590,6 +1453,7 @@
             <pubDate>2022-10-11T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/70c22cf8-19fb-4e9c-af96-6c4e1d25e984_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">70c22cf8-19fb-4e9c-af96-6c4e1d25e984</guid>
         </item>
         
@@ -599,6 +1463,7 @@
             <pubDate>2022-10-06T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/27a15a85-3ee6-4260-9291-10ca0d9104c7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H12M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">27a15a85-3ee6-4260-9291-10ca0d9104c7</guid>
         </item>
         
@@ -608,6 +1473,7 @@
             <pubDate>2022-09-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/887ace64-edc0-4f0d-9650-728aeec71361_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">887ace64-edc0-4f0d-9650-728aeec71361</guid>
         </item>
         
@@ -617,6 +1483,7 @@
             <pubDate>2022-09-22T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/66356c24-7599-44f3-984a-4c2831e90c47_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">66356c24-7599-44f3-984a-4c2831e90c47</guid>
         </item>
         
@@ -626,6 +1493,7 @@
             <pubDate>2022-09-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/545fa3fc-d9b2-4b81-b126-3410723f8eb5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">545fa3fc-d9b2-4b81-b126-3410723f8eb5</guid>
         </item>
         
@@ -635,6 +1503,7 @@
             <pubDate>2022-09-15T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/50ba1d09-a23a-4a3e-a8b5-045dce978039_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">50ba1d09-a23a-4a3e-a8b5-045dce978039</guid>
         </item>
         
@@ -644,6 +1513,7 @@
             <pubDate>2022-09-13T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/5c9e7086-5f3a-46a8-8250-1f2a10f0ca12_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">5c9e7086-5f3a-46a8-8250-1f2a10f0ca12</guid>
         </item>
         
@@ -653,6 +1523,7 @@
             <pubDate>2022-09-07T10:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/61707239-5063-4d70-a8c2-c1952986dd13_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">61707239-5063-4d70-a8c2-c1952986dd13</guid>
         </item>
         
@@ -662,6 +1533,7 @@
             <pubDate>2022-09-01T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4f290c50-5960-40ed-a64a-edce42561371_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4f290c50-5960-40ed-a64a-edce42561371</guid>
         </item>
         
@@ -671,6 +1543,7 @@
             <pubDate>2022-08-30T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e6480857-3376-4115-847e-26a290ae5397_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e6480857-3376-4115-847e-26a290ae5397</guid>
         </item>
         
@@ -680,6 +1553,7 @@
             <pubDate>2022-08-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/49c59628-34bc-43bf-8dca-828e7aad3767_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">49c59628-34bc-43bf-8dca-828e7aad3767</guid>
         </item>
         
@@ -689,6 +1563,7 @@
             <pubDate>2022-08-23T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6ea7c0c5-c50a-4c22-b869-6c1052472aab_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6ea7c0c5-c50a-4c22-b869-6c1052472aab</guid>
         </item>
         
@@ -698,6 +1573,7 @@
             <pubDate>2022-05-31T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3de0043f-e503-43b9-b642-87e608a3efe7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3de0043f-e503-43b9-b642-87e608a3efe7</guid>
         </item>
         
@@ -707,6 +1583,7 @@
             <pubDate>2022-05-24T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/ff359566-a114-4bed-b51a-7deedccebc42_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">ff359566-a114-4bed-b51a-7deedccebc42</guid>
         </item>
         
@@ -716,6 +1593,7 @@
             <pubDate>2022-05-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b5206373-2c13-4425-a9d6-4af9126b41e0_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b5206373-2c13-4425-a9d6-4af9126b41e0</guid>
         </item>
         
@@ -725,6 +1603,7 @@
             <pubDate>2022-05-05T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e987f422-1de8-4e8b-bcf5-ce59ff0e884f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e987f422-1de8-4e8b-bcf5-ce59ff0e884f</guid>
         </item>
         
@@ -734,6 +1613,7 @@
             <pubDate>2022-05-03T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/eb8eea2f-f582-499d-af24-70ebef66c83a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">eb8eea2f-f582-499d-af24-70ebef66c83a</guid>
         </item>
         
@@ -743,6 +1623,7 @@
             <pubDate>2022-04-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4eb92732-43a7-4298-b8d8-c23c9b3f356c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4eb92732-43a7-4298-b8d8-c23c9b3f356c</guid>
         </item>
         
@@ -752,6 +1633,7 @@
             <pubDate>2022-04-26T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/5292b38f-86f4-4b58-b4e8-775b1daa3f3b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">5292b38f-86f4-4b58-b4e8-775b1daa3f3b</guid>
         </item>
         
@@ -761,6 +1643,7 @@
             <pubDate>2022-04-21T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/224bd617-007e-4601-8fb6-49206ef81dbf_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">224bd617-007e-4601-8fb6-49206ef81dbf</guid>
         </item>
         
@@ -770,6 +1653,7 @@
             <pubDate>2022-04-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9e90a038-0af6-43f1-af8d-db6981945ef1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9e90a038-0af6-43f1-af8d-db6981945ef1</guid>
         </item>
         
@@ -779,6 +1663,7 @@
             <pubDate>2022-04-07T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/501007b6-c39b-4fc5-8395-e1c623aadb5b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H3M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">501007b6-c39b-4fc5-8395-e1c623aadb5b</guid>
         </item>
         
@@ -788,6 +1673,7 @@
             <pubDate>2022-04-05T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/eef89c67-2441-47dd-86ee-261b314b351a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">eef89c67-2441-47dd-86ee-261b314b351a</guid>
         </item>
         
@@ -797,6 +1683,7 @@
             <pubDate>2022-03-31T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/cc73bf98-f44f-4dfd-92e5-4ad0132c907f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">cc73bf98-f44f-4dfd-92e5-4ad0132c907f</guid>
         </item>
         
@@ -806,6 +1693,7 @@
             <pubDate>2022-03-29T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b4bd8df3-27df-45aa-8c91-08f90ac7714a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b4bd8df3-27df-45aa-8c91-08f90ac7714a</guid>
         </item>
         
@@ -815,6 +1703,7 @@
             <pubDate>2022-03-24T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0e47369a-bbde-41b3-b29f-02bc3a57785a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0e47369a-bbde-41b3-b29f-02bc3a57785a</guid>
         </item>
         
@@ -824,6 +1713,7 @@
             <pubDate>2022-03-22T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6df623d0-0396-4e06-9795-4f30a9490618_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6df623d0-0396-4e06-9795-4f30a9490618</guid>
         </item>
         
@@ -833,6 +1723,7 @@
             <pubDate>2022-03-17T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/301cbdd6-abd9-42cd-a32b-b64a249d53f5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">301cbdd6-abd9-42cd-a32b-b64a249d53f5</guid>
         </item>
         
@@ -842,6 +1733,7 @@
             <pubDate>2022-03-15T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4720a3a0-1229-4fea-a85d-4812c79175e5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4720a3a0-1229-4fea-a85d-4812c79175e5</guid>
         </item>
         
@@ -851,6 +1743,7 @@
             <pubDate>2022-03-10T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/bd4423ef-a41d-4925-a279-2e6e5561a2a8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">bd4423ef-a41d-4925-a279-2e6e5561a2a8</guid>
         </item>
         
@@ -860,6 +1753,7 @@
             <pubDate>2022-03-08T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/98c000a4-2f9c-4b66-9c9e-d86b4d28e619_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">98c000a4-2f9c-4b66-9c9e-d86b4d28e619</guid>
         </item>
         
@@ -869,6 +1763,7 @@
             <pubDate>2022-03-03T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/713fa9de-055a-4813-a70c-551626dc4c83_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">713fa9de-055a-4813-a70c-551626dc4c83</guid>
         </item>
         
@@ -878,6 +1773,7 @@
             <pubDate>2022-03-01T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/fc3faa16-4686-410c-936d-8b6d667b2f2b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">fc3faa16-4686-410c-936d-8b6d667b2f2b</guid>
         </item>
         
@@ -887,6 +1783,7 @@
             <pubDate>2022-02-25T00:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d19eeb62-d361-453c-bb38-96bada2f282b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d19eeb62-d361-453c-bb38-96bada2f282b</guid>
         </item>
         
@@ -896,6 +1793,7 @@
             <pubDate>2022-02-22T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8baf6182-1aa5-48a1-934b-8f0060551f2e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8baf6182-1aa5-48a1-934b-8f0060551f2e</guid>
         </item>
         
@@ -905,6 +1803,7 @@
             <pubDate>2022-02-17T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/29972a81-7841-434b-aaf2-bc3204748932_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">29972a81-7841-434b-aaf2-bc3204748932</guid>
         </item>
         
@@ -914,6 +1813,7 @@
             <pubDate>2022-02-15T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/7d9d5191-9a02-4e77-9f81-87edb43f7b16_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">7d9d5191-9a02-4e77-9f81-87edb43f7b16</guid>
         </item>
         
@@ -923,6 +1823,7 @@
             <pubDate>2022-02-10T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/ab914201-2673-40b1-b6b8-c3a594e5cb39_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT53M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">ab914201-2673-40b1-b6b8-c3a594e5cb39</guid>
         </item>
         
@@ -932,6 +1833,7 @@
             <pubDate>2022-02-08T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/f01a2d72-a326-4887-96bc-0ccc9ad2420c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">f01a2d72-a326-4887-96bc-0ccc9ad2420c</guid>
         </item>
         
@@ -941,6 +1843,7 @@
             <pubDate>2022-02-03T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/51f48cf3-cdf0-4dc3-996c-2ffde37c2ad9_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">51f48cf3-cdf0-4dc3-996c-2ffde37c2ad9</guid>
         </item>
         
@@ -950,6 +1853,7 @@
             <pubDate>2022-02-01T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/49bfdd02-b5ec-4f4d-872d-cc75e49a330c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">49bfdd02-b5ec-4f4d-872d-cc75e49a330c</guid>
         </item>
         
@@ -959,6 +1863,7 @@
             <pubDate>2022-01-27T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/70796317-2f62-4cb5-8234-8e56e7991148_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">70796317-2f62-4cb5-8234-8e56e7991148</guid>
         </item>
         
@@ -968,6 +1873,7 @@
             <pubDate>2022-01-25T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/73474f4d-baf3-4008-9a46-bee7bcd1f251_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">73474f4d-baf3-4008-9a46-bee7bcd1f251</guid>
         </item>
         
@@ -977,6 +1883,7 @@
             <pubDate>2022-01-20T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/17bb6463-7537-4a62-908d-acb4d9835133_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">17bb6463-7537-4a62-908d-acb4d9835133</guid>
         </item>
         
@@ -986,6 +1893,7 @@
             <pubDate>2022-01-18T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c9c23f04-1df1-4428-9eb9-e1e42e7ebbad_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c9c23f04-1df1-4428-9eb9-e1e42e7ebbad</guid>
         </item>
         
@@ -995,6 +1903,7 @@
             <pubDate>2022-01-13T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/ca5ad8c2-bb70-4236-8c87-6ce325013b26_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">ca5ad8c2-bb70-4236-8c87-6ce325013b26</guid>
         </item>
         
@@ -1004,6 +1913,7 @@
             <pubDate>2022-01-11T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6505ce2b-b679-4a80-a289-3835a33cb189_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT44M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6505ce2b-b679-4a80-a289-3835a33cb189</guid>
         </item>
         
@@ -1013,6 +1923,7 @@
             <pubDate>2022-01-06T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e4b566de-4346-41aa-a47e-18e5aab388ba_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e4b566de-4346-41aa-a47e-18e5aab388ba</guid>
         </item>
         
@@ -1022,6 +1933,7 @@
             <pubDate>2022-01-04T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/bc695adf-1fa0-45cf-b48b-24623251d88b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">bc695adf-1fa0-45cf-b48b-24623251d88b</guid>
         </item>
         
@@ -1031,6 +1943,7 @@
             <pubDate>2021-12-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c9cc7211-fa21-4400-94f3-17fda8f36804_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c9cc7211-fa21-4400-94f3-17fda8f36804</guid>
         </item>
         
@@ -1040,6 +1953,7 @@
             <pubDate>2021-12-07T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e7ac8d5c-2d07-445e-a034-e60e86405313_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e7ac8d5c-2d07-445e-a034-e60e86405313</guid>
         </item>
         
@@ -1049,6 +1963,7 @@
             <pubDate>2021-12-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/7d3f9b2c-10da-4b7d-940c-3effea6c51f5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">7d3f9b2c-10da-4b7d-940c-3effea6c51f5</guid>
         </item>
         
@@ -1058,6 +1973,7 @@
             <pubDate>2021-11-30T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/7f78f92b-175d-42e6-8baa-8257c3c33bd9_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">7f78f92b-175d-42e6-8baa-8257c3c33bd9</guid>
         </item>
         
@@ -1067,6 +1983,7 @@
             <pubDate>2021-11-25T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2b2259db-b715-4dad-9941-14e5ba47380a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2b2259db-b715-4dad-9941-14e5ba47380a</guid>
         </item>
         
@@ -1076,6 +1993,7 @@
             <pubDate>2021-11-23T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/31ca055b-a989-4302-b17b-213b79bf4714_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">31ca055b-a989-4302-b17b-213b79bf4714</guid>
         </item>
         
@@ -1085,6 +2003,7 @@
             <pubDate>2021-11-18T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c8eb83ac-7e87-4bbb-bb35-f1eebd72b146_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c8eb83ac-7e87-4bbb-bb35-f1eebd72b146</guid>
         </item>
         
@@ -1094,6 +2013,7 @@
             <pubDate>2021-11-16T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/106cb79d-3067-4a59-9daf-d0a16a61b43c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT34M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">106cb79d-3067-4a59-9daf-d0a16a61b43c</guid>
         </item>
         
@@ -1103,6 +2023,7 @@
             <pubDate>2021-11-11T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8eca6492-47e9-4fb0-b745-c6cc90acb529_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8eca6492-47e9-4fb0-b745-c6cc90acb529</guid>
         </item>
         
@@ -1112,6 +2033,7 @@
             <pubDate>2021-11-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a4d3ab05-eb20-49ed-af89-3fb7b4cbe051_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a4d3ab05-eb20-49ed-af89-3fb7b4cbe051</guid>
         </item>
         
@@ -1121,6 +2043,7 @@
             <pubDate>2021-11-04T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e6ffcc52-761c-48e5-b0e3-98bdd8c77c18_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e6ffcc52-761c-48e5-b0e3-98bdd8c77c18</guid>
         </item>
         
@@ -1130,6 +2053,7 @@
             <pubDate>2021-11-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/074bab3e-c548-4a0e-b12a-69b3b3f2a615_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">074bab3e-c548-4a0e-b12a-69b3b3f2a615</guid>
         </item>
         
@@ -1139,6 +2063,7 @@
             <pubDate>2021-10-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0350af47-d850-4f4f-bf1e-c0b7ba77f9a4_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT53M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0350af47-d850-4f4f-bf1e-c0b7ba77f9a4</guid>
         </item>
         
@@ -1148,6 +2073,7 @@
             <pubDate>2021-10-26T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/562b79b4-cce9-462c-b0d8-112158b1d50c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">562b79b4-cce9-462c-b0d8-112158b1d50c</guid>
         </item>
         
@@ -1157,6 +2083,7 @@
             <pubDate>2021-10-21T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b6a035d7-7fb0-47c6-a14b-9c9bc4897495_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b6a035d7-7fb0-47c6-a14b-9c9bc4897495</guid>
         </item>
         
@@ -1166,6 +2093,7 @@
             <pubDate>2021-10-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d3708cb8-d0de-462a-9566-42ff602094e6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d3708cb8-d0de-462a-9566-42ff602094e6</guid>
         </item>
         
@@ -1175,6 +2103,7 @@
             <pubDate>2021-10-14T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/25e878aa-b589-45cc-81f5-5a42141f2368_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT55M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">25e878aa-b589-45cc-81f5-5a42141f2368</guid>
         </item>
         
@@ -1184,6 +2113,7 @@
             <pubDate>2021-10-12T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/391f1ad7-06fc-4c72-9ef3-c7f691ead391_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">391f1ad7-06fc-4c72-9ef3-c7f691ead391</guid>
         </item>
         
@@ -1193,6 +2123,7 @@
             <pubDate>2021-10-07T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/dc63b8b0-7a6c-45ff-a589-a623fb3ab2c1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">dc63b8b0-7a6c-45ff-a589-a623fb3ab2c1</guid>
         </item>
         
@@ -1203,6 +2134,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-10-05T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0ee82f7c-4c11-4001-a6e6-76ae4682cf6c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0ee82f7c-4c11-4001-a6e6-76ae4682cf6c</guid>
         </item>
         
@@ -1212,6 +2144,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-30T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d0518899-e1d3-4b2b-a6ba-d8708921eca9_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d0518899-e1d3-4b2b-a6ba-d8708921eca9</guid>
         </item>
         
@@ -1221,6 +2154,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-29T20:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/630be182-73a1-48ca-9a57-ad69719a5f87_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT26M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">630be182-73a1-48ca-9a57-ad69719a5f87</guid>
         </item>
         
@@ -1230,6 +2164,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8708603a-f44a-4f77-87b2-6b03158ec606_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8708603a-f44a-4f77-87b2-6b03158ec606</guid>
         </item>
         
@@ -1239,6 +2174,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-23T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d9eb0d2f-a657-4574-8893-04b5a679288c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d9eb0d2f-a657-4574-8893-04b5a679288c</guid>
         </item>
         
@@ -1248,6 +2184,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-21T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/f144c372-a7bd-44c0-88e7-5083be7c85d1_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT35M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">f144c372-a7bd-44c0-88e7-5083be7c85d1</guid>
         </item>
         
@@ -1257,6 +2194,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-16T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a5f51e7a-b8e3-4927-bd0a-df5c5870dc8e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a5f51e7a-b8e3-4927-bd0a-df5c5870dc8e</guid>
         </item>
         
@@ -1266,6 +2204,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-09-14T21:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3d9b5678-6e27-482f-9350-b18eeb5919bc_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3d9b5678-6e27-482f-9350-b18eeb5919bc</guid>
         </item>
         
@@ -1275,6 +2214,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c66d1cda-ec32-4438-9639-2847011af80f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c66d1cda-ec32-4438-9639-2847011af80f</guid>
         </item>
         
@@ -1284,6 +2224,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/97950373-7b67-4375-8b28-3fbb10d81ebd_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">97950373-7b67-4375-8b28-3fbb10d81ebd</guid>
         </item>
         
@@ -1293,6 +2234,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/78747db4-1449-497f-9b8d-1e3a6f4e3e1a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">78747db4-1449-497f-9b8d-1e3a6f4e3e1a</guid>
         </item>
         
@@ -1302,6 +2244,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-11T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/46d5b276-3402-4e0d-b49a-0e6374f21bbe_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">46d5b276-3402-4e0d-b49a-0e6374f21bbe</guid>
         </item>
         
@@ -1311,6 +2254,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-06T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/16780bda-8d5b-4990-b52e-9544a32f3350_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">16780bda-8d5b-4990-b52e-9544a32f3350</guid>
         </item>
         
@@ -1320,6 +2264,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-05-04T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/481a0ce1-65cb-4f8e-b020-fb272bfc944a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">481a0ce1-65cb-4f8e-b020-fb272bfc944a</guid>
         </item>
         
@@ -1329,6 +2274,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-29T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a65bf1df-fae8-4ae4-9f4c-8ccb6b6f0b37_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a65bf1df-fae8-4ae4-9f4c-8ccb6b6f0b37</guid>
         </item>
         
@@ -1338,6 +2284,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9e2eb6b2-f579-4933-ad9c-ad14641f3b71_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9e2eb6b2-f579-4933-ad9c-ad14641f3b71</guid>
         </item>
         
@@ -1347,6 +2294,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-22T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/58a2e05e-539e-4769-8dff-8e002c37d8ea_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">58a2e05e-539e-4769-8dff-8e002c37d8ea</guid>
         </item>
         
@@ -1356,6 +2304,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a3b5ac95-c803-4f06-9793-83059e1b31ac_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a3b5ac95-c803-4f06-9793-83059e1b31ac</guid>
         </item>
         
@@ -1365,6 +2314,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-15T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/83bf19d1-f1a1-44fb-95a9-4029467d4284_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">83bf19d1-f1a1-44fb-95a9-4029467d4284</guid>
         </item>
         
@@ -1374,6 +2324,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-13T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c922b06b-1092-4ad0-9720-00f029b7cb2f_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c922b06b-1092-4ad0-9720-00f029b7cb2f</guid>
         </item>
         
@@ -1383,6 +2334,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-08T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/da5386d9-8613-4c21-9eed-24c1587cb579_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">da5386d9-8613-4c21-9eed-24c1587cb579</guid>
         </item>
         
@@ -1392,6 +2344,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-04-06T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/5edc5f36-1dd7-4630-a02f-5b2d365f7fae_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">5edc5f36-1dd7-4630-a02f-5b2d365f7fae</guid>
         </item>
         
@@ -1401,6 +2354,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-25T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2f85c5f8-e76f-45c4-8390-a4b4c36ec59c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2f85c5f8-e76f-45c4-8390-a4b4c36ec59c</guid>
         </item>
         
@@ -1410,6 +2364,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-23T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/00f9137c-dd2f-4cf6-a1a4-efefa7d9bd2a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">00f9137c-dd2f-4cf6-a1a4-efefa7d9bd2a</guid>
         </item>
         
@@ -1419,6 +2374,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-18T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/910b8373-6c99-4afd-aad8-a8c2bf6944f4_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">910b8373-6c99-4afd-aad8-a8c2bf6944f4</guid>
         </item>
         
@@ -1428,6 +2384,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-16T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2daaedc2-3c39-4703-9a8e-203838edce35_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2daaedc2-3c39-4703-9a8e-203838edce35</guid>
         </item>
         
@@ -1437,6 +2394,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-11T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6cd18a6b-665c-4b04-ad4e-e29e138c30cf_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6cd18a6b-665c-4b04-ad4e-e29e138c30cf</guid>
         </item>
         
@@ -1446,6 +2404,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/7f18157b-2a76-4a77-9acb-c0bd3982aafe_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">7f18157b-2a76-4a77-9acb-c0bd3982aafe</guid>
         </item>
         
@@ -1455,6 +2414,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-04T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6781ef2a-e5d1-42c2-b07c-0529e65182f0_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6781ef2a-e5d1-42c2-b07c-0529e65182f0</guid>
         </item>
         
@@ -1464,6 +2424,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-03-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/240b7d02-8cad-4ef8-b194-993b642eb15a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">240b7d02-8cad-4ef8-b194-993b642eb15a</guid>
         </item>
         
@@ -1473,6 +2434,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-25T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3a030708-af28-4377-802a-02ca54ba30a7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3a030708-af28-4377-802a-02ca54ba30a7</guid>
         </item>
         
@@ -1482,6 +2444,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-23T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/e4d4e0aa-3a9f-4755-b98e-15eed920c529_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">e4d4e0aa-3a9f-4755-b98e-15eed920c529</guid>
         </item>
         
@@ -1491,6 +2454,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-18T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/612d9d76-7571-462c-96a9-4aeed9fd4df6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT52M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">612d9d76-7571-462c-96a9-4aeed9fd4df6</guid>
         </item>
         
@@ -1500,6 +2464,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-16T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/949f10b5-9a2e-4be3-bb21-7e7c89ea71b2_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">949f10b5-9a2e-4be3-bb21-7e7c89ea71b2</guid>
         </item>
         
@@ -1509,6 +2474,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-11T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4b65aa5e-41cc-42ca-9ae4-ee154e076e32_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4b65aa5e-41cc-42ca-9ae4-ee154e076e32</guid>
         </item>
         
@@ -1518,6 +2484,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-09T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/3d504a56-1eaa-43da-92ec-1e75147493c7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">3d504a56-1eaa-43da-92ec-1e75147493c7</guid>
         </item>
         
@@ -1527,6 +2494,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-04T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2aff3a36-9772-45b3-a204-4c6246296249_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2aff3a36-9772-45b3-a204-4c6246296249</guid>
         </item>
         
@@ -1536,6 +2504,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-02-02T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8b91bbe8-8b4e-475e-9b89-7a73b31a41a6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8b91bbe8-8b4e-475e-9b89-7a73b31a41a6</guid>
         </item>
         
@@ -1545,6 +2514,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-28T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0034f547-8d8f-418c-be89-5d1cfcf1b3c7_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0034f547-8d8f-418c-be89-5d1cfcf1b3c7</guid>
         </item>
         
@@ -1554,6 +2524,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-26T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b0ef04a3-776c-4999-b83c-2580024368a2_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT39M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b0ef04a3-776c-4999-b83c-2580024368a2</guid>
         </item>
         
@@ -1563,6 +2534,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-21T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9f4391e3-72d0-41cd-b74c-14b05b749b3c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9f4391e3-72d0-41cd-b74c-14b05b749b3c</guid>
         </item>
         
@@ -1572,6 +2544,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-19T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/fec560c2-7da8-409b-83c2-776b30a64706_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">fec560c2-7da8-409b-83c2-776b30a64706</guid>
         </item>
         
@@ -1581,6 +2554,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-14T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0ce8de9c-085a-4016-8b09-ba011af29d42_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0ce8de9c-085a-4016-8b09-ba011af29d42</guid>
         </item>
         
@@ -1590,6 +2564,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-12T23:51:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/b6406817-1f3f-4d4d-8974-a0dc7d84898e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">b6406817-1f3f-4d4d-8974-a0dc7d84898e</guid>
         </item>
         
@@ -1599,6 +2574,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-07T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/18192a8f-fa96-42d9-8178-705e2b310767_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xBEcQnNwLZoMdfQO0N6BxQK2vIZdK9Cj75_iuij0v_vQ"/>
             <guid isPermaLink="false">18192a8f-fa96-42d9-8178-705e2b310767</guid>
         </item>
         
@@ -1608,6 +2584,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2021-01-06T17:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0593bd88-d882-4d16-8850-6affdff9ab67_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/B3zIVSXw7CJCQ4BNK2d9vAKT6qWAgu8qchrdyKIbQ--A"/>
             <guid isPermaLink="false">0593bd88-d882-4d16-8850-6affdff9ab67</guid>
         </item>
         
@@ -1617,6 +2594,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-12-03T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/32161547-9f17-457c-9f25-4d74dbbbb46c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">32161547-9f17-457c-9f25-4d74dbbbb46c</guid>
         </item>
         
@@ -1626,6 +2604,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-12-01T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/71c6596d-3c64-4145-8610-7481a20806d2_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">71c6596d-3c64-4145-8610-7481a20806d2</guid>
         </item>
         
@@ -1635,6 +2614,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-26T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/90d90a68-917e-4337-91a0-4154fbb2a1ce_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">90d90a68-917e-4337-91a0-4154fbb2a1ce</guid>
         </item>
         
@@ -1644,6 +2624,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-24T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/92505a24-f04e-41f8-a388-a394a5916a67_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT34M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">92505a24-f04e-41f8-a388-a394a5916a67</guid>
         </item>
         
@@ -1653,6 +2634,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-19T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/6e966462-6ccc-4de8-8f6f-cc4e36993538_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">6e966462-6ccc-4de8-8f6f-cc4e36993538</guid>
         </item>
         
@@ -1662,6 +2644,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-17T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9982f172-2a25-4e76-bb66-33c62ac7e6e4_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9982f172-2a25-4e76-bb66-33c62ac7e6e4</guid>
         </item>
         
@@ -1671,6 +2654,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-12T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2b1da4df-28a8-4ddf-ba3d-a239a62aff8c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2b1da4df-28a8-4ddf-ba3d-a239a62aff8c</guid>
         </item>
         
@@ -1680,6 +2664,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-10T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/a78a00b3-6cff-48aa-b509-503782bdc443_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">a78a00b3-6cff-48aa-b509-503782bdc443</guid>
         </item>
         
@@ -1689,6 +2674,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-11-05T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c52a437e-3c04-4f6d-968b-eb12595d4ba9_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H12M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c52a437e-3c04-4f6d-968b-eb12595d4ba9</guid>
         </item>
         
@@ -1698,6 +2684,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-29T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/82f8d04f-27ff-4067-b3a6-cf1c92c6675e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">82f8d04f-27ff-4067-b3a6-cf1c92c6675e</guid>
         </item>
         
@@ -1707,6 +2694,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-27T22:00:00+01:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/99ef074e-d343-4c3d-b9be-42cd6a060f0a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">99ef074e-d343-4c3d-b9be-42cd6a060f0a</guid>
         </item>
         
@@ -1716,6 +2704,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-22T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d47cc09d-93dd-4be8-a9af-c52630e79a98_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d47cc09d-93dd-4be8-a9af-c52630e79a98</guid>
         </item>
         
@@ -1725,6 +2714,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/dfc5d5c4-fe4f-48bd-a4e9-8d12135ec6a8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">dfc5d5c4-fe4f-48bd-a4e9-8d12135ec6a8</guid>
         </item>
         
@@ -1734,6 +2724,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-15T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/edf6c7c1-e7a5-4049-99c8-b7ba677d27a0_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT45M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">edf6c7c1-e7a5-4049-99c8-b7ba677d27a0</guid>
         </item>
         
@@ -1743,6 +2734,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-13T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c9093fec-d5cc-4055-b799-be09b6df2a2e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c9093fec-d5cc-4055-b799-be09b6df2a2e</guid>
         </item>
         
@@ -1752,6 +2744,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-08T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/bfc13478-1576-4143-99c6-dbdc617f7e97_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">bfc13478-1576-4143-99c6-dbdc617f7e97</guid>
         </item>
         
@@ -1761,6 +2754,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-06T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2e053a38-88ff-4767-84e0-f854228a7203_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2e053a38-88ff-4767-84e0-f854228a7203</guid>
         </item>
         
@@ -1770,6 +2764,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-10-01T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/28f6a5fd-b769-4d7c-9083-aea7c33a6f57_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">28f6a5fd-b769-4d7c-9083-aea7c33a6f57</guid>
         </item>
         
@@ -1779,6 +2774,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-30T10:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/f09baa68-7117-443b-a5be-3614ce41f822_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">f09baa68-7117-443b-a5be-3614ce41f822</guid>
         </item>
         
@@ -1788,6 +2784,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-24T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4258b425-942b-4a35-86c4-df184be3abd8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT48M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4258b425-942b-4a35-86c4-df184be3abd8</guid>
         </item>
         
@@ -1797,6 +2794,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-22T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4a370a27-7260-4198-84d0-55b54ac44b46_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4a370a27-7260-4198-84d0-55b54ac44b46</guid>
         </item>
         
@@ -1806,6 +2804,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-17T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0fe8419f-595f-4eec-add9-3d5991c1ad6d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0fe8419f-595f-4eec-add9-3d5991c1ad6d</guid>
         </item>
         
@@ -1815,6 +2814,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-15T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d4b19587-c73e-4996-8102-696119ee6bce_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT38M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d4b19587-c73e-4996-8102-696119ee6bce</guid>
         </item>
         
@@ -1824,6 +2824,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-10T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9a090acb-5082-4987-8011-753080365a6d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT59M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9a090acb-5082-4987-8011-753080365a6d</guid>
         </item>
         
@@ -1833,6 +2834,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-08T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/543f6aaf-7a4c-4862-9cb5-5d42e05144e6_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">543f6aaf-7a4c-4862-9cb5-5d42e05144e6</guid>
         </item>
         
@@ -1842,6 +2844,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-03T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/86e4c57a-6f9e-48cb-acf4-2d0559da2517_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT51M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">86e4c57a-6f9e-48cb-acf4-2d0559da2517</guid>
         </item>
         
@@ -1851,6 +2854,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-09-01T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d9158c5b-664c-4550-9391-ce77ea1ef17b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d9158c5b-664c-4550-9391-ce77ea1ef17b</guid>
         </item>
         
@@ -1860,6 +2864,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-08-27T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/69e04308-c418-4943-bf79-e44cf1fd0b74_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT46M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">69e04308-c418-4943-bf79-e44cf1fd0b74</guid>
         </item>
         
@@ -1869,6 +2874,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-08-25T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/d632aa9b-f688-4b2d-8b0a-d0c3f058915b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT35M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">d632aa9b-f688-4b2d-8b0a-d0c3f058915b</guid>
         </item>
         
@@ -1878,6 +2884,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-08-20T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/c40b0efd-38fd-4d25-9e6a-f8490277f40a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT49M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">c40b0efd-38fd-4d25-9e6a-f8490277f40a</guid>
         </item>
         
@@ -1887,6 +2894,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-06-04T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2286f456-1d11-4c96-a399-64bc76916de5_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT50M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2286f456-1d11-4c96-a399-64bc76916de5</guid>
         </item>
         
@@ -1896,6 +2904,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/33f79d62-18e7-478b-960b-ef5a468f811b_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">33f79d62-18e7-478b-960b-ef5a468f811b</guid>
         </item>
         
@@ -1905,6 +2914,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-26T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/189f7621-1141-4ca5-aacf-40a12d4c5f58_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT35M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">189f7621-1141-4ca5-aacf-40a12d4c5f58</guid>
         </item>
         
@@ -1914,6 +2924,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-19T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/20431d30-4f14-40e5-bc83-166d359b4d04_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">20431d30-4f14-40e5-bc83-166d359b4d04</guid>
         </item>
         
@@ -1923,6 +2934,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-14T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/37afcd69-2c1d-4dd0-ab41-2fc6f25cccbb_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT41M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">37afcd69-2c1d-4dd0-ab41-2fc6f25cccbb</guid>
         </item>
         
@@ -1932,6 +2944,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-12T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/0a6b01a4-8166-421f-87d7-0c67b9ead93d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">0a6b01a4-8166-421f-87d7-0c67b9ead93d</guid>
         </item>
         
@@ -1941,6 +2954,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-07T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/2401f495-90a1-440e-8051-ad175a238c8c_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT43M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">2401f495-90a1-440e-8051-ad175a238c8c</guid>
         </item>
         
@@ -1950,6 +2964,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-05-05T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/476d200d-dfab-45a8-9dc8-a4331c6dc38e_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT36M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">476d200d-dfab-45a8-9dc8-a4331c6dc38e</guid>
         </item>
         
@@ -1959,6 +2974,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-30T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9dcce13d-9b03-4f0e-9829-f43280936c2d_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT42M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">9dcce13d-9b03-4f0e-9829-f43280936c2d</guid>
         </item>
         
@@ -1968,6 +2984,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-28T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/4dc1cc39-0858-4825-ac77-3d9233008331_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">4dc1cc39-0858-4825-ac77-3d9233008331</guid>
         </item>
         
@@ -1977,6 +2994,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-23T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/8a6aaaef-5801-45a6-bf68-b63ca6da8921_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT1H1M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">8a6aaaef-5801-45a6-bf68-b63ca6da8921</guid>
         </item>
         
@@ -1986,6 +3004,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-21T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/ed4d356e-4378-4914-afca-838a1aca6ed9_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">ed4d356e-4378-4914-afca-838a1aca6ed9</guid>
         </item>
         
@@ -1995,6 +3014,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-16T22:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/691a219e-204a-47c1-9a53-76f86e86a130_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT40M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">691a219e-204a-47c1-9a53-76f86e86a130</guid>
         </item>
         
@@ -2004,6 +3024,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-14T23:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/cf9b5530-b74c-4f43-b4b8-7d5f1b0d4d3a_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT37M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">cf9b5530-b74c-4f43-b4b8-7d5f1b0d4d3a</guid>
         </item>
         
@@ -2013,6 +3034,7 @@ Hva tror du skjer når en milliard afrikanere går uvaksinert og mutantene forme
             <pubDate>2020-04-10T18:00:00+02:00 </pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/cf818c85-fc3d-4541-9dc8-37e71217c1f8_0_ID192MP3.mp3" type="audio/mpeg"/>
             <itunes:duration>PT47M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
             <guid isPermaLink="false">cf818c85-fc3d-4541-9dc8-37e71217c1f8</guid>
         </item>
         </channel>

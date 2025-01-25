@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>CUSTOM: Desken brenner</title>
+        <link>https://radio.nrk.no/podkast/desken_brenner</link>
+        <!--<description></description>-->
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Desken brenner</title>
+        <url>https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q</url>
+        <link>https://radio.nrk.no/podkast/desken_brenner</link>
+        <width>144</width>
+        <height>144</height>
+        </image>
+        
+        <item>
+            <title>Per-Whisky Amundsen og Photoshop-prinsessa</title>
+            <description>Det må være lov å dele meninger på Facebook i whisky-fylla! Det må også være lov å kose seg på Staysman-konsert, men man skal kanskje holde seg for god for å avholde rettsaker under ramadan. Eller?</description>
+            <pubDate>2024-03-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d56f7b09-ba6f-43f2-aac6-4bbc5af95062_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">d56f7b09-ba6f-43f2-aac6-4bbc5af95062</guid>
+        </item>
+        
+        <item>
+            <title>Positiv dominans og incel-kommunen</title>
+            <description>Tara tvinger de andre til å parodiere Kong Harald, gravejournalister har forsøkt å infiltrere Google i Danmark, og bør russefeiringen egentlig flyttes?</description>
+            <pubDate>2024-03-08T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/49717f3a-ab7e-4635-8a34-f611cb585a50_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">49717f3a-ab7e-4635-8a34-f611cb585a50</guid>
+        </item>
+        
+        <item>
+            <title>Velle fåkke pult</title>
+            <description>Hvem har ansvaret for at unge gutter ikke får sex? Hvorfor kan ikke fotballspillere satse i land uten menneskerettigheter når Ikea gjør det? Og hvor mange har lagt seg flat i måneden som har gått?</description>
+            <pubDate>2024-03-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/be56b605-c512-41dd-9042-bcfdd44316ff_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">be56b605-c512-41dd-9042-bcfdd44316ff</guid>
+        </item>
+        
+        <item>
+            <title>Au revoir, au pair!</title>
+            <description>Rød Ungdom er litt for inspirert av &quot;Makta&quot;, Helene sjekker opp Navalnyjs enke, og Au Pair-ordningen er (endelig? Dessverre?) avviklet. Dessuten: Hvordan hadde en pro-Israel Tix hørtes ut?</description>
+            <pubDate>2024-02-23T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/e8691138-5e96-4bbd-8428-878aae65f04b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">e8691138-5e96-4bbd-8428-878aae65f04b</guid>
+        </item>
+        
+        <item>
+            <title>Sprøyteslanking og Giskes comeback</title>
+            <description>Slanking går på bekostning av slappe diabetikere, politikere har blitt for slappe i klesveien, og Trond Giske slapp (tydeligvis) unna.</description>
+            <pubDate>2024-02-16T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/96259aac-2cf1-42f7-be15-5541bd76e2d5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">96259aac-2cf1-42f7-be15-5541bd76e2d5</guid>
+        </item>
+        
+        <item>
+            <title>Anus horribilis og Filterlösa grabbar</title>
+            <description>Kong Charles har kreft, unge drukner i forbrukslån, og feminismen har tydeligvis ingenting å tilby unge menn.</description>
+            <pubDate>2024-02-09T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/df0b0979-aca4-47f8-8422-d48bc5c320f9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">df0b0979-aca4-47f8-8422-d48bc5c320f9</guid>
+        </item>
+        
+        <item>
+            <title>Rumpesjokk på Circle K og Leger helt uten grenser</title>
+            <description>Russland varsler hevn over Sverige, Fritzl blir hyllet i &quot;Hver gang vi møtes&quot;, og influensere får skylden for nedgang i krabbemarkedet.</description>
+            <pubDate>2024-02-02T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/a00c1ca9-cdc5-41be-ba39-f0a49228b4f0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">a00c1ca9-cdc5-41be-ba39-f0a49228b4f0</guid>
+        </item>
+        
+        <item>
+            <title>Popstjernen Fritzl og 16 ukers plagiathelvete</title>
+            <description>Flypassasjerer har blitt verre, Ingvild Kjerkol nekter å legge seg flat, og Staysman savner den tunge tiden.</description>
+            <pubDate>2024-01-26T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/28aed989-68dc-4a48-bb8c-549d9723d651_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">28aed989-68dc-4a48-bb8c-549d9723d651</guid>
+        </item>
+        
+        <item>
+            <title>Mysteriet Besseberg og Breiviks undulat</title>
+            <description>Premiere! Marcus og Martinus er overhodet IKKE involvert i skandaler, Anne-Kat. Hærland har forlatt Farmen Kjendis, og svenske tilstander har ankommet Irak.
+ 
+Odd-Magnus, Amalie, Marius og Tara tar deg gjennom ukas nyheter og snakkiser.</description>
+            <pubDate>2024-01-19T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0995e545-7ded-408d-b350-d6d49f593a67_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"/>
+            <guid isPermaLink="false">0995e545-7ded-408d-b350-d6d49f593a67</guid>
+        </item>
+        </channel>
+</rss>
