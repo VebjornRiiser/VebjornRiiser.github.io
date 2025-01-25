@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Lørdagsrådet</title>
-        <url>https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA</url>
+        <url>https://gfx.nrk.no/3cC7leJqHOr069oXI4HscwILzb1R598_Dn7-S5Vyxu9A</url>
         <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Solveig Kloppen / Abu Hussain / Tuva Fellman</title>
+            <description>TILBAKEMELDING: Fremdeles følelser for franskmann med kjæreste? / PROBLEMER: Nysgjerrig på fengselsfuglen / Hvor lenge kan kjæresten være på besøk? / Bling, bling for dyr bling / Jeg vil ikke at drømmen skal ebbe ut / Mentalt utslitt av svigers / Forholdsklaustrofobi / Venn som strever / Vente på å bli frisk-perioden / Hva gjør jeg med gaver jeg ikke vil ha?</description>
+            <pubDate>2025-01-25T12:58:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f8479672-d5e7-45b1-b88f-a6d52de54d90_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT2H18M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3cC7leJqHOr069oXI4HscwILzb1R598_Dn7-S5Vyxu9A"/>
+            <guid isPermaLink="false">f8479672-d5e7-45b1-b88f-a6d52de54d90</guid>
+        </item>
         
         <item>
             <title>Tilbakemelding fra Martina Lepperød</title>

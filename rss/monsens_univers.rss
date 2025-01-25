@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>CUSTOM: Monsens univers</title>
+        <link>https://radio.nrk.no/podkast/monsens_univers</link>
+        <!--<description></description>-->
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Monsens univers</title>
+        <url>https://gfx.nrk.no/tdy9Orsp1nqMxWWk5xw3YwrZTnyPRIarhRdEP6a9ppog</url>
+        <link>https://radio.nrk.no/podkast/monsens_univers</link>
+        <width>144</width>
+        <height>144</height>
+        </image>
+        
+        <item>
+            <title>Blikkontakt med bjørn</title>
+            <description>Biolog Paul Eric Aspholm kjenner alle bjørnens irriterte ansiktsutrykk. Lars forteller om isbjørnen han helst ikke ville drepe.</description>
+            <pubDate>2025-01-25T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/cc4e7207-96bf-49b8-8229-44a010e10f03_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tdy9Orsp1nqMxWWk5xw3YwrZTnyPRIarhRdEP6a9ppog"/>
+            <guid isPermaLink="false">cc4e7207-96bf-49b8-8229-44a010e10f03</guid>
+        </item>
+        
+        <item>
+            <title>Hallusinasjoner i Himalaya</title>
+            <description>&quot;Du kaster bort livet ditt&quot; sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.
+
+(NRK opplyser: Jannicke Øien har jobbet/jobber for tiden som villmarks-guide, også med Lars Monsens firma som oppdragsgiver.)</description>
+            <pubDate>2025-01-18T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/2dae21e6-f290-40ca-a73e-8a587a10ea48_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vErzrt7SkIq2QCbufkUGowHZbwCnYPq4yen0wYhgMA4A"/>
+            <guid isPermaLink="false">2dae21e6-f290-40ca-a73e-8a587a10ea48</guid>
+        </item>
+        
+        <item>
+            <title>Med fiskestang i synkesand</title>
+            <description>Bård Tufte Johansen er ikke først og fremst morsom. Han er fluefisker. Men hva skjedde da han sank i sanda, midt ute i elva?</description>
+            <pubDate>2025-01-11T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5dee436a-355f-41f9-afa1-9d2eafb65f43_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/07_pWsmsQrpEM9KUn4ecAQ7XR2Oht44NYSDOafsjjOew"/>
+            <guid isPermaLink="false">5dee436a-355f-41f9-afa1-9d2eafb65f43</guid>
+        </item>
+        
+        <item>
+            <title>Premiere 11. januar</title>
+            <description>Du hører Monsens univers i appen NRK Radio.</description>
+            <pubDate>2025-01-10T13:24:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/90988d57-33ad-403a-8340-2de6cf4b2a86_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/cxI1oTynyoU82ximpI5FmAG97hOcMql9jcJHgKo_TCgw"/>
+            <guid isPermaLink="false">90988d57-33ad-403a-8340-2de6cf4b2a86</guid>
+        </item>
+        </channel>
+</rss>
