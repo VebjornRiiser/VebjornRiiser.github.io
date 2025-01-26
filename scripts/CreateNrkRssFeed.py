@@ -258,18 +258,17 @@ def generate_episode_rss(items):
 
 
 if __name__ == "__main__":
-    podnames = [
-    "berrum_beyer_snakker_om_greier",
-    "trygdekontoret",
-    "abels_taarn",
-    "hele_historien",
-    "loerdagsraadet",
-    "debatten",
-    "radio_moerch",
-    "baade_erlend_og_steinar_",
-    "monsens_univers",
-    
-    ]
+    podnames = []
+    # podnames = [
+    # "berrum_beyer_snakker_om_greier",
+    # "trygdekontoret",
+    # "abels_taarn",
+    # "hele_historien",
+    # "debatten",
+    # "radio_moerch",
+    # "baade_erlend_og_steinar_",
+    # "monsens_univers",
+    # ]
 
     print("Trying to read settings file")
     try:
