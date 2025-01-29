@@ -48,15 +48,5 @@
             <itunes:image href="https://gfx.nrk.no/07_pWsmsQrpEM9KUn4ecAQ7XR2Oht44NYSDOafsjjOew"/>
             <guid isPermaLink="false">5dee436a-355f-41f9-afa1-9d2eafb65f43</guid>
         </item>
-        
-        <item>
-            <title>Premiere 11. januar</title>
-            <description>Du hører Monsens univers i appen NRK Radio.</description>
-            <pubDate>2025-01-10T13:24:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/90988d57-33ad-403a-8340-2de6cf4b2a86_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT31S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/cxI1oTynyoU82ximpI5FmAG97hOcMql9jcJHgKo_TCgw"/>
-            <guid isPermaLink="false">90988d57-33ad-403a-8340-2de6cf4b2a86</guid>
-        </item>
         </channel>
 </rss>
