@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Berrum &amp; Beyer snakker om greier</title>
-        <url>https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q</url>
+        <url>https://gfx.nrk.no/uOnn_WzWd9jCmNGeRYKYmwRpZ5ixeaKv4gzRf4GDuy_g</url>
         <link>https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Markus Vangen: Bassengkjeller</title>
+            <description>Sercuritassen, Markus Vangen, er dagens gjest. Det blir preik om å være prestesønn, starte iskrem butikk og bassengkjelleren.</description>
+            <pubDate>2025-01-31T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/69dbf727-b256-4a38-9751-a818d8548e66_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uOnn_WzWd9jCmNGeRYKYmwRpZ5ixeaKv4gzRf4GDuy_g"/>
+            <guid isPermaLink="false">69dbf727-b256-4a38-9751-a818d8548e66</guid>
+        </item>
         
         <item>
             <title>Granca 6: Jeg er helt Bezos</title>
