@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/tdy9Orsp1nqMxWWk5xw3YwrZTnyPRIarhRdEP6a9ppog</url>
+        <url>https://gfx.nrk.no/NbfNUMH4eI_kDOaKE8PrkQKSwa-c8N75OClnrZUULJnA</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Ingen vet vi har selvlysende hai!</title>
+            <description>Marinbiolog og dykker Pia Ve Dahlen forteller hvorfor hun liker Norge bedre enn Hawaii. Lars forteller hvordan Canada mistet all torsken.</description>
+            <pubDate>2025-02-01T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/37c8864e-7b48-4783-885f-1a613040b29c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/NbfNUMH4eI_kDOaKE8PrkQKSwa-c8N75OClnrZUULJnA"/>
+            <guid isPermaLink="false">37c8864e-7b48-4783-885f-1a613040b29c</guid>
+        </item>
         
         <item>
             <title>Blikkontakt med bjørn</title>
