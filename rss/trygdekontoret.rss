@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/r_hST484UShmXomi-MW-sQM0BhbS9cQOnMLxMszrh4cw</url>
+        <url>https://gfx.nrk.no/MKjTBcTjPfCaCXXYbj0yEAEv-oq7AyG7ODrmA35r1Ieg</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nymonarkisme i USA</title>
+            <description>Hvorfor drømmer Silicon Valley-milliardærer om å bli moderne konger i et irriterende demokrati? Med filosof Knut Jørgen Vie.</description>
+            <pubDate>2025-02-03T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a82fa727-a301-48e6-a188-ec140d854ee7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H17M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/MKjTBcTjPfCaCXXYbj0yEAEv-oq7AyG7ODrmA35r1Ieg"/>
+            <guid isPermaLink="false">a82fa727-a301-48e6-a188-ec140d854ee7</guid>
+        </item>
         
         <item>
             <title>Søvn</title>
