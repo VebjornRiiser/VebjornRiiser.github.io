@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/NbfNUMH4eI_kDOaKE8PrkQKSwa-c8N75OClnrZUULJnA</url>
+        <url>https://gfx.nrk.no/VWrEXd6YPqG8Ad35-0CaJAxPzuQMmzL_eB42FN5csMrQ</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Rabalder med reindrift</title>
+            <description>Artist og filmskaper Elle Márjá Eira forteller om oppveksten som reindriftsame. Lars forteller om den gangen i Kautokeino da brøytebilen kom mens han sov utafor puben. (Tips: for the full joik experience, hør heelt til slutten!)</description>
+            <pubDate>2025-02-08T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5002f9f1-f588-495b-9b1e-5cdcb82ee812_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/VWrEXd6YPqG8Ad35-0CaJAxPzuQMmzL_eB42FN5csMrQ"/>
+            <guid isPermaLink="false">5002f9f1-f588-495b-9b1e-5cdcb82ee812</guid>
+        </item>
         
         <item>
             <title>– Ingen vet vi har selvlysende hai!</title>
