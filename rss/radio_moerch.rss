@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg</url>
+        <url>https://gfx.nrk.no/uidDqAtkzaxMRIEhQ3LXWg_7e0f6-SO2odGgw3s9xP2w</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Thomas Seltzer elsker Amerika</title>
+            <description>Det finnes fire kategorier Amerika-hatere, sier Thomas Seltzer. Erlend leter etter hvilken kategori han faller under.
+Denne episoden ble spilt inn 04.februar.</description>
+            <pubDate>2025-02-13T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/eac5c113-ea3e-4f76-be9a-fd50099236de_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H18M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uidDqAtkzaxMRIEhQ3LXWg_7e0f6-SO2odGgw3s9xP2w"/>
+            <guid isPermaLink="false">eac5c113-ea3e-4f76-be9a-fd50099236de</guid>
+        </item>
         
         <item>
             <title>Mímir Kristjánsson #5</title>
