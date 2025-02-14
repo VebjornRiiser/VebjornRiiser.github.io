@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/rMA2CK7yEgXDqEkuIh9rbgS8XHQHtNNdS1buuL9ypfBA</url>
+        <url>https://gfx.nrk.no/2LmGwGBKDgzW4quMJStGjg04g5VElWxDJ2s1sxxqT6EA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan man dø av kjærlighetssorg?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Lege Ellen Støkken Dahl
+Filosof Einar Duenger Bøhn
+Psykolog Erlend Lindholt
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
+            <pubDate>2025-02-14T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/23392eb7-67e7-4ff9-a6f0-2b30e78fd4f5_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2LmGwGBKDgzW4quMJStGjg04g5VElWxDJ2s1sxxqT6EA"/>
+            <guid isPermaLink="false">23392eb7-67e7-4ff9-a6f0-2b30e78fd4f5</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Når på dagen er du lykkeligst?</title>
