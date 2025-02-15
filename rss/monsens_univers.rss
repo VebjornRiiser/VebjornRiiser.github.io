@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/VWrEXd6YPqG8Ad35-0CaJAxPzuQMmzL_eB42FN5csMrQ</url>
+        <url>https://gfx.nrk.no/Rx4Wf0VsqHwuGVSMo7mHrA7RYy6Nwb4VLk6mi2Ya5zIg</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ekle, sinte, snille og ville hunder</title>
+            <description>Maren Teien Rørvik (&quot;Fra bølle til bestevenn&quot;) gir råd om hvordan bli kompis med bikkja. Lars forteller om hundeflokkene i Alaska.</description>
+            <pubDate>2025-02-15T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/ca167464-6287-405b-9f61-634906f9f8d9_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Rx4Wf0VsqHwuGVSMo7mHrA7RYy6Nwb4VLk6mi2Ya5zIg"/>
+            <guid isPermaLink="false">ca167464-6287-405b-9f61-634906f9f8d9</guid>
+        </item>
         
         <item>
             <title>Rabalder med reindrift</title>
