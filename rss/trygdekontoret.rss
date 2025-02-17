@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/3Cm5vIhoUDmPd5c2uoz9bAFzCuV-aLMr4BxQ8g_WlC7Q</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Verdensrommet</title>
+            <description>Spørretime for nerder med astrofyskier Maria Hammerstrøm. Menneskeheten har ingen god plan for å motta besøk fra fjerne galakser og det finnes planeter som består av promp.</description>
+            <pubDate>2025-02-17T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7dbe140f-e82d-426a-97b6-70a86bbafb80_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3Cm5vIhoUDmPd5c2uoz9bAFzCuV-aLMr4BxQ8g_WlC7Q"/>
+            <guid isPermaLink="false">7dbe140f-e82d-426a-97b6-70a86bbafb80</guid>
+        </item>
         
         <item>
             <title>Jawad Raja</title>
