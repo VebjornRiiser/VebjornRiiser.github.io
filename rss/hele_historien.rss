@@ -2067,5 +2067,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw"/>
             <guid isPermaLink="false">f760706f-5cea-42e1-832a-19f7a76d5742</guid>
         </item>
+        
+        <item>
+            <title>Smakebit: En morder løs i Tistedal</title>
+            <description>En morder sprer frykt i ei fredelig lita bygd i Østfold. Flere mennesker blir funnet drept på brutalt vis, og politiet har få spor.</description>
+            <pubDate>2025-02-19T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/a54099c4-1ab6-48b7-81cd-0158b1c67b6e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
+            <guid isPermaLink="false">a54099c4-1ab6-48b7-81cd-0158b1c67b6e</guid>
+        </item>
         </channel>
 </rss>
