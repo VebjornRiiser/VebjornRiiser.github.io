@@ -2077,5 +2077,35 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
             <guid isPermaLink="false">a54099c4-1ab6-48b7-81cd-0158b1c67b6e</guid>
         </item>
+        
+        <item>
+            <title>Dobbeltdrapet (1:3)</title>
+            <description>Et eldre søskenpar blir funnet drept i sitt eget hjem. Naboene beskriver dem som vennlige og hjelpsomme. Hvem kan stå bak?</description>
+            <pubDate>2025-02-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/0745f216-6058-4b6e-9f7a-14f89449b6c6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
+            <guid isPermaLink="false">0745f216-6058-4b6e-9f7a-14f89449b6c6</guid>
+        </item>
+        
+        <item>
+            <title>Frykten sprer seg (2:3)</title>
+            <description>En mann forsvinner sporløst fra huset sitt i Tistedal. En annen blir funnet i sin egen bil, skutt i nakken på kloss hold.</description>
+            <pubDate>2025-02-20T06:02:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/be690fb3-8cf9-4ded-9f07-b537d625c5e2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
+            <guid isPermaLink="false">be690fb3-8cf9-4ded-9f07-b537d625c5e2</guid>
+        </item>
+        
+        <item>
+            <title>Den mystiske naboen (3:3)</title>
+            <description>Tre drepte, én sporløst forsvunnet og et bankran. Politiet har få spor og dårlig tid. Hvem er det som herjer i Tistedal?</description>
+            <pubDate>2025-02-20T06:04:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/12611b78-9caa-48e4-b53a-4aec686f7768_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
+            <guid isPermaLink="false">12611b78-9caa-48e4-b53a-4aec686f7768</guid>
+        </item>
         </channel>
 </rss>
