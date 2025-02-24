@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/3Cm5vIhoUDmPd5c2uoz9bAFzCuV-aLMr4BxQ8g_WlC7Q</url>
+        <url>https://gfx.nrk.no/abVi6BTkofJliCa7S_Oz6wBAkP3NrZh3ka65ZYGbTzcw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Helseundersøkelse som roman</title>
+            <description>– Traumer kan arves!
+Tall fra en 40-årig helseundersøkelse gir ikke bare mål på kroppens tilstand, men viser hvordan sår og traumer går i arv. Ingrid Storholmen har skrevet romanen «Bloddråpetall»  basert på data fra en 40 år pågående helseundersøkelse.</description>
+            <pubDate>2025-02-24T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ed144c3b-9ad1-4b64-8590-0f5777748d27_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/abVi6BTkofJliCa7S_Oz6wBAkP3NrZh3ka65ZYGbTzcw"/>
+            <guid isPermaLink="false">ed144c3b-9ad1-4b64-8590-0f5777748d27</guid>
+        </item>
         
         <item>
             <title>Verdensrommet</title>
