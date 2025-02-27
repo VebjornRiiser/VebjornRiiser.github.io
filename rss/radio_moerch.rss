@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/uidDqAtkzaxMRIEhQ3LXWg_7e0f6-SO2odGgw3s9xP2w</url>
+        <url>https://gfx.nrk.no/PVfwcVTrW1K7UbCMBw2JtwLLmiw8rL8uiF0Ggees8Brw</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Papirløs flyktning Safari Shabani</title>
+            <description>Han har klesstil, karisma og masse følgere i sosiale medier - men har aldri hatt pass. Erlend spør ut Safari om hans ganske så usannsynlige liv.</description>
+            <pubDate>2025-02-27T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ceb7f452-b23b-48ca-a659-6ed304b6f961_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H21M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PVfwcVTrW1K7UbCMBw2JtwLLmiw8rL8uiF0Ggees8Brw"/>
+            <guid isPermaLink="false">ceb7f452-b23b-48ca-a659-6ed304b6f961</guid>
+        </item>
         
         <item>
             <title>Thomas Seltzer elsker Amerika</title>
