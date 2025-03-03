@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/abVi6BTkofJliCa7S_Oz6wBAkP3NrZh3ka65ZYGbTzcw</url>
+        <url>https://gfx.nrk.no/zDKpxv4byW5e21fU64rqqQ0qMv9zeCZbrqveellzBGNQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Danmark-Norge som kolonimakt</title>
+            <description>Slavehandel og sukker skulle gjøre oss rike, det kostet mange liv. Historiker Finn Einar Eliassen deler vår mørke fortid.</description>
+            <pubDate>2025-03-03T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/aa4f7404-e089-46f6-adca-d1a7f7277f10_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H10M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zDKpxv4byW5e21fU64rqqQ0qMv9zeCZbrqveellzBGNQ"/>
+            <guid isPermaLink="false">aa4f7404-e089-46f6-adca-d1a7f7277f10</guid>
+        </item>
         
         <item>
             <title>Helseundersøkelse som roman</title>

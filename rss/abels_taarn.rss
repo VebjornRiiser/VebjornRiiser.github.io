@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/PsX1hn69l_h7KzlQfv9OkQGckKbCrOykf_dibTfTI18A</url>
+        <url>https://gfx.nrk.no/lFvmuSauY8TjTiJy0fQ6cwp-5BZzCW7uUKEcVh-Ksthg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Microsofts kvantesprang</title>
+            <description>Torkild, Kristina og Hanne snakker om Microsofts kvantechip, hva vi kan gjøre med lukten av mumier og om lykkeforskning egentlig bare er tull</description>
+            <pubDate>2025-03-03T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/29921554-071c-4d57-bb4f-62e3aa12ad32_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/lFvmuSauY8TjTiJy0fQ6cwp-5BZzCW7uUKEcVh-Ksthg"/>
+            <guid isPermaLink="false">29921554-071c-4d57-bb4f-62e3aa12ad32</guid>
+        </item>
         
         <item>
             <title>Hva er egentlig magefølelse?</title>
