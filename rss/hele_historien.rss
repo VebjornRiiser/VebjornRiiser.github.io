@@ -2097,5 +2097,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA"/>
             <guid isPermaLink="false">12611b78-9caa-48e4-b53a-4aec686f7768</guid>
         </item>
+        
+        <item>
+            <title>I NRK Radio: Da Norge stengte ned</title>
+            <description>Da korononaviruset når Norge i 2020 utløser det de mest drastiske tiltakene i fredstid noensinne – hele landet lukker ned.</description>
+            <pubDate>2025-03-05T13:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/c28be38b-1b68-4731-9657-2589e131a512_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rnEteIf4nOA32RneyoBPQwrAWU1u6gVS_SSAapdOU9Xw"/>
+            <guid isPermaLink="false">c28be38b-1b68-4731-9657-2589e131a512</guid>
+        </item>
         </channel>
 </rss>
