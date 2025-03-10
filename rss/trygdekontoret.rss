@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/zDKpxv4byW5e21fU64rqqQ0qMv9zeCZbrqveellzBGNQ</url>
+        <url>https://gfx.nrk.no/2MLZGflHFYGIOLCZF45NDw0z9qPta_mLk0O6VQedsO4w</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Klassesamfunnet Norge</title>
+            <description>Norge er både et av verdens likeste og mest klassedelte samfunn. Sosiologene Magne Flemmen og Jørn Ljunggren prøver å forklare.</description>
+            <pubDate>2025-03-10T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/643e22c0-f9fa-4a88-a6a8-05f4ce32acbd_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2MLZGflHFYGIOLCZF45NDw0z9qPta_mLk0O6VQedsO4w"/>
+            <guid isPermaLink="false">643e22c0-f9fa-4a88-a6a8-05f4ce32acbd</guid>
+        </item>
         
         <item>
             <title>Danmark-Norge som kolonimakt</title>
