@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/PVfwcVTrW1K7UbCMBw2JtwLLmiw8rL8uiF0Ggees8Brw</url>
+        <url>https://gfx.nrk.no/znNfOU6sL3qO254E9ZymDgXhL0Kw1VCNsdbAqMY7_iYg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Partileder Else Kåss Furuseth</title>
+            <description>Erlend har planer om å grille den ferske politiske lederen. Men siden Ensomhetspartiet ikke har et partiprogram, må det lages først.</description>
+            <pubDate>2025-03-13T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/424f968e-1797-429d-9f51-b1a9298e5aaf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H16M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/znNfOU6sL3qO254E9ZymDgXhL0Kw1VCNsdbAqMY7_iYg"/>
+            <guid isPermaLink="false">424f968e-1797-429d-9f51-b1a9298e5aaf</guid>
+        </item>
         
         <item>
             <title>Papirløs flyktning Safari Shabani</title>
