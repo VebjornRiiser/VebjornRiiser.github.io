@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/vomYG9xnwRXJGpC6sWncIQtKfFSBF2yuqQZ2Jw3IIHaA</url>
+        <url>https://gfx.nrk.no/H158O8ZzcXnfR3UrQ8aiwwOk75ZXQbXtB_SO9l888nsw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan jorda ved et uhell skyves ut av bane?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagnes eksperter:
+Statistiker Jo Røislien
+Kjemiker Carl Henrik Gørbitz
+Fysiker Anders Kvellestad
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i appen NRKradio, eller send mail til abels@nrk.no</description>
+            <pubDate>2025-03-14T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5d33ad5c-d08a-4f45-9a54-bf5467dc230c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/H158O8ZzcXnfR3UrQ8aiwwOk75ZXQbXtB_SO9l888nsw"/>
+            <guid isPermaLink="false">5d33ad5c-d08a-4f45-9a54-bf5467dc230c</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Mobilstopp endrer hjernen</title>
@@ -718,23 +735,6 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
             <itunes:duration>PT28M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/A7YltE__fAx_EgpVNjKz4wdleRFQ18y1R49E03YCJ7RQ"/>
             <guid isPermaLink="false">a04bb49c-07ab-4247-9ae3-adec4cb0e2cb</guid>
-        </item>
-        
-        <item>
-            <title>Kan mennesker lukte frykt?</title>
-            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
-
-Dagens eksperter:
-Lege Per Medbøe Thorsby
-Kjemiker Einar Uggerud
-Psykologiforsker Siri Leknes
-
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description>
-            <pubDate>2024-10-25T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5249c012-4276-4a42-b763-5f5ce7cada50_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT30M32S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/l3aoBIUwQr9Au9bCPDrk_gJ8tIetxjM_UVbA25PdvCjw"/>
-            <guid isPermaLink="false">5249c012-4276-4a42-b763-5f5ce7cada50</guid>
         </item>
         
         <item>
@@ -4268,6 +4268,18 @@ I denne episoden møter vi Moserne på hjemmebane, på deres eget forskningsinst
         </item>
         
         <item>
+            <title>Abels tårn - Drømmen om å forstå hjernen. May-Britt og Edvard Moser spesial</title>
+            <description>Nylig gikk Mark Zuckerbergs fond inn med midler til May-Britt og Edvard Mosers forskning. Hans mål er å utrydde all sykdom i løpet av dette  århundre, og han mener de Norske nobelprisvinnernes nyeste oppfinnelse kan være et skritt på veien. 
+
+I denne episoden møter vi Moserne på hjemmebane, på deres eget forskningsinstitutt. De forteller om de viktigste oppdagelsene de har gjort de seneste åra, og om det nye forskningssenteret de er i ferd med å åpne. Denne gangen vil de forstå &quot;hjernebarkens algoritmer&quot;.</description>
+            <pubDate>2023-02-26T19:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b1294378-0cdd-4838-a08c-b734787ad466_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/b_5D1HF6W1BXRh8VrHS1bA63s65iP6QHept4sIcuY33Q"/>
+            <guid isPermaLink="false">b1294378-0cdd-4838-a08c-b734787ad466</guid>
+        </item>
+        
+        <item>
             <title>Abels ekstra - Er de store oppdagelsenes tid forbi?</title>
             <description>Har vi sett den siste Einstein og Newton? Blir det ikke flere kvanterevolusjoner? Har vi nådd et vitenskapelig metningspunkt, eller er det tvert imot akkurat nå vi har satt beina ut i en vitenskapelig flodbølge av kunstig intelligens og genteknologi som vil ta oss til fullstendig ukjente farvann?
 
@@ -5407,6 +5419,23 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
         </item>
         
         <item>
+            <title>Abels bakgård - Ødelegger vi havet?</title>
+            <description>Hvordan har havet det langs Norges kystnære områder?
+Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
+
+Hvorfor blir havet nær kysten mørkere?
+
+Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
+
+Dette høres litt mørkt ut men vi ser også på løsninger.</description>
+            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
+            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Er vi datafigurer i en stor simulering av virkeligheten?</title>
             <description>- Om det finnes paralelle universer, finnes det da flere av meg? 
 
@@ -5428,23 +5457,6 @@ Fysiker Ida Torkjellsdatter Storehaug</description>
             <itunes:duration>PT57M36S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/qseyuM-Fy-9IxbTIO2hbrQqnOBxguSQ8sk4Zs_cn2CxQ"/>
             <guid isPermaLink="false">8edab392-25fe-415f-a216-90ebf8dbe9d1</guid>
-        </item>
-        
-        <item>
-            <title>Abels bakgård - Ødelegger vi havet?</title>
-            <description>Hvordan har havet det langs Norges kystnære områder?
-Abels tårn får mange spørsmål om situasjonen i havet nær kystområdene våre og her har vi samlet noen av dem.
-
-Hvorfor blir havet nær kysten mørkere?
-
-Hvor viktige er planktonet for marint liv og er plankton i ferd med å bli utryddet? 
-
-Dette høres litt mørkt ut men vi ser også på løsninger.</description>
-            <pubDate>2022-08-26T10:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4525788-71aa-4dac-9069-052ca9afc500_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M36S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/N5R-CQOTpJ7q8jfHfrq_mg59llIgaVTOC6HNdfBmxwgw"/>
-            <guid isPermaLink="false">c4525788-71aa-4dac-9069-052ca9afc500</guid>
         </item>
         
         <item>
@@ -6229,33 +6241,6 @@ Hanne Scholtz</description>
             <itunes:duration>PT57M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/ZMtvdQHQm4xFCIxmIsmUwAbOtjE4RKVxhTmVnFfG9SGQ"/>
             <guid isPermaLink="false">a6839ddb-da6b-4c17-b626-d00d7f94d1a6</guid>
-        </item>
-        
-        <item>
-            <title>Panelet - kan dyr drømme, le eller juge?</title>
-            <description>Drømmer alle dyr?
-
-Når begynte man å benytte seg av fornavn?
-
-Hvis universet slutter å utvide seg, vil all energi fra Big Bang treffe oss på en gang?
-
-Kan alle dyr le?
-
-Hva bruker flotten alt blodet den suger til?
-
-Hvorfor er naturen full av sirkler i ulike utgaver?
-
-Kan dyr lyve, lure eller bedra andre godtroende dyr?
-
-Panelet:
-Forsker på dyrevelferd Kristian Ellingsen-Dalskau
-Primatolog og økolog Anita Eriksen
-Fysiker Ida Torkjellsdatter Storehaug</description>
-            <pubDate>2022-03-11T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/598fc695-f5a4-47b1-94bd-2b0938763c1a_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M6S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/lpYLdu93tkpLViuj7NjF9QLTpzDJAphTu-wbZ2f_TiMg"/>
-            <guid isPermaLink="false">598fc695-f5a4-47b1-94bd-2b0938763c1a</guid>
         </item>
         
         <item>
@@ -8188,6 +8173,18 @@ Ukas Makker er Torunn Kjellstad</description>
         </item>
         
         <item>
+            <title>Forgård: Flytende solceller, seksstjernesystem og Torunn Kjellstad</title>
+            <description>I Game of Thrones-verdenen kan man aldri vite når vinteren kommer og hvor lang den skal blir. Nå er det oppdaget et stjernesystem hvor en sånn planet kan eksistere. Ukas makker er solcelleforsker, og jobber for tiden med det nyeste og heiteste i bransjen: flytende solceller. Dessuten spør vi om dyrelivet i havet blir forstyrret av vindmøller til havs.
+
+Ukas Makker er Torunn Kjellstad</description>
+            <pubDate>2021-02-05T17:08:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/890a0c05-44dd-4f92-a5a5-97ab64402528_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT55M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/haipW4yVakbNm9_VJ4UGkQIDLxzCfJaT8WqSvZNQcI_w"/>
+            <guid isPermaLink="false">890a0c05-44dd-4f92-a5a5-97ab64402528</guid>
+        </item>
+        
+        <item>
             <title>Panelet: Bakteriefilm på tenna og ikke-newtonske væsker på henda</title>
             <description>•	Hvorfor blir Creme Fraichen flytende når man rører i den?
 •	Kan man bygge luftskip med vakuum med nye supersterke materialer?
@@ -9111,32 +9108,6 @@ Lege - Steinar Madsen</description>
             <itunes:duration>PT57M53S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
             <guid isPermaLink="false">abels_taarn_2019-12-20_0900_2578.MP3</guid>
-        </item>
-        
-        <item>
-            <title>CERN spesial - Eksisterer vi, egentlig?</title>
-            <description>Hva skjer om vi putter et hamster inn i en partikkelakselerator, var et av spørsmålene vi hadde med da vi besøkte CERN i høst. Med oss i sekken hadde vi også et utsøkt panel av kremen av norske partikkelfysikere. 
-
-- Hva skjer om vi dytter dverghamsteret Obama inn i en partikkelakselerator?
-- Hvor kommer partiklene som sendes rundt og rundt i CERN fra?
-- Hvordan kan en partikkel uten masse egentlig eksistere?
-- Finnes det noen nedre grense, eller vil vi alltid finne noe nytt inni partiklene? Små gnomer inni kvarkene?
-- Hvordan funker internett?
-- Hva vinner av en planet og et lite svart hull (som for eksempel de de vil lage i CERN)?
-- Hva er en ladning?
-- Hva er vi i bunn og grunn laget av? Eksisterer vi?
-- Blir man radioaktiv av å spise banan?
-
-I panelet
-Fysiker Are Raklev
-Fysiker Anders Kvellestad
-Fysiker Eli Bæverfjord Rye
-Samt IT-ekspert Nils Høimyr</description>
-            <pubDate>2019-12-13T10:03:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/abels_taarn_2019-12-13_0903_2784.MP3" type="audio/mpeg"/>
-            <itunes:duration>PT55M12S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
-            <guid isPermaLink="false">abels_taarn_2019-12-13_0903_2784.MP3</guid>
         </item>
         
         <item>
@@ -10266,6 +10237,30 @@ Gaute Einevoll - Fysiker og hjerneforsker</description>
             <itunes:duration>PT50M44S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
             <guid isPermaLink="false">abels_taarn_2018-10-19_1429_2600.MP3</guid>
+        </item>
+        
+        <item>
+            <title>Det kribler så deilig når jeg tisser vs. Fri vilje</title>
+            <description>Godt spenn i tårnet i dag: fra hvordan vi kan forklare våre handlinger uten den frie vilje, til hvorfor det kribler i hele kroppen når man tisser. Men hvilket svar er mest interessant? Hm?
+
+Hele menyen:
+- Skadelig for barnet med foreldres mobilbruk?
+- Sopp: bra eller dårlig? Og vokser den på samme sted fra år til år?
+- Mysteriet med vepsen og de lyse stripene på veggen 
+- Hvorfor kiler det i kroppen før og mens man tisser?
+- Kan man ha et tilfeldig univers og allikevel fri vilje?
+- Myggfjerningstips: sette en avledningsbolle med blod på nattbordet.
+- Er siamesiske tvillinger ett eller to individer?
+
+I panelet:
+Anne Sverdrup-Thygeson - Biolog og insektsøkolog 
+Einar Duenger Bøhn - Filosof 
+Ida Kathrine Gravensteen - Lege</description>
+            <pubDate>2018-10-12T14:24:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/abels_taarn_2018-10-12_1224_3104.MP3" type="audio/mpeg"/>
+            <itunes:duration>PT54M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
+            <guid isPermaLink="false">abels_taarn_2018-10-12_1224_3104.MP3</guid>
         </item>
         
         <item>
@@ -11484,28 +11479,6 @@ Kjemiker Einar Uggerud</description>
             <itunes:duration>PT54M47S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
             <guid isPermaLink="false">abels_taarn_2017-08-25_1224_3172.MP3</guid>
-        </item>
-        
-        <item>
-            <title>Birkeland spesial (og EM-drive)(og keivhendte katter)</title>
-            <description>Da Kristian Birkeland døde på et hotellrom i Tokyo, var det som en ensom og forlatt vitenskapsmann. 
-For selv om han hadde vært med å grunnlegge Norsk Hydro, var det få som trodde på de vitenskapelige ideene hans om nordlyset. Men han hadde rett. 
-Abels tårn feirer 150-årsdagen til Kristian Birkeland med en Birkeland spesial fra Teknisk museum i Oslo.
-
-Og så spør vi om katter kan være venstrehendte.
-Og om man blir slank av å tenke mye (og å se på damer/gutter).
-Og om EM-drive funker.
-
-I panelet:
-Pål Brekke
-Anne Schad Bergsaker
-Petter Bøckman
-Are Raklev</description>
-            <pubDate>2017-08-21T14:25:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/abels_taarn_2017-08-21_1225_3367.MP3" type="audio/mpeg"/>
-            <itunes:duration>PT53M47S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
-            <guid isPermaLink="false">abels_taarn_2017-08-21_1225_3367.MP3</guid>
         </item>
         
         <item>
