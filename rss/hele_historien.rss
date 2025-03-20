@@ -2127,5 +2127,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/HNjm5FvYr9HW0hGQ09V84QnUDLJDegsio8L-sJhQyy_Q"/>
             <guid isPermaLink="false">ca4045c5-db38-482d-8bf1-7844c5f4aed1</guid>
         </item>
+        
+        <item>
+            <title>En liten livløs kropp (1:2)</title>
+            <description>Det slås drapsalarm på Hamar når de finner barneliket ved barnehagen. Tilbake står en knust bestevenn. De skulle bare jakte etter godteri.</description>
+            <pubDate>2025-03-20T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/c4dfbf63-a006-4f81-9736-96cf9eb6abca_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HNjm5FvYr9HW0hGQ09V84QnUDLJDegsio8L-sJhQyy_Q"/>
+            <guid isPermaLink="false">c4dfbf63-a006-4f81-9736-96cf9eb6abca</guid>
+        </item>
+        
+        <item>
+            <title>Hapåmannen  (2:2)</title>
+            <description>Politiet banker på dører og snakker med flere tusen mennesker på Hamar. Et av husene er kjemisk rengjort, og politiet fatter mistanke.</description>
+            <pubDate>2025-03-20T06:03:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/28c456ac-d023-4e8e-a3aa-ad5659351136_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT46M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HNjm5FvYr9HW0hGQ09V84QnUDLJDegsio8L-sJhQyy_Q"/>
+            <guid isPermaLink="false">28c456ac-d023-4e8e-a3aa-ad5659351136</guid>
+        </item>
         </channel>
 </rss>
