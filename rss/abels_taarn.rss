@@ -11,11 +11,29 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/kJQmh5CJ79gKPv4FYZk9AwHfi1udt6Bj0fWtK1yz6i6Q</url>
+        <url>https://gfx.nrk.no/icKpsWSK3TzFm5OLOiXfxAITCIK7Z6Rh9QwUmfqvurZA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Har vi misforstått mørk energi?</title>
+            <description>Torkild, Kristina og Hanne deler små og store forskningsnyheter om:
+
+Mulig paradigmeskifte etter funn om mørk energi.
+
+X-kromosomets superkrefter.
+
+5 ting man kan gjøre hvis man er fanget i rommet.
+
+Og første vellykkede månelanding av et kommersielt selskap.</description>
+            <pubDate>2025-03-24T06:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a2576554-1527-4516-9e7c-ac509001acec_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/icKpsWSK3TzFm5OLOiXfxAITCIK7Z6Rh9QwUmfqvurZA"/>
+            <guid isPermaLink="false">a2576554-1527-4516-9e7c-ac509001acec</guid>
+        </item>
         
         <item>
             <title>Finnes det demokrati i jungelen?</title>
