@@ -11,11 +11,26 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/KAp9ijVe_i9pA8Gj4Ig4MwloTFV9jX4PSgWc8KrfQ_Mw</url>
+        <url>https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Et maraton endrer hjernen din</title>
+            <description>Torkild, Hanne og vår praktikant Henriette deler små og store forskningsnyheter.
+
+Å løpe et maraton endrer hjernen din fysisk
+Hvordan hoppe i vannet for å lage størst mulig plask
+Derfor sier det &quot;pop&quot; når du åpner ølflaska
+Havskillpaddene som trosser klimaendringene</description>
+            <pubDate>2025-03-31T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2775fef9-fe4b-464f-99f5-b8f4781de44b_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg"/>
+            <guid isPermaLink="false">2775fef9-fe4b-464f-99f5-b8f4781de44b</guid>
+        </item>
         
         <item>
             <title>Hva skjer hvis en atombombe sprenger i verdensrommet?</title>

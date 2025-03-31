@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/5BJtMnBVYZiZRbukmU5zSwrdTRW4eCihP84PkazTc4CQ</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Drap i nære relasjoner</title>
+            <description>Hvorfor dreper noen sine nærmeste? Drapsforsker Vibeke Ottesen forklarer de mørke mekanismene.</description>
+            <pubDate>2025-03-31T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/58b98126-5841-4d4b-92f2-889c291c78f1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H7M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">58b98126-5841-4d4b-92f2-889c291c78f1</guid>
+        </item>
         
         <item>
             <title>Effektiv altruisme</title>
