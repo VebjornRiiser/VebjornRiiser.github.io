@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/zgYahRVGj0XrUqVMkZY4KQHJp_wnsm8XYzeL9jZdoz3g</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>KI og demokrati</title>
+            <description>Kan demokratiet overleve kunstig intelligens? Forfatter Henrik Skaug Sætra forklarer trusselen fra KI.</description>
+            <pubDate>2025-04-07T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2a3bea52-430f-46fc-8df8-71b9f9634836_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H11M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zgYahRVGj0XrUqVMkZY4KQHJp_wnsm8XYzeL9jZdoz3g"/>
+            <guid isPermaLink="false">2a3bea52-430f-46fc-8df8-71b9f9634836</guid>
+        </item>
         
         <item>
             <title>Drap i nære relasjoner</title>

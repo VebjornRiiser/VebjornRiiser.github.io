@@ -11,11 +11,27 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_R3yEo3c1L-tASGp_vrxswmsZBCclcrGlE-MKwJCW0Ew</url>
+        <url>https://gfx.nrk.no/qEEwNyY03YFReG-BNUAmRgfJqBDCu1QCKad1whb0-Ogw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Hva om faren din ikke er faren din?</title>
+            <description>Torkild, Kristina og Hanne deler små og store forskningsnyheter om:
+
+Hvor mange som har ar en annen far enn vi tror
+
+Antikke statuer luktet rose
+
+125 år gammel matematikkgåte løst!</description>
+            <pubDate>2025-04-07T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/efe26d45-924f-40e9-83ed-de24abdd10a3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/qEEwNyY03YFReG-BNUAmRgfJqBDCu1QCKad1whb0-Ogw"/>
+            <guid isPermaLink="false">efe26d45-924f-40e9-83ed-de24abdd10a3</guid>
+        </item>
         
         <item>
             <title>Hvorfor hater små barn å sove?</title>
