@@ -11,11 +11,72 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/qEEwNyY03YFReG-BNUAmRgfJqBDCu1QCKad1whb0-Ogw</url>
+        <url>https://gfx.nrk.no/iwRgIqWrvV01brXdJyCQWwyhkmbp6yneBT5YRb5CYSXg</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Uløst dobbeltmord i Sverige</title>
+            <description>... så endres loven om DNA-slektsforskning i USA.
+En &quot;true crime&quot; og DNA-vitenskapen bak (4:4)</description>
+            <pubDate>2025-04-10T06:12:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/33fe400b-c680-4f66-9c61-4a30f1b90114_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/iwRgIqWrvV01brXdJyCQWwyhkmbp6yneBT5YRb5CYSXg"/>
+            <guid isPermaLink="false">33fe400b-c680-4f66-9c61-4a30f1b90114</guid>
+        </item>
+        
+        <item>
+            <title>DNA blir funnet på et drapsoffer</title>
+            <description>... men den mistenkte kan umulig å drept noen.
+En &quot;true crime&quot; og DNA-vitenskapen bak (3:4)</description>
+            <pubDate>2025-04-10T06:10:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fb08b0f2-7cb3-41c6-b3b5-842f2c70bed0_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT18M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ctx7Ng4MvcPKqXJYLuRUeQ0ix88kaSpIKhQRZO6EDulg"/>
+            <guid isPermaLink="false">fb08b0f2-7cb3-41c6-b3b5-842f2c70bed0</guid>
+        </item>
+        
+        <item>
+            <title>Ingen ser når en mann dreper</title>
+            <description>... likevel lages en etterlystplakat, kliss lik ham.
+En &quot;true crime&quot; og DNA-vitenskapen bak (2:4)</description>
+            <pubDate>2025-04-10T06:07:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2977e42a-16c2-4bb5-b769-56bd62aa223c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT18M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/vwVjk61HnU_iVP2F9rM35gmJxu8XSk9eRNj8g42s3onA"/>
+            <guid isPermaLink="false">2977e42a-16c2-4bb5-b769-56bd62aa223c</guid>
+        </item>
+        
+        <item>
+            <title>En seriemorder går løs</title>
+            <description>... helt til verdens første DNA-fingeravtrykk oppdages. 
+En &quot;true crime&quot; og DNA-vitenskapen bak (1:4)</description>
+            <pubDate>2025-04-10T06:04:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/68c6a01a-1afc-4f36-a352-b9cf2a92a1de_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT23M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/V5QyncHUMLo5k244rQp8mAnALymiuokWomr49tGm9kFw"/>
+            <guid isPermaLink="false">68c6a01a-1afc-4f36-a352-b9cf2a92a1de</guid>
+        </item>
+        
+        <item>
+            <title>Et lik på Nasjonalbiblioteket?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt som skjer på et åsted
+
+Dagens eksperter:
+Kriminaltekniker Håvard Arntzen
+Rettsmedisiner Ida Kathrine Gravensteen
+Fysiker Are Raklev
+
+Send oss dine spørsmål ved å trykke på snakkebobla i appen NRKradio</description>
+            <pubDate>2025-04-10T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c1353db6-03a3-491e-bd9b-00c920a7e3a2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1Ko6eokOdMoMIGwnrXNY4QJ2wqFG8CkPFcPxGT8kjy4A"/>
+            <guid isPermaLink="false">c1353db6-03a3-491e-bd9b-00c920a7e3a2</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Hva om faren din ikke er faren din?</title>
@@ -6177,20 +6238,6 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
-        </item>
-        
-        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -6210,6 +6257,20 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
+        </item>
+        
+        <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
@@ -6890,16 +6951,6 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
         </item>
         
         <item>
-            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
-            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
-            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT53M26S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
-            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
-        </item>
-        
-        <item>
             <title>Panelet - Insekter, vulkaner, galakser og vitenskapsfolk</title>
             <description>Hvordan kan man best legge til rette for at insekter skal trives?  Og, er vitenskapsfolk for lite nysgjerrige?</description>
             <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
@@ -6907,6 +6958,16 @@ Som - hva har metafysikk med fysikk og den vanlige vitenskapen å gjøre, og hva
             <itunes:duration>PT57M7S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/g1KHggYnNLoaGdHR0QFrpAH8JVuoSgllAVpUvQ0x-X4A"/>
             <guid isPermaLink="false">5c6cda7f-98b1-411e-9f99-0221aebb9daf</guid>
+        </item>
+        
+        <item>
+            <title>Forgård - med vikingetterforskeren Cat Jarman</title>
+            <description>Med rettsmedisinske metoder finner dagens makker stadig nye ting om vikingene i England.</description>
+            <pubDate>2021-11-19T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0022150-f1e9-4264-844d-e406e2e5527c_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/olDcWtqeuJbk_vxQyvB44ALgm6qwxBFD4yNa3qmwPx5g"/>
+            <guid isPermaLink="false">f0022150-f1e9-4264-844d-e406e2e5527c</guid>
         </item>
         
         <item>

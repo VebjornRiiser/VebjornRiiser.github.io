@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/NbySSZ_sNb-sGdxHJbJoHwIUMXo0WstGVYFIG3WhmLlA</url>
+        <url>https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mímir Kristjánsson #6</title>
+            <description>Hvem bedre til å oppsummere vonde, nye tider enn gode gamle Mímir Kristjánsson? 
+--
+NB: Nå er det tidlig sommerferie. Sett derfor stjerne på oss, for fra midten av juli er vi nemlig tilbake med Radio Mørch`s storstilte valgdekning! Da skal ledere fra alle de store norske partiene inn i studio, én etter én :).</description>
+            <pubDate>2025-04-10T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/0a66c260-77f9-4087-8b98-668d4f6481d6_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H13M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg"/>
+            <guid isPermaLink="false">0a66c260-77f9-4087-8b98-668d4f6481d6</guid>
+        </item>
         
         <item>
             <title>Maler William Heimdal</title>
