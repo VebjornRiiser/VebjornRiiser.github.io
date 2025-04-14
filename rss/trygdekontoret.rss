@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/zgYahRVGj0XrUqVMkZY4KQHJp_wnsm8XYzeL9jZdoz3g</url>
+        <url>https://gfx.nrk.no/R907h9evUKdCSLv3TmRjxA2Kuxan8YT7Nr_CVJoEwIBA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ski-legenden Sondre Norheim</title>
+            <description>-Ingen pioner, men veldig god på ski. Forfatter Thor Gotaas forteller historien om mannen som døde på prærien med ski på beina.</description>
+            <pubDate>2025-04-14T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b2be94a1-e9d6-4a74-a545-787bac08bd6e_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/R907h9evUKdCSLv3TmRjxA2Kuxan8YT7Nr_CVJoEwIBA"/>
+            <guid isPermaLink="false">b2be94a1-e9d6-4a74-a545-787bac08bd6e</guid>
+        </item>
         
         <item>
             <title>KI og demokrati</title>
