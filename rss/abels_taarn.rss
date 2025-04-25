@@ -11,11 +11,28 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/gV4pCj1NYO-eLB-izX15HwHYC4epLG_acm2-ebnkS3OA</url>
+        <url>https://gfx.nrk.no/eYeQifyPEOWg20qILJjYQAsZZCO8OWuKBJVioSFRybPw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er DeepSeek skumlere enn ChatGPT?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Dagens eksperter:
+Datalog Morten Goodwin
+Kjemiker Einar Uggerud
+Paleontolog Aubrey Roberts
+
+Send oss dine spørsmål ved å trykke på snakkebobla i appen NRKradio</description>
+            <pubDate>2025-04-25T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/31201ce3-1a18-438e-a086-9c2d03934712_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/eYeQifyPEOWg20qILJjYQAsZZCO8OWuKBJVioSFRybPw"/>
+            <guid isPermaLink="false">31201ce3-1a18-438e-a086-9c2d03934712</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Du skjønner (trolig) ikke hva hunder føler</title>
