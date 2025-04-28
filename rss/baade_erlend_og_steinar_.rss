@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Både Erlend og Steinar</title>
-        <url>https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA</url>
+        <url>https://gfx.nrk.no/W43QzUR_ehNPJUUDjQ7gRAnrep_b9PCn5Ax7pxTYA3Sw</url>
         <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ærlig psykolog-tjeneste™</title>
+            <description>Erlend og Steinar har fått svar på hva som er det verste med å være kvinne. Og hva slags kvinne ville Erlend og Steinar vært?</description>
+            <pubDate>2025-04-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2f3a99fe-de33-4f30-9f5c-704593121e83_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/W43QzUR_ehNPJUUDjQ7gRAnrep_b9PCn5Ax7pxTYA3Sw"/>
+            <guid isPermaLink="false">2f3a99fe-de33-4f30-9f5c-704593121e83</guid>
+        </item>
         
         <item>
             <title>Kysseleken</title>
