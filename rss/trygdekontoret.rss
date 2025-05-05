@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/xiS4-jehL9EOs2Jwfqh8RANOCRYpkX9lWz8ocFVzDOEA</url>
+        <url>https://gfx.nrk.no/eiyEOyE1OIr9Vj_4He6lOgWM349N5Gy0DthxxXDAwC6A</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Dødshjelp</title>
+            <description>Er dødshjelp en slippery slope eller en menneskerett? Henrik Thune forteller om da sønnen Tobias døde. Professor Ole Martin Moen tar oss rett til kjernen i en av vår tids mest betente etiske debatter.</description>
+            <pubDate>2025-05-05T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/54ee10c3-9d87-4659-9fdc-04bfa80e857f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/eiyEOyE1OIr9Vj_4He6lOgWM349N5Gy0DthxxXDAwC6A"/>
+            <guid isPermaLink="false">54ee10c3-9d87-4659-9fdc-04bfa80e857f</guid>
+        </item>
         
         <item>
             <title>Kampen mot facismen</title>
