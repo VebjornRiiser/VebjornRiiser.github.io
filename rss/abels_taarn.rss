@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/70-hRAPfBVOq7T40nbLx2gcX0bRbMzwWsGXaIsgmoq7g</url>
+        <url>https://gfx.nrk.no/bMav42J-pJiyrmw7ksCCYQaObQ1VVE3ynKgK1BsFEnqA</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er det lurt å lage skrekkulver?</title>
+            <description>Sammen med et ekspertpanel gir tårnsjef Torkild Jemterud deg svar på alt du ikke visste du lurte på</description>
+            <pubDate>2025-05-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/694db2fe-38b2-4b89-8bca-1bc4617a534d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bMav42J-pJiyrmw7ksCCYQaObQ1VVE3ynKgK1BsFEnqA"/>
+            <guid isPermaLink="false">694db2fe-38b2-4b89-8bca-1bc4617a534d</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Voldtektsdop hos blekksprut</title>
