@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/z8LF8A5hwfbAgcorlRNw0wXnZPB12vcCq0F0yZWPmQhw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Wokeismen</title>
+            <description>Er wokeismen frigjørende eller undertrykkende? Forfatter  Lars Erik Gjerde mener den utfordrer selve demokratiet.</description>
+            <pubDate>2025-05-12T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/169d8ddc-3c03-466e-b70c-9bd0f3d44b2d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H16M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z8LF8A5hwfbAgcorlRNw0wXnZPB12vcCq0F0yZWPmQhw"/>
+            <guid isPermaLink="false">169d8ddc-3c03-466e-b70c-9bd0f3d44b2d</guid>
+        </item>
         
         <item>
             <title>Dødshjelp</title>

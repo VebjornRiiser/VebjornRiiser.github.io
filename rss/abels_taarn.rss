@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/bMav42J-pJiyrmw7ksCCYQaObQ1VVE3ynKgK1BsFEnqA</url>
+        <url>https://gfx.nrk.no/83-TuU930cKoj8olqhtN0Al7OHiHGJzDmf6ZPnf7fYbw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Dette avgjør hvor attraktiv du er</title>
+            <description>Er ansikt, penger eller personlighet viktigst, når på dagnet er kaffe sunnest og banebrytende kreftbehandling til Norge.</description>
+            <pubDate>2025-05-12T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7a8cde54-a486-48b9-b034-4d15d7f99d7f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/83-TuU930cKoj8olqhtN0Al7OHiHGJzDmf6ZPnf7fYbw"/>
+            <guid isPermaLink="false">7a8cde54-a486-48b9-b034-4d15d7f99d7f</guid>
+        </item>
         
         <item>
             <title>Er det lurt å lage skrekkulver?</title>
@@ -2159,18 +2169,6 @@ Torkild Jemterud gjør et dypdykk i temaet.</description>
         </item>
         
         <item>
-            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
-            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
-
-Torkild Jemterud gjør et dypdykk.</description>
-            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M12S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
-            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
-        </item>
-        
-        <item>
             <title>Hva er det med tallet 44?</title>
             <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
@@ -2192,6 +2190,18 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
             <itunes:duration>PT57M28S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/fPSsd_n65KoLb8rqRZmfbggnExkQLRAD6vrKzyGXrlRA"/>
             <guid isPermaLink="false">8090b590-e6d6-4e4a-9108-d8c3c540a68a</guid>
+        </item>
+        
+        <item>
+            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
+            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
+
+Torkild Jemterud gjør et dypdykk.</description>
+            <pubDate>2024-02-09T10:00:00+01:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
+            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
         </item>
         
         <item>
@@ -6334,6 +6344,20 @@ Fysiker og hjerneforsker Gaute Einevoll</description>
         </item>
         
         <item>
+            <title>Abels forgård - Gudspartikkelen</title>
+            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
+
+Gjester:
+Skuespiller Svein Tindberg
+Fysiker Gaute Einevoll</description>
+            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
+            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
+        </item>
+        
+        <item>
             <title>Abels tårn - Det perfekte påskeegg</title>
             <description>- Hvorfor er det luft i den butte enden av egget? Og er det luft?
 - Charles Williams&apos; formel for koking av egg
@@ -6353,20 +6377,6 @@ Toksikolog  Julie Sørlie Paus-Knudsen</description>
             <itunes:duration>PT57M8S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/o1mcJXe5XU7kSvBfMmXz1AqFbSqx5LAczMoMMjK_GNhA"/>
             <guid isPermaLink="false">8128f7a8-3016-455e-b49c-ac059e08b617</guid>
-        </item>
-        
-        <item>
-            <title>Abels forgård - Gudspartikkelen</title>
-            <description>Må man velge mellom tro og vitenskap? Er Gud den kvantefysiske observatøren som gjør universet virkelig? Ti år etter oppdagelsen av Higgs boson - Gudspartikkelen - forsker Svein Tindberg på de store spørsmålene. På teaterscenen.
-
-Gjester:
-Skuespiller Svein Tindberg
-Fysiker Gaute Einevoll</description>
-            <pubDate>2022-04-15T06:00:00+02:00 </pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a5978271-d77f-47ba-b2f3-b354a8f8fb12_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M8S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/LsvzeGia3PhcbDnE9u4AAQgD6s90-Q6acmAEzoWwtIQQ"/>
-            <guid isPermaLink="false">a5978271-d77f-47ba-b2f3-b354a8f8fb12</guid>
         </item>
         
         <item>
