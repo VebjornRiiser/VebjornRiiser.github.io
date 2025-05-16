@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/83-TuU930cKoj8olqhtN0Al7OHiHGJzDmf6ZPnf7fYbw</url>
+        <url>https://gfx.nrk.no/L3Xiduy5-4_76DAJkFYCPgNZM4DUmbDgL0Oog37mf5uw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor får du dårlig ånde av å sove?</title>
+            <description>Sammen med et ekspertpanel gir tårndiktator Torkild Jemterud svar på alt du ikke visste du lurte på</description>
+            <pubDate>2025-05-16T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6450fa4a-dfe8-419b-9a21-244f77fb1fb8_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/L3Xiduy5-4_76DAJkFYCPgNZM4DUmbDgL0Oog37mf5uw"/>
+            <guid isPermaLink="false">6450fa4a-dfe8-419b-9a21-244f77fb1fb8</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Dette avgjør hvor attraktiv du er</title>
