@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/z8LF8A5hwfbAgcorlRNw0wXnZPB12vcCq0F0yZWPmQhw</url>
+        <url>https://gfx.nrk.no/fDljwILxQBgnwg2q4bTbwg4rnsQkYo2sBHuha2JLbqsw</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Svalbard</title>
+            <description>Forholdet mellom Russland og Norge på Svalbard har aldri vært kaldere. Hva betyr det for fremtiden til denne strategisk viktige øygruppen? Journalist Birger Amundsen drar hele historien.</description>
+            <pubDate>2025-05-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/33fde415-b0a1-404f-b524-9b2507ba0c16_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H25M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/fDljwILxQBgnwg2q4bTbwg4rnsQkYo2sBHuha2JLbqsw"/>
+            <guid isPermaLink="false">33fde415-b0a1-404f-b524-9b2507ba0c16</guid>
+        </item>
         
         <item>
             <title>Wokeismen</title>
