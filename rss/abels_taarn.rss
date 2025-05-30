@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/yFHv_FpqAPGgbpPabcoMRwj5sqUPUMQQwyRROnjTwQGw</url>
+        <url>https://gfx.nrk.no/wP5fGrzQ-Z0Kq1_2uplvOgxbpCyhUcU37HOZ2IyFHzDQ</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor lite søvn kan du klare seg med?</title>
+            <description>Sammen med et ekspertpanel gir tårnugle Torkild Jemterud svar på alt du ikke visste du lurte på.
+Send oss dine spørsmål i appen NRKradio. Søk opp Abels tårn og trykk på snakkebobla</description>
+            <pubDate>2025-05-30T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ab29de3d-c039-4182-965b-7bc821841add_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/wP5fGrzQ-Z0Kq1_2uplvOgxbpCyhUcU37HOZ2IyFHzDQ"/>
+            <guid isPermaLink="false">ab29de3d-c039-4182-965b-7bc821841add</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Teknikken som stopper løgner</title>
