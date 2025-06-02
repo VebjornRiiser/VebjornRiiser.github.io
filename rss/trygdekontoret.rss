@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Fjgg6oCIcEVDwEuoOtQ-8wPyziHj27tUcB8ASFXfxT0Q</url>
+        <url>https://gfx.nrk.no/JGcUosbIF7pXOpmP0Q2eEAeDugUe6kO-rKVA5ag8W2_g</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jens Stoltenberg</title>
+            <description>Jens Stoltenberg tar oss med fra hasj på Ruseløkka til hemmelige møter i Nato-hovedkvarteret.</description>
+            <pubDate>2025-06-02T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/73353675-3580-4fb0-96db-6a2d03e34eef_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H12M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JGcUosbIF7pXOpmP0Q2eEAeDugUe6kO-rKVA5ag8W2_g"/>
+            <guid isPermaLink="false">73353675-3580-4fb0-96db-6a2d03e34eef</guid>
+        </item>
         
         <item>
             <title>Romerriket</title>
