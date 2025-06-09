@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/JGcUosbIF7pXOpmP0Q2eEAeDugUe6kO-rKVA5ag8W2_g</url>
+        <url>https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Nettforgiftning</title>
+            <description>Hvordan kan vi hjelpe personer som har gravd seg ned i et svart hull av konspirasjonsteorier? Forfatterne Siw Aduvill og Didrik Søderlind mener natur og dugnad er bedre enn motargumenter.</description>
+            <pubDate>2025-06-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0654316f-8c2c-451b-a9c7-35a88c3d8204_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA"/>
+            <guid isPermaLink="false">0654316f-8c2c-451b-a9c7-35a88c3d8204</guid>
+        </item>
         
         <item>
             <title>Jens Stoltenberg</title>
