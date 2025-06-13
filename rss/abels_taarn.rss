@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/E5Md_IKerCShwr0nsujdqAfOoOLAHfgF7UCyiPF6wB1g</url>
+        <url>https://gfx.nrk.no/GWU7OgIJr2SbFltA54ylQAoA0cQMWg58sc6EZuhM8k7w</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er best, by eller bygd?</title>
+            <description>Sammen med et ekspertpanel gir Tårnmoderator Torkild Jemterud svar på alt du ikke visste du lurte på.
+Send oss dine spørsmål i appen NRKradio ved å søke opp Abels tårn og trykke på snakkebobla</description>
+            <pubDate>2025-06-13T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fe5ed553-1965-4394-959f-9f78d9ce11d3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GWU7OgIJr2SbFltA54ylQAoA0cQMWg58sc6EZuhM8k7w"/>
+            <guid isPermaLink="false">fe5ed553-1965-4394-959f-9f78d9ce11d3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Smartlinsene som gir deg nattsyn</title>
