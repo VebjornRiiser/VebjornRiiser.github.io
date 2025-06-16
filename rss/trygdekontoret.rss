@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/z3-qqgPaK1GfcwW61lcF0wAY0e6GpW0eyfiSBDOfp3IA</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kelnerens død</title>
+            <description>Hvem drepte kelneren? Servitør, forfatter og slottslakei Andreas Taraldsen avslører hvordan serveringsyrket gikk fra millionlønn til lavstatus på én generasjon.</description>
+            <pubDate>2025-06-16T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ba543a5f-22cc-4417-a597-7417576c11f7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">ba543a5f-22cc-4417-a597-7417576c11f7</guid>
+        </item>
         
         <item>
             <title>Nettforgiftning</title>
