@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ujcYnbWJ8ERacde2CIWy7QC_zOl3wsKGpP67H96q2J3Q</url>
+        <url>https://gfx.nrk.no/XLM7wSOErKahyFEe_XXqbAWJB-G2lerVGWWaxd2iU5Uw</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor er så mange av oss skeive?</title>
+            <description>Hvor langt unna er vi å kunne forstå hvalsang, og hvorfor er ghosting så vondt? I panelet: marinbiolog Simon Hasselø Kline, psykolog Erlend S. Lindholt og fysiker Anne Schad Bergsaker.</description>
+            <pubDate>2025-06-20T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b4bf7427-6418-4327-a86e-f0efcd925670_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XLM7wSOErKahyFEe_XXqbAWJB-G2lerVGWWaxd2iU5Uw"/>
+            <guid isPermaLink="false">b4bf7427-6418-4327-a86e-f0efcd925670</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Derfor vibrerer sola</title>
