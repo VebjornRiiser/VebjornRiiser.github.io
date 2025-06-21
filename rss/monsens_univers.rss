@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/VXrsyaIyp0KgCIDeaX95FgSwONhVAESUgfYsIfLkTh1A</url>
+        <url>https://gfx.nrk.no/o1KVcEaqhi6wnovQYSZGYQd9ACLRPj9F9__r1PgpXBmQ</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Den natta holdt jeg på å daue</title>
+            <description>«Psykolog med sovepose» Johanne Refseth om det nye livet etter første natta ute alene. Lars om hvorfor han hoppa fra femtenmeteren.</description>
+            <pubDate>2025-06-21T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/2fe97c36-603d-45cb-9cb3-0e00baf1b2ef_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/o1KVcEaqhi6wnovQYSZGYQd9ACLRPj9F9__r1PgpXBmQ"/>
+            <guid isPermaLink="false">2fe97c36-603d-45cb-9cb3-0e00baf1b2ef</guid>
+        </item>
         
         <item>
             <title>Fosterstilling i villmarka</title>
