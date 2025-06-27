@@ -2167,5 +2167,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/ovG2h1fAmu9Wqrt4BkCMOgqxAH2yUaAAupvaFzkpJ3wg"/>
             <guid isPermaLink="false">9bd8f643-4984-4d57-b2c8-ec9997069caf</guid>
         </item>
+        
+        <item>
+            <title>I NRK Radio: Dødsbilletten</title>
+            <description>Femti nordmenn vinner en utenlandstur. Men utenfor Danmark forsvinner flyet med alle ombord. Det blir starten på et av Norges største fly-mysterier.</description>
+            <pubDate>2025-06-27T12:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/46089b99-c40f-4b21-a33c-544248475bca_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/j5pVmSp0-OOTdqWNjsi_rgxATwVQ_4oV9aiJE3pRx0iw"/>
+            <guid isPermaLink="false">46089b99-c40f-4b21-a33c-544248475bca</guid>
+        </item>
         </channel>
 </rss>
