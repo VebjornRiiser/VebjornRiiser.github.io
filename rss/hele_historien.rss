@@ -2177,5 +2177,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/j5pVmSp0-OOTdqWNjsi_rgxATwVQ_4oV9aiJE3pRx0iw"/>
             <guid isPermaLink="false">46089b99-c40f-4b21-a33c-544248475bca</guid>
         </item>
+        
+        <item>
+            <title>Dødsbilletten</title>
+            <description>Et fly med 55 mennesker ombord forsvinner fra radaren. Konspirasjonsteoriene begynner å sirkulere.</description>
+            <pubDate>2025-06-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/12fddbfc-3847-4603-9923-a5518477df78_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/j5pVmSp0-OOTdqWNjsi_rgxATwVQ_4oV9aiJE3pRx0iw"/>
+            <guid isPermaLink="false">12fddbfc-3847-4603-9923-a5518477df78</guid>
+        </item>
         </channel>
 </rss>
