@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ</url>
+        <url>https://gfx.nrk.no/PNQh39PzaOVKs3d88QvGZw9MK493sAXSneDFpdxJuqsQ</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Den store jakt-episoden</title>
+            <description>Lars mener Dag Kjelsaas er den beste &quot;allround jegeren OG fiskeren i Norge&quot;. Men hvordan gikk det da han serverte gaupe på fest?</description>
+            <pubDate>2025-07-05T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/aa864db4-f963-4001-a8f1-85466b971677_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PNQh39PzaOVKs3d88QvGZw9MK493sAXSneDFpdxJuqsQ"/>
+            <guid isPermaLink="false">aa864db4-f963-4001-a8f1-85466b971677</guid>
+        </item>
         
         <item>
             <title>Spør Monsen #1: Turkonflikter og Norges-tips</title>
