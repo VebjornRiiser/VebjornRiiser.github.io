@@ -11,11 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/PNQh39PzaOVKs3d88QvGZw9MK493sAXSneDFpdxJuqsQ</url>
+        <url>https://gfx.nrk.no/_A4Colzm015nJzS8exutbwF40VHCfm8Ab94Pmff7vfJg</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>En milliard granfrø i norsk jord</title>
+            <description>Biolog Anne Sverdrup Thygeson om hva som er«ekte skog» i Norge. Lars forteller om den gangen han var omringa av kanadisk skogbrann.</description>
+            <pubDate>2025-07-12T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5c3e4c55-ddd1-4bf1-9ef0-92384fe058cf_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_A4Colzm015nJzS8exutbwF40VHCfm8Ab94Pmff7vfJg"/>
+            <guid isPermaLink="false">5c3e4c55-ddd1-4bf1-9ef0-92384fe058cf</guid>
+        </item>
         
         <item>
             <title>Den store jakt-episoden</title>
