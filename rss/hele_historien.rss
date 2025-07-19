@@ -2187,5 +2187,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/Oj5NEjM1Z4pwGKhZm0kYNQ0JuXKUwB30wdk6JWxXZdOw"/>
             <guid isPermaLink="false">417419de-6fb6-402d-8d6f-a81b24cd464c</guid>
         </item>
+        
+        <item>
+            <title>Den store togsabotasjen</title>
+            <description>Sabotører i Kompani Linge drar til Trøndelag for å sprenge togene på Thamshavnbanen. Hvis de ikke lykkes, blir hele bygda bomba i stykker.</description>
+            <pubDate>2025-07-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/f9fa5ff3-f5ba-49e6-ae2a-18b1fe8af3df_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT50M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Oj5NEjM1Z4pwGKhZm0kYNQ0JuXKUwB30wdk6JWxXZdOw"/>
+            <guid isPermaLink="false">f9fa5ff3-f5ba-49e6-ae2a-18b1fe8af3df</guid>
+        </item>
         </channel>
 </rss>

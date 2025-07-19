@@ -11,11 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Monsens univers</title>
-        <url>https://gfx.nrk.no/_A4Colzm015nJzS8exutbwF40VHCfm8Ab94Pmff7vfJg</url>
+        <url>https://gfx.nrk.no/q4ILu26xQqu2RxOL18brZwr47rfiuWkUTzEe2yQLfzmw</url>
         <link>https://radio.nrk.no/podkast/monsens_univers</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>–ALDRI gi opp!</title>
+            <description>Erik Amundsen Normann er han som sjanglet seg over Nordkalotten sammen med Lars, i TVprogrammet «Ingen grenser» (2009). Balanseproblemer, skjev rygg og deformerte hender har lært ham mye. 
+
+Dette er siste episode i denne omgang, Monsens Univers er tilbake i 2026. Stjernemarkér oss i appen, så får du beskjed!</description>
+            <pubDate>2025-07-19T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/monsens_univers/36905ecb-d1b3-45f2-9c05-aededd5ec71a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/q4ILu26xQqu2RxOL18brZwr47rfiuWkUTzEe2yQLfzmw"/>
+            <guid isPermaLink="false">36905ecb-d1b3-45f2-9c05-aededd5ec71a</guid>
+        </item>
         
         <item>
             <title>En milliard granfrø i norsk jord</title>
