@@ -11,11 +11,101 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg</url>
+        <url>https://gfx.nrk.no/yP4E6TTYuv46YEw3lZqS5QJiXNJU-FN6kNqoBoaO475Q</url>
         <link>https://radio.nrk.no/podkast/radio_moerch</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>MDG: Arild Hermstad</title>
+            <description>Ville Hermstad stanset klimakrisen hvis det førte til at han selv ble bitte liten?</description>
+            <pubDate>2025-07-28T06:08:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/72322603-0092-4d32-b2db-706b2880056f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yP4E6TTYuv46YEw3lZqS5QJiXNJU-FN6kNqoBoaO475Q"/>
+            <guid isPermaLink="false">72322603-0092-4d32-b2db-706b2880056f</guid>
+        </item>
+        
+        <item>
+            <title>Rødt: Marie Sneve Martinussen</title>
+            <description>Har Martinussen drømt om væpnet revolusjon? Hvorfor er hun skeptisk til kjæledyr?</description>
+            <pubDate>2025-07-28T06:07:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/9e410718-3f84-432b-92a0-b967c8ebe79f_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/qhddEgmmPcEKUhgc7XWkOQBmvQPgo6UsnhhzrooYovEQ"/>
+            <guid isPermaLink="false">9e410718-3f84-432b-92a0-b967c8ebe79f</guid>
+        </item>
+        
+        <item>
+            <title>KrF: Dag-Inge Ulstein</title>
+            <description>Ville Jesus vært anti-woke? Hva er det mest ulovlige Ulstein har gjort?</description>
+            <pubDate>2025-07-28T06:06:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/a7257b43-a88c-4e26-a946-d6a68dd1a939_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/dv9I4iF_ph9kAgRcYIymhQv-39UqX6HXPvQvHDVZAqmg"/>
+            <guid isPermaLink="false">a7257b43-a88c-4e26-a946-d6a68dd1a939</guid>
+        </item>
+        
+        <item>
+            <title>Venstre: Guri Melby</title>
+            <description>Hvorfor skal en incel stemme Venstre? Er det en logisk grunn til at man ikke skal ha seg med et lik?</description>
+            <pubDate>2025-07-28T06:05:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/bbd2f7ed-443d-4ae1-b395-fdc21ae060e2_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rlKGCnwAz9GRMtTZlWREiwKc_yiwTZ3r2Q7rvsW9mHkg"/>
+            <guid isPermaLink="false">bbd2f7ed-443d-4ae1-b395-fdc21ae060e2</guid>
+        </item>
+        
+        <item>
+            <title>Ap: Jonas Gahr Støre</title>
+            <description>Har venstresida tatt feil om innvandring? Og bør vi innføre stats-salat?</description>
+            <pubDate>2025-07-28T06:04:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/58a260ae-9486-4b75-afdc-829c4d2b8fd1_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2GPy4Em35sV9nzeSMTxOcQChul75bAd0yZwLE3eZcfaQ"/>
+            <guid isPermaLink="false">58a260ae-9486-4b75-afdc-829c4d2b8fd1</guid>
+        </item>
+        
+        <item>
+            <title>FrP: Sylvi Listhaug</title>
+            <description>Støre kan fransk. Hvor godt kan Listhaug engelsk?</description>
+            <pubDate>2025-07-28T06:03:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/2942fa5f-e50b-484d-b881-c4913d061644_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/8TpAdCQseXQ4qiRXz0oRdQn_aL3yH1dlpCur2EcXaF5w"/>
+            <guid isPermaLink="false">2942fa5f-e50b-484d-b881-c4913d061644</guid>
+        </item>
+        
+        <item>
+            <title>Høyre: Erna Solberg</title>
+            <description>Hvem smittet hvem med covid? Og hvorfor kaller Solberg Erlend for kommunist?</description>
+            <pubDate>2025-07-28T06:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/509b1545-079b-4759-ba92-fba148b17fc3_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XMTPykRQQcgxbLKjfy-HgQeTZ9NrH4nGaJv4PuDA7PSA"/>
+            <guid isPermaLink="false">509b1545-079b-4759-ba92-fba148b17fc3</guid>
+        </item>
+        
+        <item>
+            <title>Sp: Trygve Slagsvold Vedum</title>
+            <description>Er Vedum begeistret for tastatursnarveier? Og hvor var han egentlig 11. september?</description>
+            <pubDate>2025-07-28T06:01:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/1168372a-9178-4209-b59d-12a8c486685a_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/fq9YqsJKEehYphzx5x3wpwIYn4lcvfVsmh_ocp1XxPgw"/>
+            <guid isPermaLink="false">1168372a-9178-4209-b59d-12a8c486685a</guid>
+        </item>
+        
+        <item>
+            <title>SV: Kirsti Bergstø</title>
+            <description>Ville Bergstø dyttet en tykk person foran et tog for å redde to liv?</description>
+            <pubDate>2025-07-28T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/5bd3c5cc-0c9e-4b42-b33b-e53c86ded0a7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nGCOaA2dwmipofqlhzE3UQQdtpuNMsr5Lbm24DLwTqsw"/>
+            <guid isPermaLink="false">5bd3c5cc-0c9e-4b42-b33b-e53c86ded0a7</guid>
+        </item>
         
         <item>
             <title>Mímir Kristjánsson #6</title>
