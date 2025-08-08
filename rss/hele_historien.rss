@@ -2187,5 +2187,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/Oj5NEjM1Z4pwGKhZm0kYNQ0JuXKUwB30wdk6JWxXZdOw"/>
             <guid isPermaLink="false">f9fa5ff3-f5ba-49e6-ae2a-18b1fe8af3df</guid>
         </item>
+        
+        <item>
+            <title>I NRK Radio: Fanget i flammene</title>
+            <description>En desembernatt starter det som blir beskrevet som den verste dødsbrannen i Oslo siden krigen. Folk frykter at det går en pyroman løs.</description>
+            <pubDate>2025-08-08T12:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/82559f03-ba62-4f35-8669-eb4786aa8dd7_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w"/>
+            <guid isPermaLink="false">82559f03-ba62-4f35-8669-eb4786aa8dd7</guid>
+        </item>
         </channel>
 </rss>
