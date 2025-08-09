@@ -2197,5 +2197,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w"/>
             <guid isPermaLink="false">82559f03-ba62-4f35-8669-eb4786aa8dd7</guid>
         </item>
+        
+        <item>
+            <title>Bygården brenner (1:2)</title>
+            <description>Beboerne kjemper en desperat kamp mot flammene når en voldsom brann starter i en gammel bygård i Oslo. Ikke alle kommer seg ut.</description>
+            <pubDate>2025-08-09T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/5f408084-4495-4199-bd3d-f0c13746b2ad_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w"/>
+            <guid isPermaLink="false">5f408084-4495-4199-bd3d-f0c13746b2ad</guid>
+        </item>
+        
+        <item>
+            <title>Dødsfellen (2:2)</title>
+            <description>En beboer kjemper for livet inne i den brennende bygningen.  Hvert sekund teller, og nå er hun i ferd med å gi opp.</description>
+            <pubDate>2025-08-09T06:02:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/c3af2b48-85b2-4079-a2e5-2864ce0ffe6d_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w"/>
+            <guid isPermaLink="false">c3af2b48-85b2-4079-a2e5-2864ce0ffe6d</guid>
+        </item>
         </channel>
 </rss>
