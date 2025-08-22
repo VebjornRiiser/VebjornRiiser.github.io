@@ -11,11 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Lfkw-rPPT-Pu5EIVnqCBxA3V_4VrOLtJZZMx0NWeFUUQ</url>
+        <url>https://gfx.nrk.no/YvInjM5gxu7g2jqrG1ZVcglWLtlTPM2tNc3-SOLa25-Q</url>
         <link>https://radio.nrk.no/podkast/abels_taarn</link>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvordan vil fremtidsmennesket se ut?</title>
+            <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+Send oss dine spørsmål i appen NRK Radio ved å søke opp Abels tårn og trykke på snakkebobla.</description>
+            <pubDate>2025-08-22T06:00:00+02:00 </pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/697c6528-2cae-432c-bc65-282caed32c75_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YvInjM5gxu7g2jqrG1ZVcglWLtlTPM2tNc3-SOLa25-Q"/>
+            <guid isPermaLink="false">697c6528-2cae-432c-bc65-282caed32c75_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Gamle venner hjelper gorillaer til topps</title>
