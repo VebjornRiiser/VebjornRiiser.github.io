@@ -243,7 +243,7 @@ def generate_episode_rss(items):
         <item>
             <title>{EpItem.title}</title>
             <description>{EpItem.description}</description>
-            <pubDate>{EpItem.datetime_string} </pubDate>
+            <pubDate>{EpItem.datetime_string}</pubDate>
             <enclosure url="{EpItem.content_url}" type="audio/mpeg"/>
             <itunes:duration>{EpItem.duration_str}</itunes:duration>
             {f'<itunes:image href="{EpItem.episode_image_url}"/>' if EpItem.episode_image_url is not None else ''}
