@@ -120,7 +120,6 @@ def create_header(episode: dict):
         <image>
         <title>{get_show_title(episode)}</title>
         <url>{get_show_image(episode)}</url>
-        <link>{get_show_link(episode)}</link>
         <width>144</width>
         <height>144</height>
         </image>
