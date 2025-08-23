@@ -33,6 +33,6 @@ jobs:
         pwd
         ls
       
-    - uses: stefanzweifel/git-auto-commit-action@v4
-
-
+    - uses: stefanzweifel/git-auto-commit-action@v6
+      with:
+        file_pattern: "rss/*.rss"

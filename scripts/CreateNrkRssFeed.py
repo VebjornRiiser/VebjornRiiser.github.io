@@ -175,9 +175,6 @@ def create_feed(url: str) -> str:
     return full_rss_feed
 
 
-def get_json_from_url(url: str):
-    pass
-
 
 def get_all_episode_items(base_url: str, requests_per_second=2):
     more_episodes_to_get = True
