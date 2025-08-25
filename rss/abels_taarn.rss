@@ -11,10 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/YvInjM5gxu7g2jqrG1ZVcglWLtlTPM2tNc3-SOLa25-Q</url>
+        <url>https://gfx.nrk.no/5HnJmof4Ginx6JtnuLVZSwB_muzVpbuYkH5uINVffncQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Hva snakker du om i søvne?</title>
+            <description>Hva snakker vi om når vi snakker i søvne?
+Eksperientell arkeologi har identifisert fire mulige vikinghavner på vestlandet
+Og så lite skal det til før KI-en blir ond.</description>
+            <pubDate>2025-08-25T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/70a165c7-5474-4527-a165-c7547465279f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/5HnJmof4Ginx6JtnuLVZSwB_muzVpbuYkH5uINVffncQ"/>
+            <guid isPermaLink="false">70a165c7-5474-4527-a165-c7547465279f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvordan vil fremtidsmennesket se ut?</title>

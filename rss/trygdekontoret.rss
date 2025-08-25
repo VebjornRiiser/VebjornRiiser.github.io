@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>The Gilded age</title>
+            <description>Oligarker, teknologi-monopoler og korrupt politikk. Vi snakker om USAs &apos;gylne tider&apos; på 1800-tallet. Historiker James Goodbolt om hvorfor perioden forklarer dagens Amerika.</description>
+            <pubDate>2025-08-25T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/40367ebc-c376-4022-b67e-bcc376e022d5_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA"/>
+            <guid isPermaLink="false">40367ebc-c376-4022-b67e-bcc376e022d5_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Ungt utenforskap</title>
