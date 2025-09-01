@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA</url>
+        <url>https://gfx.nrk.no/Fjgg6oCIcEVDwEuoOtQ-8wPyziHj27tUcB8ASFXfxT0Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mer Romerriket</title>
+            <description>Vi prøvde å ta unna den enorme interessen for Romerriket, men klarte det ikke. Forfatter Magnus Helgerud gir oss mer.</description>
+            <pubDate>2025-09-01T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/4318edb4-3322-4a5f-98ed-b43322ca5f07_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Fjgg6oCIcEVDwEuoOtQ-8wPyziHj27tUcB8ASFXfxT0Q"/>
+            <guid isPermaLink="false">4318edb4-3322-4a5f-98ed-b43322ca5f07_ID192MP3</guid>
+        </item>
         
         <item>
             <title>The Gilded age</title>

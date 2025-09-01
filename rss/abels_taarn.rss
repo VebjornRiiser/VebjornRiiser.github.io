@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/1WwynzRcCtq3L_v6re1A5Avd2819lG5AlQYGejhn_UCg</url>
+        <url>https://gfx.nrk.no/CCv3B92LNJ_S8AMFEeUyhQGSUwAh8Uf_Q0LailwmUI-g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Superbabyer til salgs i Silicon Valley</title>
+            <description>Designerbabyer nærmer seg,  terapi endrer hjernen din og badstuen som redder froskeliv.</description>
+            <pubDate>2025-09-01T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a5fe31c-849f-4487-9fe3-1c849f248752_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/CCv3B92LNJ_S8AMFEeUyhQGSUwAh8Uf_Q0LailwmUI-g"/>
+            <guid isPermaLink="false">9a5fe31c-849f-4487-9fe3-1c849f248752_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Bonus: Kan vi klone mennesker nå?</title>
@@ -2429,18 +2439,6 @@ Torkild Jemterud gjør et dypdykk i temaet.</description>
         </item>
         
         <item>
-            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
-            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
-
-Torkild Jemterud gjør et dypdykk.</description>
-            <pubDate>2024-02-09T10:00:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M12S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
-            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
-        </item>
-        
-        <item>
             <title>Hva er det med tallet 44?</title>
             <description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
@@ -2462,6 +2460,18 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
             <itunes:duration>PT57M28S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/fPSsd_n65KoLb8rqRZmfbggnExkQLRAD6vrKzyGXrlRA"/>
             <guid isPermaLink="false">8090b590-e6d6-4e4a-9108-d8c3c540a68a</guid>
+        </item>
+        
+        <item>
+            <title>Alt du (ikke) vil vite om kjønnssykdommer</title>
+            <description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka &quot;Gleden med skjeden&quot;. Nå har hun begått en ny bok som har fått tittelen - &quot;I seng med fienden, skrekkelige fortellinger om kjønnssykdommer&quot;
+
+Torkild Jemterud gjør et dypdykk.</description>
+            <pubDate>2024-02-09T10:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMAILSS2LTRJc9RjucQ7xbiew"/>
+            <guid isPermaLink="false">94f08ecd-c0d8-4848-90e5-946c47dad986</guid>
         </item>
         
         <item>
