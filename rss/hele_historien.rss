@@ -2206,5 +2206,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w"/>
             <guid isPermaLink="false">c3af2b48-85b2-4079-a2e5-2864ce0ffe6d</guid>
         </item>
+        
+        <item>
+            <title>I NRK Radio: Knust av byfjellet</title>
+            <description>Katastrofealarmen går. En vinternatt i 2008 blir en boligblokk i Fjelltun i Ålesund knust i et steinras.</description>
+            <pubDate>2025-09-03T12:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/7d0d21f4-feb5-46ac-8d21-f4feb566ac7a_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EYF3JhSmMWg-Nh2hP6JoDQz5xdUCk-4AaWbCGoCKL0IQ"/>
+            <guid isPermaLink="false">7d0d21f4-feb5-46ac-8d21-f4feb566ac7a_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
