@@ -2216,5 +2216,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/EYF3JhSmMWg-Nh2hP6JoDQz5xdUCk-4AaWbCGoCKL0IQ"/>
             <guid isPermaLink="false">7d0d21f4-feb5-46ac-8d21-f4feb566ac7a_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Knust av byfjellet</title>
+            <description>Sara på åtte bråvåkner, alt rundt henne er knust. Fra ruinene kan man høre lyder – flere av beboerne er fanget i den sammenraste blokka.</description>
+            <pubDate>2025-09-04T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/735690c1-31e1-4796-9690-c131e1779606_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M42S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EYF3JhSmMWg-Nh2hP6JoDQz5xdUCk-4AaWbCGoCKL0IQ"/>
+            <guid isPermaLink="false">735690c1-31e1-4796-9690-c131e1779606_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
