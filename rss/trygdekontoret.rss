@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Fjgg6oCIcEVDwEuoOtQ-8wPyziHj27tUcB8ASFXfxT0Q</url>
+        <url>https://gfx.nrk.no/BjEl0kXTg9ntAWtElrA9WQzQDNIdGuMeY89k5KWpbkiQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Finn Skårderud</title>
+            <description>Han mistet autorisasjonen som psykiater, kollapset på kontoret og ble lagt inn på lukket psykiatrisk avdeling med alvorlig depresjon.</description>
+            <pubDate>2025-09-08T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705c2481-af58-4f84-9c24-81af585f841b_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BjEl0kXTg9ntAWtElrA9WQzQDNIdGuMeY89k5KWpbkiQ"/>
+            <guid isPermaLink="false">705c2481-af58-4f84-9c24-81af585f841b_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mer Romerriket</title>
