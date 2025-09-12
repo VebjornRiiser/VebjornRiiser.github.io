@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_7l3XCjf7NlvU2NIMK7ZwQSm1vDb_70H0cQZgf77s0QQ</url>
+        <url>https://gfx.nrk.no/UgSKofanS1t1VFF8h2avCgyftNvZEVur64ypDxr53GZg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan lyn fungere som hjertestarter?</title>
+            <description>Hvis man får hjertestans men så blir truffet av lynet, kan man da redde livet?
+Send oss gjerne dine spørsmål ved å trykke på send-inn-knappen øverst</description>
+            <pubDate>2025-09-12T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c0bc6-8879-4bb9-9c0b-c68879bbb9c1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/UgSKofanS1t1VFF8h2avCgyftNvZEVur64ypDxr53GZg"/>
+            <guid isPermaLink="false">e49c0bc6-8879-4bb9-9c0b-c68879bbb9c1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Kan ungt blod stoppe aldring?</title>
