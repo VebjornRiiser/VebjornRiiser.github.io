@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/UgSKofanS1t1VFF8h2avCgyftNvZEVur64ypDxr53GZg</url>
+        <url>https://gfx.nrk.no/hD2UaiZCxSR-yBQBK_bXzg9vl4fJxIgnFfnniUMt6zHg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Er vi i ferd med å bli kyborger?</title>
+            <description>Hvor langt unna er vi en fremtid der alle er «forbedret» med teknologi? 
+Vi snakker også om otere som finner savnede, og nye tegn til liv på Mars.</description>
+            <pubDate>2025-09-15T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e94e379e-386e-44ac-8e37-9e386e14ac42_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hD2UaiZCxSR-yBQBK_bXzg9vl4fJxIgnFfnniUMt6zHg"/>
+            <guid isPermaLink="false">e94e379e-386e-44ac-8e37-9e386e14ac42_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan et lyn redde livet ditt?</title>

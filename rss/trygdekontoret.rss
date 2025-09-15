@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/BjEl0kXTg9ntAWtElrA9WQzQDNIdGuMeY89k5KWpbkiQ</url>
+        <url>https://gfx.nrk.no/TkVg5kYE-omghXbTQ9vvHw8AZ42JxrGUC4HIqTeIcB-w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kriminalteknikk</title>
+            <description>Er det mulig å begå det perfekte drap? Hva lukter et lik? Kriminaltekniker Eva B. Ragde forteller fra et liv på jakt etter spor.</description>
+            <pubDate>2025-09-15T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/577cf356-41a6-495c-bcf3-5641a6295c28_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TkVg5kYE-omghXbTQ9vvHw8AZ42JxrGUC4HIqTeIcB-w"/>
+            <guid isPermaLink="false">577cf356-41a6-495c-bcf3-5641a6295c28_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Finn Skårderud</title>
