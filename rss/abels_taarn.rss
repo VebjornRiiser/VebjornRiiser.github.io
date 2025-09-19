@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/hD2UaiZCxSR-yBQBK_bXzg9vl4fJxIgnFfnniUMt6zHg</url>
+        <url>https://gfx.nrk.no/yEfKkVifJY253xvpvvLG-AkX3Vt9FYiTAi6Fi4Xy1qTQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor høyt kan man egentlig bygge?</title>
+            <description>Verdens høyeste bygning rager 828 meter over bakken i Dubai. Men kunne den vært høyere?
+Send oss gjerne dine spørsmål ved å trykke på send-inn-knappen øverst</description>
+            <pubDate>2025-09-19T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ce538e9c-aee3-4f3a-938e-9caee37f3a2d_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yEfKkVifJY253xvpvvLG-AkX3Vt9FYiTAi6Fi4Xy1qTQ"/>
+            <guid isPermaLink="false">ce538e9c-aee3-4f3a-938e-9caee37f3a2d_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Er vi i ferd med å bli kyborger?</title>
