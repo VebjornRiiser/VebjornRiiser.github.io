@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/TkVg5kYE-omghXbTQ9vvHw8AZ42JxrGUC4HIqTeIcB-w</url>
+        <url>https://gfx.nrk.no/DdVFWEkw22D7m5zkPUgLWAYt7ToV3fsMUzzUHpNe-_Pw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Arbeiderbevegelsen</title>
+            <description>Kan arbeiderbevegelsen overleve når arbeidsgiveren har blitt en app? Historiker Nikolai Brandal om solidaritet i en ny tid.</description>
+            <pubDate>2025-09-22T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f50bd77d-7cf8-41cc-8bd7-7d7cf8b1cc8b_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DdVFWEkw22D7m5zkPUgLWAYt7ToV3fsMUzzUHpNe-_Pw"/>
+            <guid isPermaLink="false">f50bd77d-7cf8-41cc-8bd7-7d7cf8b1cc8b_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kriminalteknikk</title>
