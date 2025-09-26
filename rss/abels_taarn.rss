@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/KfNOLMy8bxpdYF32MwaZzA0g6rHNDbsqqwHTfeuenmUw</url>
+        <url>https://gfx.nrk.no/6YkN0lK1pHnA4_wR2TedsgMTLIJQ4ywygqdVgQKMB0GQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Blir du smartere av mobilspill?</title>
+            <description>Er det usunt å spille mye på mobilen, eller er det faktisk bra hjernetrim?
+Send oss gjerne dine spørsmål ved å trykke på send-inn-knappen øverst</description>
+            <pubDate>2025-09-26T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f317310b-78fc-47be-9731-0b78fca7be75_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/6YkN0lK1pHnA4_wR2TedsgMTLIJQ4ywygqdVgQKMB0GQ"/>
+            <guid isPermaLink="false">f317310b-78fc-47be-9731-0b78fca7be75_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Mystisk komet nærmer seg</title>
