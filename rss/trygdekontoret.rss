@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/DdVFWEkw22D7m5zkPUgLWAYt7ToV3fsMUzzUHpNe-_Pw</url>
+        <url>https://gfx.nrk.no/ClYBvZMw3bt5Sp0Ye0MBDAkA_ZN9JgUZkPx2mO59YGeg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Trumps angrep på rettstssaten</title>
+            <description>Bygger Trump en dobbeltstat etter nazi-oppskrift?  Professor Hans Petter Graver og førsteamanuensis Anine Kjerulf analyserer.</description>
+            <pubDate>2025-09-29T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f1da008d-2e2a-4aad-9a00-8d2e2a5aad3c_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H9M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ClYBvZMw3bt5Sp0Ye0MBDAkA_ZN9JgUZkPx2mO59YGeg"/>
+            <guid isPermaLink="false">f1da008d-2e2a-4aad-9a00-8d2e2a5aad3c_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Arbeiderbevegelsen</title>

@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/6YkN0lK1pHnA4_wR2TedsgMTLIJQ4ywygqdVgQKMB0GQ</url>
+        <url>https://gfx.nrk.no/rA9RrSIpEOUXGjaC4Mm3qw5RdOptHFdZdK-zygKMSYAg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Blir du bedre i fransk etter en øl?</title>
+            <description>Vi snakker om forskninga som får deg til å le, og så til å tenke. 
+Zebra-striper kan beskytte kuer mot klegg, og hva skjer når narsissister får høre at de er smarte?</description>
+            <pubDate>2025-09-29T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/791e1cfa-5716-409a-9e1c-fa5716409afe_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rA9RrSIpEOUXGjaC4Mm3qw5RdOptHFdZdK-zygKMSYAg"/>
+            <guid isPermaLink="false">791e1cfa-5716-409a-9e1c-fa5716409afe_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Blir du smartere av mobilspill?</title>
