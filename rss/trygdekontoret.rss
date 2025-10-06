@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/ClYBvZMw3bt5Sp0Ye0MBDAkA_ZN9JgUZkPx2mO59YGeg</url>
+        <url>https://gfx.nrk.no/k9aSaWcRftWgIn88rSJhvgnWT33RxMmYsdeA-98b_hfA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Diplomatiets mann: Kåre R. Aas</title>
+            <description>Fra oppvekst med rus og ettroms på Tøyen til karriere som ambassadør i Israel, Afghanistan og USA – møt toppdiplomaten Kåre R. Aas</description>
+            <pubDate>2025-10-06T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2111663f-afb9-4a4e-9166-3fafb9fa4ef5_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M52S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/k9aSaWcRftWgIn88rSJhvgnWT33RxMmYsdeA-98b_hfA"/>
+            <guid isPermaLink="false">2111663f-afb9-4a4e-9166-3fafb9fa4ef5_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Trumps angrep på rettsstaten</title>

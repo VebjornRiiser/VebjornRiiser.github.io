@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/D53xN_RTv7pnSibgoC6ScAyIvX2VpjXPd_Uy_JjrHRtA</url>
+        <url>https://gfx.nrk.no/1lavDXRjffho-5GYepTbvg88mcJwAULJOCOaccCBt7ZQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Derfor går du heller en omvei enn å snu</title>
+            <description>Derfor er så vanskelig å snu, et nytt håp for en rekke kvinnesykdommer, og siste oppdatering om gravitasjonsbølger.</description>
+            <pubDate>2025-10-06T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/439067f7-2ffd-431d-9067-f72ffd231d64_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1lavDXRjffho-5GYepTbvg88mcJwAULJOCOaccCBt7ZQ"/>
+            <guid isPermaLink="false">439067f7-2ffd-431d-9067-f72ffd231d64_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Må vi snart fengsle onde kunstige bevisstheter?</title>
