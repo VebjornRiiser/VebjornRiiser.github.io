@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/74DfzSQxJTeHUvzsvplUXwz6YJyQccNr3RXV5E21gP0Q</url>
+        <url>https://gfx.nrk.no/kWjNQDTTc8yXMm4iftBQcgDDdQ6LGo6WDwrw7MnOrfEg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bonus: Årets vitenskapelige nobelpriser</title>
+            <description>Kjemiprisen kunne gått til Norge. Vi tar deg gjennom nobelprisene i medisin, fysikk og kjemi.</description>
+            <pubDate>2025-10-10T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/57cc72a1-eee4-45a9-8c72-a1eee4f5a9d3_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/kWjNQDTTc8yXMm4iftBQcgDDdQ6LGo6WDwrw7MnOrfEg"/>
+            <guid isPermaLink="false">57cc72a1-eee4-45a9-8c72-a1eee4f5a9d3_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan vi ikke bare dekke Sahara med solceller?</title>
