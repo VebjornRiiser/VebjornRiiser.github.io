@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/1lavDXRjffho-5GYepTbvg88mcJwAULJOCOaccCBt7ZQ</url>
+        <url>https://gfx.nrk.no/74DfzSQxJTeHUvzsvplUXwz6YJyQccNr3RXV5E21gP0Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan vi ikke bare dekke Sahara med solceller?</title>
+            <description>I Sahara skinner sola, kan vi bruke det til å løse energikrisen?
+Send oss gjerne dine spørsmål ved å trykke på send-inn-knappen øverst</description>
+            <pubDate>2025-10-10T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/97bc5f23-7e88-4026-bc5f-237e88e026a8_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/74DfzSQxJTeHUvzsvplUXwz6YJyQccNr3RXV5E21gP0Q"/>
+            <guid isPermaLink="false">97bc5f23-7e88-4026-bc5f-237e88e026a8_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Derfor går du heller en omvei enn å snu</title>
