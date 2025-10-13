@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/kWjNQDTTc8yXMm4iftBQcgDDdQ6LGo6WDwrw7MnOrfEg</url>
+        <url>https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Kreativitet kan gjøre hjernen sju år yngre</title>
+            <description>Aktivitetene som holder hodet skarpt, hva nesetippen din kan si om psyken og et mulig matematisk gjennombrudd.</description>
+            <pubDate>2025-10-13T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/378ec15e-fbd9-4478-8ec1-5efbd93478ad_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA"/>
+            <guid isPermaLink="false">378ec15e-fbd9-4478-8ec1-5efbd93478ad_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Bonus: Årets vitenskapelige nobelpriser</title>
