@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA</url>
+        <url>https://gfx.nrk.no/EWgyDUxiBNGWxsx0T7J38gYJmEKetkkBXWQt_D5T_tAA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Blir du dummere av å bruke KI?</title>
+            <description>Sånn kan du bruke KI for å unngå å bli dummere. Dessuten: hva skjer hvis to sorte hull krasjer, og hva er den biologiske grunnen til at vi liker krydder?</description>
+            <pubDate>2025-10-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2d4de99c-d1d6-4899-8de9-9cd1d6e899ab_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EWgyDUxiBNGWxsx0T7J38gYJmEKetkkBXWQt_D5T_tAA"/>
+            <guid isPermaLink="false">2d4de99c-d1d6-4899-8de9-9cd1d6e899ab_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Kreativitet kan gjøre hjernen sju år yngre</title>
