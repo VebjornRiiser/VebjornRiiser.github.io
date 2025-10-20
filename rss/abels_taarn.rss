@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/EWgyDUxiBNGWxsx0T7J38gYJmEKetkkBXWQt_D5T_tAA</url>
+        <url>https://gfx.nrk.no/qgUursZdmy_AOXRqWun2mApVIT24Uqp6O7IgM_TtLqqg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Er nakenrotta nøkkelen til evig liv?</title>
+            <description>Den får ikke kreft, demens eller artrose. Forskere prøver å finne ut hvorfor. Vi snakker også om hva som skjer når KI trer inn i religion, og om sorte hull kan være kilden til mørk energi.</description>
+            <pubDate>2025-10-20T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e7935e20-e2eb-411e-935e-20e2eb811ea5_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/qgUursZdmy_AOXRqWun2mApVIT24Uqp6O7IgM_TtLqqg"/>
+            <guid isPermaLink="false">e7935e20-e2eb-411e-935e-20e2eb811ea5_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Blir du dummere av å bruke KI?</title>

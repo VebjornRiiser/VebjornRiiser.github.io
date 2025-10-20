@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/RrOpJkhNjOrKLHGVkugIugTJ8rLfqAwhdw5TbiMjholw</url>
+        <url>https://gfx.nrk.no/1aYsf39z-XUnzr0tNXCn7wdiIU68LZYD6WnsStBctIvg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Rus og klasse</title>
+            <description>Hvorfor ruser vi oss selv om vi vet at det er skadelig? Og hva forteller rusmidlene oss om klassetilhørighet? Med forfatter og sosiolog Willy Pedersen.</description>
+            <pubDate>2025-10-20T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/703a0f1c-16b8-4071-ba0f-1c16b820710e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1aYsf39z-XUnzr0tNXCn7wdiIU68LZYD6WnsStBctIvg"/>
+            <guid isPermaLink="false">703a0f1c-16b8-4071-ba0f-1c16b820710e_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Åsne Seierstads Russland</title>
