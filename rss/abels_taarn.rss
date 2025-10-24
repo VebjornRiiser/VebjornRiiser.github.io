@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/qgUursZdmy_AOXRqWun2mApVIT24Uqp6O7IgM_TtLqqg</url>
+        <url>https://gfx.nrk.no/FjwYV_yEUPfKynH9N2QDLgOCax3EGUYfpBi23R31rbDQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor får jeg vondt i hjerte av kjærlighetssorg?</title>
+            <description>Det finnes en overraskende medisinsk forklaring. 
+Send oss gjerne dine spørsmål ved å trykke på snakkeboblene øverst</description>
+            <pubDate>2025-10-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f202fe1a-b735-4edc-82fe-1ab7354edc7b_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/FjwYV_yEUPfKynH9N2QDLgOCax3EGUYfpBi23R31rbDQ"/>
+            <guid isPermaLink="false">f202fe1a-b735-4edc-82fe-1ab7354edc7b_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Er nakenrotta nøkkelen til evig liv?</title>
