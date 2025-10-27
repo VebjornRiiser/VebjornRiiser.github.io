@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/FjwYV_yEUPfKynH9N2QDLgOCax3EGUYfpBi23R31rbDQ</url>
+        <url>https://gfx.nrk.no/n8RJQ-U0IBHqTZL4EEw25wZFWc--sqMiGG-CQ08YTZ5Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Teknologien som lar blinde se igjen</title>
+            <description>Forskere har utviklet et elektronisk implantat som gir synet tilbake til blinde. I tillegg: kosmisk overvåking av undersjøiske tunneler, hva barn bør gjøre for å unngå allergier, og hvordan kutte løk uten å få tårer.</description>
+            <pubDate>2025-10-27T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/52445c31-e260-49af-845c-31e26029af76_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/n8RJQ-U0IBHqTZL4EEw25wZFWc--sqMiGG-CQ08YTZ5Q"/>
+            <guid isPermaLink="false">52445c31-e260-49af-845c-31e26029af76_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvorfor får jeg vondt i hjerte av kjærlighetssorg?</title>

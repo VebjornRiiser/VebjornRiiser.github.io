@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/1aYsf39z-XUnzr0tNXCn7wdiIU68LZYD6WnsStBctIvg</url>
+        <url>https://gfx.nrk.no/Ii0BCERcJHMvqwMFhxF0ag33oZTx6V57FxhWjaweTDAw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Autisme</title>
+            <description>Alt falt på plass da Johanne Nordby Wernø fikk autismediagnosen som 42-åring. Hva er autisme og hvordan preger det livet?</description>
+            <pubDate>2025-10-27T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/99e990b1-e39f-4707-a990-b1e39f070742_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ii0BCERcJHMvqwMFhxF0ag33oZTx6V57FxhWjaweTDAw"/>
+            <guid isPermaLink="false">99e990b1-e39f-4707-a990-b1e39f070742_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Rus og klasse</title>
