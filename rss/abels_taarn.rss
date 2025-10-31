@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/833a1Kky8DIAwyeT_QyZBAyj3Q50vx7HKfVofr40LxFg</url>
+        <url>https://gfx.nrk.no/W3eapL-8KWHJ1jhuZof_ewfOF1Nn3pR6W95NAdHeDTBQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Finnes faktisk spøkelser?</title>
+            <description>Eller er det alltid vitenskapelige forklaringer på overnaturlige fenomener? 
+Send oss gjerne dine spørsmål ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-10-31T07:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fb007be0-4576-40df-807b-e04576e0dff6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/W3eapL-8KWHJ1jhuZof_ewfOF1Nn3pR6W95NAdHeDTBQ"/>
+            <guid isPermaLink="false">fb007be0-4576-40df-807b-e04576e0dff6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Likene som bygde moderne medisin</title>
