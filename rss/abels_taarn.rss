@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/n8RJQ-U0IBHqTZL4EEw25wZFWc--sqMiGG-CQ08YTZ5Q</url>
+        <url>https://gfx.nrk.no/833a1Kky8DIAwyeT_QyZBAyj3Q50vx7HKfVofr40LxFg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Likene som bygde moderne medisin</title>
+            <description>Gravplyndring og giljotinofre. Lege og rettspatolog Ida Kathrine Gravensteen tar oss gjennom den blodige historien.</description>
+            <pubDate>2025-10-31T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e892e8a8-1e68-42e6-92e8-a81e68c2e6c6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/833a1Kky8DIAwyeT_QyZBAyj3Q50vx7HKfVofr40LxFg"/>
+            <guid isPermaLink="false">e892e8a8-1e68-42e6-92e8-a81e68c2e6c6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Teknologien som lar blinde se igjen</title>
