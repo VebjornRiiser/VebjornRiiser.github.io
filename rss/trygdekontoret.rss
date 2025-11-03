@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Ii0BCERcJHMvqwMFhxF0ag33oZTx6V57FxhWjaweTDAw</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Marte Michelet</title>
+            <description>Hvordan er det å vokse opp med Jon Michelet som far?</description>
+            <pubDate>2025-11-03T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5116f6a3-619a-4893-96f6-a3619a98932e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H1M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">5116f6a3-619a-4893-96f6-a3619a98932e_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Autisme</title>

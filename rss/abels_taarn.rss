@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/W3eapL-8KWHJ1jhuZof_ewfOF1Nn3pR6W95NAdHeDTBQ</url>
+        <url>https://gfx.nrk.no/t47YiI3tyL5FhONcL8pOBQ2H_7gAivXwadu7MgnKlAZA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningfronten - Er mordere smartere enn deg?</title>
+            <description>Pluss myten om 10 000 skritt, løsningen på en 400 år gammel mattegåte og myggen som har inntatt Island for første gang.</description>
+            <pubDate>2025-11-03T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/851e9af7-9ecb-489c-9e9a-f79ecb589c86_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M44S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/t47YiI3tyL5FhONcL8pOBQ2H_7gAivXwadu7MgnKlAZA"/>
+            <guid isPermaLink="false">851e9af7-9ecb-489c-9e9a-f79ecb589c86_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Finnes faktisk spøkelser?</title>
