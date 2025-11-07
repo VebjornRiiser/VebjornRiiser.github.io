@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/t47YiI3tyL5FhONcL8pOBQ2H_7gAivXwadu7MgnKlAZA</url>
+        <url>https://gfx.nrk.no/KKoJDw8j7uLP0OFNEZowewKsTruTsg7eBky85qtoVehQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvordan funker instinkter?</title>
+            <description>Dyr og mennesker har dem, men hvor kommer de fra?
+Send oss gjerne dine spørsmål ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-11-07T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0e78d913-b251-45ad-b8d9-13b25185adc7_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KKoJDw8j7uLP0OFNEZowewKsTruTsg7eBky85qtoVehQ"/>
+            <guid isPermaLink="false">0e78d913-b251-45ad-b8d9-13b25185adc7_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningfronten - Er mordere smartere enn deg?</title>
