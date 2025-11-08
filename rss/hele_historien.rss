@@ -2236,5 +2236,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q"/>
             <guid isPermaLink="false">7c63f5d7-fde4-44cd-a3f5-d7fde464cdda_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Hemmelegheita (1:2)</title>
+            <description>Den populære ordføraren i Vågå har med seg den unge tenåringsjenta overalt.  På hytteturar og på hotellovernattingar i Oslo.</description>
+            <pubDate>2025-11-08T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/e2a9f95d-5133-417a-a9f9-5d5133b17a72_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M50S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q"/>
+            <guid isPermaLink="false">e2a9f95d-5133-417a-a9f9-5d5133b17a72_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Det store fallet (2:2)</title>
+            <description>Når politiet står på døra, nektar ordføraren for at noko ulovleg har skjedd mellom han og Lisanne. Det blir ein kamp om sanninga.</description>
+            <pubDate>2025-11-08T06:02:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q"/>
+            <guid isPermaLink="false">ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
