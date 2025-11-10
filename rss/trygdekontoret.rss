@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/uIcsg96x3g_AsEByBm5YrgHzLuLfKtuYNbAoPEe3qBuw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Iran og Israel</title>
+            <description>Hvorfor gikk Iran og Israel fra å være allierte til å bli bitre fiender? Dagens gjest er historiker Eirik Kvindesland.</description>
+            <pubDate>2025-11-10T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1d517823-cf10-480a-9178-23cf10480a55_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uIcsg96x3g_AsEByBm5YrgHzLuLfKtuYNbAoPEe3qBuw"/>
+            <guid isPermaLink="false">1d517823-cf10-480a-9178-23cf10480a55_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Marte Michelet</title>

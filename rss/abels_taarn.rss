@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/KKoJDw8j7uLP0OFNEZowewKsTruTsg7eBky85qtoVehQ</url>
+        <url>https://gfx.nrk.no/2Jzp96aYm-D8h1kbEpO_hQgN95vbJTPCEh3VkpkZHleA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Ny norsk robot gjør husarbeidet ditt</title>
+            <description>&quot;Neo&quot;  kan vanne planter, brette klær, rydde og holde deg med selskap. Vi snakker også om antall skritt du kan gå for å utsette demens, planten som simulerer sin egen død og grunnen til at sukking er bra for deg.</description>
+            <pubDate>2025-11-10T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c2cd89d-a0f9-4ba8-acd8-9da0f92ba82e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2Jzp96aYm-D8h1kbEpO_hQgN95vbJTPCEh3VkpkZHleA"/>
+            <guid isPermaLink="false">6c2cd89d-a0f9-4ba8-acd8-9da0f92ba82e_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvordan funker instinkter?</title>
