@@ -11,13 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/2Jzp96aYm-D8h1kbEpO_hQgN95vbJTPCEh3VkpkZHleA</url>
+        <url>https://gfx.nrk.no/9cZ1G-a_kJpeYpYYriyXNgeMnp1zhUc-1iOsPsQ489XQ</url>
         <width>144</width>
         <height>144</height>
         </image>
         
         <item>
-            <title>Forskningsfronten - Ny norsk robot gjør husarbeidet ditt</title>
+            <title>Kan lyn gi liv til et monster?</title>
+            <description>I NRK-podkasten Leseklubben, får du høre historien om doktor Frankenstein. Her i Abels tårn, får du vitenskapen bak</description>
+            <pubDate>2025-11-14T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0a817cb0-d2b2-4dd5-817c-b0d2b25dd5a8_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9cZ1G-a_kJpeYpYYriyXNgeMnp1zhUc-1iOsPsQ489XQ"/>
+            <guid isPermaLink="false">0a817cb0-d2b2-4dd5-817c-b0d2b25dd5a8_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Forskningsfronten - Roboten som rydder for deg</title>
             <description>&quot;Neo&quot;  kan vanne planter, brette klær, rydde og holde deg med selskap. Vi snakker også om antall skritt du kan gå for å utsette demens, planten som simulerer sin egen død og grunnen til at sukking er bra for deg.</description>
             <pubDate>2025-11-10T06:00:00+01:00</pubDate>
             <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c2cd89d-a0f9-4ba8-acd8-9da0f92ba82e_ID192MP3.mp3" type="audio/mpeg"/>
