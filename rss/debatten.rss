@@ -17,6 +17,16 @@
         </image>
         
         <item>
+            <title>Alternative medier vokser</title>
+            <description>Ikke-etablerte medier møter etablerte redaktører til debatt.</description>
+            <pubDate>2025-11-18T22:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/18f72291-6bb8-4212-b722-916bb8a212af_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">18f72291-6bb8-4212-b722-916bb8a212af_ID192MP3</guid>
+        </item>
+        
+        <item>
             <title>Hvem skal betale?</title>
             <description>Ukraina trenger penger. Flere mener Norge skal stille oljefondet som garanti for et EU-lån.</description>
             <pubDate>2025-11-13T22:00:00+01:00</pubDate>
