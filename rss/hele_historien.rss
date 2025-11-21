@@ -2246,5 +2246,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q"/>
             <guid isPermaLink="false">ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Terroristen fra Bærum</title>
+            <description>Philip Manshaus drepte sin egen adoptivsøster og angrep en moske i 2019. Nå sier han at han angrer og var psykotisk da det skjedde.</description>
+            <pubDate>2025-11-21T13:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA"/>
+            <guid isPermaLink="false">13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
