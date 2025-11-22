@@ -2256,5 +2256,25 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA"/>
             <guid isPermaLink="false">13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Rasekrigen (1:2)</title>
+            <description>På vegne av hvite europeere vil terroristen starte borgerkrig mot innvandrere og muslimer.</description>
+            <pubDate>2025-11-22T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/db7b389f-57eb-4198-bb38-9f57eb2198c8_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA"/>
+            <guid isPermaLink="false">db7b389f-57eb-4198-bb38-9f57eb2198c8_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Tilregnelig? (2:2)</title>
+            <description>Noen år etter terroren sier Philip Manshaus at han var psykotisk da alt skjedde.</description>
+            <pubDate>2025-11-22T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/9be32320-38b7-4b06-a323-2038b7fb06e5_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA"/>
+            <guid isPermaLink="false">9be32320-38b7-4b06-a323-2038b7fb06e5_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
