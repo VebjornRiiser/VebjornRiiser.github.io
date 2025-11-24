@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/7_HlJfzQbuBhcXJiaOBcWQIiSinxs4OGUGKxERQFqq5A</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gruvebyen og urfolkskampen</title>
+            <description>Hvem vinner når det grønne skiftet kolliderer med urfolks rettigheter? Forfatter Geir Ramnefjell dro til den svenske gruvebyen Kiruna for å finne svar.</description>
+            <pubDate>2025-11-24T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f337d2a2-cbbd-4944-b7d2-a2cbbd19442c_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">f337d2a2-cbbd-4944-b7d2-a2cbbd19442c_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Musikk spessial: Oasis</title>

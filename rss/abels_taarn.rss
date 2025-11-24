@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/WTwsfu5hmfM8Yd9fc0EjNAZP-Q0DSy4vgNLiBGCVlwig</url>
+        <url>https://gfx.nrk.no/XF-amiPOyqhWMnwkp55UwQNu3nBsL67wCporYlOx2khg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Derfor klarer vi ikke slutte å scrolle</title>
+            <description>Det finnes en sammenheng mellom scrolling og fomo,  et nytt kunstig nevron som ligner en ekte hjernecelle og grunnen til at vi kysser.</description>
+            <pubDate>2025-11-24T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/aa402730-fc6f-4b7f-8027-30fc6fab7fdf_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XF-amiPOyqhWMnwkp55UwQNu3nBsL67wCporYlOx2khg"/>
+            <guid isPermaLink="false">aa402730-fc6f-4b7f-8027-30fc6fab7fdf_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvorfor får bare menn ølmage?</title>
