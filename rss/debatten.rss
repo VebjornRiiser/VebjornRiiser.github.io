@@ -17,6 +17,16 @@
         </image>
         
         <item>
+            <title>Norsk politikk akkurat nå</title>
+            <description>Fredrik Solvang utfordrer partilederne i sin siste Debatten-sending.</description>
+            <pubDate>2025-11-28T15:35:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/c4d58928-8cd9-4f94-9589-288cd97f9410_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H34M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw"/>
+            <guid isPermaLink="false">c4d58928-8cd9-4f94-9589-288cd97f9410_ID192MP3</guid>
+        </item>
+        
+        <item>
             <title>Datasentrene stikker av med krafta</title>
             <description>Datasentrene forsyner seg av kraftoverskuddet. Blir det nok billig strøm til oss andre?</description>
             <pubDate>2025-11-25T22:00:00+01:00</pubDate>
