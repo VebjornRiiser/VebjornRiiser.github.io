@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/XF-amiPOyqhWMnwkp55UwQNu3nBsL67wCporYlOx2khg</url>
+        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor kom energien til Big bang fra?</title>
+            <description>Hva fantes før begynnelsen på alt?
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-11-28T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/42398679-4165-47da-b986-794165b7da0c_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
+            <guid isPermaLink="false">42398679-4165-47da-b986-794165b7da0c_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Derfor klarer vi ikke slutte å scrolle</title>
