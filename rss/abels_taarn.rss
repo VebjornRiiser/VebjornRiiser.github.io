@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
+        <url>https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Livet som overlever i verdensrommet</title>
+            <description>Forskere har funnet noe som klarer seg utenfor romstasjonen, et mulig første glimt av mørk materie, og en nyoppdaget organisme utfordrer synet vårt på liv.</description>
+            <pubDate>2025-12-01T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7ba4b4c0-dafb-435a-a4b4-c0dafb135a14_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
+            <guid isPermaLink="false">7ba4b4c0-dafb-435a-a4b4-c0dafb135a14_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvor kom energien til Big bang fra?</title>
