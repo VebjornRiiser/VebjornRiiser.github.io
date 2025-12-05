@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw</url>
+        <url>https://gfx.nrk.no/-u5NiIGhEnx0iOweldV7uwH15dYe3on3OchK4M83oP_A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor usannsynlig er det å vinne i lotto?</title>
+            <description>Her får du regnestykket som viser hvor mulig eller umulig det faktisk er.
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-12-05T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bc6c8eac-e3aa-45d0-ac8e-ace3aad5d01f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-u5NiIGhEnx0iOweldV7uwH15dYe3on3OchK4M83oP_A"/>
+            <guid isPermaLink="false">bc6c8eac-e3aa-45d0-ac8e-ace3aad5d01f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Har vi funnet en ny livsform?</title>
@@ -11715,30 +11726,6 @@ Lege Steinar Madsen</description>
             <itunes:duration>PT54M</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
             <guid isPermaLink="false">abels_taarn_2018-03-09_1430_3187.MP3</guid>
-        </item>
-        
-        <item>
-            <title>Hvorfor stemmen fra radioen alltid ser annerledes ut enn du tror</title>
-            <description>&quot;Jeg trodde du var høy og mørk,&quot; kan noen si etter å ha snakka med deg i telefon.
-Hvorfor det? Hvorfor finner hjernen opp masse ekstra karaktertrekk, holder det ikke med stemmen?
-
-Dessuten:
-- Hva hadde skjedd om månen forsvant?
-- Kjemikerens triks for å fjerne stygge flekker på trebordet
-- Hvorfor gråter vi?
-- Duell: Hvorfor rimer det på ruta - Universet vs geometrien
-- Er synestesi arvelig?
-- Dzhanibekov-effekten (hvorfor vrir bordtennisrackerten seg?)
-
-I panelet:
-Kjemiker Carl Henrik Gørbitz
-Psykolog Guro Løseth
-Astrofysiker Jostein Riiser Kristiansen</description>
-            <pubDate>2018-03-02T14:07:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/abels_taarn_2018-03-02_1307_2731.MP3" type="audio/mpeg"/>
-            <itunes:duration>PT54M13S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw"/>
-            <guid isPermaLink="false">abels_taarn_2018-03-02_1307_2731.MP3</guid>
         </item>
         
         <item>
