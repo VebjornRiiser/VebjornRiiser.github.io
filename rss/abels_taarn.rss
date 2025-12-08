@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/-u5NiIGhEnx0iOweldV7uwH15dYe3on3OchK4M83oP_A</url>
+        <url>https://gfx.nrk.no/VB38uJRQ3GYpynLJUpa71wK6uFxLPWj_1mfuqzz_uiHA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Batman påvirker moralen din</title>
+            <description>Forskere har studert hva som skjer når en superhelt dukker opp, dette har hunder og mennesker til felles, og sånn klarer svartmetall-vokalister å synge uten å skade stemmen.</description>
+            <pubDate>2025-12-08T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/87da01a8-bfca-4665-9a01-a8bfcab665d5_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/VB38uJRQ3GYpynLJUpa71wK6uFxLPWj_1mfuqzz_uiHA"/>
+            <guid isPermaLink="false">87da01a8-bfca-4665-9a01-a8bfcab665d5_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvor usannsynlig er det å vinne i lotto?</title>
