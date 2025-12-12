@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/VB38uJRQ3GYpynLJUpa71wK6uFxLPWj_1mfuqzz_uiHA</url>
+        <url>https://gfx.nrk.no/bMS_e-Cspuo2Ex0RnAfAOgyKre8wbx3DQWQ6mjy76-Xg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor får vi dårligere syn, men ikke dyr?</title>
+            <description>Eller hender det at også gribber blir nærsynte? 
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-12-12T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fffd7683-0a1e-4624-bd76-830a1ef624c9_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/bMS_e-Cspuo2Ex0RnAfAOgyKre8wbx3DQWQ6mjy76-Xg"/>
+            <guid isPermaLink="false">fffd7683-0a1e-4624-bd76-830a1ef624c9_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Batman-effekten påvirker moralen din</title>
