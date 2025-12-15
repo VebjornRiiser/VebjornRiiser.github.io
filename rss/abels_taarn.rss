@@ -11,10 +11,32 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/XbpKKqu4V50Y059GMPYgAA5_kKfjhRr_4iwfaJmhgdhQ</url>
+        <url>https://gfx.nrk.no/2wIEzPfTxlMVptjgmF_zFwTp86d2XOL3JXhCStLy3a4w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er drømmer veien til det ubevisste? (2:2)</title>
+            <description>Hva kan drømmene dine fortelle om deg? Ifølge Freud, ganske mye. Drømmer brukes fortsatt i terapi i dag, og i denne episoden finner vi ut hvordan. Samtidig ser vi på hva drømmer kan si om bevisstheten vår.</description>
+            <pubDate>2025-12-15T18:31:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d7ab3c03-dabc-4e14-ab3c-03dabcae14ec_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2wIEzPfTxlMVptjgmF_zFwTp86d2XOL3JXhCStLy3a4w"/>
+            <guid isPermaLink="false">d7ab3c03-dabc-4e14-ab3c-03dabcae14ec_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Hvorfor drømmer vi? (1:2)</title>
+            <description>Hva er det som egentlig skjer i hjernen når vi drømmer? Hvordan kan drømmer føles så ekte, og hvorfor drømmer vi i det hele tatt?
+
+I denne miniserien tar vi et dypdykk i drømmenes verden.</description>
+            <pubDate>2025-12-15T18:30:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8028544e-1ce4-4462-a854-4e1ce454629b_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GrkKMSE656isUAn6uKzPbwEb9ch4vAUOIghcsgsQZqBQ"/>
+            <guid isPermaLink="false">8028544e-1ce4-4462-a854-4e1ce454629b_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Musk ødelegger stjernehimmelen</title>
