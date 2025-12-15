@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/OiFE0dWIOnDLJUr8PLm9rAxhA2pqIw6SSMB8pFRqMFfg</url>
+        <url>https://gfx.nrk.no/CTN7nUQVZnpgHsNZveRF1AhqQIh8O9vgRne02IOyBKsg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Norsk mat</title>
+            <description>Kokk og forfatter Andreas Viestad har dykket ned i norsk mathistorie fra rakfisk til Grandiosa.</description>
+            <pubDate>2025-12-15T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/CTN7nUQVZnpgHsNZveRF1AhqQIh8O9vgRne02IOyBKsg"/>
+            <guid isPermaLink="false">de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Scandifuturisme</title>

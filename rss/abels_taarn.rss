@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/bMS_e-Cspuo2Ex0RnAfAOgyKre8wbx3DQWQ6mjy76-Xg</url>
+        <url>https://gfx.nrk.no/XbpKKqu4V50Y059GMPYgAA5_kKfjhRr_4iwfaJmhgdhQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Musk ødelegger stjernehimmelen</title>
+            <description>Satellitter truer astronomien, KI kan påvirke hva du stemmer ved neste valg, og svaret på om aper har rytmesans.</description>
+            <pubDate>2025-12-15T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/917428b1-6cd3-41fe-b428-b16cd331fe40_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XbpKKqu4V50Y059GMPYgAA5_kKfjhRr_4iwfaJmhgdhQ"/>
+            <guid isPermaLink="false">917428b1-6cd3-41fe-b428-b16cd331fe40_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvorfor får vi dårligere syn, men ikke dyr?</title>
