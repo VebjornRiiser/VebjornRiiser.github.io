@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/2wIEzPfTxlMVptjgmF_zFwTp86d2XOL3JXhCStLy3a4w</url>
+        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvorfor frister det sånn med sjokolade etter middag?</title>
+            <description>Stafetten går! Åtte eksperter svarer på åtte spørsmål på rappen (1:3)
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-12-19T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ec85a862-2884-4371-85a8-622884837174_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
+            <guid isPermaLink="false">ec85a862-2884-4371-85a8-622884837174_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva kan drømmene dine si om deg? (2:2)</title>
