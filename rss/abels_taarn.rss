@@ -11,10 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
+        <url>https://gfx.nrk.no/K8guhE9aa8dmUYJnvLrHiAfgXyHlYw7g9qsWCGrw7LtA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Banning gjør deg sterkere</title>
+            <description>Saftige gloser kan være prestasjonsfremmende, soppen som lever på radioaktiv stråling og den norske hangen til one-night-friends. 
+
+Dette er siste Forskningsfronten for i år - GOD JUL!</description>
+            <pubDate>2025-12-22T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b462ed47-4b24-4438-a2ed-474b2454384e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M47S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/K8guhE9aa8dmUYJnvLrHiAfgXyHlYw7g9qsWCGrw7LtA"/>
+            <guid isPermaLink="false">b462ed47-4b24-4438-a2ed-474b2454384e_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvorfor frister det sånn med sjokolade etter middag?</title>
