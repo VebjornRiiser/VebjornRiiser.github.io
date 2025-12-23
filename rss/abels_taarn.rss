@@ -11,10 +11,61 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/K8guhE9aa8dmUYJnvLrHiAfgXyHlYw7g9qsWCGrw7LtA</url>
+        <url>https://gfx.nrk.no/ucb5UVF1Y1WychzzJzMcIw_gh8etfsE-jX_nJcTKdI8Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (5:10) - Københavnerfortolkningen</title>
+            <description>Er Heisenbergs uskarphetsrelasjon nådestøtet for et deterministisk univers? Og hva forteller kvantefysikken oss om virkeligheten, ifølge Bohr?
+Vi følger i denne episoden kvantefysikken gjennom dens formative barneår. Trassalderen.</description>
+            <pubDate>2025-12-23T06:05:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H10M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ucb5UVF1Y1WychzzJzMcIw_gh8etfsE-jX_nJcTKdI8Q"/>
+            <guid isPermaLink="false">7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (4:10) - Fødselen / Heisenberg, Schrödinger og en katt</title>
+            <description>Endelig framme. Heisenberg og Shrödinger legger fram hver sin kvanteteori - men hva slags monster har de skapt?</description>
+            <pubDate>2025-12-23T06:04:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/P1B4-TG3-lTpG-TiWx72Kgkt2OxjUYuOeqGray-bN3-A"/>
+            <guid isPermaLink="false">1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (3:10) - Foster / Spinn og materiebølger</title>
+            <description>Hvor vi møter en av de merkeligste fenomenene i kvanteverden: spinn. Og hvor en hertug legger fram en vill idé.</description>
+            <pubDate>2025-12-23T06:03:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/n0tpePDZgEUO99DPzSGJswvjydLRMcYPtVpfjR8va-9A"/>
+            <guid isPermaLink="false">b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantespranget (2:10) - Embryo / Kvantespranget</title>
+            <description>I 1913 legger Bohr fram en atommodell som er feil. Allikevel endrer den alt. Den inneholder ur-kvantespranget.</description>
+            <pubDate>2025-12-23T06:02:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/38eLPMy8L4IFbCqxVVzGnw9_2LTlFsMMeVb9A5uFpygA"/>
+            <guid isPermaLink="false">b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (1:10) - Unnfangelsen / Planck og Einstein</title>
+            <description>For å forstå teknologien vi omgir oss med, må vi fårstå kvantefysikken. Historien starter under et middagsselskap i år 1900.</description>
+            <pubDate>2025-12-23T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b2889459-a594-4271-8894-59a594a271ed_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/MiYRGa_SH3HgjUu0tsuiggjCajgFS4AK34F4-mPy5Kng"/>
+            <guid isPermaLink="false">b2889459-a594-4271-8894-59a594a271ed_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Banning gjør deg sterkere</title>
