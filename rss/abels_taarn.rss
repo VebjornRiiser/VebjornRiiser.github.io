@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ucb5UVF1Y1WychzzJzMcIw_gh8etfsE-jX_nJcTKdI8Q</url>
+        <url>https://gfx.nrk.no/EwJ2f4uO51AeiFlgUE1dQgjZZz62SPMaceF5PPG6eIwQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (6:10) - Einstein slår tilbake</title>
+            <description>Einstein innfører sammenfiltring for å sparke bein under Københavnertlkninga, og legger samtidig grunnlaget for kvantedatamaskinen</description>
+            <pubDate>2025-12-23T06:06:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EwJ2f4uO51AeiFlgUE1dQgjZZz62SPMaceF5PPG6eIwQ"/>
+            <guid isPermaLink="false">341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kvantehistorier (5:10) - Københavnerfortolkningen</title>
