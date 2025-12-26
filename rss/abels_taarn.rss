@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/EwJ2f4uO51AeiFlgUE1dQgjZZz62SPMaceF5PPG6eIwQ</url>
+        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Blir du herdet av å gå i &quot;drittklær&quot; i surt vær?</title>
+            <description>Stafetten går! Sju eksperter svarer på åtte spørsmål på rappen (2:3)
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</description>
+            <pubDate>2025-12-26T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0e752d9-137d-430e-a752-d9137de30e7a_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
+            <guid isPermaLink="false">f0e752d9-137d-430e-a752-d9137de30e7a_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kvantehistorier (6:10) - Einstein slår tilbake</title>
