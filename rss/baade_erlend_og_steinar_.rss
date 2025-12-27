@@ -3,7 +3,7 @@
         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
         xmlns:android="http://schemas.android.com/apk/res/android">
     <channel>
-        <title>CUSTOM: Både Erlend og Steinar</title>
+        <title>Både Erlend og Steinar</title>
         <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
         <!--<description></description>-->
         <language>no</language>

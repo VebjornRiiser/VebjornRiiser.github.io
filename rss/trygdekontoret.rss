@@ -3,7 +3,7 @@
         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
         xmlns:android="http://schemas.android.com/apk/res/android">
     <channel>
-        <title>CUSTOM: Trygdekontoret</title>
+        <title>Trygdekontoret</title>
         <link>https://radio.nrk.no/podkast/trygdekontoret</link>
         <!--<description></description>-->
         <language>no</language>
