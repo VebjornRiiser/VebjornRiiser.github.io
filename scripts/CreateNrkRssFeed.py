@@ -111,7 +111,7 @@ def create_header(episode: dict):
         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
         xmlns:android="http://schemas.android.com/apk/res/android">
     <channel>
-        <title>CUSTOM: {get_show_title(episode)}</title>
+        <title>{get_show_title(episode)}</title>
         <link>{get_show_link(episode)}</link>
         <!--<description>{get_description(episode)}</description>-->
         <language>no</language>
