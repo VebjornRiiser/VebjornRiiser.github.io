@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/CTN7nUQVZnpgHsNZveRF1AhqQIh8O9vgRne02IOyBKsg</url>
+        <url>https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Da USA var idealet</title>
+            <description>For 200 år siden startet utvandringen fra Norge til USA. Hva slags inspirasjon fant datidens arbeideraktivister i det amerikanske demokratiet?</description>
+            <pubDate>2026-01-05T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/95041e31-6fed-42de-841e-316fedf2def2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g"/>
+            <guid isPermaLink="false">95041e31-6fed-42de-841e-316fedf2def2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Norsk mat</title>
