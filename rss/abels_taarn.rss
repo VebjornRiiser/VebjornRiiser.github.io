@@ -11,10 +11,31 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ</url>
+        <url>https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Årets forskningsgjennombrudd (2:2)</title>
+            <description>Torkild Jemterud og hans panel ser på 2025s forskningsresultater, og finner det endelige svaret på om vi lever i en simulering.</description>
+            <pubDate>2026-01-09T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9bdfda2c-b52c-4f2a-9fda-2cb52c6f2a3f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ"/>
+            <guid isPermaLink="false">9bdfda2c-b52c-4f2a-9fda-2cb52c6f2a3f_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Årets forskningsgjennombrudd (1:2)</title>
+            <description>Torkild Jemterud og hans panel ser på 2025s forskningsresultater.
+Har datamaskiner bestått Turing-testen? Lever nakenrotter evig?</description>
+            <pubDate>2026-01-09T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2fae0ff8-c434-413f-ae0f-f8c434513fb6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ"/>
+            <guid isPermaLink="false">2fae0ff8-c434-413f-ae0f-f8c434513fb6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Finnes mennesker fortsatt om en million år?</title>
