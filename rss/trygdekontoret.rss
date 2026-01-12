@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g</url>
+        <url>https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Morten &quot;Diesel&quot; Dahl</title>
+            <description>Trommeslager, MC-entusiast og rockelegende Morten &quot;Diesel&quot; Dahl om TNT, Hells Angels og kampen mot kreften.</description>
+            <pubDate>2026-01-12T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A"/>
+            <guid isPermaLink="false">0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Da USA var idealet</title>
