@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A</url>
+        <url>https://gfx.nrk.no/LXRwG-OMvKmyM5W-IQxdhAU1nEMcF3le-iaOFJ4T5lwQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er norske verdier truet?</title>
+            <description>Hvordan skal Norge føre en bærekraftig innvandringspolitikk?</description>
+            <pubDate>2026-01-13T22:40:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4f49de57-28f3-4101-89de-5728f3f101bc_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M59S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LXRwG-OMvKmyM5W-IQxdhAU1nEMcF3le-iaOFJ4T5lwQ"/>
+            <guid isPermaLink="false">4f49de57-28f3-4101-89de-5728f3f101bc_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Bør Trump få Grønland?</title>
