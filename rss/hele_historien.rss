@@ -2266,5 +2266,15 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA"/>
             <guid isPermaLink="false">9be32320-38b7-4b06-a323-2038b7fb06e5_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Kommer: Bankraner Pedersen</title>
+            <description>Martin kjeder seg som lærerstudent. Så begynner han å rane banker. På 6 år slår han til mot 19 steder. Til slutt fyller han sedler i svømmebassenget hjemme.</description>
+            <pubDate>2026-01-16T12:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg"/>
+            <guid isPermaLink="false">9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3</guid>
+        </item>
         </channel>
 </rss>

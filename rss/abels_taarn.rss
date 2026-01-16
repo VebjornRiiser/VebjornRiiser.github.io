@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ</url>
+        <url>https://gfx.nrk.no/_K6UwjIUUxM7egNdKxCKdAKs61gKpFR5BbgTrgOaea8w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Når kommer TikTok med lukt?</title>
+            <description>Hvilken medieplattform vinner odør-kappløpet?
+Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst.</description>
+            <pubDate>2026-01-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/63359ecc-ec6f-4549-b59e-ccec6f3549ee_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_K6UwjIUUxM7egNdKxCKdAKs61gKpFR5BbgTrgOaea8w"/>
+            <guid isPermaLink="false">63359ecc-ec6f-4549-b59e-ccec6f3549ee_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Årets forskningsgjennombrudd (2:2)</title>
