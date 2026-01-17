@@ -2276,5 +2276,35 @@ Plakat: opphavsrett Harald Damsleth/BONO 2021</description>
             <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg"/>
             <guid isPermaLink="false">9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3</guid>
         </item>
+        
+        <item>
+            <title>Martins metode (1:3)</title>
+            <description>Med løsskjegg og strømpe over hodet truer Martin vettskremte bankkunder og ansatte i Norgeshistoriens største ransbølge.</description>
+            <pubDate>2026-01-17T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg"/>
+            <guid isPermaLink="false">f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Dobbeltspill (2:3)</title>
+            <description>Alle tror Martin Pedersen er en suksessrik kunsthandler, men bak fasaden legger han en utspekulert plan.</description>
+            <pubDate>2026-01-17T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg"/>
+            <guid isPermaLink="false">c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Millionkuppet (3:3)</title>
+            <description>Det store kuppet er kronen på Martins mesterverk. Men på rømmen – med bager fulle av tusenlapper, starter problemene.</description>
+            <pubDate>2026-01-17T06:02:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/d4520f39-ca8d-4f8b-920f-39ca8d3f8b26_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg"/>
+            <guid isPermaLink="false">d4520f39-ca8d-4f8b-920f-39ca8d3f8b26_ID192MP3</guid>
+        </item>
         </channel>
 </rss>
