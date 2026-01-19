@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_K6UwjIUUxM7egNdKxCKdAKs61gKpFR5BbgTrgOaea8w</url>
+        <url>https://gfx.nrk.no/KfNOLMy8bxpdYF32MwaZzA0g6rHNDbsqqwHTfeuenmUw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Meteorittsvindelen</title>
+            <description>I hundre år har forskere lett etter en diger meteoritt begravd i Sahara, men har det vært helt forgjeves?</description>
+            <pubDate>2026-01-19T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6b8f7070-d4e9-4d59-8f70-70d4e9cd599b_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KfNOLMy8bxpdYF32MwaZzA0g6rHNDbsqqwHTfeuenmUw"/>
+            <guid isPermaLink="false">6b8f7070-d4e9-4d59-8f70-70d4e9cd599b_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Når kommer TikTok med lukt?</title>

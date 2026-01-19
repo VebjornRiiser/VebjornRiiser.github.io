@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A</url>
+        <url>https://gfx.nrk.no/XhHqs5Ly5c1VCmA0kyuycgpRuoXvJdEkZAeM9nYHJakw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Teknologiens makt</title>
+            <description>Hvor stor kontroll har KI og algoritmer over livene våre - og kan vi ta tilbake styringen? Forfatter og KI-ekspert Elisabeth Austad Asser er dagens gjest.</description>
+            <pubDate>2026-01-19T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/75e6ae04-d90e-4a03-a6ae-04d90e7a035f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XhHqs5Ly5c1VCmA0kyuycgpRuoXvJdEkZAeM9nYHJakw"/>
+            <guid isPermaLink="false">75e6ae04-d90e-4a03-a6ae-04d90e7a035f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Morten &quot;Diesel&quot; Dahl</title>
