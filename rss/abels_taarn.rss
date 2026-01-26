@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/h3nvEq4JcyOYkNY1bnE6lg-WRGTOLBNAjr7g3QUacZWg</url>
+        <url>https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Du har en motivasjonsbrems i hjernen</title>
+            <description>Forskere har kanskje funnet stedet i hodet der du mister motivasjonen. 
+Og om bare uker reiser vi til månen</description>
+            <pubDate>2026-01-26T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f720c9b3-b40e-4ab3-a0c9-b3b40e7ab3e2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg"/>
+            <guid isPermaLink="false">f720c9b3-b40e-4ab3-a0c9-b3b40e7ab3e2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er det ok med øl til treninga?</title>
