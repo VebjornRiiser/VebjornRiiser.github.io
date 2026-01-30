@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg</url>
+        <url>https://gfx.nrk.no/_9pUc5S_A4XkCBJoZoW3VAOcuMIexfZKaSsE-STSJV7A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er greia med hestesko?</title>
+            <description>Ingen andre av dyra våre må ha sko på beina
+Har du et godt spørsmål på gang? Send det til oss ved å trykke på snakkebobla øverst.</description>
+            <pubDate>2026-01-30T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0b7a8b6b-5e5c-4029-ba8b-6b5e5c802922_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_9pUc5S_A4XkCBJoZoW3VAOcuMIexfZKaSsE-STSJV7A"/>
+            <guid isPermaLink="false">0b7a8b6b-5e5c-4029-ba8b-6b5e5c802922_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Du har en motivasjonsbrems i hjernen</title>

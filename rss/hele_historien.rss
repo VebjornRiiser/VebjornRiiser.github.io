@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg</url>
+        <url>https://gfx.nrk.no/t14qeql0YICzuIT6EpjMIga0vt9425c1kQwZd59ev05A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer: Gruveulykken – Kings Bay</title>
+            <description>Flere hundre meter nede i en kullgruve på Svalbard skjer en enorm eksplosjon. 21 arbeidere blir borte i dypet. Regjeringen til Einar Gerhardsen får mye av skylda og må gå av i 1963.</description>
+            <pubDate>2026-01-30T12:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/0cf0392b-0576-4245-b039-2b05761245d0_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/t14qeql0YICzuIT6EpjMIga0vt9425c1kQwZd59ev05A"/>
+            <guid isPermaLink="false">0cf0392b-0576-4245-b039-2b05761245d0_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Millionkuppet (3:3)</title>
