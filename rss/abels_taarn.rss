@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/_9pUc5S_A4XkCBJoZoW3VAOcuMIexfZKaSsE-STSJV7A</url>
+        <url>https://gfx.nrk.no/RbG16AmlwPS4QoBWBNRfPQEMbqyPHEJz8FkEc4WPwMpQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Forskningsfronten - Tankeoverføring er ikke bare science fiction?</title>
+            <description>Det er og kvantefysikk og menn som stirrer på geiter. 
+Og Einstein-kua Veronica overrasker forskere</description>
+            <pubDate>2026-02-02T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/39cf3ed5-a896-4d76-8f3e-d5a8964d76b4_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/RbG16AmlwPS4QoBWBNRfPQEMbqyPHEJz8FkEc4WPwMpQ"/>
+            <guid isPermaLink="false">39cf3ed5-a896-4d76-8f3e-d5a8964d76b4_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva er greia med hestesko?</title>

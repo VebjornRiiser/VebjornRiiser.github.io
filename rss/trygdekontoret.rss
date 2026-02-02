@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>R.I.P. USA</title>
+            <description>Har tiden kommet for å erklære det amerikanske liberale demokratiets død? Ja, mener statsviter og USA-ekspert Hilde Restad, som har skrevet boka &quot;USA - en nekrolog?&quot;</description>
+            <pubDate>2026-02-02T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA"/>
+            <guid isPermaLink="false">ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Flophouse America</title>
