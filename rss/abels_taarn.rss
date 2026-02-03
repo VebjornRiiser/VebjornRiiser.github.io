@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/RbG16AmlwPS4QoBWBNRfPQEMbqyPHEJz8FkEc4WPwMpQ</url>
+        <url>https://gfx.nrk.no/mIoSZ2Ab2GNebEmZM5Yg-gh7duv9xAVQYbvPM9FKwd-g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (7:10) - Kvanteteknologi endret alt</title>
+            <description>Menneskets historie blei endret med kvantefysikken. Uten kvanteteknologi - ingen Netflix, ingen mobiltelefoner eller datamaskiner. Og nå står vi midt i en ny revolusjon: kvanteteknologirevolusjonen 2.0. Hva sier du til en gravitasjonsdetektor som kan måle om du klipper av deg en hårlokk?</description>
+            <pubDate>2026-02-03T16:30:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/mIoSZ2Ab2GNebEmZM5Yg-gh7duv9xAVQYbvPM9FKwd-g"/>
+            <guid isPermaLink="false">196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Forskningsfronten - Tankeoverføring er ikke bare science fiction?</title>
