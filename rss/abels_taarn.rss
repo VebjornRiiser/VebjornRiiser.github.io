@@ -11,10 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/lKMZ8bOUGWbcuW78RXidwgwl1zvUcr1JkMwh-J7JSILw</url>
+        <url>https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (8:10) - Kvantedatamaskiner</title>
+            <description>Det er den heiteste teknologien i verden, ved siden av KI, og stormaktene pøser penger inn i utviklinga. Hvorfor? Hvordan virker egentli en kvantedatamaskin, hva kan de gjøre som ikke laptoppen din kan, og vil de overta for tradisjonelle datamaskiner? Når kan du begynne å kvante-game?
+
+I denne episoden, som kan høres uavhengig av resten av serien, forsøker vi å komme under panseret på kvantecomputerne - og også å finne ut hva som er begrensningene. Dessuten får vi leke med en vaskekte kvantedatamaskin.</description>
+            <pubDate>2026-02-07T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H25M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg"/>
+            <guid isPermaLink="false">cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan rådyr bruke radiobølger?</title>
