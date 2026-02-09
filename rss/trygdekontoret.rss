@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA</url>
+        <url>https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Redningsmannen</title>
+            <description>Bjørn Carlsen har reddet liv fra helikopter i nesten 40 år.</description>
+            <pubDate>2026-02-09T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw"/>
+            <guid isPermaLink="false">c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>R.I.P. USA</title>

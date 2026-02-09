@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Matsopp får deg til å se smånisser</title>
+            <description>Forskere har funnet soppen som gir alle samme merkelige hallusinasjon. Men Star Wars-planeten Tatooin er nå bevist en umulighet. Og slik kan man enkelt finne romskrot</description>
+            <pubDate>2026-02-09T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f5b2bc45-d5ed-4b1e-b2bc-45d5ed3b1ed6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M14S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">f5b2bc45-d5ed-4b1e-b2bc-45d5ed3b1ed6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kvantehistorier (8:10) - Kvantedatamaskiner</title>
