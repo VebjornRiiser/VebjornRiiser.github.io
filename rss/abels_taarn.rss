@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/--blJs-FibtiIbBLMkT3xAy1HqPRksBn5LZDu_jQXb_g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ville du spist bær fra kirkegården?</title>
+            <description>Eller blir det en slags raffinert kannibalisme?
+Lurer du på et intrikat spørsmål? Send det til oss og få svar i en senere sending.</description>
+            <pubDate>2026-02-13T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/174596a7-7e42-4578-8596-a77e42d57854_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/--blJs-FibtiIbBLMkT3xAy1HqPRksBn5LZDu_jQXb_g"/>
+            <guid isPermaLink="false">174596a7-7e42-4578-8596-a77e42d57854_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Du har trolig også vært borti Epstein</title>
