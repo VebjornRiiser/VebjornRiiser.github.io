@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw</url>
+        <url>https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fødsel</title>
+            <description>Cathrine Frost har laget humorforestilling av sin egen dramatiske historie om å bli mor.</description>
+            <pubDate>2026-02-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g"/>
+            <guid isPermaLink="false">c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Redningsmannen</title>

@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/--blJs-FibtiIbBLMkT3xAy1HqPRksBn5LZDu_jQXb_g</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Smartbind tracker hormonene dine</title>
+            <description>Forskere har lagd et bind som hjelper deg følge med. På Mars er det funnet bevis for regn. Og aha-følelsen i hjernen er nå lokalisert.</description>
+            <pubDate>2026-02-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0fd83809-da07-48d6-9838-09da0748d692_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT24M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">0fd83809-da07-48d6-9838-09da0748d692_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Ville du spist bær fra kirkegården?</title>
