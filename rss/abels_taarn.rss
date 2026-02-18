@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Penisstørrelsen er faktisk viktig</title>
+            <description>Og nå vet forskere hvem som har skylda for det. Dessuten, en blobb mørk materie er oppdaget nær oss. Og noe rart finnes under Australia</description>
+            <pubDate>2026-02-18T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/19609958-7c95-47ce-a099-587c9537ce86_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">19609958-7c95-47ce-a099-587c9537ce86_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Smartbind tracker hormonene dine</title>
