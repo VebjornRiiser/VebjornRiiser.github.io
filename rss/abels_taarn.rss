@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/5hs48ojL16s9S-wSwvdj8gjvnKaklNBusRLs-vZ2YZOA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvem av oss har seg med flest?</title>
+            <description>Er det menn eller kvinner som har flest sexpartnere?
+Grubler du på et intrikat spørsmål? Send det til oss og få svar av eksperter!</description>
+            <pubDate>2026-02-20T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/253b4f05-92d1-48b1-bb4f-0592d158b1d6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/5hs48ojL16s9S-wSwvdj8gjvnKaklNBusRLs-vZ2YZOA"/>
+            <guid isPermaLink="false">253b4f05-92d1-48b1-bb4f-0592d158b1d6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Penisstørrelsen er faktisk viktig</title>
