@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Epstein</title>
+            <description>Hva kan Epstein-filene fortelle oss om elitenes makt? Med journalist Martin Gedde-Dahl.</description>
+            <pubDate>2026-02-23T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1dc25e2f-a7c8-44fc-825e-2fa7c8b4fc97_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">1dc25e2f-a7c8-44fc-825e-2fa7c8b4fc97_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Fødsel</title>
