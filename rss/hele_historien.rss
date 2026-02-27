@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA</url>
+        <url>https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer: Forsvunnet på vidda</title>
+            <description>Ni ungdommer blir borte på vidda i Finnmark, vinterferien 2011. Kampen for å overleve blir dramatisk. Ikke alle kommer hjem i live.
+Publiseres 28. februar i NRK Radio.</description>
+            <pubDate>2026-02-27T13:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/33aef461-cf0b-493a-aef4-61cf0ba93aa1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA"/>
+            <guid isPermaLink="false">33aef461-cf0b-493a-aef4-61cf0ba93aa1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Én stemmes overvekt (2:2)</title>

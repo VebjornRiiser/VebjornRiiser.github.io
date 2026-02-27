@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/tNwQthSNkkjaF1z_PEFdhgYuSVwI6tB6Q-z80m7Hcwig</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvordan blir Mennesket 2.0?</title>
+            <description>Hva er vårt neste utviklingstrinn?
+Går du og grunner på et intrikat spørsmål? Send det til oss og få svar av kompetent ekspertise!</description>
+            <pubDate>2026-02-27T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9689fedb-e13b-41f5-89fe-dbe13be1f503_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tNwQthSNkkjaF1z_PEFdhgYuSVwI6tB6Q-z80m7Hcwig"/>
+            <guid isPermaLink="false">9689fedb-e13b-41f5-89fe-dbe13be1f503_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Fremtidens gaming er snart her</title>
