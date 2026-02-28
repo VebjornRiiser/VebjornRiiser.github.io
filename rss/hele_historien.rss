@@ -17,14 +17,23 @@
         </image>
         
         <item>
-            <title>Kommer: Forsvunnet på vidda</title>
-            <description>Ni ungdommer blir borte på vidda i Finnmark, vinterferien 2011. Kampen for å overleve blir dramatisk. Ikke alle kommer hjem i live.
-Publiseres 28. februar i NRK Radio.</description>
-            <pubDate>2026-02-27T13:00:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/hele_historien/33aef461-cf0b-493a-aef4-61cf0ba93aa1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT29S</itunes:duration>
+            <title>Livløs i snøen (2:2)</title>
+            <description>Ungdommene kjemper desperat for å holde seg i live. Men timene går.</description>
+            <pubDate>2026-02-28T06:02:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/39e9e4c5-0178-480e-a9e4-c50178880efd_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M16S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA"/>
-            <guid isPermaLink="false">33aef461-cf0b-493a-aef4-61cf0ba93aa1_ID192MP3</guid>
+            <guid isPermaLink="false">39e9e4c5-0178-480e-a9e4-c50178880efd_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Alt blir hvitt (1:2)</title>
+            <description>Vennegjengen skal bare en svipptur på snøskuter. Så går det galt.</description>
+            <pubDate>2026-02-28T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/83276693-8d3e-4372-a766-938d3ee3720e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA"/>
+            <guid isPermaLink="false">83276693-8d3e-4372-a766-938d3ee3720e_ID192MP3</guid>
         </item>
         
         <item>
