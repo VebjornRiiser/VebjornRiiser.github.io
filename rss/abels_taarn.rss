@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/tNwQthSNkkjaF1z_PEFdhgYuSVwI6tB6Q-z80m7Hcwig</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: KI konspirerer i egne chatteforum</title>
+            <description>Og snart på et språk vi ikke forstår. Et vrengt solsystem oppfører seg også ufint, men en ny gelé skal få vanskelige sår til å gro.</description>
+            <pubDate>2026-03-02T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/92db4c2c-1a15-4649-9b4c-2c1a158649aa_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M1S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">92db4c2c-1a15-4649-9b4c-2c1a158649aa_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvordan blir Mennesket 2.0?</title>
