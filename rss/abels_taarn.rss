@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/ymAu67VcJTWVn_vZf7BIPg07RJFkUgqVEqOBH6fPBONA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Litt daglig eller alt i helga?</title>
+            <description>Abels Tårn gir deg bærekraftige bartips!
+Grunner du på et intrikat spørsmål? Send det til oss og få svar av kompetent ekspertise!</description>
+            <pubDate>2026-03-06T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f3ee8f67-0658-4534-ae8f-670658d5344a_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M26S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ymAu67VcJTWVn_vZf7BIPg07RJFkUgqVEqOBH6fPBONA"/>
+            <guid isPermaLink="false">f3ee8f67-0658-4534-ae8f-670658d5344a_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Du kan ha afantasi uten å vite det</title>
