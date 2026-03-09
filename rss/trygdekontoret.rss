@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Harald Hardråde</title>
+            <description>Hvem var Norges siste vikingkonge? Historiker Tore Skeie har skrevet om Harald Hardrådes brutale liv, fra slaget på Stiklestad til forsøket på å erobre England.</description>
+            <pubDate>2026-03-09T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ"/>
+            <guid isPermaLink="false">9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Frontkjempere</title>
