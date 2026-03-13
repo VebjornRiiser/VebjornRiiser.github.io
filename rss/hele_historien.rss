@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA</url>
+        <url>https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer: I legens grep</title>
+            <description>I over 20 år var han en av Frostas mest betrodde menn. Men bak lukkede dører på legekontoret filmet og voldtok han mange av pasientene sine.</description>
+            <pubDate>2026-03-13T14:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/e6e79fe0-127b-44f0-a79f-e0127b44f081_3_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ"/>
+            <guid isPermaLink="false">e6e79fe0-127b-44f0-a79f-e0127b44f081_3_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Livløs i snøen (2:2)</title>
