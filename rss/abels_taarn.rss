@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/Id_mQg8_V6k-ygCt482e2w_odmhGCkEcuUOG9KJmfb4Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan vi bytte ut beis med pels?</title>
+            <description>Snart bør vi kunne skifte ut gamle husvegger med levende materiale, som dyrehud!
+Har du noe DU lurer på? Abels Tårn finner svaret!</description>
+            <pubDate>2026-03-13T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b1ada059-e310-4005-ada0-59e310200560_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Id_mQg8_V6k-ygCt482e2w_odmhGCkEcuUOG9KJmfb4Q"/>
+            <guid isPermaLink="false">b1ada059-e310-4005-ada0-59e310200560_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Genet som gjør pappa livsfarlig</title>
