@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Id_mQg8_V6k-ygCt482e2w_odmhGCkEcuUOG9KJmfb4Q</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Kvinner digger neandertalermenn</title>
+            <description>Forskere vet nå hvorfor vi har neandertalergener i DNA&apos;et vårt, hva Galileo tenkte om Gud, og hvorfor det er dumt å slikke på kaldt metall</description>
+            <pubDate>2026-03-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1f8039b9-ce80-4b65-8039-b9ce80ab65ed_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">1f8039b9-ce80-4b65-8039-b9ce80ab65ed_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan vi bytte ut beis med pels?</title>

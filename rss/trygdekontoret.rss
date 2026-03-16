@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Trumps bakgård</title>
+            <description>Amerikanske presidenter har en over 200 år lang tradisjon med å ture fram i Latin-Amerika og Trump er ikke noe unntak. Med statsviter og professor Benedicte Bull.</description>
+            <pubDate>2026-03-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Harald Hardråde</title>
