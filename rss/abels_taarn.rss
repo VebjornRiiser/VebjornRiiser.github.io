@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er &quot;flytsonen&quot;?</title>
+            <description>&quot;Kan kunst skape seg selv?&quot;, spør Abels Tårnpanel fra Kunsthøgskolen i Oslo (KHIO).
+Send inn dine spørsmål til våre eksperter!</description>
+            <pubDate>2026-03-20T10:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5967fa0-56a7-46f3-967f-a056a7c6f32f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H3M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA"/>
+            <guid isPermaLink="false">b5967fa0-56a7-46f3-967f-a056a7c6f32f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Derfor knirker skoa dine</title>
