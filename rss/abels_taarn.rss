@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/-iD2lhOl8GOaBQAmlqpn_Q3F8xZaupwEfloJTL7AG6KA</url>
+        <url>https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Er du opptatt av fibermaxxing?</title>
+            <description>Vi vet hvordan brødet ditt kan bli 450% grovt. Hvordan det gikk da en mann fikk transplantert inn en griselever. Og hva som skjer av forskning i Nord-Norge</description>
+            <pubDate>2026-03-23T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/16519db7-0136-4ecc-919d-b70136becca2_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug"/>
+            <guid isPermaLink="false">16519db7-0136-4ecc-919d-b70136becca2_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva er &quot;flytsonen&quot;?</title>

@@ -11,10 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/mFHMzUtP1W5F1bELOY3ahgo2bUknwoVFMyYMQq5Y0m3A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Konspirasjonsteorier</title>
+            <description>Hva gjør du når en av dine nærmeste forsvinner ned i det konspiratoriske kaninhullet? Christine Rehn Jensen har skrevet boka &quot;Mamma er konspirasjonsteoretiker&quot;.
+
+Tilsvaret fra Christines mor kan du lese her: 
+https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679</description>
+            <pubDate>2026-03-23T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f8da7ee0-b19c-4360-9a7e-e0b19c83606f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/mFHMzUtP1W5F1bELOY3ahgo2bUknwoVFMyYMQq5Y0m3A"/>
+            <guid isPermaLink="false">f8da7ee0-b19c-4360-9a7e-e0b19c83606f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Trumps bakgård</title>
