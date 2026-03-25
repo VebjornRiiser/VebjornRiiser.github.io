@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Kanskje katta di er en spion</title>
+            <description>Forskere har testet katter som CIA-agenter. Andre hvordan antimaterie kan fraktes med bil. Abelprisen er delt ut , og en ny pris til forskere som innrømmer feil</description>
+            <pubDate>2026-03-25T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/060c3a65-56ed-487c-8c3a-6556ed887ca0_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">060c3a65-56ed-487c-8c3a-6556ed887ca0_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Er du opptatt av fibermaxxing?</title>
