@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/46dW_NeQn8AOSUjBO3SFJwfAaoyJGZcYdFbascpIKkrw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gjør fullmånen deg søvnløs?</title>
+            <description>Det sies veldig ofte at vår drabant påvirker oss. Er det helt sant?
+Send inn dine spørsmål til vårt svært kompetente ekspertpanel!</description>
+            <pubDate>2026-03-27T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/31eaab78-d398-421b-aaab-78d398421bae_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/46dW_NeQn8AOSUjBO3SFJwfAaoyJGZcYdFbascpIKkrw"/>
+            <guid isPermaLink="false">31eaab78-d398-421b-aaab-78d398421bae_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Kanskje katta di er en spion</title>
