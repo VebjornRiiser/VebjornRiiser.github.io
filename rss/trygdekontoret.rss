@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/mFHMzUtP1W5F1bELOY3ahgo2bUknwoVFMyYMQq5Y0m3A</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kampen om Arktis</title>
+            <description>Hvorfor er Trump så interessert i Grønland? Og hva skjer med maktbalansen i verden når isen smelter?</description>
+            <pubDate>2026-03-30T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Konspirasjonsteorier</title>

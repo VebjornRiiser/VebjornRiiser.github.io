@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/46dW_NeQn8AOSUjBO3SFJwfAaoyJGZcYdFbascpIKkrw</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: &quot;Project Hail Mary&quot; på ekte</title>
+            <description>Solspisende bakterier som i sci-fi-filmen finnes neppe, men forskere har lagd noe som ligner. Cryosleep nærmer seg også mulig. Og kikerter kan dyrkes i månejord.</description>
+            <pubDate>2026-03-30T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/aba5625d-6050-4159-a562-5d60503159af_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">aba5625d-6050-4159-a562-5d60503159af_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Gjør fullmånen deg søvnløs?</title>
