@@ -11,10 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/TmBXDapyVH8UHMwr72VPxQKDOl6bgkqiCQ4F3L8ZMxOQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (9:10) - Mange verdener og kvantehelvete</title>
+            <description>Tolkninger av kvantefysikken. Hvorfor trengs det?
+Og hva sier noen av de mest populære: Mange verdener, Bohmske pilotbølger og Objektiv kollaps?
+Are Raklev forsvarer Mange verdener-tolkninga, og Anders og Hedda forsøker å skyte den ned</description>
+            <pubDate>2026-04-01T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/19c22b1d-4c34-4a1b-822b-1d4c347a1b29_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H22M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/TmBXDapyVH8UHMwr72VPxQKDOl6bgkqiCQ4F3L8ZMxOQ"/>
+            <guid isPermaLink="false">19c22b1d-4c34-4a1b-822b-1d4c347a1b29_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: &quot;Project Hail Mary&quot; på ekte</title>
