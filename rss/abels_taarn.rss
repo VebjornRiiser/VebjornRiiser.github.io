@@ -11,10 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/TmBXDapyVH8UHMwr72VPxQKDOl6bgkqiCQ4F3L8ZMxOQ</url>
+        <url>https://gfx.nrk.no/_pDBV1jcimJgjrncI7Fy-gzZ6XOE0ft2i6IN2Z1VXAfg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvantehistorier (10:10) - QBism og bevisthetskollaps</title>
+            <description>Flere tolkninger!
+Denne gangen er det Anders Kvellestad som forsvarer sin favorittolkning: QBism, og Are og Hedda gjør sitt beste for å sable den ned.
+Dessuten får vi høre om en ganske ny tolkning som sier at bevissthet er det som får bølgefunksjonen til å kollapse.
+Dette er også siste episode i serien!</description>
+            <pubDate>2026-04-01T08:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f7224ae6-3b6b-49c5-a24a-e63b6bd9c5dc_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/_pDBV1jcimJgjrncI7Fy-gzZ6XOE0ft2i6IN2Z1VXAfg"/>
+            <guid isPermaLink="false">f7224ae6-3b6b-49c5-a24a-e63b6bd9c5dc_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kvantehistorier (9:10) - Mange verdener og kvantehelvete</title>
@@ -26,6 +39,89 @@ Are Raklev forsvarer Mange verdener-tolkninga, og Anders og Hedda forsøker å s
             <itunes:duration>PT1H22M21S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/TmBXDapyVH8UHMwr72VPxQKDOl6bgkqiCQ4F3L8ZMxOQ"/>
             <guid isPermaLink="false">19c22b1d-4c34-4a1b-822b-1d4c347a1b29_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (8:10) - Kvantedatamaskiner</title>
+            <description>Det er den heiteste teknologien i verden, ved siden av KI, og stormaktene pøser penger inn i utviklinga. Hvorfor? Hvordan virker egentli en kvantedatamaskin, hva kan de gjøre som ikke laptoppen din kan, og vil de overta for tradisjonelle datamaskiner? Når kan du begynne å kvante-game?
+
+I denne episoden, som kan høres uavhengig av resten av serien, forsøker vi å komme under panseret på kvantecomputerne - og også å finne ut hva som er begrensningene. Dessuten får vi leke med en vaskekte kvantedatamaskin.</description>
+            <pubDate>2026-04-01T05:08:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H25M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg"/>
+            <guid isPermaLink="false">cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (7:10) - Hvordan kvanteteknologi endra verden</title>
+            <description>Grunnen til at du kan doomscrolle på mobilen din er kvantefysikk. Menneskehetens historie blei endret med denne teorien  - og teknologien den førte til. Uten kvanteteknologi, ingen Netflix, ingen mobiltelefoner eller datamaskiner. Nå står vi midt oppi en ny revolusjon: kvanteteknologirevolusjonen 2.0. Hva sier du feks til en gravitasjonsdetektor som kan måle om du klipper av deg en hårlokk?</description>
+            <pubDate>2026-04-01T05:07:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/mIoSZ2Ab2GNebEmZM5Yg-gh7duv9xAVQYbvPM9FKwd-g"/>
+            <guid isPermaLink="false">196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (6:10) - Einstein slår tilbake</title>
+            <description>Einstein innfører sammenfiltring for å sparke bein under Københavnertlkninga, og legger samtidig grunnlaget for kvantedatamaskinen</description>
+            <pubDate>2026-04-01T05:06:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT37M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EwJ2f4uO51AeiFlgUE1dQgjZZz62SPMaceF5PPG6eIwQ"/>
+            <guid isPermaLink="false">341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (5:10) - Københavnerfortolkningen</title>
+            <description>Er Heisenbergs uskarphetsrelasjon nådestøtet for et deterministisk univers? Og hva forteller kvantefysikken oss om virkeligheten, ifølge Bohr?
+Vi følger i denne episoden kvantefysikken gjennom dens formative barneår. Trassalderen.</description>
+            <pubDate>2026-04-01T05:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H10M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ucb5UVF1Y1WychzzJzMcIw_gh8etfsE-jX_nJcTKdI8Q"/>
+            <guid isPermaLink="false">7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (4:10) - Fødselen / Heisenberg, Schrödinger og en katt</title>
+            <description>Endelig framme. Heisenberg og Shrödinger legger fram hver sin kvanteteori - men hva slags monster har de skapt?</description>
+            <pubDate>2026-04-01T05:04:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/P1B4-TG3-lTpG-TiWx72Kgkt2OxjUYuOeqGray-bN3-A"/>
+            <guid isPermaLink="false">1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (3:10) - Foster / Spinn og materiebølger</title>
+            <description>Hvor vi møter en av de merkeligste fenomenene i kvanteverden: spinn. Og hvor en hertug legger fram en vill idé.</description>
+            <pubDate>2026-04-01T05:03:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/n0tpePDZgEUO99DPzSGJswvjydLRMcYPtVpfjR8va-9A"/>
+            <guid isPermaLink="false">b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (2:10) - Embryo / Kvantespranget</title>
+            <description>I 1913 legger Bohr fram en atommodell som er feil. Allikevel endrer den alt. Den inneholder ur-kvantespranget.</description>
+            <pubDate>2026-04-01T05:02:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/38eLPMy8L4IFbCqxVVzGnw9_2LTlFsMMeVb9A5uFpygA"/>
+            <guid isPermaLink="false">b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Kvantehistorier (1:10) - Unnfangelsen / Planck og Einstein</title>
+            <description>For å forstå teknologien vi omgir oss med, må vi forstå kvantefysikken. Historien starter under et middagsselskap i år 1900.</description>
+            <pubDate>2026-04-01T05:01:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b2889459-a594-4271-8894-59a594a271ed_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/MiYRGa_SH3HgjUu0tsuiggjCajgFS4AK34F4-mPy5Kng"/>
+            <guid isPermaLink="false">b2889459-a594-4271-8894-59a594a271ed_ID192MP3</guid>
         </item>
         
         <item>
@@ -256,18 +352,6 @@ Lurer du på et intrikat spørsmål? Send det til oss og få svar i en senere se
         </item>
         
         <item>
-            <title>Kvantehistorier (8:10) - Kvantedatamaskiner</title>
-            <description>Det er den heiteste teknologien i verden, ved siden av KI, og stormaktene pøser penger inn i utviklinga. Hvorfor? Hvordan virker egentli en kvantedatamaskin, hva kan de gjøre som ikke laptoppen din kan, og vil de overta for tradisjonelle datamaskiner? Når kan du begynne å kvante-game?
-
-I denne episoden, som kan høres uavhengig av resten av serien, forsøker vi å komme under panseret på kvantecomputerne - og også å finne ut hva som er begrensningene. Dessuten får vi leke med en vaskekte kvantedatamaskin.</description>
-            <pubDate>2026-02-07T06:00:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT1H25M33S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/KTfq7eF-LNR62auA36aVUg0oBu1Z4Dypu_rCybo6-eCg"/>
-            <guid isPermaLink="false">cb610cf6-00b0-437d-a10c-f600b0437ddc_ID192MP3</guid>
-        </item>
-        
-        <item>
             <title>Kan rådyr bruke radiobølger?</title>
             <description>Mange av dem har jo allerede antenner!
 Brenner du inne med et intrikat spørsmål? Send det til oss og få svar i en senere sending.</description>
@@ -276,16 +360,6 @@ Brenner du inne med et intrikat spørsmål? Send det til oss og få svar i en se
             <itunes:duration>PT57M36S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/lKMZ8bOUGWbcuW78RXidwgwl1zvUcr1JkMwh-J7JSILw"/>
             <guid isPermaLink="false">31c90604-4a65-4e24-8906-044a65de24e9_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (7:10) - Hvordan kvanteteknologi endra verden</title>
-            <description>Grunnen til at du kan doomscrolle på mobilen din er kvantefysikk. Menneskehetens historie blei endret med denne teorien  - og teknologien den førte til. Uten kvanteteknologi, ingen Netflix, ingen mobiltelefoner eller datamaskiner. Nå står vi midt oppi en ny revolusjon: kvanteteknologirevolusjonen 2.0. Hva sier du feks til en gravitasjonsdetektor som kan måle om du klipper av deg en hårlokk?</description>
-            <pubDate>2026-02-03T16:30:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT56M29S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/mIoSZ2Ab2GNebEmZM5Yg-gh7duv9xAVQYbvPM9FKwd-g"/>
-            <guid isPermaLink="false">196f584f-7ba5-43b1-af58-4f7ba5a3b1a7_ID192MP3</guid>
         </item>
         
         <item>
@@ -394,67 +468,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst</des
             <itunes:duration>PT57M3S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ"/>
             <guid isPermaLink="false">f0e752d9-137d-430e-a752-d9137de30e7a_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (6:10) - Einstein slår tilbake</title>
-            <description>Einstein innfører sammenfiltring for å sparke bein under Københavnertlkninga, og legger samtidig grunnlaget for kvantedatamaskinen</description>
-            <pubDate>2025-12-23T06:06:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT37M51S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/EwJ2f4uO51AeiFlgUE1dQgjZZz62SPMaceF5PPG6eIwQ"/>
-            <guid isPermaLink="false">341e45c0-4343-4a2f-9e45-c04343fa2fcb_3_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (5:10) - Københavnerfortolkningen</title>
-            <description>Er Heisenbergs uskarphetsrelasjon nådestøtet for et deterministisk univers? Og hva forteller kvantefysikken oss om virkeligheten, ifølge Bohr?
-Vi følger i denne episoden kvantefysikken gjennom dens formative barneår. Trassalderen.</description>
-            <pubDate>2025-12-23T06:05:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT1H10M19S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/ucb5UVF1Y1WychzzJzMcIw_gh8etfsE-jX_nJcTKdI8Q"/>
-            <guid isPermaLink="false">7de3c2ba-b3ca-4120-a3c2-bab3cad12070_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (4:10) - Fødselen / Heisenberg, Schrödinger og en katt</title>
-            <description>Endelig framme. Heisenberg og Shrödinger legger fram hver sin kvanteteori - men hva slags monster har de skapt?</description>
-            <pubDate>2025-12-23T06:04:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT31M15S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/P1B4-TG3-lTpG-TiWx72Kgkt2OxjUYuOeqGray-bN3-A"/>
-            <guid isPermaLink="false">1e95e473-a8c3-461d-95e4-73a8c3c61d59_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (3:10) - Foster / Spinn og materiebølger</title>
-            <description>Hvor vi møter en av de merkeligste fenomenene i kvanteverden: spinn. Og hvor en hertug legger fram en vill idé.</description>
-            <pubDate>2025-12-23T06:03:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT27M45S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/n0tpePDZgEUO99DPzSGJswvjydLRMcYPtVpfjR8va-9A"/>
-            <guid isPermaLink="false">b8e3b027-e0f3-4ab0-a3b0-27e0f33ab013_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (2:10) - Embryo / Kvantespranget</title>
-            <description>I 1913 legger Bohr fram en atommodell som er feil. Allikevel endrer den alt. Den inneholder ur-kvantespranget.</description>
-            <pubDate>2025-12-23T06:02:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT27M32S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/38eLPMy8L4IFbCqxVVzGnw9_2LTlFsMMeVb9A5uFpygA"/>
-            <guid isPermaLink="false">b3cfdea7-0903-4907-8fde-a7090329077f_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Kvantehistorier (1:10) - Unnfangelsen / Planck og Einstein</title>
-            <description>For å forstå teknologien vi omgir oss med, må vi forstå kvantefysikken. Historien starter under et middagsselskap i år 1900.</description>
-            <pubDate>2025-12-23T06:01:00+01:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b2889459-a594-4271-8894-59a594a271ed_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT30M</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/MiYRGa_SH3HgjUu0tsuiggjCajgFS4AK34F4-mPy5Kng"/>
-            <guid isPermaLink="false">b2889459-a594-4271-8894-59a594a271ed_ID192MP3</guid>
         </item>
         
         <item>
