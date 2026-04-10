@@ -11,20 +11,10 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/NECc39rKWYeY99yLRXUpvQA7HD2pRRcqPqY1RC9La8Cg</url>
+        <url>https://gfx.nrk.no/ygX05DqqdGlILjnyigWBIgsyCOnvTpLFPaAw-lbdmr9g</url>
         <width>144</width>
         <height>144</height>
         </image>
-        
-        <item>
-            <title>Smakebit: Seriesnakk: LIS</title>
-            <description>Torkil Risan møter folka i og rundt «LIS», graver i sykehus-dilemmaer og gir deg svar på alt du lurer på om serien. Kommer 11. april!</description>
-            <pubDate>2026-04-01T13:10:00+02:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/b1964174-6bb6-46fc-9641-746bb6e6fc47_1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT1M3S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/NECc39rKWYeY99yLRXUpvQA7HD2pRRcqPqY1RC9La8Cg"/>
-            <guid isPermaLink="false">b1964174-6bb6-46fc-9641-746bb6e6fc47_1_ID192MP3</guid>
-        </item>
         
         <item>
             <title>Tom 2.0 (4:4)</title>
