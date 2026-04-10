@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Historier fra virkeligheten</title>
-        <url>https://gfx.nrk.no/835jG5zMe3Vf67soAHr2AQkAwyUkg597R3w6JSgGM7Ng</url>
+        <url>https://gfx.nrk.no/nvi6it3TRph3K9WYsZ89xQGMr-39dYtBf_dcBto6Q4hg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer 11. april: Stalker 2</title>
+            <description>Hva får en mor, en ekskone og en elskerinne til å forfølge, trakassere og skremme livet av sine nærmeste?</description>
+            <pubDate>2026-04-10T12:40:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/06590e05-bb0a-4b1c-990e-05bb0a6b1c7f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nvi6it3TRph3K9WYsZ89xQGMr-39dYtBf_dcBto6Q4hg"/>
+            <guid isPermaLink="false">06590e05-bb0a-4b1c-990e-05bb0a6b1c7f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>En enestående rettsak (3:3)</title>
