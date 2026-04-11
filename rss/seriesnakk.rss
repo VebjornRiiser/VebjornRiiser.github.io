@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/ygX05DqqdGlILjnyigWBIgsyCOnvTpLFPaAw-lbdmr9g</url>
+        <url>https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Det forholdet må ryke (1:4)</title>
+            <description>Marlene Stavrum kjenner seg igjen i «LIS» – hvorfor det? Og Sofia Tjelta forteller om sykehus-hospiteringen som endte på gulvet.</description>
+            <pubDate>2026-04-11T06:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w"/>
+            <guid isPermaLink="false">5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Tom 2.0 (4:4)</title>
