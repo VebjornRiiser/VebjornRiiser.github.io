@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>MAGAs kristne univers</title>
+            <description>Hvordan kan millioner av kristne amerikanere omfavne Donald Trump? Teolog Ragnar Misje Bergem har dykket ned i MAGA-bevegelsens religiøse inspirasjonskilder.</description>
+            <pubDate>2026-04-13T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/6bdf245b-431f-4ffb-9f24-5b431f2ffb9b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg"/>
+            <guid isPermaLink="false">6bdf245b-431f-4ffb-9f24-5b431f2ffb9b_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kampen om Arktis</title>

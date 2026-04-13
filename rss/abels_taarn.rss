@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/CTzvOjdnuHrIiB-D9R2cpA5uex8dKCbhMFoh-uV4G1QA</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Fire timers søvn er nok</title>
+            <description>For forskere har funnet genet som kan effektivisere natta di. Andre har oppdaget sammenhengen mellom hunder og sang. Og du får svaret på om private helsetjenester er bra for samfunnet</description>
+            <pubDate>2026-04-13T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f7f3744c-626d-457c-b374-4c626de57cbc_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">f7f3744c-626d-457c-b374-4c626de57cbc_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Når kan vi filme våre drømmer?</title>
