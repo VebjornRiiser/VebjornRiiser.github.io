@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/XA7sqOkgPM9DzntyJxxuVwG4OMLZB8JbhnlZP-4HDlRg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Blir gullplomber også kremert?</title>
+            <description>Kunne jo fint betalt for gravferden.
+Lurer du på noe genialt? Send inn ditt spørsmål til Abels Tårns særs kompetente ekspertpanel!</description>
+            <pubDate>2026-04-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3a29d583-60cb-4cda-a9d5-8360cb5cdac3_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XA7sqOkgPM9DzntyJxxuVwG4OMLZB8JbhnlZP-4HDlRg"/>
+            <guid isPermaLink="false">3a29d583-60cb-4cda-a9d5-8360cb5cdac3_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Du bør sladre om sjefen din</title>
