@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg</url>
+        <url>https://gfx.nrk.no/XjaPpu-MWTjROVno4YEAUwqBOUK7Er2JkQzr7Dv1pSkg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ada Sofie Austegard</title>
+            <description>Etter at datteren ble drept i Baneheia i 2000,  har Ada Sofie Austegard ført en utrettelig kamp for barns rettsvern.</description>
+            <pubDate>2026-04-20T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/XjaPpu-MWTjROVno4YEAUwqBOUK7Er2JkQzr7Dv1pSkg"/>
+            <guid isPermaLink="false">45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>MAGAs kristne univers</title>

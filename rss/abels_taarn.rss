@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/XA7sqOkgPM9DzntyJxxuVwG4OMLZB8JbhnlZP-4HDlRg</url>
+        <url>https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Håret avslører om du er stressa</title>
+            <description>Det lyver aldri, viser ny forskning. Og geologer bør høre etter når vulkaner snakker sammen. Dessuten, du er neppe tonedøv selv om du kanskje tror det.</description>
+            <pubDate>2026-04-20T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/124a081a-fc4f-4e38-8a08-1afc4f0e380d_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M18S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug"/>
+            <guid isPermaLink="false">124a081a-fc4f-4e38-8a08-1afc4f0e380d_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Blir gullplomber også kremert?</title>
