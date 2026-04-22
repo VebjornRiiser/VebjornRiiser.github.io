@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Bermudatriangelet over hodet ditt</title>
+            <description>Forskere har funnet stedet astronauter må unngå. En ny vitenskap basert på lukten av gamle bøker er funnet opp. Og vet vi nå hvorfor flytende magma er bra for livet</description>
+            <pubDate>2026-04-22T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M38S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Håret avslører om du er stressa</title>
