@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/1dFYEXeIIii4apyIIPpaMQX6NZkgDuBh841A1zgeF7AA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva med hjerte lagd på labben?</title>
+            <description>Verden kunne saktens behøvd mer kjærlighet.
+Lurer du på geniale ting? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-04-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/1dFYEXeIIii4apyIIPpaMQX6NZkgDuBh841A1zgeF7AA"/>
+            <guid isPermaLink="false">7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Bermudatriangelet over hodet ditt</title>
