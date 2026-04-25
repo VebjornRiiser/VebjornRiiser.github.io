@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw</url>
+        <url>https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– En du går i krigen med (3:4)</title>
+            <description>Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?</description>
+            <pubDate>2026-04-25T06:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA"/>
+            <guid isPermaLink="false">a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– Petra er irriterende (2:4)</title>
