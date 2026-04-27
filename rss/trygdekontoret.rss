@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/XjaPpu-MWTjROVno4YEAUwqBOUK7Er2JkQzr7Dv1pSkg</url>
+        <url>https://gfx.nrk.no/5Gp7di-cGNkQ8cbqbOkRgwAY2YpNgdRXQLuN1oTsi6dA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mord i middelalderen</title>
+            <description>En rik bonde blir funnet drept i 1432. Var det hesten eller kona Gudrun som hadde gjort det? Historiker Ole-Albert Rønning Nordby byr på true crime fra middelalderen.</description>
+            <pubDate>2026-04-27T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/5Gp7di-cGNkQ8cbqbOkRgwAY2YpNgdRXQLuN1oTsi6dA"/>
+            <guid isPermaLink="false">5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Ada Sofie Austegard</title>
