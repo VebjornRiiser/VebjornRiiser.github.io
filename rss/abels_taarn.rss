@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Klitoris er større enn du tror</title>
+            <description>Forskere har kartlagt alle nervecellene i det undervurderte organet. Andre vet hvordan gamle celler kan bli som nye. Og så er det oppdaget et spesielt cellevev som jobber som megler i kroppen</description>
+            <pubDate>2026-04-29T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Internett kan kollapse</title>
