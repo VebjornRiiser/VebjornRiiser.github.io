@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA</url>
+        <url>https://gfx.nrk.no/c3-N8VRnxFbylirp0LXOxAigqdqn6E64B0gutnDpfs0Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Vi gråt og gråt (4:4)</title>
+            <description>Deniz Kaya har sin egen teknikk for å komme i trist-modus, noe han fikk god bruk for i «LIS». Men når kommer neste sesong?</description>
+            <pubDate>2026-05-02T06:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/b7692f92-9363-4b8b-a92f-9293633b8b77_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/c3-N8VRnxFbylirp0LXOxAigqdqn6E64B0gutnDpfs0Q"/>
+            <guid isPermaLink="false">b7692f92-9363-4b8b-a92f-9293633b8b77_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– En du går i krigen med (3:4)</title>
