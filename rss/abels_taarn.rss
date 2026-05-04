@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>FF: Derfor spøker det</title>
+            <description>Forskere vet nå hvorfor noen hus får hårene dine til å reise seg. Dessuten er det oppdaget en spesiell kur mot søppelmat. Og sykkelfelt er ikke så trygge som vi trodde</description>
+            <pubDate>2026-05-04T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Klitoris er større enn du tror</title>

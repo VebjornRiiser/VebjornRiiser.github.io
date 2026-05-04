@@ -11,10 +11,22 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/5Gp7di-cGNkQ8cbqbOkRgwAY2YpNgdRXQLuN1oTsi6dA</url>
+        <url>https://gfx.nrk.no/lR21deWEbcSPh17mz6evDgtuZU-HnvidSjIxL_unI9NQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Krigsveteranen</title>
+            <description>Kjetil Bragstad reiste til Afghanistan med bestekompisen. Bare én av dem kom hjem. 
+
+I boka &quot;Såret i strid&quot; forteller Bragstad om hverdagen som soldat i Afghanistan og livet etter å ha blitt hardt skadet i et bombeangrep.</description>
+            <pubDate>2026-05-04T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8e3153ad-3d03-4d10-b153-ad3d030d10dd_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/lR21deWEbcSPh17mz6evDgtuZU-HnvidSjIxL_unI9NQ"/>
+            <guid isPermaLink="false">8e3153ad-3d03-4d10-b153-ad3d030d10dd_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mord i middelalderen</title>
