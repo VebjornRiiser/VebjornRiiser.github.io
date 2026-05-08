@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/tyhEA9jgffaGvkO5d5Ne0AZbLYL8U7Yu0mw-qeXX5VNQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan du lade mobilen med frukt?</title>
+            <description>Den grønne bølgen blir bare bredere og bredere!
+Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-05-08T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a70cc6c1-e363-4d8d-8cc6-c1e363fd8dea_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/tyhEA9jgffaGvkO5d5Ne0AZbLYL8U7Yu0mw-qeXX5VNQ"/>
+            <guid isPermaLink="false">a70cc6c1-e363-4d8d-8cc6-c1e363fd8dea_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>FF: Derfor spøker det</title>
