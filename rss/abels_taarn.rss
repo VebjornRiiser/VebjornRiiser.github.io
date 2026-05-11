@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/tyhEA9jgffaGvkO5d5Ne0AZbLYL8U7Yu0mw-qeXX5VNQ</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Luktesansen din er ikke som før</title>
+            <description>Nå vet forskere hva du ikke lenger kan lukte deg fram til. Dessuten, blyantstumper har bevist noe viktig innen biologi. Og verden står overfor en kondomkrise</description>
+            <pubDate>2026-05-11T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fce41dca-afdf-41ac-a41d-caafdf91ac03_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">fce41dca-afdf-41ac-a41d-caafdf91ac03_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan du lade mobilen med frukt?</title>

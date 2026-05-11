@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/lR21deWEbcSPh17mz6evDgtuZU-HnvidSjIxL_unI9NQ</url>
+        <url>https://gfx.nrk.no/BlMNQc7kmcVN-O2T98zrFQnN1LyguZxLLsYn_HDsju7g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kvinnehjernen</title>
+            <description>Hjerneforsker Ann-Marie de Lange har dykket ned i et av verdens største mysterier for menn: Kvinnehjernen.</description>
+            <pubDate>2026-05-11T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/29524079-baea-4a34-9240-79baeaca34f6_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BlMNQc7kmcVN-O2T98zrFQnN1LyguZxLLsYn_HDsju7g"/>
+            <guid isPermaLink="false">29524079-baea-4a34-9240-79baeaca34f6_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Krigsveteranen</title>
