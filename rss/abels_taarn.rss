@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er du egentlig verdens mest utholdende?</title>
+            <description>Løping spesial! Abels tårn har løpt Holmenkollstafetten, og vi spør hvordan man kan bli mer utholdende med fattigmanns høydetrening, om en øl ødelegger hele treningseffekten og om det koster mer enn det smaker å gå litt i motbakker.
+Lurer du på andre rare saker? Send inn dine spørsmål til Abels Tårns ekspertpanel!</description>
+            <pubDate>2026-05-15T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg"/>
+            <guid isPermaLink="false">fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Luktesansen din er ikke som før</title>
