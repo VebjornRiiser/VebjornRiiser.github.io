@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fuglesang er bra for deg</title>
+            <description>Og forskere vet nå hva slags fuglesang som er best. Fysikere har bevist at mørket beveger seg raskere enn lyset. Og kanskje skal Pluto bli planet igjen</description>
+            <pubDate>2026-05-18T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/33469a0c-005c-4a83-869a-0c005c8a83d1_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT33M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">33469a0c-005c-4a83-869a-0c005c8a83d1_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er du egentlig verdens mest utholdende?</title>

@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/BlMNQc7kmcVN-O2T98zrFQnN1LyguZxLLsYn_HDsju7g</url>
+        <url>https://gfx.nrk.no/xVsRzpP34TsffwQ9zfm06gpnsU593NnyZeQTrSYUtEuQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Misjonærbarna</title>
+            <description>Mens foreldrene spredte evangeliet rundt i verden, ble mange misjonærbarn utsatt for utrygghet, omsorgssvikt og overgrep på internatskoler.  Liv Kristin Steen Brundtland var ett av dem.</description>
+            <pubDate>2026-05-18T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ad74bfeb-63d2-4615-b4bf-eb63d296150b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xVsRzpP34TsffwQ9zfm06gpnsU593NnyZeQTrSYUtEuQ"/>
+            <guid isPermaLink="false">ad74bfeb-63d2-4615-b4bf-eb63d296150b_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kvinnehjernen</title>
