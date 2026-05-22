@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/ajGyMdQQ7v1JInaDjW4OEQk1t0-5-p1dqc84rYqW6Jdg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva kan snegleslim brukes til?</title>
+            <description>Bortsett fra som glidemiddel, selvfølgelig!
+Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-05-22T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cbc423e5-c894-4515-8423-e5c894c51513_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ajGyMdQQ7v1JInaDjW4OEQk1t0-5-p1dqc84rYqW6Jdg"/>
+            <guid isPermaLink="false">cbc423e5-c894-4515-8423-e5c894c51513_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Slik lagrer hjernen din minner</title>
