@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ajGyMdQQ7v1JInaDjW4OEQk1t0-5-p1dqc84rYqW6Jdg</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Send en beskjed til fortida</title>
+            <description>I teorien er det mulig i følge ny forskning. Dessuten, leger har gjort en steril mann fruktbar, og et effektivt våpen mot farlige mikrober er funnet hos insektene</description>
+            <pubDate>2026-05-25T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva kan snegleslim brukes til?</title>

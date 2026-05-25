@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/xVsRzpP34TsffwQ9zfm06gpnsU593NnyZeQTrSYUtEuQ</url>
+        <url>https://gfx.nrk.no/haQ9CbmXgfoj0ubo8YSVvQPPlZOCKOvH0SRbkVgRYvcw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>KI i krig</title>
+            <description>Hva skjer når verdens stormakter overlater krigføringen til kunstig intelligens? Med dokumentarfilmskaper Tonje Hessen Schei.</description>
+            <pubDate>2026-05-25T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a166055e-d705-4656-a605-5ed705265643_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/haQ9CbmXgfoj0ubo8YSVvQPPlZOCKOvH0SRbkVgRYvcw"/>
+            <guid isPermaLink="false">a166055e-d705-4656-a605-5ed705265643_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Misjonærbarna</title>
