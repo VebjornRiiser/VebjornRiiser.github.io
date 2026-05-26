@@ -11,10 +11,60 @@
         <category>Comedy</category>
         <image>
         <title>Historier fra virkeligheten</title>
-        <url>https://gfx.nrk.no/nvi6it3TRph3K9WYsZ89xQGMr-39dYtBf_dcBto6Q4hg</url>
+        <url>https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Guds plan med det hele (5:5)</title>
+            <description>I fengselet står plutselig livet på spill og Solveig forstår alt som har skjedd på en ny måte.</description>
+            <pubDate>2026-05-26T06:08:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/0d3d2ca6-abb1-4c50-bd2c-a6abb19c50fc_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ"/>
+            <guid isPermaLink="false">0d3d2ca6-abb1-4c50-bd2c-a6abb19c50fc_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Influenser-eksorsistene (4:5)</title>
+            <description>Det viser seg at Solveig ikke er den eneste. I en badestamp i Oslo ligger en kvinne og spreller mens hun skriker høyt.</description>
+            <pubDate>2026-05-26T06:06:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6869f0c3-1126-4e80-a9f0-c311262e8021_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ"/>
+            <guid isPermaLink="false">6869f0c3-1126-4e80-a9f0-c311262e8021_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Solveigs metode (3:5)</title>
+            <description>Solveig blir avbrutt av politiet, som finner merkelige ting i huset. Ekteparet må forklare stropp, hengelås og plate foran vinduet.</description>
+            <pubDate>2026-05-26T06:04:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ"/>
+            <guid isPermaLink="false">19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Diagnose: Besatt (2:5)</title>
+            <description>Gjesten slutter å ta medisin, og blir sykere og sykere. Solveig mener det er demonene som viser seg – og går til angrep.</description>
+            <pubDate>2026-05-26T06:02:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT44M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ"/>
+            <guid isPermaLink="false">5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>En hjelpsom bestemor (1:5)</title>
+            <description>Solveig døper folk hjemme i badekaret sitt og vil befri dem fra mørke krefter. Naboene blir bekymret når en ny gjest flytter inn.</description>
+            <pubDate>2026-05-26T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ"/>
+            <guid isPermaLink="false">07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Jobbflørten (3:3)</title>
