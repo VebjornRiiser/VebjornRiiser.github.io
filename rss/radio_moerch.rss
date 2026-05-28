@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/2_vPa7hVcjJgv2RKdufw8Q56oPEb3IbKwUxbNkOcGw6g</url>
+        <url>https://gfx.nrk.no/MYQ8r2O2Y4bTNcK13OABtA9zlraYk5_vvvrNlBXolguQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Landslagstrener Ståle Solbakken</title>
+            <description>Hvem er landslagets nerd? Og hvem er den søte jenta i klassen? Erlend hjelper Solbakken med å finpusse taktikken før VM.</description>
+            <pubDate>2026-05-28T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/MYQ8r2O2Y4bTNcK13OABtA9zlraYk5_vvvrNlBXolguQ"/>
+            <guid isPermaLink="false">3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mørch og VM kommer 28. mai</title>
