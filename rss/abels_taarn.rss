@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug</url>
+        <url>https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gjør gruver verden grønnere?</title>
+            <description>Abels Tårn besøker Narvik og sjekker ut malmbyens energipotensiale.
+Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!</description>
+            <pubDate>2026-05-29T09:03:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw"/>
+            <guid isPermaLink="false">827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Klærne dine kan gjenvinnes</title>
