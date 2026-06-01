@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan du høre &quot;The hum&quot;?</title>
+            <description>Forskere vet nå litt mer om lyden som gjør folk gale. Dessuten, KI har sett på pupper. Og spennende matematikk er oppdaget i populær potteplante</description>
+            <pubDate>2026-06-01T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/54c63499-b48e-49f4-8634-99b48eb9f495_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">54c63499-b48e-49f4-8634-99b48eb9f495_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Gjør gruver verden grønnere?</title>
