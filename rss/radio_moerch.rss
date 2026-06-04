@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/tAXZnqeOblBv7G5e2LTALQijMek9WH8m1zOcnVOubZNQ</url>
+        <url>https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Landslagsspiller Morten Thorsby</title>
+            <description>Thorsby slet både med skade i leggen og for lite spilletid. Med hardt arbeid og kreativ taktikk kom han likevel til VM.</description>
+            <pubDate>2026-06-04T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H4M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA"/>
+            <guid isPermaLink="false">bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Utenrikskommentator Ayesha Wolasmal og USA-entusiast Ketil Solvik Olsen</title>
