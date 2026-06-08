@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA</url>
+        <url>https://gfx.nrk.no/Vmer3ga9IixkDI-1CVYrLw5HMENoCs1u0c5FF5S8uWRw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Intellektuelle fotballhooligans Bernhard Ellefsen og Markus Slettholm</title>
+            <description>Hat av vikingestetikk, VAR som kranglekontent og nepotisme på det norske landslaget.</description>
+            <pubDate>2026-06-08T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H16M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Vmer3ga9IixkDI-1CVYrLw5HMENoCs1u0c5FF5S8uWRw"/>
+            <guid isPermaLink="false">6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Landslagsspiller Morten Thorsby</title>

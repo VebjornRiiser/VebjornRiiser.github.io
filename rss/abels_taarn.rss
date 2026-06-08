@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/1Iq6cl1VFNzIID6_3lQxDgFUCzhWRG6T_gDms5dDvZ1Q</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Øv til eksamen mens du sover</title>
+            <description>Forskere er på sporet av en metode. Dessuten, James Webb-teleskopet har avslørt stygg diskriminering. Og befolkningskollaps overrasker.</description>
+            <pubDate>2026-06-08T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Blir bananer bra brennstoff?</title>
