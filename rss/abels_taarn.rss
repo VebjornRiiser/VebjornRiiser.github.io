@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Pavens KI-advarsel kan være skrevet av KI</title>
+            <description>Tekstanalyser tyder på det. Dessuten, forskere har oppdaget intelligens hos et encellet dyr uten hjerne. Og gullsjakalen bruker folk som skjold mot ulv</description>
+            <pubDate>2026-06-10T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Øv til eksamen mens du sover</title>
