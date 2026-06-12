@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/Vmer3ga9IixkDI-1CVYrLw5HMENoCs1u0c5FF5S8uWRw</url>
+        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>VM ER I GANG!</title>
+            <description>Mimir er på plass! Vi snakker om folkelig gambling, demokratisk kryptoreklame og fotballrelaterte sjekketips på mammaforum.</description>
+            <pubDate>2026-06-12T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA"/>
+            <guid isPermaLink="false">119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Intellektuelle fotballhooligans Bernhard Ellefsen og Markus Slettholm</title>
