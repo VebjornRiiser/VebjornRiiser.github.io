@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/OPZgym9ym_89xuxI8rrPmgGTeaQgrDsx6RqLEi8wfIjw</url>
+        <url>https://gfx.nrk.no/rKvvlmH_uUNPXfKOWKHkfQKWaX66Rh_LefgnHHkvLWRQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Spritkongen</title>
+            <description>Erik Fallo var Norges største og mest kjente spritsmugler i en årrekke. Men så begynte folk å dø av drikkevarene hans. Med forfatter Jon Gangdal.</description>
+            <pubDate>2026-06-15T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/200ccede-f865-44a1-8cce-def86554a1d8_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M4S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/rKvvlmH_uUNPXfKOWKHkfQKWaX66Rh_LefgnHHkvLWRQ"/>
+            <guid isPermaLink="false">200ccede-f865-44a1-8cce-def86554a1d8_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Trumps VM</title>

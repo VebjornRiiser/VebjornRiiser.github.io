@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/6ri4ceXFj2xwoL00yRu1twA2OgjVxebOpJjN-SqQ1QqQ</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Døde galakser strømmer gjennom deg</title>
+            <description>Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene</description>
+            <pubDate>2026-06-15T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er det pes å være svær i VM-varmen?</title>
@@ -22,7 +32,7 @@
 Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
             <pubDate>2026-06-12T06:00:00+02:00</pubDate>
             <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT57M24S</itunes:duration>
+            <itunes:duration>PT57M18S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/6ri4ceXFj2xwoL00yRu1twA2OgjVxebOpJjN-SqQ1QqQ"/>
             <guid isPermaLink="false">b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3</guid>
         </item>
