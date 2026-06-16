@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
+        <url>https://gfx.nrk.no/2_vPa7hVcjJgv2RKdufw8Q56oPEb3IbKwUxbNkOcGw6g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Erlend på Norge-trening</title>
+            <description>Er vi semifinaleklare? Erlend er på plass i Boston med landslagsdrakt og fotballsko med knotter.</description>
+            <pubDate>2026-06-16T08:15:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/2_vPa7hVcjJgv2RKdufw8Q56oPEb3IbKwUxbNkOcGw6g"/>
+            <guid isPermaLink="false">ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>VM ER I GANG!</title>
