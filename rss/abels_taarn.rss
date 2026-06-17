@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Frister brød med gjær fra død mann?</title>
+            <description>Forskere har testet oppskrift. Dessuten, slik får du barna til å spise grønnsaker. Og lyden &quot;The hum&quot; har en ny mulig forklaring</description>
+            <pubDate>2026-06-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT26M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Døde galakser strømmer gjennom deg</title>

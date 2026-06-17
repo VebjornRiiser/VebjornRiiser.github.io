@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/8rh1r5CwppA2mft9UGYCEw2xLbKZq9k1TRuTtkdPiY3A</url>
+        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Norge slo Irak 4-1</title>
+            <description>Hvordan er stemningen i Boston? Erlend ringer Mimir direkte fra Gillette Stadium</description>
+            <pubDate>2026-06-17T06:25:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT38M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA"/>
+            <guid isPermaLink="false">47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Erlend på Norge-trening</title>
