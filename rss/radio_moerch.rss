@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
+        <url>https://gfx.nrk.no/GYMV9aMYiw_E5Fiw41ktuwsEkrm3m6PrubFYvuAz0L5w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mimir har landet</title>
+            <description>Vi har vært på ekspedisjon og opplevd &quot;no autentisk shit&quot; i lille Ecuador</description>
+            <pubDate>2026-06-22T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GYMV9aMYiw_E5Fiw41ktuwsEkrm3m6PrubFYvuAz0L5w"/>
+            <guid isPermaLink="false">55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Ødegaard kommer til å smelle!</title>
