@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Når myggen elsker myggspray</title>
+            <description>Forsøk viser at mygg forbinder myggspraylukt med mat. Humler er også overraskende smarte. Og duer bruker leveren til å finne veien hjem.</description>
+            <pubDate>2026-06-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1645b7a7-0444-4df5-85b7-a704442df5af_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">1645b7a7-0444-4df5-85b7-a704442df5af_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Svinger du helst til høyre eller venstre?</title>
