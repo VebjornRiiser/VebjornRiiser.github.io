@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvordan finner skreien veien?</title>
+            <description>Abels tårn er på turné  - denne gangen fra Norges gamle navle: Kabelvåg.</description>
+            <pubDate>2026-06-26T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M25S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw"/>
+            <guid isPermaLink="false">4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Når myggen elsker myggspray</title>
