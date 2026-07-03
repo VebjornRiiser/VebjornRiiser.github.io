@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw</url>
+        <url>https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Suges man ut av et hull i romskipet?</title>
+            <description>... sånn som på film? Tårnet har kommet til Blåbyen Sortland, der alt mellom himmel og grav blir besvart av tre lokale eksperter! (+ en gravferdsagent)</description>
+            <pubDate>2026-07-03T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8aaae517-9d9a-4e32-aae5-179d9a3e3266_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA"/>
+            <guid isPermaLink="false">8aaae517-9d9a-4e32-aae5-179d9a3e3266_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvordan finner skreien veien?</title>
