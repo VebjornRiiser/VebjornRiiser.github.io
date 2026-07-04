@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
+        <url>https://gfx.nrk.no/7ufs_gZl0po2eFeNCI4Kzwf2isX_Q8iPEtDac2UPSQ2w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>VAR og 9/11</title>
+            <description>Hva har VAR, Kennedy, Epstein og 9/11 til felles?</description>
+            <pubDate>2026-07-04T11:20:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c18f6821-a054-49e1-8f68-21a05459e1bf_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7ufs_gZl0po2eFeNCI4Kzwf2isX_Q8iPEtDac2UPSQ2w"/>
+            <guid isPermaLink="false">c18f6821-a054-49e1-8f68-21a05459e1bf_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>36 minutter i en førerløs taxi</title>
