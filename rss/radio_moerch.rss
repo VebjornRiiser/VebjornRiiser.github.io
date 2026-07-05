@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/7ufs_gZl0po2eFeNCI4Kzwf2isX_Q8iPEtDac2UPSQ2w</url>
+        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mirakler skjer!</title>
+            <description>Erlend har spurt klarsynte i New York om resultatet mellom Norge og Brasil.</description>
+            <pubDate>2026-07-05T18:50:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/55065b51-55d5-45ca-865b-5155d585cae4_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA"/>
+            <guid isPermaLink="false">55065b51-55d5-45ca-865b-5155d585cae4_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>VAR og 9/11</title>
