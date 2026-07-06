@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA</url>
+        <url>https://gfx.nrk.no/fnSg1ycx9lPNP9wcisM3JA577HrrZIJ86_ohLgGWPXcQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Etter Norge - Brasil</title>
+            <description>I dag var det vi som stod for sambaen! Vi analyserer spillerprestasjoner og spår kampens mest ikoniske bilder.</description>
+            <pubDate>2026-07-06T03:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/6f4853b8-3e75-4475-8853-b83e75f475d3_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/fnSg1ycx9lPNP9wcisM3JA577HrrZIJ86_ohLgGWPXcQ"/>
+            <guid isPermaLink="false">6f4853b8-3e75-4475-8853-b83e75f475d3_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mirakler skjer!</title>
