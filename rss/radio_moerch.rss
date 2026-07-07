@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Radio Mørch</title>
-        <url>https://gfx.nrk.no/fnSg1ycx9lPNP9wcisM3JA577HrrZIJ86_ohLgGWPXcQ</url>
+        <url>https://gfx.nrk.no/0VUJprwbhKnYRYuRM60IZQQ89IYhBk9eeYqI9m8ufRLg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Fra flyplassen</title>
+            <description>Det beste nå er å komme seg hjem. To gladslitne gutter oppsummerer mesterskapet så langt.</description>
+            <pubDate>2026-07-07T09:50:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radio_moerch/723bb333-025c-4601-bbb3-33025c2601dc_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/0VUJprwbhKnYRYuRM60IZQQ89IYhBk9eeYqI9m8ufRLg"/>
+            <guid isPermaLink="false">723bb333-025c-4601-bbb3-33025c2601dc_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Etter Norge - Brasil</title>
