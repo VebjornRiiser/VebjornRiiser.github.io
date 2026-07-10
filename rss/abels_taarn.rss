@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA</url>
+        <url>https://gfx.nrk.no/JHo-qc2_1GJzzjQTTmgqhAFuoZHLZ05csYLEoBxjpmAw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Bør man kjøre fortere når det blåser?</title>
+            <description>Man løper jo når  det regner for å  ikke å bli våt. Abels tårn har tatt turen til Harstad, og et panel med lokale eksperter svarer. Blant annet på spørsmålet om hvordan man finner et oljefelt, og hvordan det føles når man gjør det!</description>
+            <pubDate>2026-07-10T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1c9b9c2d-7db9-458c-9b9c-2d7db9958c48_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M35S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/JHo-qc2_1GJzzjQTTmgqhAFuoZHLZ05csYLEoBxjpmAw"/>
+            <guid isPermaLink="false">1c9b9c2d-7db9-458c-9b9c-2d7db9958c48_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Suges man ut av et hull i romskipet?</title>
