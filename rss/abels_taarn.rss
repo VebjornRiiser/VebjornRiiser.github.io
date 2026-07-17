@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/JHo-qc2_1GJzzjQTTmgqhAFuoZHLZ05csYLEoBxjpmAw</url>
+        <url>https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er det grenser for kunnskap?</title>
+            <description>Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.</description>
+            <pubDate>2026-07-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H11M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw"/>
+            <guid isPermaLink="false">9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Bør man kjøre fortere når det blåser?</title>
