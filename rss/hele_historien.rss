@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/ECSFuC9TaM3F2VbJONgiNwRcBznq9PsPFhtwsKkGrCvw</url>
+        <url>https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Smakebit: Terraskandalen</title>
+            <description>Åtte småkommuner satser enorme summer på den amerikanske børsen etter råd fra finansmeglere fra Oslo. Så kollapser Wall Street. I NRK Radio fra 25.07.2026.</description>
+            <pubDate>2026-07-24T12:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q"/>
+            <guid isPermaLink="false">ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Veien videre (8:8)</title>
