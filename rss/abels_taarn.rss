@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw</url>
+        <url>https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jubileum! - Det første panelet</title>
+            <description>Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.</description>
+            <pubDate>2026-07-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA"/>
+            <guid isPermaLink="false">1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er det grenser for kunnskap?</title>
