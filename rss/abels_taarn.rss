@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA</url>
+        <url>https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jubileum! - De unges panel</title>
+            <description>Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?</description>
+            <pubDate>2026-07-31T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg"/>
+            <guid isPermaLink="false">3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Jubileum! - Det første panelet</title>
