@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg</url>
+        <url>https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jubileum! - Folkets drømmepanel</title>
+            <description>Er Inga Strümke maskin eller menneske? Og hvordan kan vi vite det? Dette er et av spørsmålene folkets drømmepanel fikk bryne seg på under Abels tårns 15-årsjubileum. Og panelet - det var stemt fram av våre lyttere.</description>
+            <pubDate>2026-08-07T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H2M8S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A"/>
+            <guid isPermaLink="false">a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Jubileum! - De unges panel</title>
