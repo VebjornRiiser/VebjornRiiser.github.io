@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A</url>
+        <url>https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jubileum! - Filosofi vs KI vs BioTech</title>
+            <description>Bonusepisode! Hva er viktigst: Filosofi, kunstig intelligens eller bioteknologi?  Tiårets kamp utkjempa under Abels tårns 15-årsjubileum. Dessuten får du høydepunkter fra musikkeksperimentet: Hva skjer når en gitar senkes i flytende nitrogen og en metallvokalist growler med helium?</description>
+            <pubDate>2026-08-07T06:01:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M49S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g"/>
+            <guid isPermaLink="false">c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Jubileum! - Folkets drømmepanel</title>
