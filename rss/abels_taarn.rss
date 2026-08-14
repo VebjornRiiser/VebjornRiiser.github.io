@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g</url>
+        <url>https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Antarktis i sentrum!</title>
+            <description>I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
+Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-08-14T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw"/>
+            <guid isPermaLink="false">d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Jubileum! - Filosofi vs KI vs BioTech</title>
