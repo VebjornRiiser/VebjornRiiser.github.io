@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hjernen lurer deg når du bråvekkes</title>
+            <description>Og det kan være trøblete. Dessuten, speil i verdensrommet vil snart gi deg sollys hele døgnet, mens KI er avslørt som en dårlig boligkjøper</description>
+            <pubDate>2026-08-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff7caeeb-9a40-4fa4-bcae-eb9a408fa4df_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">ff7caeeb-9a40-4fa4-bcae-eb9a408fa4df_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Antarktis i sentrum!</title>
