@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q</url>
+        <url>https://gfx.nrk.no/p84kxYwg6EII-7Z7U3kiwgiG4lPJ5Z3IYAC03JqXMbwA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer 22.august: Døden på Operafjellet</title>
+            <description>Et russisk fly med 141 om bord styrter på Svalbard. Redningsarbeidet er vanskelig, og midt i katastrofen nekter russerne å følge norsk lov.</description>
+            <pubDate>2026-08-18T09:30:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/p84kxYwg6EII-7Z7U3kiwgiG4lPJ5Z3IYAC03JqXMbwA"/>
+            <guid isPermaLink="false">832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>«Deep shit» (2:2)</title>
