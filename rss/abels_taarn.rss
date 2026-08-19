@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mann fikk meteoritt i senga</title>
+            <description>Spesielt, men rarere var at den inneholdt ingredienser til liv. Dessuten, forskere vet nå hvordan du stokker kort best og hvordan vann former verden</description>
+            <pubDate>2026-08-19T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hjernen lurer deg når du bråvekkes</title>
