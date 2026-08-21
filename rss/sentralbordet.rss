@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <channel>
+        <title>Sentralbordet på NRK</title>
+        <link>https://radio.nrk.no/podkast/sentralbordet</link>
+        <!--<description></description>-->
+        <language>no</language>
+        <copyright>NRK © 2022</copyright>
+        <category>Comedy</category>
+        <image>
+        <title>Sentralbordet på NRK</title>
+        <url>https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA</url>
+        <width>144</width>
+        <height>144</height>
+        </image>
+        
+        <item>
+            <title>- Jeg ringer angående den vannkukeren</title>
+            <description>Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.</description>
+            <pubDate>2026-08-20T06:01:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT20M22S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
+            <guid isPermaLink="false">b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>- Kan du høre meg gjennom gulvet?</title>
+            <description>Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.</description>
+            <pubDate>2026-08-20T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT21M39S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
+            <guid isPermaLink="false">69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Sentralbordet kommer 20. august</title>
+            <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må
+tulleringe til inn og utland. Premiere 20. august.</description>
+            <pubDate>2026-08-14T14:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/sentralbordet/5be673d4-64f4-4339-a673-d464f42339d4_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
+            <guid isPermaLink="false">5be673d4-64f4-4339-a673-d464f42339d4_1_ID192MP3</guid>
+        </item>
+        </channel>
+</rss>
