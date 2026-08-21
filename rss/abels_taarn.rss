@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/ZzHKJJIVl_zktbAVjTzP6gfNas8Y66G4sArRfx264Log</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor livsfarlige er trær?</title>
+            <description>Vi kan alle bli parkert i parken.
+Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-08-21T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ZzHKJJIVl_zktbAVjTzP6gfNas8Y66G4sArRfx264Log"/>
+            <guid isPermaLink="false">a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mann fikk meteoritt i senga</title>
