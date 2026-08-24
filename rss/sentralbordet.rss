@@ -35,16 +35,5 @@
             <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
             <guid isPermaLink="false">69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3</guid>
         </item>
-        
-        <item>
-            <title>Sentralbordet kommer 20. august</title>
-            <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må
-tulleringe til inn og utland. Premiere 20. august.</description>
-            <pubDate>2026-08-14T14:00:00+02:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/sentralbordet/5be673d4-64f4-4339-a673-d464f42339d4_1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT34S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
-            <guid isPermaLink="false">5be673d4-64f4-4339-a673-d464f42339d4_1_ID192MP3</guid>
-        </item>
         </channel>
 </rss>
