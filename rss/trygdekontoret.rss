@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g</url>
+        <url>https://gfx.nrk.no/xzNiS4JXDKMylQoKRIko_gdWK84fTfMiEpv1okM6YUCQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Punk i 50 år</title>
+            <description>1976 kom Sex Pistols, Ramones og The Damned med platene som endret musikkhistorien. Vi feirer 50 år med punk med journalist og veteranpunker Harald Fossberg!</description>
+            <pubDate>2026-08-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/30562d2d-cc08-4c61-962d-2dcc08ac611c_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/xzNiS4JXDKMylQoKRIko_gdWK84fTfMiEpv1okM6YUCQ"/>
+            <guid isPermaLink="false">30562d2d-cc08-4c61-962d-2dcc08ac611c_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Skjebnemellomvalget</title>

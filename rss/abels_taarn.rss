@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ZzHKJJIVl_zktbAVjTzP6gfNas8Y66G4sArRfx264Log</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Du kan faktisk bli allergisk mot kjøtt</title>
+            <description>Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg</description>
+            <pubDate>2026-08-24T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvor livsfarlige er trær?</title>
