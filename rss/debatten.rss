@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A</url>
+        <url>https://gfx.nrk.no/E585QEdhkBcHwh8LgjntYw_CmqvflzHEI4qtVfepuI4w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>&quot;Ditt rasshøl!&quot;</title>
+            <description>Hvor går grensene for hva vi skal tåle? Og er spillereglene for hva som er lov å si like for begge sidene i politikken?</description>
+            <pubDate>2026-08-25T23:15:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/E585QEdhkBcHwh8LgjntYw_CmqvflzHEI4qtVfepuI4w"/>
+            <guid isPermaLink="false">9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Har vi nok kraft?</title>
