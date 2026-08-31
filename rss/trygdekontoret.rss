@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/xzNiS4JXDKMylQoKRIko_gdWK84fTfMiEpv1okM6YUCQ</url>
+        <url>https://gfx.nrk.no/HV48QSLlp9jmF68k0ubmzAEf8oaV-UbS0tCG5mkeAAvw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Jonestown</title>
+            <description>Sektlederen Jim Jones lovet et sosialistisk paradis, men det endte i et massedrap. Even Hauen forteller historien om Jonestown-massakren.</description>
+            <pubDate>2026-08-31T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0ec434f3-3496-495c-8434-f33496695c14_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M58S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/HV48QSLlp9jmF68k0ubmzAEf8oaV-UbS0tCG5mkeAAvw"/>
+            <guid isPermaLink="false">0ec434f3-3496-495c-8434-f33496695c14_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Punk i 50 år</title>
