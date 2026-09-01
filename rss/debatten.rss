@@ -11,13 +11,23 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/E585QEdhkBcHwh8LgjntYw_CmqvflzHEI4qtVfepuI4w</url>
+        <url>https://gfx.nrk.no/WJW9SATT60hTqCt5alPsUQHkro8u_ZdU5gF0RO24WqOg</url>
         <width>144</width>
         <height>144</height>
         </image>
         
         <item>
-            <title>&quot;Ditt rasshøl!&quot;</title>
+            <title>En kjærlighetshistorie</title>
+            <description>Inger Merete Hobbelstad forteller om dronning Sonjas kamp for kjærligheten og kongehuset.</description>
+            <pubDate>2026-09-01T22:20:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/19414506-3d71-4600-8145-063d7146000d_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M16S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/WJW9SATT60hTqCt5alPsUQHkro8u_ZdU5gF0RO24WqOg"/>
+            <guid isPermaLink="false">19414506-3d71-4600-8145-063d7146000d_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Netthets og trusler mot politikere</title>
             <description>Hvor går grensene for hva vi skal tåle? Og er spillereglene for hva som er lov å si like for begge sidene i politikken?</description>
             <pubDate>2026-08-25T23:15:00+02:00</pubDate>
             <enclosure url="https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3" type="audio/mpeg"/>
