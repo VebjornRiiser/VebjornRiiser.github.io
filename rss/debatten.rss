@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/WJW9SATT60hTqCt5alPsUQHkro8u_ZdU5gF0RO24WqOg</url>
+        <url>https://gfx.nrk.no/U78M9u3hJHpPogkUpaAXzQM4oAft7K6Tcg0Ps0WjwCkg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Varsler: - Ble kvalm</title>
+            <description>Ingeborg (18) varslet mot FpU-lederen, som gikk av. I Debatten-studio er de begge gjester i kveld.</description>
+            <pubDate>2026-09-03T22:15:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/cb46d363-0f96-4abf-86d3-630f968abf94_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/U78M9u3hJHpPogkUpaAXzQM4oAft7K6Tcg0Ps0WjwCkg"/>
+            <guid isPermaLink="false">cb46d363-0f96-4abf-86d3-630f968abf94_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>En kjærlighetshistorie</title>
