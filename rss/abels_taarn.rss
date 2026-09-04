@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Østers i fjorden - yea or nay?</title>
+            <description>Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
+Lurer du på ting? Spør Abels Tårn!</description>
+            <pubDate>2026-09-04T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H5M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw"/>
+            <guid isPermaLink="false">a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>En mobil som reparerer seg selv</title>
