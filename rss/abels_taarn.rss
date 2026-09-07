@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Enkelt triks skjerper konsentrasjonen</title>
+            <description>Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på</description>
+            <pubDate>2026-09-07T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M6S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Østers i fjorden - yea or nay?</title>
