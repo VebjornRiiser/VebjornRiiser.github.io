@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/U78M9u3hJHpPogkUpaAXzQM4oAft7K6Tcg0Ps0WjwCkg</url>
+        <url>https://gfx.nrk.no/KWP1UtBE7LZ1UkcOCJZuEgN6h0Lb-Q8iQiF-Oo0WKgVg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ok med diesel til 30 kroner literen?</title>
+            <description>Idet borgfreden er over, kaster Frp og Sp seg på dieseldebatten. Men Ap og Høyre står på sitt og vil ikke senke avgiftene.</description>
+            <pubDate>2026-09-11T09:22:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/e4840a17-a33e-4ef9-840a-17a33eeef925_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT43M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KWP1UtBE7LZ1UkcOCJZuEgN6h0Lb-Q8iQiF-Oo0WKgVg"/>
+            <guid isPermaLink="false">e4840a17-a33e-4ef9-840a-17a33eeef925_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Varsler: - Ble kvalm</title>
