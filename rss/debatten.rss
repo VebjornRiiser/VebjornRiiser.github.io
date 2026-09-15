@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/KWP1UtBE7LZ1UkcOCJZuEgN6h0Lb-Q8iQiF-Oo0WKgVg</url>
+        <url>https://gfx.nrk.no/hRQMnPeX71CiGm3zhZoUiQ_NMTnXlJe_i0d-5Aw2uIGA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Har foreldrene skylda for skoletallene?</title>
+            <description>Kunnskapsministeren møter både oppgitte foreldre og frustrerte politiske motstandere til debatt om PISA-tallene.</description>
+            <pubDate>2026-09-15T22:10:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4cbb0c75-6e5a-473a-bb0c-756e5af73a68_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hRQMnPeX71CiGm3zhZoUiQ_NMTnXlJe_i0d-5Aw2uIGA"/>
+            <guid isPermaLink="false">4cbb0c75-6e5a-473a-bb0c-756e5af73a68_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Ok med diesel til 30 kroner literen?</title>
