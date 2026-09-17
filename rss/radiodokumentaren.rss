@@ -11,10 +11,60 @@
         <category>Comedy</category>
         <image>
         <title>Historier fra virkeligheten</title>
-        <url>https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA</url>
+        <url>https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Epilog: Boka (5:5)</title>
+            <description>Plutselig dukker det opp en mann med en oppsiktsvekkende historie. Men kan vi stole på det han forteller?</description>
+            <pubDate>2026-09-17T06:08:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT35M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww"/>
+            <guid isPermaLink="false">6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Hva visste Rinson? (4:5)</title>
+            <description>Etterretningsverden er mørk og hemmelighetsfull. Levde nordmannen et dobbeltliv – eller kan han selv ha blitt lurt?</description>
+            <pubDate>2026-09-17T06:06:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT49M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww"/>
+            <guid isPermaLink="false">168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Rinsons hemmeligheter (3:5)</title>
+            <description>Nordmannen er fortsatt forsvunnet. Politiet sender ut etterlysning verden over. Men noe foregår i det skjulte.</description>
+            <pubDate>2026-09-17T06:04:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M15S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww"/>
+            <guid isPermaLink="false">6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Et nøye planlagt blodbad (2:5)</title>
+            <description>I det skjulte planla israelske Mossad en intrikat etterretningsoperasjon, for å lure fienden Hizbollah. Hadde Mossad virkelig en nordmann på laget?</description>
+            <pubDate>2026-09-17T06:02:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww"/>
+            <guid isPermaLink="false">b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>En mystisk forsvinning (1:5)</title>
+            <description>Vennene venter på at Rinson skal komme hjem fra en jobbkonferanse i USA. Så knyttes navnet hans til en blodig, israelsk etterretningsoperasjon.</description>
+            <pubDate>2026-09-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww"/>
+            <guid isPermaLink="false">4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Den store scenen (3:3)</title>
