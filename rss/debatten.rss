@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/hRQMnPeX71CiGm3zhZoUiQ_NMTnXlJe_i0d-5Aw2uIGA</url>
+        <url>https://gfx.nrk.no/V_uBFiVI66FeDVILfdGPTQHbD-Uweoapy2ny70FH0QMQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
+            <description>Flere mener KI kan komme ut av kontroll og gjøre slutt på alt.</description>
+            <pubDate>2026-09-17T22:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/4a1f6b20-a025-49d2-9f6b-20a02589d2c5_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M24S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/V_uBFiVI66FeDVILfdGPTQHbD-Uweoapy2ny70FH0QMQ"/>
+            <guid isPermaLink="false">4a1f6b20-a025-49d2-9f6b-20a02589d2c5_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Har foreldrene skylda for skoletallene?</title>
