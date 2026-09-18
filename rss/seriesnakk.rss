@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/tsrYj42ueZDmWKmAsegjEAv9Yfq5-dAUexdgX7HOkPWQ</url>
+        <url>https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Smakebit: Seriesnakk: LIS 2</title>
+            <description>«LIS» er tilbake! Seriesnakk gir deg personene bak serien, de beste øyeblikkene og historier fra helsevesenet.
+Premiere 26. september.</description>
+            <pubDate>2026-09-18T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q"/>
+            <guid isPermaLink="false">550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– Jeg er som Joakim (Q&amp;A)</title>
