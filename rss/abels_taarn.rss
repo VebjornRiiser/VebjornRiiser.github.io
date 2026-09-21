@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/40zlF_B1LuftpK4N-FApSgJ__TB267bGwOaNGJLaWg5A</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Se krystallklart i stupmørke</title>
+            <description>Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn</description>
+            <pubDate>2026-09-21T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvor vakker er naturen?</title>

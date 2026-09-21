@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/yWS86hpHRXQ4i94L6UhAlQd1Fmfim0Vuig0s0Z96KgfA</url>
+        <url>https://gfx.nrk.no/A0Z_sepvrUERnt1dRolNswKHATPwt64O8s3DlQqqh61Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Mistet Norge uskylden med Big Brother?</title>
+            <description>Forfatter og regissør Christopher Pahle tar oss med til reality-serienes urtid</description>
+            <pubDate>2026-09-21T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8b9b7b14-0670-4a31-9b7b-1406705a31f6_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT59M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/A0Z_sepvrUERnt1dRolNswKHATPwt64O8s3DlQqqh61Q"/>
+            <guid isPermaLink="false">8b9b7b14-0670-4a31-9b7b-1406705a31f6_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Anarki!</title>
