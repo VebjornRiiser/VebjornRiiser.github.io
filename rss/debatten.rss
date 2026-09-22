@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/V_uBFiVI66FeDVILfdGPTQHbD-Uweoapy2ny70FH0QMQ</url>
+        <url>https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Går Document-redaktøren for langt?</title>
+            <description>Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?</description>
+            <pubDate>2026-09-22T20:01:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M17S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ"/>
+            <guid isPermaLink="false">7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
