@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Et gjennombrudd i kreftforskning</title>
+            <description>Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!</description>
+            <pubDate>2026-09-23T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M57S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Se krystallklart i stupmørke</title>
