@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ</url>
+        <url>https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Renta går opp, opp, opp</title>
+            <description>Politikerne kappes om hva som må til for å gi folk bedre råd.</description>
+            <pubDate>2026-09-25T11:55:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT39M</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ"/>
+            <guid isPermaLink="false">66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Går Document-redaktøren for langt?</title>
