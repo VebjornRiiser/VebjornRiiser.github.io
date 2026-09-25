@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/hMMzvT1ZF3ULyKG98hLLpQPRWFAVtcoira7V7FcJuCQQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Tok Einstein feil?</title>
+            <description>Selv genier kan stå for fall.
+Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+            <pubDate>2026-09-25T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M53S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/hMMzvT1ZF3ULyKG98hLLpQPRWFAVtcoira7V7FcJuCQQ"/>
+            <guid isPermaLink="false">2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Et gjennombrudd i kreftforskning</title>
