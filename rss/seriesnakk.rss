@@ -11,20 +11,19 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q</url>
+        <url>https://gfx.nrk.no/LPeudd28uFT9C4LRkbEICQqYbcFu0YRN4ki6Dhz-noag</url>
         <width>144</width>
         <height>144</height>
         </image>
         
         <item>
-            <title>Smakebit: Seriesnakk: LIS 2</title>
-            <description>«LIS» er tilbake! Seriesnakk gir deg personene bak serien, de beste øyeblikkene og historier fra helsevesenet.
-Premiere 26. september.</description>
-            <pubDate>2026-09-18T06:00:00+02:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT1M20S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q"/>
-            <guid isPermaLink="false">550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3</guid>
+            <title>– Hun bør miste legelisensen (1:4)</title>
+            <description>Kaveh Rashidi er rasende på Kissy. LIS-legene er endelig tilbake!</description>
+            <pubDate>2026-09-26T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/6289b33e-2bfa-4d58-89b3-3e2bfadd580f_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT36M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/LPeudd28uFT9C4LRkbEICQqYbcFu0YRN4ki6Dhz-noag"/>
+            <guid isPermaLink="false">6289b33e-2bfa-4d58-89b3-3e2bfadd580f_2_ID192MP3</guid>
         </item>
         
         <item>
