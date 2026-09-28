@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/A0Z_sepvrUERnt1dRolNswKHATPwt64O8s3DlQqqh61Q</url>
+        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Naturdøden</title>
+            <description>Vi befinner oss i den sjette masseutryddelsen, men bryr vi oss egentlig? Filosof Arne Johan Vetlesen om hvorfor vi knapt merker at natur forsvinner og dyr dør ut.</description>
+            <pubDate>2026-09-28T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef20d35b-11c5-43b8-a0d3-5b11c503b8b7_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT56M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+            <guid isPermaLink="false">ef20d35b-11c5-43b8-a0d3-5b11c503b8b7_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Mistet Norge uskylden med Big Brother?</title>
