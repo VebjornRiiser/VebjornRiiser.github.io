@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ</url>
+        <url>https://gfx.nrk.no/9QMz_ypRXKUCAnFwabkLrQm-fGIv9E_rxBxkLFZxAzXw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Har du dårligere råd, eller er det bare føleri?</title>
+            <description>Økonomer og politikere er veldig uenige om virkeligheten vi lever i; har folk flest fått dårligere råd eller ei?</description>
+            <pubDate>2026-09-29T22:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/324cddac-cde6-4f05-8cdd-accde68f0535_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/9QMz_ypRXKUCAnFwabkLrQm-fGIv9E_rxBxkLFZxAzXw"/>
+            <guid isPermaLink="false">324cddac-cde6-4f05-8cdd-accde68f0535_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Renta går opp, opp, opp</title>
