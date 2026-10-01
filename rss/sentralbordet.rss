@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Sentralbordet på NRK</title>
-        <url>https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg</url>
+        <url>https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Kan barna bli med deg?</title>
+            <description>Sanna Sarromaa har en hemmelig hobby, Sigurd Jorsalfare ringer til Island, Oddvar (76) søker jobb, og Emilie må be en tilfeldig på telefonlista om alt for mye.</description>
+            <pubDate>2026-10-01T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/sentralbordet/9b6c0325-7f45-43d6-ac03-257f4543d6ee_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT21M19S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"/>
+            <guid isPermaLink="false">9b6c0325-7f45-43d6-ac03-257f4543d6ee_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– Jeg tror dette er spam?</title>
