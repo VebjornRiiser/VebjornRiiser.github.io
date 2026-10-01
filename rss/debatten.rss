@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/9QMz_ypRXKUCAnFwabkLrQm-fGIv9E_rxBxkLFZxAzXw</url>
+        <url>https://gfx.nrk.no/KR5Me4wc_rLu38mN_-JDgQAhhvVI_KVRK9JfIm8Y2bJg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva har vi lært av Epstein-høringene?</title>
+            <description>Kritikere mener Epstein-høringene på Stortinget var en dårlig ide. Høringens leder svarer.</description>
+            <pubDate>2026-10-01T21:55:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/418706a6-e94a-4373-8706-a6e94a037365_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M2S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KR5Me4wc_rLu38mN_-JDgQAhhvVI_KVRK9JfIm8Y2bJg"/>
+            <guid isPermaLink="false">418706a6-e94a-4373-8706-a6e94a037365_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Har du dårligere råd, eller er det bare føleri?</title>
