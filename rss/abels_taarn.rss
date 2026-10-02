@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/0B59pjE2aHd-m73GNveqCAhzWVxAwFMkcHd0OhVITrrw</url>
+        <url>https://gfx.nrk.no/3YxQmnhWKkiHyRQPbJ7IrQ3tO5rtJ9h_mWF8GJM-iwDA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hva er inni et datasenter?</title>
+            <description>Håper det også finnes rom for folk der.
+Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+            <pubDate>2026-10-02T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M31S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/3YxQmnhWKkiHyRQPbJ7IrQ3tO5rtJ9h_mWF8GJM-iwDA"/>
+            <guid isPermaLink="false">a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Da OpenAI kuppa matematikken</title>

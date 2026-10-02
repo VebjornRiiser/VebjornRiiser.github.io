@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Hele historien</title>
-        <url>https://gfx.nrk.no/qS_exlKvvr-mxYpHjsBGJw-bQ-kXnuA-Rteai_2hjRrA</url>
+        <url>https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer i NRK Radio: Bueskytteren</title>
+            <description>En mann går amok i gatene i Kongsberg i 2021. Han skyter folk med pil og bue. Så stikker han av. Ingen vet at han også har med seg kniver.</description>
+            <pubDate>2026-10-02T12:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/hele_historien/3969ea0f-e459-41c1-a9ea-0fe45951c16c_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w"/>
+            <guid isPermaLink="false">3969ea0f-e459-41c1-a9ea-0fe45951c16c_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kampen på innsiden (2:2)</title>
