@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/LPeudd28uFT9C4LRkbEICQqYbcFu0YRN4ki6Dhz-noag</url>
+        <url>https://gfx.nrk.no/L9ags9G5oMNu1Kpwne8dXAi-UGkkAF-L_AWyStNt1_pA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Det såreste av det såre (2:4)</title>
+            <description>Sofia Tjelta forteller om vond søskenkjærlighet i «LIS».</description>
+            <pubDate>2026-10-03T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a5e2db19-a2f4-4745-a2db-19a2f45745d0_2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/L9ags9G5oMNu1Kpwne8dXAi-UGkkAF-L_AWyStNt1_pA"/>
+            <guid isPermaLink="false">a5e2db19-a2f4-4745-a2db-19a2f45745d0_2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– Hun bør miste legelisensen (1:4)</title>
