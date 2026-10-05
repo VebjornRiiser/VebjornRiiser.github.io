@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/3YxQmnhWKkiHyRQPbJ7IrQ3tO5rtJ9h_mWF8GJM-iwDA</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Smarttelefon fører til færre fødsler</title>
+            <description>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</description>
+            <pubDate>2026-10-05T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT32M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva er inni et datasenter?</title>

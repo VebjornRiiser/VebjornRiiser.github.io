@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ</url>
+        <url>https://gfx.nrk.no/Y7ez-VxY9yjnhG8FUHBAHw54acRkMohzBZ6x4qc-5CZA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>KI-søl</title>
+            <description>Kunstig Intelligens spiser opp kulturen vår! Det er på tide å si ifra, mener tegner Flu Hartberg.</description>
+            <pubDate>2026-10-05T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5ea712cf-3449-4b5b-a712-cf3449bb5bfb_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT58M3S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Y7ez-VxY9yjnhG8FUHBAHw54acRkMohzBZ6x4qc-5CZA"/>
+            <guid isPermaLink="false">5ea712cf-3449-4b5b-a712-cf3449bb5bfb_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Naturdøden</title>
