@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/KR5Me4wc_rLu38mN_-JDgQAhhvVI_KVRK9JfIm8Y2bJg</url>
+        <url>https://gfx.nrk.no/roTHHx8oWZ2_qjO2EDYtTwIlsmHm5kdxi_ksP4UPin2A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Voldsom økning i norgesprisen på strøm, eller innafor?</title>
+            <description>Regjeringen øker norgesprisen på strøm, og LO raser. Hvilke alternativer har vi?</description>
+            <pubDate>2026-10-06T22:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/61913922-67b7-41dc-9139-2267b721dc17_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/roTHHx8oWZ2_qjO2EDYtTwIlsmHm5kdxi_ksP4UPin2A"/>
+            <guid isPermaLink="false">61913922-67b7-41dc-9139-2267b721dc17_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hva har vi lært av Epstein-høringene?</title>
