@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er gen Z dummere enn sine foreldre?</title>
+            <description>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</description>
+            <pubDate>2026-10-07T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT25M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Smarttelefon fører til færre fødsler</title>
