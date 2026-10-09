@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/roTHHx8oWZ2_qjO2EDYtTwIlsmHm5kdxi_ksP4UPin2A</url>
+        <url>https://gfx.nrk.no/nnnJZ4k590mp0AZth68QZwVMWPryo6neS-nAdYPC8gZw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Påstått gruppevoldtekt setter sinnene i kok også i Norge</title>
+            <description>Cornell-saken i USA har satt i gang en diskusjon her hjemme om hvilket ansvar norske menn har for å stoppe voldtekter.</description>
+            <pubDate>2026-10-09T10:35:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/1d6c86fe-66be-4da7-ac86-fe66beada720_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M45S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/nnnJZ4k590mp0AZth68QZwVMWPryo6neS-nAdYPC8gZw"/>
+            <guid isPermaLink="false">1d6c86fe-66be-4da7-ac86-fe66beada720_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Voldsom økning i norgesprisen på strøm, eller innafor?</title>
