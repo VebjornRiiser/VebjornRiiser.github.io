@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/Y7ez-VxY9yjnhG8FUHBAHw54acRkMohzBZ6x4qc-5CZA</url>
+        <url>https://gfx.nrk.no/uDu3FX5D-gR31CQUqD4k_gk2dbF41pl2uVlMnccDyvLA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Droner, dagligliv og dødsforakt</title>
+            <description>Ukrainerne er et folk som ikke lar seg knekke. Med forfatter og globetrotter Erika Fatland.</description>
+            <pubDate>2026-10-12T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/cae822c8-ec45-4a5a-a822-c8ec45ba5a2a_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1H5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uDu3FX5D-gR31CQUqD4k_gk2dbF41pl2uVlMnccDyvLA"/>
+            <guid isPermaLink="false">cae822c8-ec45-4a5a-a822-c8ec45ba5a2a_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>KI-søl</title>
