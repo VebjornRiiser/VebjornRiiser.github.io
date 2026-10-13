@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/nnnJZ4k590mp0AZth68QZwVMWPryo6neS-nAdYPC8gZw</url>
+        <url>https://gfx.nrk.no/PWh1xbTo9IgeVDzPs4RVygtwNBL4wHhhiESrXKwEN7IA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Har lederne i statlige selskaper en lønnsfest?</title>
+            <description>Kreves det større politisk styring av statlige selskapers lønnsstruktur, eller er det &quot;gammelkommunisme&quot;?</description>
+            <pubDate>2026-10-13T22:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/b8aeab0f-94c6-4c74-aeab-0f94c61c74d6_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/PWh1xbTo9IgeVDzPs4RVygtwNBL4wHhhiESrXKwEN7IA"/>
+            <guid isPermaLink="false">b8aeab0f-94c6-4c74-aeab-0f94c61c74d6_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Påstått gruppevoldtekt setter sinnene i kok også i Norge</title>
