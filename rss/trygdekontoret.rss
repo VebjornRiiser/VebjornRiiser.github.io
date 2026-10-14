@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/uDu3FX5D-gR31CQUqD4k_gk2dbF41pl2uVlMnccDyvLA</url>
+        <url>https://gfx.nrk.no/7cFDKybYc-0e72TjGemI0QCDtOQ3GhoX_1rkjKiq2XnA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>En viktig beskjed til deg!</title>
+            <description>Mellomvalg i USA og Trygdekontoret gjør ting litt annerledes de neste ukene...</description>
+            <pubDate>2026-10-14T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a4ca948f-07af-4645-8a94-8f07af864575_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT1M5S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/7cFDKybYc-0e72TjGemI0QCDtOQ3GhoX_1rkjKiq2XnA"/>
+            <guid isPermaLink="false">a4ca948f-07af-4645-8a94-8f07af864575_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Droner, dagligliv og dødsforakt</title>
