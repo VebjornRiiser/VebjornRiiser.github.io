@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/PWh1xbTo9IgeVDzPs4RVygtwNBL4wHhhiESrXKwEN7IA</url>
+        <url>https://gfx.nrk.no/aVamubbdKipGU6vMvW331wQPCRuTBjCyLZCGumRKW4Og</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Etikk eller butikk i Oljefondet?</title>
+            <description>Legger nye forslag til retningslinjer opp til uetiske investeringer?</description>
+            <pubDate>2026-10-15T22:02:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/66c68cc6-f26c-4d1d-868c-c6f26cdd1dad_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/aVamubbdKipGU6vMvW331wQPCRuTBjCyLZCGumRKW4Og"/>
+            <guid isPermaLink="false">66c68cc6-f26c-4d1d-868c-c6f26cdd1dad_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Har lederne i statlige selskaper en lønnsfest?</title>
