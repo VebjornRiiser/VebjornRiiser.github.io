@@ -17,6 +17,16 @@
         </image>
         
         <item>
+            <title>Bråktober!</title>
+            <description>USA-valg spessial</description>
+            <pubDate>2026-10-16T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b29f670e-9ad9-4da9-9f67-0e9ad93da9bd_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA"/>
+            <guid isPermaLink="false">b29f670e-9ad9-4da9-9f67-0e9ad93da9bd_1_ID192MP3</guid>
+        </item>
+        
+        <item>
             <title>En viktig beskjed til deg!</title>
             <description>Mellomvalg i USA og Trygdekontoret gjør ting litt annerledes de neste ukene...</description>
             <pubDate>2026-10-14T06:00:00+02:00</pubDate>
