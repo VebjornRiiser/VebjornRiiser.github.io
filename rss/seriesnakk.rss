@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Seriesnakk</title>
-        <url>https://gfx.nrk.no/dBa60zUNzuJS6vtmJE8ClA4MGN6BpjNv1YZxeKMRdHhw</url>
+        <url>https://gfx.nrk.no/5BQC1fiPHetRJZ6n0PNtQQvmR-8zaOzUdk-dIjZ-Sijw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>– Petra har mista det (4:4)</title>
+            <description>Hør Elpida Stojcevska om Petra-rollen i den store sesongfinalen!</description>
+            <pubDate>2026-10-17T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/seriesnakk/42dfaaad-8e5e-440f-9faa-ad8e5ec40fff_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT48M12S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/5BQC1fiPHetRJZ6n0PNtQQvmR-8zaOzUdk-dIjZ-Sijw"/>
+            <guid isPermaLink="false">42dfaaad-8e5e-440f-9faa-ad8e5ec40fff_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>– Joakim er ikke slem (3:4)</title>
