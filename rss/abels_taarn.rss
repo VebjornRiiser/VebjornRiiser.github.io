@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/TNVVmByORxGCwOHVQ5rHQA_-IZWHCAUhF_Ewp0S743KQ</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kjefter du på KI&apos;en din?</title>
+            <description>Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra</description>
+            <pubDate>2026-10-19T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Har maneter det gøy?</title>
