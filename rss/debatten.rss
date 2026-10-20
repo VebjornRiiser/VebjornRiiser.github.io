@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/aVamubbdKipGU6vMvW331wQPCRuTBjCyLZCGumRKW4Og</url>
+        <url>https://gfx.nrk.no/axuxIUbzUsIjDcavHSc7QQQYuJe93sXIzd9cF1mI9duA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kan vi stole på USA?</title>
+            <description>Og hva skjer videre i Ukraina/Russland-konflikten; er det første steget mot fred tatt?</description>
+            <pubDate>2026-10-20T22:05:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/1e22225f-143f-44ca-9ed4-6b398ba1483d_c4c6fbbf-e17f-4d1c-9026-bc27e316cf8f_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M41S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/axuxIUbzUsIjDcavHSc7QQQYuJe93sXIzd9cF1mI9duA"/>
+            <guid isPermaLink="false">1e22225f-143f-44ca-9ed4-6b398ba1483d_c4c6fbbf-e17f-4d1c-9026-bc27e316cf8f_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Etikk eller butikk i Oljefondet?</title>
