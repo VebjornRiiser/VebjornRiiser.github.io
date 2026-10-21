@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vasker du hjemmet ditt feil?</title>
+            <description>Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi</description>
+            <pubDate>2026-10-21T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT30M9S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kjefter du på KI&apos;en din?</title>
