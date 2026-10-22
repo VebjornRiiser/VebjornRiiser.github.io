@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/axuxIUbzUsIjDcavHSc7QQQYuJe93sXIzd9cF1mI9duA</url>
+        <url>https://gfx.nrk.no/fc326gihxdKvUFN8iDyYdQoMZwbPdwatKrHJl0TudD6Q</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Duell-spesial: Seks dueller</title>
+            <description>Monarkiets fremtid, innvandring og opptøyer i Frankrike. Det var to av de seks duellene i Debatten i kveld.</description>
+            <pubDate>2026-10-22T22:02:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/8cb7f623-d8e5-4d07-90c9-d38d16564074_942a8567-b51e-4454-beae-b4b075b244a4_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M13S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/fc326gihxdKvUFN8iDyYdQoMZwbPdwatKrHJl0TudD6Q"/>
+            <guid isPermaLink="false">8cb7f623-d8e5-4d07-90c9-d38d16564074_942a8567-b51e-4454-beae-b4b075b244a4_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kan vi stole på USA?</title>
