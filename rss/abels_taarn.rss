@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvor kjipe virus kan KI lage?</title>
+            <description>Ønsket om å ødelegge kan være et tegn på intelligens.
+Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!</description>
+            <pubDate>2026-10-23T06:00:00+02:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg"/>
+            <guid isPermaLink="false">f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Vasker du hjemmet ditt feil?</title>
