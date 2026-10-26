@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Gen Z som gamle</title>
+            <description>Stor studie bekymrer forskere. Men transplanterte hjerter overrasker positivt. Og vi vet nå hvorfor små hunder lever så lenge</description>
+            <pubDate>2026-10-26T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/346c8706-573c-4c3c-8c2f-f231cb6d69ef_b4677b60-bdc2-4c7a-a7d4-9999aacb0800_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M36S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">346c8706-573c-4c3c-8c2f-f231cb6d69ef_b4677b60-bdc2-4c7a-a7d4-9999aacb0800_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvor kjipe virus kan KI lage?</title>
