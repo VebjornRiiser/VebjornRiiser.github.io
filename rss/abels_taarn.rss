@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Døden spesial</title>
+            <description>Hva skjer egentlig når vi dør?
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertpanel!</description>
+            <pubDate>2026-10-30T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M33S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg"/>
+            <guid isPermaLink="false">8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Finnes egentlig tyngdekraften?</title>
