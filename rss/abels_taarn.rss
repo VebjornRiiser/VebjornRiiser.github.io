@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Ikke spis kompisen din!</title>
+            <description>Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA&apos;et ditt er fullt av feil, og glasstriks er endelig avslørt</description>
+            <pubDate>2026-10-31T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M48S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Vampyrgrav funnet i Polen</title>
