@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vampyrgrav funnet i Polen</title>
+            <description>Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?</description>
+            <pubDate>2026-10-30T22:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Døden spesial</title>
