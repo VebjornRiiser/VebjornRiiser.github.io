@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/tX7BFSv8dW5KLo0lWuyzewSOgThaUtPuSg-TwtSsZ7IQ</url>
+        <url>https://gfx.nrk.no/saKKmOkFR-0_Rt2fA_ePWgDnm9WbigYrrXe7YIdRJ0RQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vil Maga fortsette uten Trump?</title>
+            <description>Hva er Maga-bevegelsen anno 2026 og vil den eksistere den dagen Trump ikke lenger er president?</description>
+            <pubDate>2026-11-03T22:10:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a_d4ff51a4-7d16-49e5-8e90-dc9c8cec46f2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M37S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/saKKmOkFR-0_Rt2fA_ePWgDnm9WbigYrrXe7YIdRJ0RQ"/>
+            <guid isPermaLink="false">9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a_d4ff51a4-7d16-49e5-8e90-dc9c8cec46f2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Holder vi på å miste kontrollen over kraften vår - igjen?</title>
