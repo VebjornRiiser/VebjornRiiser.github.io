@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Historier fra virkeligheten</title>
-        <url>https://gfx.nrk.no/Fxln_k-s4ZqMxNd5OGn61wgg5_v6V6P2v3QJ5JwTZZAw</url>
+        <url>https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kommer: Rottefangeren</title>
+            <description>Under andre verdenskrig får Edvard Tallaksen i oppdrag å drepe nordmenn som samarbeider med nazistene. De kaller det «å jakte rotter».</description>
+            <pubDate>2026-11-06T12:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA"/>
+            <guid isPermaLink="false">8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Med buksa nede (2:2)</title>
