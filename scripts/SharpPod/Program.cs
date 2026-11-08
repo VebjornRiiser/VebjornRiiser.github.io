@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 #nullable enable
 
 namespace NRKPodcastFetcher
@@ -13,9 +14,24 @@ namespace NRKPodcastFetcher
             { "Accept-Language", "en-US,en;q=0.5" }
         };
 
-        const string DATE_FORMAT = "yyyy-MM-ddTHH:mm:sszzz";
+        // Test seams. Defaults leave normal behaviour untouched: NRK_API_BASE points the app
+        // at a local replay server, NRK_NO_THROTTLE=1 skips the politeness delays.
+        private static readonly string ApiBase =
+            (Environment.GetEnvironmentVariable("NRK_API_BASE") ?? "https://psapi.nrk.no").TrimEnd('/');
+        private static readonly bool Throttle =
+            Environment.GetEnvironmentVariable("NRK_NO_THROTTLE") != "1";
+
+        private static async Task Pause(int milliseconds, CancellationToken token)
+        {
+            if (Throttle)
+            {
+                await Task.Delay(milliseconds, token);
+            }
+        }
         static async Task Main(string[] args)
         {
+
+            CancellationTokenSource cts = new CancellationTokenSource();
             // The default list of podcasts
             List<string> podnames =
             [
@@ -40,7 +56,7 @@ namespace NRKPodcastFetcher
                 if (File.Exists(fullPathToPodnames))
                 {
                     Console.WriteLine($"Found {PODLISTFILENAME}. Using it to lookup podcasts.");
-                    var lines = await File.ReadAllLinesAsync(fullPathToPodnames);
+                    var lines = await File.ReadAllLinesAsync(fullPathToPodnames, cts.Token);
                     podnames = lines.Select(x => x.Trim()).Where(x => !string.IsNullOrWhiteSpace(x)).ToList();
                 }
                 else
@@ -53,11 +69,17 @@ namespace NRKPodcastFetcher
                 Console.WriteLine($"Failed to get dirname. '{e.Message}'");
             }
 
+            // Podcast names given on the command line override the list file
+            if (args.Length > 0)
+            {
+                podnames = [.. args];
+            }
+
             // Process each podcast and generate an RSS file
             foreach (var pod in podnames)
             {
                 Console.WriteLine($"Getting rss feed for '{pod}'");
-                string baseUrl = $"https://psapi.nrk.no/radio/catalog/podcast/{pod}/episodes?pageSize=50&sort=desc&page=";
+                string baseUrl = $"{ApiBase}/radio/catalog/podcast/{pod}/episodes?pageSize=50&sort=desc&page=";
 
                 string rssFeed = await CreateFeed(baseUrl);
                 if (string.IsNullOrEmpty(rssFeed))
@@ -70,7 +92,7 @@ namespace NRKPodcastFetcher
                 await File.WriteAllTextAsync(outputFileName, rssFeed);
 
                 Console.WriteLine($"Done with '{pod}'. Sleeping before starting next...");
-                Thread.Sleep(2000); // 2 seconds
+                await Pause(2000, cts.Token);
             }
 
             Console.WriteLine("All done!");
@@ -168,7 +190,7 @@ namespace NRKPodcastFetcher
                     pageIndex++;
 
                     // Throttle requests
-                    Thread.Sleep(1000 / requestsPerSecond);
+                    await Pause(1000 / requestsPerSecond, CancellationToken.None);
                 }
             }
             return allEpisodeModels;
@@ -198,7 +220,7 @@ namespace NRKPodcastFetcher
 
                 foreach (var ep in episodeList)
                 {
-                    string url = $"https://psapi.nrk.no/playback/manifest/podcast/{ep.episodeId}";
+                    string url = $"{ApiBase}/playback/manifest/podcast/{ep.episodeId}";
                     try
                     {
                         var response = await client.GetAsync(url);
@@ -220,7 +242,7 @@ namespace NRKPodcastFetcher
                     }
 
                     // Throttle
-                    Thread.Sleep(1000 / requestsPerSec);
+                    await Pause(1000 / requestsPerSec, CancellationToken.None);
                 }
             }
 
@@ -255,24 +277,80 @@ namespace NRKPodcastFetcher
         //     return results;
         // }
 
+        // ---- RSS output -------------------------------------------------------------------
+        // These raw string literals reproduce, character for character, what
+        // scripts/CreateNrkRssFeed.py writes (odd indentation included), so both producers give
+        // identical files. {name} placeholders are filled in a single pass by Fill().
+        //
+        // The Python f-strings end with eight spaces (the indentation in front of their closing
+        // quotes) and the item one starts with a line break. A raw literal can do neither, so the
+        // spaces come from the {trailingIndent} line and the item template opens with a blank line.
+
+        private const string TrailingIndent = "        ";
+
+        private const string HeaderTemplate = """
+            <?xml version="1.0" encoding="UTF-8"?>
+                <rss version="2.0"
+                    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+                    xmlns:android="http://schemas.android.com/apk/res/android">
+                <channel>
+                    <title>{showTitle}</title>
+                    <link>{showLink}</link>
+                    <!--<description></description>-->
+                    <language>no</language>
+                    <copyright>NRK © 2022</copyright>
+                    <category>Comedy</category>
+                    <image>
+                    <title>{showTitle}</title>
+                    <url>{showImage}</url>
+                    <width>144</width>
+                    <height>144</height>
+                    </image>
+            {trailingIndent}
+            """;
+
+        private const string ItemTemplate = """
+
+                    <item>
+                        <title>{title}</title>
+                        <description>{description}</description>
+                        <pubDate>{pubDate}</pubDate>
+                        <enclosure url="{enclosure}" type="audio/mpeg"/>
+                        <itunes:duration>{duration}</itunes:duration>
+                        {image}
+                        <guid isPermaLink="false">{guid}</guid>
+                    </item>
+            {trailingIndent}
+            """;
+
+        private const string FooterTemplate = """
+            </channel>
+            </rss>
+            """;
+
+        private static string Fill(string template, Dictionary<string, string> values) =>
+            Regex.Replace(template, @"\{(\w+)\}", match => values[match.Groups[1].Value]);
+
         private static string GenerateEpisodeRss(List<Episode> episodes, List<string> playbackUrls)
         {
             StringBuilder rssStringBuilder = new();
             foreach (var zip in Enumerable.Zip(episodes, playbackUrls, (ep, contentUrl) => new { ep, contentUrl }))
             {
-                // date is RFC 2822
-                rssStringBuilder.AppendLine($"""
+                // Python: only emits the tag when the url is not None; the line is otherwise left blank
+                string? imageUrl = zip.ep.squareImage?.LastOrDefault()?.url;
+                string imageLine = imageUrl is null ? "" : $"<itunes:image href=\"{imageUrl}\"/>";
 
-            <item>
-                <title>{zip.ep.titles.title.EscapeXmlCharacters()}</title>
-                <description>{zip.ep.titles.subtitle.EscapeXmlCharacters()}</description>
-                <pubDate>{zip.ep.date.ToString(DATE_FORMAT)}</pubDate>
-                <enclosure url="{zip.contentUrl.EscapeXmlCharacters()}" type="audio/mpeg"/>
-                <itunes:duration>{zip.ep.duration}</itunes:duration>
-                <itunes:image href="{zip.ep.squareImage.LastOrDefault()?.url ?? ""}"/>
-                <guid isPermaLink="false">{zip.contentUrl.Split("/").Last().Split("_").First()}</guid>
-            </item>
-        """);
+                rssStringBuilder.Append(Fill(ItemTemplate, new Dictionary<string, string>
+                {
+                    ["title"] = CleanText(zip.ep.titles?.title),
+                    ["description"] = CleanText(zip.ep.titles?.subtitle),
+                    ["pubDate"] = zip.ep.date ?? "",          // the API's own text, not reformatted
+                    ["enclosure"] = zip.contentUrl,            // not escaped, like Python
+                    ["duration"] = zip.ep.duration ?? "",
+                    ["image"] = imageLine,
+                    ["guid"] = GetGuid(zip.contentUrl),
+                    ["trailingIndent"] = TrailingIndent,
+                }));
             }
 
             return rssStringBuilder.ToString();
@@ -280,6 +358,8 @@ namespace NRKPodcastFetcher
 
         private static string CreateHeader(Episode firstEpisode)
         {
+            // Python: originalTitle.strip().replace("&", "&amp;")  (nothing else is escaped here)
+            string showTitle = (firstEpisode.originalTitle ?? "").Trim().Replace("&", "&amp;");
 
             string title = firstEpisode.originalTitle.EscapeXmlCharacters();
             // string title = GetShowTitle(firstEpisode);
@@ -298,7 +378,7 @@ namespace NRKPodcastFetcher
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:android="http://schemas.android.com/apk/res/android">
 <channel>
-    <title>CUSTOM: {title}</title>
+        <title>{title}</title>
     <link>{episodeLink}</link>
     <!--<description></description>-->
     <language>no</language>

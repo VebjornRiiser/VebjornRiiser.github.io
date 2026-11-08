@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SharpPod.csproj" />
+  <Project Path="../../tests/SharpPod.Tests/SharpPod.Tests.csproj" />
+</Solution>

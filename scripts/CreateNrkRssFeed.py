@@ -12,12 +12,59 @@ RequestHeaders = {"Accept": "*/*",
                   "Accept-Language": "en-US,en;q=0.5", }
 
 
+CACHE_DIRNAME = ".cache"  # next to the .rss files, one <pod>.json per podcast
+
+
+class ManifestCache:
+    """episodeId -> mp3 url, saved between runs so each playback manifest is only fetched once.
+
+    The git history of rss/ shows NRK has never changed the url of a published episode, so
+    entries are kept for good. Delete a podcast's cache file to force a full refresh.
+    Descriptions, titles and dates are NOT cached: they come from the episode pages, which are
+    always fetched, so edits to old episodes still show up.
+    """
+
+    def __init__(self, path=None):
+        self.path = path
+        self.urls = {}
+        self.dirty = False
+        if path and os.path.exists(path):
+            try:
+                with open(path, encoding="utf-8") as cache_file:
+                    loaded = json.load(cache_file)
+                if isinstance(loaded, dict):
+                    self.urls = {str(key): str(value) for key, value in loaded.items()}
+            except (OSError, ValueError) as e:
+                print(f"Ignoring unreadable manifest cache '{path}': {e}")
+
+    def get(self, episode_id):
+        return self.urls.get(episode_id)
+
+    def put(self, episode_id, url):
+        if self.urls.get(episode_id) != url:
+            self.urls[episode_id] = url
+            self.dirty = True
+
+    def save(self):
+        """Writes the file if anything changed: sorted, one episode per line, so git diffs stay small."""
+        if not self.path or not self.dirty:
+            return
+        os.makedirs(os.path.dirname(os.path.abspath(self.path)), exist_ok=True)
+        rows = [f"{json.dumps(key, ensure_ascii=False)}: {json.dumps(value, ensure_ascii=False)}"
+                for key, value in sorted(self.urls.items())]
+        temp_path = self.path + ".tmp"
+        with open(temp_path, "w", encoding="utf-8", newline="\n") as cache_file:
+            cache_file.write("{\n" + ",\n".join(rows) + "\n}\n")
+        os.replace(temp_path, self.path)
+        self.dirty = False
+
+
 def create_footer(json_object: dict) -> str:
     return """</channel>
 </rss>"""
 
 
-def get_content_length(content_url: str) -> int:
+def get_content_length(content_url: str) -> int | None:
     with requests.get(content_url, stream=True) as response:
         content_length = response.headers.get("Content-length")
     if content_length is not None:
@@ -43,7 +90,7 @@ def sec_to_hour_min_sec(sec: int):
     return f"{(str.zfill(str(hours),2)+':')}{(str.zfill(str(min),2)+':')}{str.zfill(str(sec),2)}"
 
 
-def pt_string_to_duration_str(pt_string: str) -> str:
+def pt_string_to_duration_str(pt_string: str) -> str | None:
     if not pt_string.startswith("PT"):
         raise ValueError("String did not start with 'PT'")
 
@@ -156,7 +203,7 @@ def get_show_image(episode):
     return episode.get("squareImage")[-1].get("url")
 
 
-def create_feed(url: str) -> str:
+def create_feed(url: str, cache=None) -> str:
     # response = requests.get(url)
     # if response.ok:
     full_rss_feed = ""
@@ -167,7 +214,7 @@ def create_feed(url: str) -> str:
     episode_json_list = get_all_episode_items(url)
     # Need to get all the episodes.json until there is no more and then get all the playback pages
     full_rss_feed += create_header(episode_json_list[0])
-    full_rss_feed += create_episode_items(episode_json_list)
+    full_rss_feed += create_episode_items(episode_json_list, cache)
     full_rss_feed += create_footer(episode_json_list[0])
     # else:
     #     print(f"Bad response from {url}. Got {response.status_code}")
@@ -203,23 +250,25 @@ def get_number_of_episodes_from_episode_json(json_str: str) -> int:
     return len(eps)
 
 
-def get_all_playback_urls(episode_list: list[str], requests_per_sec=20) -> list[str]:
-    EpisodeResults: list[requests.Response] = []
-    urls_to_fetch = [
-        f"https://psapi.nrk.no/playback/manifest/podcast/{get_episode_id(episode)}" for episode in episode_list]
-    with requests.session() as sess:
-        for url in urls_to_fetch:
-            response: requests.Response = sess.get(url)
-            response.raise_for_status()
-            EpisodeResults.append(response)
-            time.sleep(1/requests_per_sec)
-
+def get_all_playback_urls(episode_list: list[str], requests_per_sec=20, cache=None) -> list[str]:
+    """The mp3 url of every episode, in order. Manifests already in `cache` are not fetched again."""
+    if cache is None:
+        cache = ManifestCache()
     playback_urls: list[str] = []
-    for response in EpisodeResults:
-        if response.status_code != 200:
-            raise Exception("Got status code 200.")
-
-        playback_urls.append(get_playback_url(response.text))
+    fetched = 0
+    with requests.session() as sess:
+        for episode in episode_list:
+            episode_id = get_episode_id(episode)
+            url = cache.get(episode_id)
+            if url is None:
+                response = sess.get(f"https://psapi.nrk.no/playback/manifest/podcast/{episode_id}")
+                response.raise_for_status()
+                url = get_playback_url(response.text)
+                cache.put(episode_id, url)
+                fetched += 1
+                time.sleep(1/requests_per_sec)
+            playback_urls.append(url)
+    print(f"Playback urls: {len(playback_urls) - fetched} from cache, {fetched} fetched")
     return playback_urls
 
 
@@ -227,9 +276,9 @@ def get_playback_url(json_str):
     return json.loads(json_str).get("playable").get("assets")[0].get("url")
 
 
-def create_episode_items(episodes: dict) -> str:
+def create_episode_items(episodes: dict, cache=None) -> str:
     print("Getting playback urls")
-    playback_urls = get_all_playback_urls(episodes)
+    playback_urls = get_all_playback_urls(episodes, cache=cache)
 
     items = json_to_episodeitem(episodes, playback_urls)
 
@@ -284,7 +333,11 @@ if __name__ == "__main__":
     for pod in podnames:
         print(f"Getting rss feed for '{pod}'")
         baseurl = f"https://psapi.nrk.no/radio/catalog/podcast/{pod}/episodes?pageSize=50&sort=desc&page="
-        rss_feed = create_feed(baseurl)
+        cache = ManifestCache(os.path.join(CACHE_DIRNAME, f"{pod}.json"))
+        try:
+            rss_feed = create_feed(baseurl, cache)
+        finally:
+            cache.save()  # keep what was fetched even if the run failed half way
         if rss_feed == "":
             continue
         with open(f"{pod}.rss", 'w', encoding="utf-8") as feedfile:
