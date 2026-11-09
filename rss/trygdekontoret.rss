@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA</url>
+        <url>https://gfx.nrk.no/b3_m43wGX6T_xX2kbLB6sA7IJwjOO04deGOs_6L5p8lg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>En amerikansk overgrepshistorie</title>
+            <description>Da marinesoldaten Anneke åpnet døren, sto en rasende kollega foran henne. Så begynte et 18 måneders langt mareritt.</description>
+            <pubDate>2026-11-09T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3e9be1af-4f93-4d79-a153-0d93e0555e94_e21865c9-5e96-4d4f-a66f-7d2bc4195fc8_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT47M32S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/b3_m43wGX6T_xX2kbLB6sA7IJwjOO04deGOs_6L5p8lg"/>
+            <guid isPermaLink="false">3e9be1af-4f93-4d79-a153-0d93e0555e94_e21865c9-5e96-4d4f-a66f-7d2bc4195fc8_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Bråktober: MAGA-plask</title>
