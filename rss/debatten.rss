@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/TGdZ0fhsLnzCnYX0bsJe1g1XD_g8AFe02lq0JyePiDQg</url>
+        <url>https://gfx.nrk.no/YN94To9-JZO33GfL7NyuAApZ-RiWAl8DBJCv7-l-VUJA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Viser Ukraina at krig fortsatt lønner seg?</title>
+            <description>Har Vladimir Putin egentlig fått det akkurat som han ville?</description>
+            <pubDate>2026-11-10T22:05:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f3e209a7-6d16-46b2-9692-6e1fa08cf3b9_5e61ed9d-63e8-44b4-acf3-e3cb021c97cf_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT42M43S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/YN94To9-JZO33GfL7NyuAApZ-RiWAl8DBJCv7-l-VUJA"/>
+            <guid isPermaLink="false">f3e209a7-6d16-46b2-9692-6e1fa08cf3b9_5e61ed9d-63e8-44b4-acf3-e3cb021c97cf_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er det blitt for lett å få ADHD?</title>
