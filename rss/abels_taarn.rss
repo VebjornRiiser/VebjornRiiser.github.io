@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kjipt med jetlag?</title>
+            <description>Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker</description>
+            <pubDate>2026-11-11T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT27M7S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Demokrati er en umulighet</title>
