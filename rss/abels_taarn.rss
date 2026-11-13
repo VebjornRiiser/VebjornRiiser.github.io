@@ -11,10 +11,30 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>KI-spørretime 2:2 - Dommedag</title>
+            <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
+            <pubDate>2026-11-13T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M27S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg"/>
+            <guid isPermaLink="false">f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>KI-spørretime 1:2 - Skapelsen</title>
+            <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
+            <pubDate>2026-11-13T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M20S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/AtHLis9dbE8oXykpzf9drAH71d9MRcXFxVQ0r601YIAA"/>
+            <guid isPermaLink="false">22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Kjipt med jetlag?</title>
