@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg</url>
+        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Slik nailer du smalltalk</title>
+            <description>Forskere fant trikset. Dessuten, flaks løste kjemigåte. Og periodisk faste hjelper Huntington-pasienter</description>
+            <pubDate>2026-11-16T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6aa63b4c-36bf-476b-846c-e30f6b172e90_ccc817dd-2101-4e6c-9c2c-3e5cce3cf1ef_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT29M51S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
+            <guid isPermaLink="false">6aa63b4c-36bf-476b-846c-e30f6b172e90_ccc817dd-2101-4e6c-9c2c-3e5cce3cf1ef_ID192MP3</guid>
+        </item>
         
         <item>
             <title>KI-spørretime 2:2 - Dommedag</title>
