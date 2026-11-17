@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/1t5J6JKPmrMTkMq-HDfhVA8ApXLRvP06jhVq5UDbZi9w</url>
+        <url>https://gfx.nrk.no/EtOXHLCUIeBOwootMR5ElA73ASfhnul5diBOO4_ZkdGA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>2000 kan miste jobben i Posten</title>
+            <description>Er det på tide å fornye Posten, eller må regjeringen snu?</description>
+            <pubDate>2026-11-17T22:05:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/f2004801-5f53-492a-ab8a-fb320ae5ba91_830787b9-cbf0-4fa2-90f1-8b38c6e50dfc_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT40M54S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/EtOXHLCUIeBOwootMR5ElA73ASfhnul5diBOO4_ZkdGA"/>
+            <guid isPermaLink="false">f2004801-5f53-492a-ab8a-fb320ae5ba91_830787b9-cbf0-4fa2-90f1-8b38c6e50dfc_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Sexy sosialister</title>
