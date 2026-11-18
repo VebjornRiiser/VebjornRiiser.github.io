@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw</url>
+        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Vil du til månen?</title>
+            <description>Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde</description>
+            <pubDate>2026-11-18T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M10S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"/>
+            <guid isPermaLink="false">1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Slik nailer du smalltalk</title>
@@ -516,16 +526,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
             <itunes:duration>PT26M17S</itunes:duration>
             <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"/>
             <guid isPermaLink="false">e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3</guid>
-        </item>
-        
-        <item>
-            <title>Døde galakser strømmer gjennom deg</title>
-            <description>Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene</description>
-            <pubDate>2026-06-15T06:00:00+02:00</pubDate>
-            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" type="audio/mpeg"/>
-            <itunes:duration>PT32M5S</itunes:duration>
-            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
-            <guid isPermaLink="false">ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3</guid>
         </item>
         
         <item>
