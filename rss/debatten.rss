@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/EtOXHLCUIeBOwootMR5ElA73ASfhnul5diBOO4_ZkdGA</url>
+        <url>https://gfx.nrk.no/ObUUuyxgMOEbWl_WdwiaeAu2MnVQ-RCqQTweCc8NKSjg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Er det skamfullt å ha dialekt?</title>
+            <description>Dialektskam, sexy dialekter og fremtiden til det norske språk er tema i Debatten denne torsdagen.</description>
+            <pubDate>2026-11-19T22:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/617649ac-552b-45e4-a230-b9f3117a2dd3_6d10dc24-3610-458e-a959-8bb70d936ae1_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ObUUuyxgMOEbWl_WdwiaeAu2MnVQ-RCqQTweCc8NKSjg"/>
+            <guid isPermaLink="false">617649ac-552b-45e4-a230-b9f3117a2dd3_6d10dc24-3610-458e-a959-8bb70d936ae1_ID192MP3</guid>
+        </item>
         
         <item>
             <title>2000 kan miste jobben i Posten</title>
