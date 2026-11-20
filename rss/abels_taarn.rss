@@ -11,10 +11,21 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A</url>
+        <url>https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Hvilket dyr fløy først?</title>
+            <description>Bør få tittelen Tidenes Tøffeste!
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+            <pubDate>2026-11-20T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT57M34S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow"/>
+            <guid isPermaLink="false">275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Vil du til månen?</title>
