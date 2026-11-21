@@ -11,10 +11,40 @@
         <category>Comedy</category>
         <image>
         <title>Historier fra virkeligheten</title>
-        <url>https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA</url>
+        <url>https://gfx.nrk.no/IBxUZyAkvAUJEY_QkHk8yAVOA_wDJFsDTi-p2ZOHqslg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Sønnen (3:3)</title>
+            <description>Kim er dømt for vold og har sittet i fengsel ti ganger. Har han brent for mange broer til å kunne få se sønnen sin igjen?</description>
+            <pubDate>2026-11-21T06:02:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/33e0bef5-3334-4db7-abd5-f409a3567ceb_91c707e6-3d5b-4a6f-9af0-31abed60b6c7_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M55S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IBxUZyAkvAUJEY_QkHk8yAVOA_wDJFsDTi-p2ZOHqslg"/>
+            <guid isPermaLink="false">33e0bef5-3334-4db7-abd5-f409a3567ceb_91c707e6-3d5b-4a6f-9af0-31abed60b6c7_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Brente broer (2:3)</title>
+            <description>Kim ble sendt bort fra familien sin da han var ti og kom tilbake til Hønefoss som kriminell da han var atten.</description>
+            <pubDate>2026-11-21T06:01:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f4b58a69-139f-42a8-b0e3-fa3c4f20fb23_512d359a-e5e9-4889-bb17-ad414cbf30e3_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT34M40S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/KDFSLq-0iCs3JCZfw2Ak-wHSO4pJ7fVE_XOS30SphqlQ"/>
+            <guid isPermaLink="false">f4b58a69-139f-42a8-b0e3-fa3c4f20fb23_512d359a-e5e9-4889-bb17-ad414cbf30e3_ID192MP3</guid>
+        </item>
+        
+        <item>
+            <title>Sinte gutter (1:3)</title>
+            <description>En notorisk kriminell legger igjen en lydmelding på Joachim Førsunds telefon. Han har en idé til en podkast.</description>
+            <pubDate>2026-11-21T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c10faa60-b3aa-42e8-af4f-6411faf066fd_cd46230a-82c9-416f-9e17-aa82b5ebbb1e_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT28M56S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/IBxUZyAkvAUJEY_QkHk8yAVOA_wDJFsDTi-p2ZOHqslg"/>
+            <guid isPermaLink="false">c10faa60-b3aa-42e8-af4f-6411faf066fd_cd46230a-82c9-416f-9e17-aa82b5ebbb1e_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Dobbeltspill (3:3)</title>
