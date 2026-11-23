@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow</url>
+        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Sliten av å bruke KI?</title>
+            <description>Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt</description>
+            <pubDate>2026-11-23T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/dd14940d-0f1d-4ec7-8d58-b4023ec10fd5_2ce40289-f8f2-4e89-b055-4f5fc4fa1a67_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT31M21S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"/>
+            <guid isPermaLink="false">dd14940d-0f1d-4ec7-8d58-b4023ec10fd5_2ce40289-f8f2-4e89-b055-4f5fc4fa1a67_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Hvilket dyr fløy først?</title>

@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Trygdekontoret</title>
-        <url>https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw</url>
+        <url>https://gfx.nrk.no/toio-p81rsXW6eH8Svlurgy6kYO97sBBltZU4XL1WK3g</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Kunsten å leve i villmarka</title>
+            <description>Ikke som et overlevelsesprosjekt, men for å komme nærmere naturen. Med naturforvalter og lausarbeider Gea Prytz.</description>
+            <pubDate>2026-11-23T06:00:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT52M46S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/toio-p81rsXW6eH8Svlurgy6kYO97sBBltZU4XL1WK3g"/>
+            <guid isPermaLink="false">2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Nyrike nordmenn</title>
