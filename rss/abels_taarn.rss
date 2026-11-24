@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Abels tårn</title>
-        <url>https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA</url>
+        <url>https://gfx.nrk.no/uXcEIhhEo-Qyhgz2HULQXQbidazCjbsQa4Ybnnfp4HLg</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Det største i matematikkhistorien</title>
+            <description>BONUS: Riemannhypotesen har falt! Matematikkens hellige gral. Kanskje det viktigste øyeblikket i mattehistorien.</description>
+            <pubDate>2026-11-23T20:48:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT53M23S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/uXcEIhhEo-Qyhgz2HULQXQbidazCjbsQa4Ybnnfp4HLg"/>
+            <guid isPermaLink="false">bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Sliten av å bruke KI?</title>
