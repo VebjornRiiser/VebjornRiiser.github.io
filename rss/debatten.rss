@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/ObUUuyxgMOEbWl_WdwiaeAu2MnVQ-RCqQTweCc8NKSjg</url>
+        <url>https://gfx.nrk.no/DTdC7F0k-RLDSCp-2__I5QUscy_o9jvlY52repVMoYLQ</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Milliardsprekk på vei og bane</title>
+            <description>Hvem har ansvaret når prosjekter blir svindyre?</description>
+            <pubDate>2026-11-24T22:05:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/706a27e2-b93c-49ff-9497-75845243f9ee_83f5bc81-34fd-4d63-a0ef-7761a56b2a63_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT41M29S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/DTdC7F0k-RLDSCp-2__I5QUscy_o9jvlY52repVMoYLQ"/>
+            <guid isPermaLink="false">706a27e2-b93c-49ff-9497-75845243f9ee_83f5bc81-34fd-4d63-a0ef-7761a56b2a63_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Er det skamfullt å ha dialekt?</title>
