@@ -11,10 +11,20 @@
         <category>Comedy</category>
         <image>
         <title>Debatten</title>
-        <url>https://gfx.nrk.no/DTdC7F0k-RLDSCp-2__I5QUscy_o9jvlY52repVMoYLQ</url>
+        <url>https://gfx.nrk.no/R4JONA__ilCEpa1CjiFTMw0VuQHomBHafUy_M6UIU97A</url>
         <width>144</width>
         <height>144</height>
         </image>
+        
+        <item>
+            <title>Politisk toppmøte</title>
+            <description>Jonas Gahr Støre møter Sylvi Listhaug til duell, og Listhaug møter Ine Eriksen Søreide.</description>
+            <pubDate>2026-11-26T22:05:00+01:00</pubDate>
+            <enclosure url="https://podkast.nrk.no/fil/debatten/a18b475e-ef6c-4aad-aaff-130c70bd4382_bcd0b474-5cfc-4646-b565-1a32fef8a99c_ID192MP3.mp3" type="audio/mpeg"/>
+            <itunes:duration>PT45M11S</itunes:duration>
+            <itunes:image href="https://gfx.nrk.no/R4JONA__ilCEpa1CjiFTMw0VuQHomBHafUy_M6UIU97A"/>
+            <guid isPermaLink="false">a18b475e-ef6c-4aad-aaff-130c70bd4382_bcd0b474-5cfc-4646-b565-1a32fef8a99c_ID192MP3</guid>
+        </item>
         
         <item>
             <title>Milliardsprekk på vei og bane</title>
